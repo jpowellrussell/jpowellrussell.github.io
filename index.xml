@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jeff Russell&#39;s Webstead</title>
+    <title>Home on Jeff Russell&#39;s Webstead</title>
     <link>http://jpowellrussell.com/</link>
-    <description>Recent content on Jeff Russell&#39;s Webstead</description>
+    <description>Recent content in Home on Jeff Russell&#39;s Webstead</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Jun 2019 13:17:00 -0700</lastBuildDate>
@@ -851,21 +851,1395 @@ I&amp;rsquo;m leaning towards the latter&lt;/li&gt;
 &lt;p&gt;What&amp;rsquo;s not in here? Campaign-specific stuff including equipment lists, monster lists, detailed treasure lists, sanity rules, that kind of thing. I&amp;rsquo;m planning on all of that being modular as I move forward, which helped drive some of my decision-making in which rules to include.&lt;/p&gt;
 &lt;p&gt;Which gets to the last point: there is shockingly little that is original here. I&amp;rsquo;ve mostly cobbled together the ideas of people cleverer than myself, detailed below.&lt;/p&gt;
 &lt;p&gt;You can get the pdf of the rules &lt;a href=&#34;https://drive.google.com/open?id=1LSditu5YRLM6LokM2gJjTGFwUJccMRZl&#34;&gt;here&lt;/a&gt;, or you can read the rules in blog form (no sweet spreads or art deco style, though) below.&lt;/p&gt;
-&lt;h2 id=&#34;outlook--i-put-together-these-rules-to-have-my-preferred-mishmash-of-base-dd-rules-all-in-one-place-the-thought-is-that-these-are-the-rules-ill-use-regardless-of-setting-and-i-can-bolt-on-specific-modules-for-different-campaigns-every-single-rule-is-subject-to-tweaking-for-campaign-specific-effects-so-that-i-could-take-out-all-the-parts-where-it-says-in-some-campaigns-this-will-be-different--theres-nothing-very-original-here-and-i-tried-to-document-where-i-got-all-this-stuff-below---if-you-see-a-rule-that-came-from-your-blog-or-a-g-discussion-and-i-missed-you-let-me-know--every-rule-should-encourage-the-type-of-play-desired--rules-should-be-modular-and-avoid-interconnectedness--rules-should-be-as-simple-as-possible-and-no-simpler--rules-should-be-as-compatible-with-old-school-modules-and-rules-as-possible-easy-to-adapt-cut-or-supplement--use-incomparables-as-much-as-possible-rather-than-straight-numeric-modifiersdont-try-to-be-comprehensive---let-optional-modules-handle-that--all-rules-carry-the-implicit-assumption-that-they-are-the-default-to-be-modified-as-needed-for-different-campaigns-or-play-styles---acknowledgements--these-rules-are-very-much-the-product-of-the-fantastic-diy-ddosr-scene-and-just-about-nothing-here-is-totally-original-huge-thanks-to-the-following--arnold-k-and-his-glog-for-how-to-approach-xp--leveling-skills-hp-and-recovery-combat-maneuvers-and-general-design-philosophy--gus-l-for-his-take-on-exploration-encumbrance-exhaustion-light-sources-weapon-characteristics-and-combat-options--brendan-s-for-the-original-overloaded-encounter-die--delta-for-the-target-20-combat-mechanic--chris-hogan-for-the-monster-profile-calling-attack-bonus-weapon-skill-and-treasure-generation-which-i-have-never-been-able-to-muster-the-interest-design-on-my-own--logan-knight-for-lots-of-great-conversations-on-fiddly-rules-stuff--james-young-for-introducing-me-to-usage-dice-though-i-cant-remember-where-he-found-them--arnold-gus-brendan-logan-and-others-for-lots-of-different-takes-on-encumbrance--jim-raggi-for-lotfps-skills-chase-rules-combat-options-and-layout-inspiration--fifth-edition-dd-for-advantage-and-disadvantage--wolfgang-u-ackerman-for-the-photo-the-illustration-is-based-on--lynda-moseley-for-the-brooch-the-cover-image-is-based-on&#34;&gt;&lt;strong&gt;Outlook&lt;/strong&gt;  I put together these rules to have my preferred mishmash of “base” D&amp;amp;D rules all in one place. The thought is that these are the rules I’ll use regardless of setting, and I can bolt on specific modules for different campaigns. Every single rule is subject to tweaking for campaign-specific effects, so that I could take out all the parts where it says “in some campaigns, this will be different.”   There’s nothing very original here, and I tried to document where I got all this stuff below - if you see a rule that came from your blog or a G+ discussion and I missed you, let me know!  Every rule should encourage the type of play desired.   Rules should be modular and avoid interconnectedness.  Rules should be as simple as possible and no simpler.  Rules should be as compatible with old school modules and rules as possible, easy to adapt, cut, or supplement.  Use “incomparables” as much as possible rather than straight numeric modifiers.Don’t try to be comprehensive - let optional modules handle that.  All rules carry the implicit assumption that they are the default, to be modified as needed for different campaigns or play styles.  ## &lt;strong&gt;Acknowledgements&lt;/strong&gt;  These rules are very much the product of the fantastic DIY D&amp;amp;D/OSR scene, and just about nothing here is totally original. Huge thanks to the following:   &lt;strong&gt;Arnold K&lt;/strong&gt; and his &lt;em&gt;GLOG&lt;/em&gt; for how to approach xp &amp;amp; Leveling, skills, hp and recovery, combat maneuvers, and general design philosophy   &lt;strong&gt;Gus L&lt;/strong&gt; for his take on exploration, encumbrance, exhaustion, light sources, weapon characteristics, and combat options   &lt;strong&gt;Brendan S&lt;/strong&gt; for the original “overloaded encounter die”   &lt;strong&gt;Delta&lt;/strong&gt; for the Target 20 combat mechanic   &lt;strong&gt;Chris Hogan&lt;/strong&gt; for the monster profile, calling attack bonus “weapon skill”, and treasure generation, which I have never been able to muster the interest design on my own  &lt;strong&gt;Logan Knigh&lt;/strong&gt;t for lots of great conversations on fiddly rules stuff   &lt;strong&gt;James Young&lt;/strong&gt; for introducing me to usage dice, though I can’t remember where he found them   &lt;strong&gt;Arnold, Gus, Brendan, Logan, and others&lt;/strong&gt; for lots of different takes on encumbrance   &lt;strong&gt;Jim Raggi&lt;/strong&gt; for LotFP’s skills, chase rules, combat options, and layout inspiration  &lt;em&gt;Fifth Edition D&amp;amp;D&lt;/em&gt; for &lt;em&gt;Advantage&lt;/em&gt; and &lt;em&gt;Disadvantage&lt;/em&gt;   &lt;strong&gt;Wolfgang U. Ackerman&lt;/strong&gt; for the photo the illustration is based on  &lt;strong&gt;Lynda Moseley&lt;/strong&gt; for the brooch the cover image is based on&lt;/h2&gt;
-&lt;p&gt;Of course, the original games and the great hobby they created - this is my attempt to still have “y’know, basically D&amp;amp;D” but with all the little tweaks and house rules I prefer.  ## &lt;strong&gt;Characters&lt;/strong&gt;  &lt;strong&gt;Attributes&lt;/strong&gt;  Characters have six attributes that describe their basic abilities.   &lt;em&gt;Strength (&lt;em&gt;Str&lt;/em&gt;)&lt;/em&gt;  Raw physical power. Add your Str modifier to any melee damage. Your &lt;em&gt;Gear Slots&lt;/em&gt; are equal to your Str. Test Str to resist damage that can’t be dodged.   &lt;em&gt;Constitution (&lt;em&gt;Con&lt;/em&gt;)&lt;/em&gt;  Health and toughness. Add your Con modifier to your hp every time you level up. Test your Con to resist poison or disease.   &lt;em&gt;Dexterity (&lt;em&gt;Dex&lt;/em&gt;)&lt;/em&gt;  Grace and limberness. Add your Dex modifier to any ranged damage. Your modifier also affects your ac, with a positive modifier improving ac - careful not to get mixed up since ac is descending. Test Dex to avoid damage that could be dodged (not including attacks).   &lt;em&gt;Intelligence (&lt;em&gt;Int&lt;/em&gt;)&lt;/em&gt;  Cleverness and reasoning. You have a maximum number of skill slots equal to half of your Int, rounded down. Test Int to advance skills and to save against spells. Int may affect your ability to cast spells.   &lt;em&gt;Wisdom (&lt;em&gt;Wis&lt;/em&gt;)&lt;/em&gt;  Willpower and common sense. Add your Wis modifier to your &lt;em&gt;Initiative&lt;/em&gt; rolls. Test your Wis to resist horror, illusion, and mental domination. If you ever need of mental or spiritual hit points, add your Wis modifier to the total.    &lt;em&gt;Charisma (&lt;em&gt;Cha&lt;/em&gt;)&lt;/em&gt;  Leadership and likeability. Add your Cha modifier to &lt;em&gt;Reaction Rolls&lt;/em&gt;, hireling &lt;em&gt;Morale&lt;/em&gt; rolls, and your maximum number of hirelings, with a minimum of 1.   &lt;em&gt;Modifiers&lt;/em&gt;  Each attribute has an associated modifier, described in the table below.   &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Ability&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Modifier&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;3&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;-3&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;4-6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;-2&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;7-8&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;-1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;9-12&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;0&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;13-15&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;16-17&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+2&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;18&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+3&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;**    &lt;em&gt;Use as Saving Throws&lt;/em&gt;  If something does not involve a skill, roll equal to or lower than the relevant ability score on a d20.     &lt;strong&gt;Movement&lt;/strong&gt;  All human sized characters have a &lt;em&gt;Movement&lt;/em&gt; score of 12. &lt;em&gt;Wearied&lt;/em&gt; characters move at half rate. For things requiring athleticism, roll a save against &lt;em&gt;Movement&lt;/em&gt; as an ability.   &lt;strong&gt;Hit Points&lt;/strong&gt;  Hit points (hp) are an abstract representation of skill, luck, and toughness that are reduced by successful attacks. All characters have a d6 &lt;em&gt;Hit Die (&lt;em&gt;hd&lt;/em&gt;)&lt;/em&gt;, which they gain at every level. New hd are rolled at level up and the new maximum hp recorded. A character’s Con modifier is added to hp at level up, and some class &lt;em&gt;Templates&lt;/em&gt; add additional hp. When a character reaches zero hp, any additional hits will cause wounds.   &lt;strong&gt;Death and Dying&lt;/strong&gt;  Taking damage beyond 0 hp causes a &lt;em&gt;Wound&lt;/em&gt; - something horrible in keeping with the attack. A second &lt;em&gt;Wound&lt;/em&gt; kills the character.   &lt;strong&gt;Recovering HP&lt;/strong&gt;  A full night’s rest with a fire and blanket recovers all hp. If you don’t have these or  have to wake up in the night, recover 1d6+level hp. Once per day, a square meal (one ration per person) recovers 1d6+level hp. Recovered hp cannot go above a character’s maximum. &lt;em&gt;Wounded&lt;/em&gt; characters recover 1d6 hp.  &lt;strong&gt;Healing&lt;/strong&gt;  Most &lt;em&gt;Wounds&lt;/em&gt; heal with one week of downtime and appropriate care. Magical healing may speed things up.  &lt;strong&gt;Weapon Skill&lt;/strong&gt;  Players add their &lt;em&gt;Weapon Skill&lt;/em&gt; (ws) to their attack roll in hand-to-hand. Characters start with a ws of 1 and add +1 at every even level. Some &lt;em&gt;Templates&lt;/em&gt; also increase ws.   &lt;strong&gt;Shooting Skill&lt;/strong&gt;  Players add Shooting skill (ss) to their attack roll when making ranged attacks.  Characters start with an ss of 1. Some &lt;em&gt;Templates&lt;/em&gt; increase ss, but it does not otherwise improve.    &lt;strong&gt;Skills&lt;/strong&gt;  Characters have &lt;em&gt;Skill Slots&lt;/em&gt; equal to half their Int (round down). Skills are ranked 0 to 6 and cannot rank higher than current level.  To test a skill, roll 1d6 and add your rank - a total of 6 or more passes. Some, but not all skills can be rolled with a rank of 0. Every time you attempt a skill, mark a check next to it. When you have at least a week of downtime, you may choose to test to advance any skill that has 3 or more marks next to it. If so, erase all check marks and roll an Int save. If you pass this save, advance the skill to the next rank.    &lt;strong&gt;Gear Slots&lt;/strong&gt;  A character can carry as many items as their Str score before becoming &lt;em&gt;Overloaded&lt;/em&gt;. You can’t carry more than 1.5x your Str in items. Large items take up two &lt;em&gt;Slots&lt;/em&gt; or more. Armor takes up one &lt;em&gt;Slot&lt;/em&gt; for every point of ac better than 9.   &lt;strong&gt;Weariness&lt;/strong&gt;  When the &lt;em&gt;Exploration Die&lt;/em&gt; comes up “&lt;em&gt;Tired&lt;/em&gt;”, each character marks a &lt;em&gt;Tired&lt;/em&gt; pip. &lt;em&gt;Overloaded&lt;/em&gt; characters mark two. When all three have been marked, a character becomes &lt;em&gt;Wearied&lt;/em&gt; and receives &lt;em&gt;Disadvantage&lt;/em&gt; on all rolls. Characters that are both &lt;em&gt;Wearied&lt;/em&gt; and &lt;em&gt;Overloaded&lt;/em&gt; suffer &lt;em&gt;Double Disadvantage&lt;/em&gt;.  &lt;strong&gt;Resting&lt;/strong&gt;  Characters recover one &lt;em&gt;Tired&lt;/em&gt; pip by taking an exploration &lt;em&gt;Turn&lt;/em&gt; and sharing around a ration. To recover from &lt;em&gt;Weariness&lt;/em&gt;, a character must take a &lt;em&gt;Turn&lt;/em&gt; and consume an entire ration alone. In both cases, characters must also drink water.   &lt;strong&gt;Hirelings&lt;/strong&gt;  Characters may hire additional help. They will need to be compensated, usually with a share of treasure recovered. They begin play with a personality and goals determined by the dm, and have a &lt;em&gt;Morale&lt;/em&gt; of 7. Each character can retain 1 hireling + Cha modifier, minimum 1.    &lt;strong&gt;Experience&lt;/strong&gt;  &lt;em&gt;Gaining Experience&lt;/em&gt;  Characters gain experience by obtaining treasure through adventurous means. One experience point per copper. Characters also gain a small amount of experience from killing foes (25 xp per hd).    &lt;em&gt;Leveling Up&lt;/em&gt;  Every character gains certain things when leveling up, shown in the chart below. For the first four levels, characters gain a class &lt;em&gt;Template&lt;/em&gt; per level. Note that hp and ws can be modified by other sources, such as class &lt;em&gt;Templates&lt;/em&gt; and modifiers.   &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Lvl&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;HP&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Tmplt&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Skill&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;WS&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;XP&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;3&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;3&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;3&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;4000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;7000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;5&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;5&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;10000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;14000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;7&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;18000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;8&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;22000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;9&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;26000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;10&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;30000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+2&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;5000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h2 id=&#34;exploration--turns--when-pcs-explore-somewhere-dangerous-play-is-broken-into-turns-a-turn-is-the-time-to-do-one-significant-task-like-picking-a-lock-or-searching-a-room-when-in-doubt-assume-its-roughly-ten-minutes-roll-the-exploration-die-every-turn--movement--pcs-can-move-movement-x10-feet-assuming-a-careful-pace-and-mapping-see-the-fighting-section-for-movement-in-a-fight--chases--in-a-chase-each-group-rolls-1d20-and-adds-their-movement-and-the-higher-roll-wins-the-chased-group-uses-their-lowest-movement-while-chasers-use-their-fastest-pcs-may-not-map-and-should-get-minimal-details-pcs-will-take-random-turns-at-intersections--dropping-things-the-pursuers-want-like-treasure-or-food-or-obstacles-like-caltrops-or-flaming-oil-makes-the-chasers-take-a-morale-check-failure-indicates-they-stop--load--gear-slots--pcs-can-carry-str-items-before-becoming-overloaded-pcs-cannot-carry-more-than-str-x15-things-anything-tiny-like-coins-or-gems-counts-as-one-item-per-1000-bundles-of-small-things-count-as-one-item-large-items-like-two-handed-weapons-take-two-slots-armor-takes-one-slot-per-point-of-ac-better-than-9--effects-of-overload--overloaded-pcs-suffer-disadvantage-on-any-physical-roll---combat-chases-stealth-and-so-on-also-when-the-tiredresult-comes-up-on-the-exploration-die-overloaded-pcs-mark-two-tiredpips--light--dark--in-the-pitch-blackness-of-the-underground-civilized-people-do-not-do-well-no-skill-rolls-can-be-attempted-and-players-suffer-double-disadvantage-on-all-other-rolls-including-combat-saves-and-chase-rolls-hirelings-must-make-a-morale-roll-at-disadvantage-to-do-anything-other-than-panic-or-collapse-unless-the-darkness-was-intentional-such-as-dousing-all-lights-to-hide--pcs-in-the-dark-surprise-npcs-or-monsters-on-a-2-in-6-and-vice-versa-and-no-one-can-target-characters-in-the-dark-for-shooting-after-a-full-turn-in-the-dark-pcs-gain-advantage-on-any-wis-saves-to-listen--dim--faint-light-sources-like-candles-or-inadequate-illumination-provide-dim-light-in-dim-conditions-most-pcs-suffer-disadvantage-on-all-skill-checks-and-attack-rolls-except-for-stealth-rolls-which-gain-advantage-some-class-and-race-templates-will-allow-pcs-to-ignore-the-disadvantages-of-dim-conditions--pcs-surprise-monsters-or-npcs-on-a-2-in-6-in-dim-conditions-and-vice-versa-and-individuals-can-only-be-targeted-at-close-range-by-shooting-hirelings-take-their-morale-rolls-at-a-disadvantage-in-dim-conditions--lit--with-adequate-light-the-pcs-and-their-allies-receive-no-penalties-but-it-is-impossible-to-surprise-npcs-or-monsters-except-through-a-newly-opened-door-on-a-roll-of-1-in-6--light-sources--candles-provide-dim-light-to-one-character-in-a-radius-of-10-feet-can-be-stuck-on-to-allow-use-of-hands-six-take-up-one-slot--torches-lights-three-characters-and-three-more-receive-dim-light-and-shows-clearly-for-30-feet-as-a-crude-weapon-does-1d3-damage-with-a-1-in-6-chance-to-set-things-on-fire-unless-specified-characters-are-assumed-to-place-torches-on-the-ground-in-combat-and-to-recover-them-after-may-be-used-to-light-flammable-things-on-fire-as-a-free-action-three-take-up-one-gear-slot--lanterns-fully-lights-two-characters-provides-dim-light-to-two-more-can-be-attached-by-clips-but-if-done-they-will-be-hit-on-a-successful-attack-roll-of-15-can-be-thrown-as-an-improvised-firebomb-destroying-the-lantern-and-doing-1d3-damage-on-the-first-round-and-1d6-every-round-thereafter-extinguishing-on-a-damage-roll-of-1-or-if-the-target-or-its-allies-take-action-to-put-out-the-fire-a-full-oil-flask-provides-two-pips-of-lantern-depletion-takes-up-a-slot--weariness--getting-wearied--when-the-tiredresult-is-rolled-every-character-marks-a-tired-pip-two-if-overloaded-when-all-three-tiredpips-are-filled-the-character-becomes-wearied--effects-of-weariness--weariedcharacters-suffer-disadvantage-on-all-rolls-and-halve-movement-this-stacks-with-other-disadvantage-such-as-overload-along-with-weariness--removing-tiredness-and-weariness--characters-may-erase-one-tiredpip-by-spending-a-turn-sharing-around-a-ration-and-drinking-water-weariedcharacters-may-erase-all-tiredpips-and-remove-weariness-by-spending-a-turn-eating-a-full-ration-and-drinking-waterwaterskins-have-a-usage-die-of-d6-when-full-sleeping-even-with-a-guard-shift-will-remove-all-tiredpips-but-not-weariness--the-exploration-die--roll-the-exploration-die-every-turn-in-a-dangerous-environment--table-colgroup-col-width50--col-width50--colgroup-tbody-tr-classodd-tddiv-classp12-span-classs1strong1d6strongspan-divtd-tddiv-classp13-span-classs1strongexploration-die-resultstrongspan-divtd-tr-tr-classeven-tddiv-classp6-span-classs11span-divtd-tddiv-classp14-span-classs1random-meetingspan-divtd-tr-tr-classodd-tddiv-classp6-span-classs12span-divtd-tddiv-classp14-span-classs1environmental-meeting-or-sign-of-random-meetingspan-divtd-tr-tr-classeven-tddiv-classp6-span-classs13span-divtd-tddiv-classp14-span-classs1torchescandles-depletedspan-divtd-tr-tr-classodd-tddiv-classp6-span-classs14span-divtd-tddiv-classp14-span-classs1lanterns-mark-1-pip-2-pips-to-depletionspan-divtd-tr-tr-classeven-tddiv-classp6-span-classs15span-divtd-tddiv-classp14-span-classs1magic-dissipatesspan-divtd-tr-tr-classodd-tddiv-classp6-span-classs16span-divtd-tddiv-classp14-span-classs1tired---all-characters-mark-one-tired-point-two-if-emoverloadedemspan-divtd-tr-tbody-table&#34;&gt;&lt;strong&gt;Exploration&lt;/strong&gt;  &lt;strong&gt;Turns&lt;/strong&gt;  When PCs explore somewhere dangerous, play is broken into &lt;em&gt;Turns&lt;/em&gt;. A &lt;em&gt;Turn&lt;/em&gt; is the time to do one significant task, like picking a lock or searching a room. When in doubt, assume it’s roughly ten minutes. Roll the &lt;em&gt;Exploration Die&lt;/em&gt; every &lt;em&gt;Turn&lt;/em&gt;.    &lt;strong&gt;Movement&lt;/strong&gt;  PCs can move &lt;em&gt;Movement&lt;/em&gt; x10 feet, assuming a careful pace and mapping. See the fighting section for &lt;em&gt;Movement&lt;/em&gt; in a fight.    &lt;strong&gt;Chases&lt;/strong&gt;  In a chase, each group rolls 1d20 and adds their &lt;em&gt;Movement&lt;/em&gt;, and the higher roll wins. The chased group uses their lowest &lt;em&gt;Movement&lt;/em&gt;, while chasers use their fastest. PCs may not map and should get minimal details. PCs will take random turns at intersections.   Dropping things the pursuers want (like treasure or food) or obstacles (like caltrops or flaming oil) makes the chasers take a &lt;em&gt;Morale&lt;/em&gt; check. Failure indicates they stop.   &lt;strong&gt;Load&lt;/strong&gt;  &lt;em&gt;Gear Slots&lt;/em&gt;  PCs can carry Str items before becoming &lt;em&gt;Overloaded&lt;/em&gt;. PCs cannot carry more than Str x1.5 things. Anything tiny, like coins or gems, counts as one item per 1,000. Bundles of small  things count as one item. Large items, like two handed weapons, take two slots. Armor takes one slot per point of ac better than 9.   &lt;em&gt;Effects of Overload&lt;/em&gt;  &lt;em&gt;Overloaded&lt;/em&gt; PCs suffer &lt;em&gt;Disadvantage&lt;/em&gt; on any physical roll - combat, chases, stealth, and so on. Also, when the &lt;em&gt;Tired&lt;/em&gt; result comes up on the &lt;em&gt;Exploration Die&lt;/em&gt;, &lt;em&gt;Overloaded&lt;/em&gt; PCs mark two &lt;em&gt;Tired&lt;/em&gt; pips.  &lt;strong&gt;Light&lt;/strong&gt;    &lt;em&gt;Dark&lt;/em&gt;  In the pitch blackness of the underground, civilized people do not do well. No skill rolls can be attempted, and players suffer &lt;em&gt;Double Disadvantage&lt;/em&gt; on all other rolls, including combat, saves, and chase rolls. Hirelings must make a &lt;em&gt;Morale&lt;/em&gt; roll at &lt;em&gt;Disadvantage&lt;/em&gt; to do anything other than panic or collapse, unless the darkness was intentional (such as dousing all lights to hide).    PCs in the dark &lt;em&gt;Surprise&lt;/em&gt; NPCs or monsters on a  2 in 6 (and vice versa), and no one can target characters in the dark for shooting. After a full &lt;em&gt;Turn&lt;/em&gt; in the dark, PCs gain &lt;em&gt;Advantage&lt;/em&gt; on any Wis saves to listen.   &lt;em&gt;Dim&lt;/em&gt;  Faint light sources like candles or inadequate illumination provide Dim light. In dim conditions, most PCs suffer &lt;em&gt;Disadvantage&lt;/em&gt; on all skill checks and attack rolls, except for stealth rolls, which gain &lt;em&gt;Advantage&lt;/em&gt;. Some class and race &lt;em&gt;Templates&lt;/em&gt; will allow PCs to ignore the &lt;em&gt;Disadvantage&lt;/em&gt;s of dim conditions.    PCs &lt;em&gt;Surprise&lt;/em&gt; monsters or NPCs on a 2 in 6 in dim conditions (and vice versa), and individuals can only be targeted at close range by shooting. Hirelings take their &lt;em&gt;Morale&lt;/em&gt; rolls at a &lt;em&gt;Disadvantage&lt;/em&gt; in dim conditions.    &lt;em&gt;Lit&lt;/em&gt;  With adequate light, the PCs and their allies receive no penalties, but it is impossible to &lt;em&gt;Surprise&lt;/em&gt; NPCs or Monsters except through a newly opened door, on a roll of 1 in 6.    &lt;strong&gt;Light Sources&lt;/strong&gt;  &lt;em&gt;Candles&lt;/em&gt;: Provide dim light to one character in a radius of 10 feet. Can be stuck on to allow use of hands. Six take up one &lt;em&gt;Slot&lt;/em&gt;.   &lt;em&gt;Torches&lt;/em&gt;: &lt;em&gt;Lights&lt;/em&gt; three characters, and three more receive &lt;em&gt;Dim&lt;/em&gt; light, and shows clearly for 30 feet. As a crude weapon, does 1d3 damage with a 1 in 6 chance to set things on fire. Unless specified, characters are assumed to place torches on the ground in combat and to recover them after. May be used to light flammable things on fire as a free action. Three take up one &lt;em&gt;Gear Slot&lt;/em&gt;.   &lt;em&gt;Lanterns&lt;/em&gt;: Fully &lt;em&gt;Lights&lt;/em&gt; two characters, provides &lt;em&gt;Dim&lt;/em&gt; light to two more. Can be attached by clips, but if done, they will be hit on a successful attack roll of 15+. Can be thrown as an improvised firebomb, destroying the lantern and doing 1d3 damage on the first &lt;em&gt;Round&lt;/em&gt;, and 1d6 every &lt;em&gt;Round&lt;/em&gt; thereafter, extinguishing on a damage roll of 1 or if the target or its allies take action to put out the fire. A full oil flask provides two pips of Lantern depletion. Takes up a &lt;em&gt;Slot&lt;/em&gt;.   &lt;strong&gt;Weariness&lt;/strong&gt;  &lt;em&gt;Getting Wearied&lt;/em&gt;  When the &lt;em&gt;Tired&lt;/em&gt; result is rolled, every character marks a &lt;em&gt;Tired&lt;/em&gt; pip (two if &lt;em&gt;Overloaded&lt;/em&gt;). When all three &lt;em&gt;Tired&lt;/em&gt; pips are filled, the character becomes &lt;em&gt;Wearied&lt;/em&gt;.   &lt;em&gt;Effects of Weariness&lt;/em&gt;  &lt;em&gt;Wearied&lt;/em&gt; characters suffer &lt;em&gt;Disadvantage&lt;/em&gt; on all rolls and halve &lt;em&gt;Movement&lt;/em&gt;. This stacks with other &lt;em&gt;Disadvantage&lt;/em&gt; (such as &lt;em&gt;Overload&lt;/em&gt;  along with &lt;em&gt;Weariness&lt;/em&gt;).    &lt;em&gt;Removing Tiredness and Weariness&lt;/em&gt;  Characters may erase one &lt;em&gt;Tired&lt;/em&gt; pip by spending a &lt;em&gt;Turn&lt;/em&gt; sharing around a ration and drinking water. *Wearied *characters may erase all &lt;em&gt;Tired&lt;/em&gt; pips and remove &lt;em&gt;Weariness&lt;/em&gt; by spending a &lt;em&gt;Turn&lt;/em&gt; eating a full ration and drinking water. Waterskins have a usage die of d6 when full. Sleeping, even with a guard shift, will remove all *Tired *pips, but not &lt;em&gt;Weariness&lt;/em&gt;.   &lt;strong&gt;The Exploration Die&lt;/strong&gt;  Roll the &lt;em&gt;Exploration Die&lt;/em&gt; every &lt;em&gt;Turn&lt;/em&gt; in a dangerous environment.  &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;1D6&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Exploration Die Result&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Random Meeting&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Environmental Meeting or Sign of Random Meeting&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;3&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Torches/Candles Depleted&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Lanterns Mark 1 Pip (2 Pips to Depletion)&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;5&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Magic Dissipates&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Tired - All Characters Mark One Tired Point, Two if &lt;!-- raw HTML omitted --&gt;Overloaded&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Random Meeting&lt;/em&gt;  The dm rolls an meeting.  &lt;em&gt;Environmental Meeting&lt;/em&gt;  Something about the area is revealed to the characters, potentially a sign of a possible random meeting.    &lt;em&gt;Torches/Candles Depleted&lt;/em&gt;  Torches or candles being used go out and are used up. New ones can be retrieved and re-lit on the next exploration &lt;em&gt;Turn&lt;/em&gt; without preventing an action.   &lt;em&gt;Lanterns Mark 1 Pip&lt;/em&gt;  &lt;em&gt;Lanterns&lt;/em&gt; take two pips to go out. Mark one pip each time this is rolled. Refilling a lantern takes a &lt;em&gt;Turn&lt;/em&gt;.    &lt;em&gt;Magic Dissipates&lt;/em&gt;  Ongoing magical effects step down one level. This may also be used to keep track of “ticking clocks”.   &lt;em&gt;Tired&lt;/em&gt;  Characters mark one &lt;em&gt;Tired&lt;/em&gt; pip, while &lt;em&gt;Overloaded&lt;/em&gt; characters mark two, including hirelings. Once a character has three &lt;em&gt;Tired&lt;/em&gt; marks, they become &lt;em&gt;Wearied&lt;/em&gt; and suffer &lt;em&gt;Disadvantage&lt;/em&gt; on all rolls and halve their &lt;em&gt;Movement&lt;/em&gt;.  &lt;/p&gt;
-&lt;h2 id=&#34;meeting--fighting--surprise--when-groups-meet-each-may-surprise-the-other-on-a-2-in-6-if-both-surprise-everyone-stands-around-shocked-some-creatures-surprise-more-easily-and-players-may-increase-their-odds-through-concealment--a-surprising-group-gets-a-free-round-to-act-monsters-and-npcs-make-a-reaction-roll-but-will-be-tempted-to-ambush--reaction-rolls--roll-2d6-add-any-modifiers-and-consult-the-table-below-roll-when-npcs-become-aware-of-the-pcs-modify-by-the-cha-of-the-spokesman-if-the-pcs-get-to-interact-may-be-re-tested-for-significant-decisions-if-so-modify-the-reaction-roll-by-relevant-circumstances-such-as-quality-of-arguments-or-bribes-offered--table-colgroup-col-width50--col-width50--colgroup-tbody-tr-classodd-tddiv-classp12-span-classs1strongrollstrongspan-divtd-tddiv-classp12-span-classs1strongreactionstrongspan-divtd-tr-tr-classeven-tddiv-classp6-span-classs12-or-lessspan-divtd-tddiv-classp6-span-classs1violentspan-divtd-tr-tr-classodd-tddiv-classp6-span-classs13---4span-divtd-tddiv-classp6-span-classs1angryspan-divtd-tr-tr-classeven-tddiv-classp6-span-classs15---6span-divtd-tddiv-classp6-span-classs1guardedspan-divtd-tr-tr-classodd-tddiv-classp6-span-classs17---8span-classapple-converted-spacespanspan-divtd-tddiv-classp6-span-classs1neutralspan-divtd-tr-tr-classeven-tddiv-classp6-span-classs19---10span-divtd-tddiv-classp6-span-classs1helpfulspan-divtd-tr-tr-classodd-tddiv-classp6-span-classs111-or-morespan-divtd-tddiv-classp6-span-classs1friendlyspan-divtd-tr-tbody-table&#34;&gt;&lt;strong&gt;Meeting &amp;amp; Fighting&lt;/strong&gt;  &lt;strong&gt;Surprise&lt;/strong&gt;  When groups meet, each may &lt;em&gt;Surprise&lt;/em&gt; the other on a 2 in 6. If both &lt;em&gt;Surprise&lt;/em&gt;, everyone stands around shocked. Some creatures &lt;em&gt;Surprise&lt;/em&gt; more easily, and players may increase their odds through concealment.   A &lt;em&gt;Surprising&lt;/em&gt; group gets a free &lt;em&gt;Round&lt;/em&gt; to act. Monsters and NPCs make a &lt;em&gt;Reaction Roll&lt;/em&gt;, but will be tempted to ambush.  &lt;strong&gt;Reaction Rolls&lt;/strong&gt;  Roll 2d6, add any modifiers, and consult the table below. Roll when NPCs become aware of the PCs. Modify by the Cha of the spokesman if the PCs get to interact. May be re-tested for significant decisions. If so, modify the &lt;em&gt;Reaction Roll&lt;/em&gt; by relevant circumstances, such as quality of arguments or bribes offered.   &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Roll&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Reaction&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2 or Less&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Violent&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;3 - 4&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Angry&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;5 - 6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Guarded&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;7 - 8&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Neutral&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;9 - 10&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Helpful&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;11 or More&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Friendly&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Rounds&lt;/strong&gt;  Enough time for one thing, like an attack. All the rounds in a meeting add up to a &lt;em&gt;Turn&lt;/em&gt;.  &lt;strong&gt;Initiative&lt;/strong&gt;  Roll 1d6+Wis modifier. Characters act in descending order, re-rolled every &lt;em&gt;Round&lt;/em&gt;.   &lt;strong&gt;Fighting&lt;/strong&gt;  &lt;em&gt;Movement&lt;/em&gt;  Characters can move within current &lt;em&gt;Range&lt;/em&gt; for free, and may spend an action to move to the next. If using a map, characters move &lt;em&gt;Movement&lt;/em&gt; x2 feet. A foe can block movement within weapon reach. For athletic moves, roll a &lt;em&gt;Save&lt;/em&gt; against &lt;em&gt;Movement&lt;/em&gt;.   &lt;em&gt;Rolling to Hit: Target 20&lt;/em&gt;  Roll 1d20 + ws or ss + foe’s ac. Hit on 20 or higher. Monsters assume 1 ws per hd.   &lt;em&gt;Critical Hits and Fumbles&lt;/em&gt;  A roll of ‘20’ is a &lt;em&gt;Critical Hit&lt;/em&gt;, hits automatically, and gives a choice of double damage or a normal attack with a “bonus” like tripping or disarming. A roll of ‘1’ is a &lt;em&gt;Fumble&lt;/em&gt;, automatically misses, and results in a free attack by the target, or something terrible of the dm’s choice.  &lt;em&gt;Ranged Combat&lt;/em&gt;  Resolve the same as melee, except with ss in the attack roll instead of ws. If firing into melee, a missing roll of 1-5 will hit a random ally in the melee.   &lt;em&gt;Unarmed Fighting&lt;/em&gt;  Do 1d3 damage. Beyond 0 hp, target &lt;em&gt;Helpless,&lt;/em&gt; and no &lt;em&gt;Wounds&lt;/em&gt; unless attacker wants.  &lt;em&gt;Stunts&lt;/em&gt;  To pull a stunt, first attack without adding the Target’s ac. If you fail, your foe gets a free attack. If you succeed, roll 1d6 and add an appropriate modifier. A total of 7 or higher means your stunt is a success. The dm may grant &lt;em&gt;Advantage&lt;/em&gt; or &lt;em&gt;Disadvantage&lt;/em&gt; and tell you the risks before you attempt your stunt.  &lt;em&gt;Morale Rolls&lt;/em&gt;  Check NPC &lt;em&gt;Morale&lt;/em&gt; when they might persist or quit. Rates from 3 to 12, tested by rolling 2d6. Results equal to or below &lt;em&gt;Morale&lt;/em&gt; pass. The dm chooses when to check.   &lt;strong&gt;Armor and Armor Class&lt;/strong&gt;  Defines defensive ability. An unarmored character has ac 9, one in full plate with shield ac 2.   &lt;em&gt;Armor Types and Values&lt;/em&gt;  &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Light (Leather)&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;7&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Medium (Chain)&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;5&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Heavy (Plate)&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;3&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Shield&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1 Better (one lower)&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Death and Dying&lt;/strong&gt;  &lt;em&gt;Wounds&lt;/em&gt;  PCs damaged beyond 0 hp take a &lt;em&gt;Wound&lt;/em&gt; and suffer conditions fitting the attack. A second &lt;em&gt;Wound&lt;/em&gt; kills the PC.   Dms may describe or use this chart.  &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Roll&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Wound&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Head Wound - &lt;!-- raw HTML omitted --&gt;Helpless&lt;!-- raw HTML omitted --&gt;, &lt;!-- raw HTML omitted --&gt;Bleeding&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Gut Wound - &lt;!-- raw HTML omitted --&gt;Helpless&lt;!-- raw HTML omitted --&gt;, &lt;!-- raw HTML omitted --&gt;Bleeding&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;3&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Deep Cut - &lt;!-- raw HTML omitted --&gt;Stunned&lt;!-- raw HTML omitted --&gt;, &lt;!-- raw HTML omitted --&gt;Bleeding&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Maimed/Broken Limb - &lt;!-- raw HTML omitted --&gt;Stunned&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;5&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Cracked Rips - &lt;!-- raw HTML omitted --&gt;Stunned&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Light Head Wound - &lt;!-- raw HTML omitted --&gt;Prone&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Combat Reference&lt;/strong&gt;  &lt;em&gt;Combat Options&lt;/em&gt;  &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Charge&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Move into combat with an open foe. Gain &lt;!-- raw HTML omitted --&gt;Advantage&lt;!-- raw HTML omitted --&gt; to hit. Requires space to get moving.&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Brace&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Gain &lt;!-- raw HTML omitted --&gt;Reactive&lt;!-- raw HTML omitted --&gt; attack against a foe that comes within reach.&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Press&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Gain &lt;!-- raw HTML omitted --&gt;Advantage&lt;!-- raw HTML omitted --&gt; on your attack roll but ac is 4 worse.&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Defend&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Improve ac by 2, but lose attack.&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Combat Conditions&lt;/em&gt;  &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Floored&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Prone, defend only. Foes get &lt;!-- raw HTML omitted --&gt;Advantage&lt;!-- raw HTML omitted --&gt;. &lt;!-- raw HTML omitted --&gt;Round&lt;!-- raw HTML omitted --&gt; to stand.&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Stunned&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Prone, dazed. No actions. Foes get &lt;!-- raw HTML omitted --&gt;Double Advantage&lt;!-- raw HTML omitted --&gt;.&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Helpless&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Unconscious. Foes hit automatically and deal &lt;!-- raw HTML omitted --&gt;Wounds&lt;!-- raw HTML omitted --&gt;.&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Bleeding&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Con save every &lt;!-- raw HTML omitted --&gt;Round&lt;!-- raw HTML omitted --&gt;. PC dies&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;after three failures. A friend may stabilize by rolling 6 or higher on 1d6 + Int mod.&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h2 id=&#34;doing-stuff--skills--skill-slots--pcs-have-a-number-of-skill-slots-equal-to-half-int-rounded-down-you-may-never-have-more-skills-than-skill-slots--skill-rank--every-skill-ranks-from-0-to-6-skills-may-not-rank-higher-than-your-level--using-skills--roll-1d6-and-add-your-rank---if-the-result-is-six-or-higher-you-succed-a-roll-of-1-always-fails-every-time-you-use-a-skill-put-a-check-mark-next-to-it-on-your-character-sheet--improving-skills--when-you-have-a-week-of-downtime-not-taken-up-by-a-full-time-action-you-may-attempt-to-raise-a-skills-rank-remember-that-rank-cannot-rise-above-your-current-level-to-raise-a-skill-erase-all-marks-and-make-an-int-save---if-successful-increase-rank-by-1-some-things-may-improve-your-chances-such-as-a-knowledgeable-mentor-if-so-make-the-save-with-advantage--untrained-skills--you-can-attempt-some-skills-at-rank-0-they-will-be-limited-to-things-anyone-can-try-without-special-know-how-like-sneaking-around-or-searching-a-room-in-the-case-of-knowledge-skills-like-history-it-is-up-to-the-dm-whether-the-field-is-common-knowledge---if-so-allow-an-untrained-attempt--what-skills-are-available--skills-are-open-ended-to-be-defined-as-needed-in-play-players-and-the-dm-can-hash-out-how-specificgeneral-skills-are-and-what-advantages-they-confer-some-campaigns-will-include-fixed-skill-lists-no-skills-at-all-or-alternate-skill-rules--what-not-to-use-skills-for--skills-should-not-usually-have-a-direct-use-in-combat-and-should-not-be-used-for-persuasion-or-social-skills--advantage--disadvantage--advantage-means-that-you-roll-two-dice-and-keep-the-better-result-disadvantage-means-you-roll-two-and-keep-the-worse-if-you-ever-have-double-advantage-roll-two-keep-the-better-and-improve-the-roll-by-4-if-you-have-double-disadvantage-roll-two-keep-the-worse-and-make-worse-by-4--usage-dice--for-anything-that-gets-used-up-not-otherwise-covered-represent-their-availability-with-usage-dice-any-time-you-use-the-item-roll-its-usage-die-on-a-roll-of-1-or-2-step-down-one-die-size-in-the-following-chain-rolling-a-1-or-2-on-a-d4-means-that-you-are-out-of-the-item-items-will-have-a-relevant-usage-die-listed-next-to-them-buying-extras-takes-up-an-additional-slot-but-increases-the-usage-die-by-one-step--out--d4--d6--d8--d10--d12--d20---character-growth--experience-points--when-enough-xp-are-earned-pcs-advance-in-level-and-gain-several-perks-all-pcs-advance-at-the-same-rate-detailed-below--standard-level-up-chart--table-stylewidth100-colgroup-col-width16--col-width16--col-width16--col-width16--col-width16--col-width16--colgroup-tbody-tr-classodd-tddiv-classp9-span-classs1stronglvlstrongspan-divtd-tddiv-classp9-span-classs1stronghpstrongspan-divtd-tddiv-classp9-span-classs1strongtmpltstrongspan-divtd-tddiv-classp9-span-classs1strongmax-skillstrongspan-divtd-tddiv-classp9-span-classs1strongwsstrongspan-divtd-tddiv-classp9-span-classs1strongxpstrongspan-divtd-tr-tr-classeven-tddiv-classp6-span-classs11span-divtd-tddiv-classp6-span-classs11d6span-divtd-tddiv-classp6-span-classs11span-divtd-tddiv-classp6-span-classs11span-divtd-tddiv-classp6-span-classs11span-divtd-tddiv-classp6-span-classs11span-divtd-tr-tr-classodd-tddiv-classp6-span-classs12span-divtd-tddiv-classp6-span-classs11d6span-divtd-tddiv-classp6-span-classs12span-divtd-tddiv-classp6-span-classs12span-divtd-tddiv-classp6-span-classs11span-divtd-tddiv-classp6-span-classs12000span-divtd-tr-tr-classeven-tddiv-classp6-span-classs13span-divtd-tddiv-classp6-span-classs11d6span-divtd-tddiv-classp6-span-classs13span-divtd-tddiv-classp6-span-classs13span-divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp6-span-classs14000span-divtd-tr-tr-classodd-tddiv-classp6-span-classs14span-divtd-tddiv-classp6-span-classs11d6span-divtd-tddiv-classp6-span-classs14span-divtd-tddiv-classp6-span-classs14span-divtd-tddiv-classp6-span-classs11span-divtd-tddiv-classp6-span-classs17000span-divtd-tr-tr-classeven-tddiv-classp6-span-classs15span-divtd-tddiv-classp6-span-classs11d6span-divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp6-span-classs15span-divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp6-span-classs110000span-divtd-tr-tr-classodd-tddiv-classp6-span-classs16span-divtd-tddiv-classp6-span-classs11d6span-divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp6-span-classs16span-divtd-tddiv-classp6-span-classs11span-divtd-tddiv-classp6-span-classs114000span-divtd-tr-tr-classeven-tddiv-classp6-span-classs17span-divtd-tddiv-classp6-span-classs11d6span-divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp6-span-classs118000span-divtd-tr-tr-classodd-tddiv-classp6-span-classs18span-divtd-tddiv-classp6-span-classs11d6span-divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp6-span-classs11span-divtd-tddiv-classp6-span-classs122000span-divtd-tr-tr-classeven-tddiv-classp6-span-classs19span-divtd-tddiv-classp6-span-classs11d6span-divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp6-span-classs126000span-divtd-tr-tr-classodd-tddiv-classp6-span-classs110span-divtd-tddiv-classp6-span-classs11d6span-divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp6-span-classs11span-divtd-tddiv-classp6-span-classs130000span-divtd-tr-tr-classeven-tddiv-classp6-span-classs11span-divtd-tddiv-classp6-span-classs12span-divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp11-strongstrongbr---divtd-tddiv-classp6-span-classs15000span-divtd-tr-tbody-table&#34;&gt;&lt;strong&gt;Doing Stuff&lt;/strong&gt;  &lt;strong&gt;Skills&lt;/strong&gt;  &lt;em&gt;Skill Slots&lt;/em&gt;  PCs have a number of skill slots equal to half Int, rounded down. You may never have more skills than skill slots.    &lt;em&gt;Skill Rank&lt;/em&gt;  Every skill ranks from 0 to 6. Skills may not rank higher than your &lt;em&gt;Level&lt;/em&gt;.   &lt;em&gt;Using Skills&lt;/em&gt;  Roll 1d6 and add your &lt;em&gt;Rank&lt;/em&gt; - if the result is six or higher, you succed. A roll of 1 always fails. Every time you use a skill, put a check mark next to it on your character sheet.   &lt;em&gt;Improving Skills&lt;/em&gt;  When you have a week of downtime not taken up by a full time action, you may attempt to raise a Skill’s &lt;em&gt;Rank&lt;/em&gt;. Remember that &lt;em&gt;Rank&lt;/em&gt; cannot rise above your current &lt;em&gt;Level&lt;/em&gt;. To raise a skill, erase all marks and make an Int &lt;em&gt;Save&lt;/em&gt; - if successful, increase &lt;em&gt;Rank&lt;/em&gt; by 1. Some things may improve your chances, such as a knowledgeable mentor. If so, make the &lt;em&gt;Save&lt;/em&gt; with &lt;em&gt;Advantage&lt;/em&gt;.   &lt;em&gt;Untrained Skills&lt;/em&gt;  You can attempt some skills at &lt;em&gt;Rank&lt;/em&gt; 0. They will be limited to things anyone can try without special know-how, like sneaking around or searching a room. In the case of knowledge skills, like history, it is up to the dm whether the field is “common knowledge” - if so, allow an untrained attempt.   &lt;em&gt;What Skills are Available?&lt;/em&gt;  Skills are open ended, to be defined as needed in play. Players and the dm can hash out how specific/general skills are, and what advantages they confer. Some campaigns will include fixed skill lists, no skills at all, or alternate skill rules.    &lt;em&gt;What NOT to Use Skills For&lt;/em&gt;  Skills should not usually have a direct use in combat, and should not be used for persuasion or social skills.    &lt;strong&gt;Advantage &amp;amp; Disadvantage&lt;/strong&gt;  &lt;em&gt;Advantage&lt;/em&gt; means that you roll two dice and keep the better result. &lt;em&gt;Disadvantage&lt;/em&gt; means you roll two and keep the worse. If you ever have &lt;em&gt;Double Advantage&lt;/em&gt;, roll two, keep the better, &lt;em&gt;and&lt;/em&gt; improve the roll by 4. If you have &lt;em&gt;Double Disadvantage&lt;/em&gt;, roll two, keep the worse, &lt;em&gt;and&lt;/em&gt; make worse by 4.    &lt;strong&gt;Usage Dice&lt;/strong&gt;  For anything that gets used up not otherwise covered, represent their availability with &lt;em&gt;Usage Dice&lt;/em&gt;. Any time you use the item, roll its &lt;em&gt;Usage Die&lt;/em&gt;. On a roll of 1 or 2, step down one die size in the following chain. Rolling a 1 or 2 on a D4 means that you are out of the item. Items will have a relevant &lt;em&gt;Usage Die&lt;/em&gt; listed next to them. Buying extras takes up an additional slot but increases the &lt;em&gt;Usage Die&lt;/em&gt; by one step.    **Out &amp;lt; d4 &amp;lt; d6 &amp;lt; d8 &amp;lt; d10 &amp;lt; d12 &amp;lt; d20 **  ## &lt;strong&gt;Character Growth&lt;/strong&gt;  &lt;strong&gt;Experience Points&lt;/strong&gt;  When enough xp are earned, PCs advance in &lt;em&gt;Level&lt;/em&gt; and gain several perks. All PCs advance at the same rate detailed below.   &lt;strong&gt;Standard Level Up Chart&lt;/strong&gt;  &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Lvl&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;HP&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Tmplt&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Max Skill&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;WS&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;XP&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;3&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;3&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;3&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;4000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;7000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;5&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;5&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;10000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;14000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;7&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;18000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;8&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;22000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;9&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;26000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;10&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1d6&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;30000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;+2&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;5000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Earning Experience&lt;/strong&gt;  PCs earn experience in a number of ways. The default ways are listed below, but some campaigns may introduce alternate methods of earning experience, such as fulfilling quests, meeting objectives, or others.   &lt;em&gt;Treasure Looted&lt;/em&gt;  The primary way to earn experience is obtaining objects of material worth through adventurous means. This might mean piles of coins from a dragon’s hoard or fine art stolen from a rich widow’s house. In any case, such treasure is worth 1 xp per silver of value. If it is ever unclear if treasure has been “recovered”, consider whether it was physically returned to a relatively safe place. Getting ripped off by unscrupulous fences won’t deny PCs xp, but being waylaid by bandits between the dungeon and town will.    &lt;em&gt;Killing Foes&lt;/em&gt;  By default, PCs will receive 25 xp per hd of a dangerous foe killed. This does not distinguish between “monsters” or “people”, but some campaigns may wish to do so, if they have a greater or lesser focus on conflict between “civilized” people. Note that this is intentionally rather small compared to the potential rewards for treasure, because xp for treasure tends to encourage more interesting gameplay than xp for killing.    &lt;strong&gt;Leveling Up&lt;/strong&gt;  When a PC has achieved enough xp for the next level and has at least a week of downtime, they &lt;em&gt;Level Up&lt;/em&gt; to the next &lt;em&gt;Level&lt;/em&gt;. Follow the procedure below at each &lt;em&gt;Level Up&lt;/em&gt;.   &lt;em&gt;Add New HP&lt;/em&gt;  Through level 10, roll a new d6 hd and add the result to your PC’s hp. Add your Con modifier to the roll. After level 10, add 2 hp per level.   &lt;em&gt;Add Weapon Skill if Relevant&lt;/em&gt;  At every even level, add +1 to your PC’s ws.   **    &lt;em&gt;Select and Apply Class Templates&lt;/em&gt;  For their first four levels, PCs select a class &lt;em&gt;Template&lt;/em&gt; from those the dm has made available. Each class has &lt;em&gt;Templates&lt;/em&gt; labeled A, B, C, D. You have to take the &lt;em&gt;Templates&lt;/em&gt; in order - you can’t pick ‘B’ without ‘A’.   After level 4, PCs receive no more class &lt;em&gt;Templates&lt;/em&gt; - additional power will have to come from elsewhere.  &lt;em&gt;Primary Class and Multi-classing&lt;/em&gt;  Each class has a &lt;em&gt;Primary Class Ability&lt;/em&gt;. A PC’s &lt;em&gt;Primary Class&lt;/em&gt; is whichever one they have chosen the most &lt;em&gt;Templates&lt;/em&gt; from. In the case of a tie, pick whichever you prefer.  PC’s gain the &lt;em&gt;Primary Ability&lt;/em&gt; associated with that class. Multi-classing is simply having &lt;em&gt;Templates&lt;/em&gt; from more than one class.   &lt;em&gt;Up Max Skill Rank&lt;/em&gt;  Until level six, note your PCs new max &lt;em&gt;Skill Rank&lt;/em&gt; to match your new &lt;em&gt;Level&lt;/em&gt;. Six is the highest Max &lt;em&gt;Skill Rank&lt;/em&gt; for all characters.   ## &lt;strong&gt;Monsters &amp;amp; NPCs&lt;/strong&gt;  One of the many things monsters and NPCs can do is fight the PCs. The below monster profile provides the barebones necessary for combat. NPCs are assumed to be average in every way (attributes = 10) unless otherwise specified.   &lt;strong&gt;Monster Profile&lt;/strong&gt;  The following stat line summarizes combat statistics for monsters and NPCs. Obviously, good monsters and NPCs will have interests, motivations, special attacks, weaknesses, and so on - but this is what you need at a moment’s notice.   &lt;em&gt;Mv - Movement&lt;/em&gt;  The standard humanoid movement rate is 12, which means 120 feet per exploration &lt;em&gt;Turn&lt;/em&gt; and 24 feet per combat &lt;em&gt;Round&lt;/em&gt;. Roll as a save if the monster attempts any athletics.   &lt;em&gt;WS - Weapon Skill&lt;/em&gt;  The monster’s weapon skill is added to its d20 rolls to hit foes. Usually equal to the Monster’s hd.   &lt;em&gt;SS - Shooting Skill&lt;/em&gt;  The monster’s shooting skill is added to its d20 attack rolls for ranged attacks.   &lt;em&gt;Att - Attack&lt;/em&gt;  The number of attacks the monster can make in a &lt;em&gt;Turn&lt;/em&gt;.   &lt;em&gt;HD - Hit Dice&lt;/em&gt;  The number of d6s rolled for the monster’s hp. If you have to worry about the monster’s &lt;em&gt;Level&lt;/em&gt;, such as for some spell effects, use hd.   &lt;em&gt;AC - Armor Class&lt;/em&gt;  This may reflect armor worn, naturally thick hide, great reflexes, or any other number of reasons for being hard to wound.   &lt;em&gt;I - Initiative&lt;/em&gt;  The equivalent of a player’s Wis modifier for initiative rolls. The default is ‘0’, but especially quick or dangerous monsters may have more. Usually it is most convenient to roll for all monsters with the same stats as one group.   &lt;em&gt;Sv - Save&lt;/em&gt;  Used when the monster makes any sort of saving throw. The default is 10. Some monsters may have a different save for certain types of danger.   &lt;em&gt;Mrl - Morale&lt;/em&gt;  Measures willingness to continue a fight. Rated from 3 to 12. To test it, the dm rolls 2d6 - equal to or below &lt;em&gt;Morale&lt;/em&gt; indicates a success.    &lt;strong&gt;Monster HD&lt;/strong&gt;  hd is the monster equivalent of character &lt;em&gt;Level&lt;/em&gt;. Their hd are all d6s. Some monsters may have hp adjustments to their hd. hd may be rolled individually per monster or assumed to be an average of 3.5, rounded down (if you are soft) or rounded up (if you are hard). With large groups of monsters, it is usually preferable to assume constant hp for all monsters of identical stats.   &lt;strong&gt;Monster WS&lt;/strong&gt;  Unless otherwise specified, monsters have +1 ws per hd. Some monsters will adjust this up or down depending on their inclination to kill things. This is somewhat more dangerous than most adventurers, but they need all the help they can get.   &lt;strong&gt;Monster Damage&lt;/strong&gt;  As with PCs, all monster damage is d6 per attack by default. Some special attacks may gain &lt;em&gt;Advantage&lt;/em&gt;, and some very special attacks may roll multiple dice or larger dice. The dm is encouraged to design such monsters sparingly, and to be careful when converting monsters from other versions of the game, as d6-hd PCs are much more fragile than those of later editions. It is preferable to make monsters more dangerous through multiple attacks, inflicting special penalties, or affecting an area, rather than upping the hp output per attack. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Morale Rolls&lt;/strong&gt;  Monsters generally test their &lt;em&gt;Morale&lt;/em&gt; in a few standard situations, but also whenever the dm deems it situationally appropriate. Some standard reasons to roll &lt;em&gt;Morale&lt;/em&gt;: ambushed from surprise, take first casualty, reduced to half strength, lose leader or champion, subject to infighting. &lt;em&gt;Morale&lt;/em&gt; is something of a catch-all for determining monster behavior outside of interactions with PCs, which use &lt;em&gt;Reaction Rolls&lt;/em&gt;. When failed, the dm should have the monsters react according to their base nature, rather than what is best: cowardly ratmen might flee despite overwhelming odds, whereas Ogres might try to stay and eat their foes despite being desperately outclassed.    &lt;strong&gt;Experience&lt;/strong&gt;  Monsters give 25 xp per hd when killed by the PCs. Some campaigns may allow that xp for “circumventing” or “solving” those monsters, but by default, such indirect means are intended to be captured by the system of gaining xp for treasure. Some especially dangerous or important monsters may offer more experience.  &lt;strong&gt;Treasure&lt;/strong&gt;  &lt;em&gt;Pocket Change&lt;/em&gt;  Intelligent monsters may carry a small amount of money about on their persons. Such monsters and characters carry 1d10 x hd^2 in copper - on a roll of ’10’, roll again for silver, and if that comes up a ’10’, give this random schmoe some minor treasure or special item.   Especially wealthy characters or creatures may have more on them than this, but they should be correspondingly more carefully guarded and/or careful with where they keep their wealth.    &lt;em&gt;Lairs&lt;/em&gt;  Monsters of the treasure-hoarding kind will have more treasure in their lair than on their person. In such cases, use the following tables:   &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Owner HD&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Gold (1d12 - 6x)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Silver (1d6x)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Copper&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;50&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;100&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d100 x100xhd&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2-3&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;100&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;200&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d100 x100xhd&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;4-5&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;200&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;500&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d100 x100xhd&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;6-7&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;500&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1,000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d100 x100xhd&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;8-9&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1,000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2,000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d100 x100xhd&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;10-11&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2,000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;5,000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d100 x100xhd&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;12+&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;3,000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;10,000&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d100 x100xhd&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;Along with the following for non-cash treasure:   &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Type&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Die Type&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Example&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Value Per Item&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Clothes&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d6 vs hd&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Fine apparel and hangings&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d10x5 Gold&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Goods&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d8 vs hd&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Well-made useful things&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2d10x10 Gold&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Artwork&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d10 vs hd&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Paintings, statues, etc&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d10x20 2 Gold&lt;em&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Gem/Jewel&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d12 vs hd&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Gems&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d10x50 2 Gold&lt;/em&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Magic&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1d20 vs hd&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Magic Items&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Generate as B/X&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;*Rolling maximum results adds an additional re-roll of same potential value&lt;/p&gt;
+&lt;h2 id=&#34;rules-outlook&#34;&gt;Rules Outlook&lt;/h2&gt;
+&lt;p&gt;I put together these rules to have my preferred mishmash of “base” D&amp;amp;D
+rules all in one place. The thought is that these are the rules I’ll use
+regardless of setting, and I can bolt on specific modules for different
+campaigns. There’s nothing very original here, and I tried to document
+where I got all this stuff below - if you see a rule that came from your
+blog or a G+ discussion and I missed you, let me know!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Every rule should encourage the type of play desired&lt;/li&gt;
+&lt;li&gt;Rules should be modular and avoid interconnectedness except when totally
+necessary&lt;/li&gt;
+&lt;li&gt;Rules should be as simple as possible and no simpler&lt;/li&gt;
+&lt;li&gt;Rules should be as compatible with old school modules and rules as
+possible, make it easy to adapt, use, or add on to&lt;/li&gt;
+&lt;li&gt;Use “incomparables” as much as possible rather than straight numeric
+modifiers&lt;/li&gt;
+&lt;li&gt;Gain comprehensiveness through accumulation of optional modules, not
+through a tightly integrated system&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+&lt;p&gt;These rules are very much the product of the fantastic DIY D&amp;amp;D/OSR
+scene, and just about nothing here is totally original. Especial thanks
+to the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Arnold K and his GLOG for how to approach XP &amp;amp; Leveling, inspiration
+on skills, HP and recovery, and general design philosophy&lt;/li&gt;
+&lt;li&gt;Gus L for his take on exploration, encumbrance, exhaustion, light
+sources, weapon characteristics, and Fighting Options&lt;/li&gt;
+&lt;li&gt;Brendan S for the original “overloaded encounter die&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Delta for the Target 20 approach to combat mechanic&lt;/li&gt;
+&lt;li&gt;Chris Hogan for the monster profile, calling attack bonus “weapon
+skill”, and treasure generation (especially pocket change)&lt;/li&gt;
+&lt;li&gt;Logan Knight for lots of great conversations on fiddly rules stuff&lt;/li&gt;
+&lt;li&gt;James Young for surprise rules and introducing me to usage dice,
+though I can’t remember where he found them&lt;/li&gt;
+&lt;li&gt;Arnold, Gus, Brendan, Logan, and others for lots of different takes
+on encumbrance&lt;/li&gt;
+&lt;li&gt;Jim Raggi for LotFP’s grappling rules and the core of my skill
+approach&lt;/li&gt;
+&lt;li&gt;Anne Hunter for the idea of “held surprise&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Fifth Edition D&amp;amp;D for Advantage and Disadvantage&lt;/li&gt;
+&lt;li&gt;Of course, the original games and the great hobby they created - this
+is my attempt to still have “y’know, basically D&amp;amp;D” but with all the
+little tweaks and house rules I prefer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;making-a-character&#34;&gt;Making a Character&lt;/h2&gt;
+&lt;h3 id=&#34;roll-attributes&#34;&gt;Roll Attributes&lt;/h3&gt;
+&lt;p&gt;Roll 3d6 seven times and assign six of the results as you like. &lt;/p&gt;
+&lt;p&gt;If you want to be hardcore and please both your referee and the dark
+gods of heavy metal, or are playing a level 0 funnel, roll 3d6 in order,
+no substitutions. &lt;/p&gt;
+&lt;h3 id=&#34;choose-race&#34;&gt;Choose Race&lt;/h3&gt;
+&lt;p&gt;Choose a race from those available in your campaign and note any
+abilities or modifiers granted from it. If you’re stuck or unclear on
+options, just go with human.&lt;/p&gt;
+&lt;h3 id=&#34;choose-class&#34;&gt;Choose Class&lt;/h3&gt;
+&lt;p&gt;Choose a starting class template from those available in your campaign
+and note any abilities or modifiers granted. Note that you’re not locked
+into this choice forever - you can pick different templates as you level
+up.&lt;/p&gt;
+&lt;h3 id=&#34;determine-starting-hp&#34;&gt;Determine Starting HP&lt;/h3&gt;
+&lt;p&gt;Roll 1d6 and add your Constitution modifier. Note this as your maximum
+HP.&lt;/p&gt;
+&lt;h3 id=&#34;determine-weapon-skill-and-bow-skill&#34;&gt;Determine Weapon Skill and Bow Skill&lt;/h3&gt;
+&lt;p&gt;All adventurers start with 1 Weapon Skill and 1 Bow Skill. Some class
+templates will add to one or both. If so, add them up and note them on
+your sheet.&lt;/p&gt;
+&lt;h3 id=&#34;determine-unarmored-ac&#34;&gt;Determine Unarmored AC&lt;/h3&gt;
+&lt;p&gt;Default Unarmored AC is 10. Improve it by one point for every point of
+positive Dexterity modifier. Your class template may also modify your
+AC.&lt;/p&gt;
+&lt;h3 id=&#34;determine-skill-slots-and-starting-skills&#34;&gt;Determine skill slots and starting skills&lt;/h3&gt;
+&lt;p&gt;You have skill slots equal to half your intelligence, rounded down. By
+default, characters begin with three “Just in Time” Skills at rank 1- at
+any point during play, you can declare that your background prepared you
+for this situation or gave you some knowledge and define a relevant
+skill, which is now fixed. Your class template may add further skills.
+No skills can have a higher rank than your level. &lt;/p&gt;
+&lt;p&gt;Some campaigns may have fixed skill lists and/or alternate methods of
+generating starting skills.&lt;/p&gt;
+&lt;h3 id=&#34;money-and-equipment&#34;&gt;Money and Equipment&lt;/h3&gt;
+&lt;p&gt;Players begin with 3d6 x 10 base coins and may purchase any equipment on
+the available starting equipment list. Equipment lists will vary by
+campaign, as will the standard coin. Some campaigns may instead have
+gear packages or gear based on careers.&lt;/p&gt;
+&lt;p&gt;By default, all characters begin play with a Blanket (1 slot), a
+Waterskin (1 slot), 3 Rations (1 slot), and Flint &amp;amp; Tender (0 Slots).&lt;/p&gt;
+&lt;p&gt;Record equipment in your gear slots, note your “ready” default weapon,
+and adjust your AC based on any armor worn. &lt;/p&gt;
+&lt;h3 id=&#34;pick-or-roll-a-name&#34;&gt;Pick or Roll a Name&lt;/h3&gt;
+&lt;p&gt;Select a suitable name for your character, either from your own
+imagination or using a random list suitable to the campaign.&lt;/p&gt;
+&lt;h2 id=&#34;characters&#34;&gt;Characters&lt;/h2&gt;
+&lt;h3 id=&#34;attributes&#34;&gt;Attributes&lt;/h3&gt;
+&lt;p&gt;Characters have six attributes that describe their basic abilities.
+Attributes are not as important in these rules as in some versions of
+the game, which is intentional.&lt;/p&gt;
+&lt;h4 id=&#34;strength&#34;&gt;Strength&lt;/h4&gt;
+&lt;p&gt;Raw physical ability and athleticism. Add your strength modifier to any
+melee damage rolls. Your gear slots are equal to your strength. Test
+strength to resist damage that can’t be dodged.&lt;/p&gt;
+&lt;h4 id=&#34;dexterity&#34;&gt;Dexterity&lt;/h4&gt;
+&lt;p&gt;Coordination and limberness. Add your dexterity modifier to any ranged
+damage rolls. Your modifier also affects your armor class, with a
+positive modifier improving AC, and a negative modifier lowering it -
+careful not to get mixed up since AC is descending. Test dexterity to
+avoid damage that could be dodged.&lt;/p&gt;
+&lt;h4 id=&#34;constitution&#34;&gt;Constitution&lt;/h4&gt;
+&lt;p&gt;Health and toughness. Add your constitution modifier to your HP every
+time you level up. Test your constitution to resist poison or disease.&lt;/p&gt;
+&lt;h4 id=&#34;intelligence&#34;&gt;Intelligence&lt;/h4&gt;
+&lt;p&gt;Cleverness and reasoning ability. You have a maximum number of skill
+slots equal to half of your intelligence, rounded down. Test
+intelligence to advance skills and to save against spells. Depending on
+the magic system used, intelligence may affect your ability to cast
+spells.&lt;/p&gt;
+&lt;h4 id=&#34;wisdom&#34;&gt;Wisdom&lt;/h4&gt;
+&lt;p&gt;Mental fortitude, willpower, and common sense. Add your Wisdom modifier
+to your initiative rolls. Test your wisdom to resist horror, illusion,
+and mental domination. If you ever have need of mental or spiritual hit
+points of some kind, add your Wisdom modifier to the total. &lt;/p&gt;
+&lt;h4 id=&#34;charisma&#34;&gt;Charisma&lt;/h4&gt;
+&lt;p&gt;Leadership, likability, and social skills. Add your Charisma modifier to
+reaction rolls, hireling Guts rolls, and your maximum number of
+hirelings, with a minimum of 1.&lt;/p&gt;
+&lt;h4 id=&#34;modifiers&#34;&gt;Modifiers&lt;/h4&gt;
+&lt;p&gt;Each attribute has an associated modifier, described in the table below.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Ability&lt;/th&gt;
+&lt;th&gt;Modifier&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;-3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4-6&lt;/td&gt;
+&lt;td&gt;-2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7-8&lt;/td&gt;
+&lt;td&gt;-1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9-12&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13-15&lt;/td&gt;
+&lt;td&gt;+1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16-17&lt;/td&gt;
+&lt;td&gt;+2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;+3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;use-as-saving-throws&#34;&gt;Use as Saving Throws&lt;/h4&gt;
+&lt;p&gt;Attributes are used to make any saving throws. If something seems
+clearly like a raw test of an ability and not involving any skill, try
+to roll equal to or lower than the ability score on a D20. These rolls
+are subject to advantage and disadvantage like any other, which may be
+determined by racial abilities, class abilities, or circumstances. &lt;/p&gt;
+&lt;h3 id=&#34;movement&#34;&gt;Movement&lt;/h3&gt;
+&lt;p&gt;All human and human sized characters have a movement score of 12, unless
+otherwise modified. Wearied characters move at half movement rate. For
+things requiring coordination or athleticism, roll a save against
+movement as if it were an ability.&lt;/p&gt;
+&lt;h3 id=&#34;hit-points&#34;&gt;Hit Points&lt;/h3&gt;
+&lt;p&gt;Hit points are really “don’t get hit&amp;rdquo; points, and are an abstract
+representation of skill, luck, and toughness, but not always the ability
+to take literal wounds. All characters have Hit Points based on a d6 hit
+die, which they gain at every level up. New hit dice are rolled at level
+up and the new maximum recorded. A character’s constitution modifier is
+added to HP at level up, and some class templates add additional hit
+points. Hit points are reduced by successful attacks. When a character
+reaches zero HP, any additional hits will cause wounds.&lt;/p&gt;
+&lt;h3 id=&#34;death-and-dying&#34;&gt;Death and Dying&lt;/h3&gt;
+&lt;p&gt;By default, taking damage beyond 0 HP causes a wound - this can be
+anything horrible in keeping with the nature of the attack. A second
+wound will kill a character.&lt;/p&gt;
+&lt;p&gt;Note that some campaigns will replace wounds with death and
+dismemberment tables, death saving throws, or other approaches to tweak the levels of lethality.&lt;/p&gt;
+&lt;h4 id=&#34;recovering-hp&#34;&gt;Recovering HP&lt;/h4&gt;
+&lt;p&gt;A full night’s rest (no watch shifts) with a a cover of some kind (roof, tent, et cetera) and a warm-enough blanket recovers all HP. If you don’t have a comfortable place or have to wake up in the night, only recover 1d6+level HP. Once per day, a good square meal (one ration’s worth per person) recovers 1d6+level HP. Recovered HP cannot go above a character’s maximum.&lt;/p&gt;
+&lt;h4 id=&#34;healing&#34;&gt;Healing&lt;/h4&gt;
+&lt;p&gt;Healing from lethal damage is trickier than recovering HP. As a balance between realism and playability, most wounds can be assumed to heal with one week of downtime with appropriate care. If magical healing is available, that may allow faster healing.&lt;/p&gt;
+&lt;h3 id=&#34;weapon-skill&#34;&gt;Weapon Skill&lt;/h3&gt;
+&lt;p&gt;Weapon Skill measures a character’s ability to hit opponents in melee combat. When rolling to hit, players add their weapon skill to their attack roll.&lt;/p&gt;
+&lt;p&gt;Characters start with a weapon skill of 1 and add +1 at every even
+level. Some character templates will also increase weapon skill.&lt;/p&gt;
+&lt;h3 id=&#34;shooting-skill&#34;&gt;Shooting Skill&lt;/h3&gt;
+&lt;p&gt;Shooting skill is like weapon skill for ranged weapons. Players add it
+to their attack roll when making ranged attacks. &lt;/p&gt;
+&lt;p&gt;Characters start with a shooting skill of 1. Some character templates
+increase shooting skill, but it does not otherwise improve. &lt;/p&gt;
+&lt;h3 id=&#34;character-skills&#34;&gt;Character Skills&lt;/h3&gt;
+&lt;p&gt;Characters have a number of skill slots equal to half their
+intelligence. Skills are rated from 0 to 6. A skill cannot rate higher than a character’s current level.  To test a skill, roll 1d6 and add your skill - a total of 6 or more passes. Some skills can be attempted by anyone adventurer and can be rolled even with a skill value of 0.
+Every time a character attempts a skill, mark a check next to it. When that character has at least a week of downtime, they may choose to test to advance any one skill that has 3 or more marks next to it. If so, erase all check marks and roll an intelligence save (roll equal to or under Intelligence). If this save is passed, advance the skill to the next rank. &lt;/p&gt;
+&lt;h3 id=&#34;gear-slots&#34;&gt;Gear Slots&lt;/h3&gt;
+&lt;p&gt;A character can carry as many significant items as their strength value before becoming encumbered. You absolutely can’t carry more than your 1.5x your strength items. Especially large items (like two handed weapons or larger) take up two slots or more. Armor takes up one slot for every point of AC better than 10.&lt;/p&gt;
+&lt;h3 id=&#34;character-weariness&#34;&gt;Character Weariness&lt;/h3&gt;
+&lt;p&gt;Whenever the exploration die comes up “Tired”, each character marks a tired pip. Encumbered characters mark two pips. When all three pips have been marked, a character becomes wearied and receives disadvantage on all rolls. If a character is both wearied and encumbered, they additionally take a -4 penalty on all rolls (so, roll two, keep the worst, and subtract 4. Good luck with that).&lt;/p&gt;
+&lt;h4 id=&#34;resting&#34;&gt;Resting&lt;/h4&gt;
+&lt;p&gt;Characters can recover from one tired pip by taking an exploration turn and sharing around a ration (maximum 8 people). To recover from
+weariness, a character must take an exploration turn and consume an
+entire ration themselves. Note that in both cases, characters must also have water to drink.&lt;/p&gt;
+&lt;h3 id=&#34;hirelings&#34;&gt;Hirelings&lt;/h3&gt;
+&lt;p&gt;Characters may hire additional help. In most settings, manual labor will
+be available, and sometimes hirelings willing to fight. They will need
+to be compensated, either by a flat fee or a share of any treasure
+recovered. They begin play with a personality and goals determined by
+the game master, and have a Guts of 7. Each character can retain the
+services of 1 hireling plus a number equal to their charisma modifier,
+with a minimum of 1. &lt;/p&gt;
+&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
+&lt;h4 id=&#34;gaining-experience&#34;&gt;Gaining Experience&lt;/h4&gt;
+&lt;p&gt;Characters gain experience by obtaining treasure through adventurous
+means - looting dungeons, pulling off heists, getting rewarded for
+rescuing royalty, and so forth. One experience point per one standard coin. Characters also gain a small amount of experience from killing enemies (25 XP per HD). &lt;/p&gt;
+&lt;p&gt;Some campaigns may introduce alternate or additional methods of gaining XP as a way to encourage different play styles.&lt;/p&gt;
+&lt;h4 id=&#34;leveling-up&#34;&gt;Leveling Up&lt;/h4&gt;
+&lt;p&gt;Every character gains certain things when leveling up, represented in the chart below. For the first four levels, characters gain a class template per level, but none thereafter. Note that HP and Weapon skill can be modified by other sources, such as class templates and attribute modifiers.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;HP&lt;/th&gt;
+&lt;th&gt;Templates&lt;/th&gt;
+&lt;th&gt;Max Skill&lt;/th&gt;
+&lt;th&gt;Weapon Skill&lt;/th&gt;
+&lt;th&gt;XP&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1D6&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;2000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;4000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;7000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;10000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;14000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;18000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;22000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;26000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;30000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;+2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;5000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;exploration&#34;&gt;Exploration&lt;/h2&gt;
+&lt;h3 id=&#34;turns&#34;&gt;Turns&lt;/h3&gt;
+&lt;p&gt;When the players are exploring a dangerous environment like a dungeon, play is broken down into turns. A turn is not a fixed amount of time, but instead represents the amount of time it takes to perform a significant dungeon exploration task such as picking a lock, breaking down a door, or searching a a reasonably sized room. When in doubt, assume it’s roughly ten minutes. Roll the exploration die every turn - I recommend having a different player roll every time to make real the tradeoff between the actions they take and potential costs. &lt;/p&gt;
+&lt;h3 id=&#34;exploration-movement&#34;&gt;Exploration Movement&lt;/h3&gt;
+&lt;p&gt;During exploration turns, players can move up to their movement x 10 in linear feet, which assumes a careful pace, checking for traps, taking the time to map, and so on. See the combat section for movement in combat. &lt;/p&gt;
+&lt;h4 id=&#34;hoofing-it&#34;&gt;Hoofing It&lt;/h4&gt;
+&lt;p&gt;Player characters can double their exploration speed if they opt to
+&lt;em&gt;hoof it&lt;/em&gt;, but this opens them to a 2-in-6 chance of being surprised by foes. While &lt;em&gt;hoofing it&lt;/em&gt; players may not map any new areas and are more likely to be caught unaware by traps.&lt;/p&gt;
+&lt;h4 id=&#34;pursuits&#34;&gt;Pursuits&lt;/h4&gt;
+&lt;p&gt;If characters are being chased, each group rolls 1d20 and adds their
+movement score. The higher score wins the pursuit. The pursued group
+uses the lowest movement score available, while the pursuers use the
+fastest movement rate available. While in a pursuit, PCs may not map and should be told minimal details by the referee. Absent a clear intention declared at the start of the pursuit (“head back the way we came!”), the referee will determine randomly which directions PCs take at intersections.&lt;/p&gt;
+&lt;p&gt;If desired, pursuits can be resolved on an individual basis, with each character rolling separately and adding their own movement. NPC or monster pursuers should still only make one roll. &lt;/p&gt;
+&lt;p&gt;If the PCs are pursued by NPCs, dropping things that the pursuers find valuable (like treasure for intelligent pursuers or food for beasts) causes the pursuers to make a Guts check. Failure indicates they stop to gather the desired goods. Obstacles like flaming oil or caltrops can also discourage pursuit, causing a Guts check modified by the severity of the obstacle at the referee’s discretion. Players can make their own decisions on how to deal with similar obstacles left by NPCs or monsters.&lt;/p&gt;
+&lt;h3 id=&#34;load&#34;&gt;Load&lt;/h3&gt;
+&lt;h4 id=&#34;gear-slots-1&#34;&gt;Gear Slots&lt;/h4&gt;
+&lt;p&gt;Characters can carry a number of significant items up to their Strength
+score before becoming &lt;em&gt;Burdened&lt;/em&gt;. Characters absolutely cannot carry
+more items than Str x 1.5. Anything tiny (could fit in your mouth or
+closed hand) does not count as a significant item, and bundles of some
+items count as a significant item (for example, a number of arrows equal
+to one usage die, or 3 torches). Large items, such as two handed
+weapons, take up two slots. Armor takes up one slot for each point of AC
+it improves.&lt;/p&gt;
+&lt;p&gt;Money and gems take up one slot per 1,000 coins or gems - basically it
+only matters for giant hoards.&lt;/p&gt;
+&lt;h4 id=&#34;effects-of-burden&#34;&gt;Effects of Burden&lt;/h4&gt;
+&lt;p&gt;*Burdened *characters suffer disadvantage on any physically challenging
+roll - combat, pursuits, stealth, and so on. Additionally, when the
+Tired result comes up on the exploration die, encumbered characters mark
+two Tired pips instead of one.&lt;/p&gt;
+&lt;h3 id=&#34;light&#34;&gt;Light&lt;/h3&gt;
+&lt;p&gt;Since so much of this game takes place in underground places unfriendly
+to surface dwellers, light is very important to explorers. &lt;/p&gt;
+&lt;h4 id=&#34;dark&#34;&gt;Dark&lt;/h4&gt;
+&lt;p&gt;In the absolute pitch blackness of an underground place with no light
+sources, civilized people do not do well. No skill rolls can be
+attempted, and players suffer double disadvantage on all other rolls,
+including combat, saves, and pursuit rolls. Hirelings must make a Guts
+roll at disadvantage to do anything other than panic or collapse, unless
+the darkness was intentional (such as dousing all lights to avoid
+attention). &lt;/p&gt;
+&lt;p&gt;Player characters in the dark have a 2 in 6 chance of surprising NPCs or
+monsters (and vice versa), and no one can be targeted by missile weapons
+in the dark.&lt;/p&gt;
+&lt;p&gt;After a full turn in the dark, characters gain advantage on any Wisdom
+saves to listen.&lt;/p&gt;
+&lt;h4 id=&#34;dim&#34;&gt;Dim&lt;/h4&gt;
+&lt;p&gt;Dim light is provided either by inadequate light sources like candles or
+from inadequate total illumination. In dim conditions, most characters
+suffer disadvantage on all skill checks and attack rolls. The exception
+is stealth rolls, which are at an advantage in dim conditions. Some
+class and race templates will allow characters to ignore the
+disadvantages of dim conditions. &lt;/p&gt;
+&lt;p&gt;Player characters have a 2 in 6 chance of surprising NPCs or monsters in
+dim conditions (and vice versa), and individuals can only be targeted at
+close range by missile weapons. Hirelings take their Guts rolls at a
+disadvantage in dim conditions. &lt;/p&gt;
+&lt;h4 id=&#34;lit&#34;&gt;Lit&lt;/h4&gt;
+&lt;p&gt;With adequate light, the PCs and their allies receive no penalties, but
+it is impossible to surprise NPCs or Monsters unless encountering them
+through a newly opened door, on a roll of 1 in 6. &lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Light Amount&lt;/th&gt;
+&lt;th&gt;Effect on Skills&lt;/th&gt;
+&lt;th&gt;Effect on Other Rolls&lt;/th&gt;
+&lt;th&gt;Surprise Chance&lt;/th&gt;
+&lt;th&gt;Missile Targeting&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Dark&lt;/td&gt;
+&lt;td&gt;None allowed&lt;/td&gt;
+&lt;td&gt;Double Disadvantage**&lt;/td&gt;
+&lt;td&gt;2 in 6&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dim&lt;/td&gt;
+&lt;td&gt;Disadvantage*&lt;/td&gt;
+&lt;td&gt;Disadvantage&lt;/td&gt;
+&lt;td&gt;2 in 6&lt;/td&gt;
+&lt;td&gt;Close&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lit&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;None***&lt;/td&gt;
+&lt;td&gt;Any&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;*Except Stealth, which gains advantage&lt;/p&gt;
+&lt;p&gt;**Except for testing Wisdom to listen, which gains advantage&lt;/p&gt;
+&lt;p&gt;***Except through closed doors&lt;/p&gt;
+&lt;h4 id=&#34;light-sources&#34;&gt;Light Sources&lt;/h4&gt;
+&lt;p&gt;These are the default light sources, but may be changed or supplemented
+depending on the campaign’s equipment list. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Candles&lt;/strong&gt;: Provide dim light to one character in a radius of 10 feet. Can
+be stuck to helmets, wedged on the top of backpacks, and otherwise
+affixed to allow hand’s free use. Six take up one gear slot.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Torches&lt;/strong&gt;: Allows three characters to be lit, and three more to have dim
+light, and shows clearly for 30 feet. May be used as a crude weapon,
+doing 1d3 damage with a 1 in 6 chance to set things on fire. Unless
+specified, characters are assumed to place torches on the ground in
+combat and to recover them after. May be used to light flammable things
+on fire as a free action. Three take up one gear slot.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lanterns&lt;/strong&gt;: Provide enough light for two characters to be fully lit, and
+two more to have dim light. Can be attached to belts or harnesses, but
+if this is done, they will be hit on a successful attack roll of 15 or
+higher. Can be thrown as an improvised firebomb, destroying the lantern
+and doing 1d3 damage on the first round, and 1d6 every round thereafter,
+extinguishing if a 1 is rolled for damage or if the target or its allies
+takes action to put out the fire. A full oil flask provides two pips
+worth of Lantern depletion before running out of fuel. Takes up a gear
+slot.&lt;/p&gt;
+&lt;h3 id=&#34;weariness-in-exploration&#34;&gt;Weariness in Exploration&lt;/h3&gt;
+&lt;h4 id=&#34;getting-wearied&#34;&gt;Getting Wearied&lt;/h4&gt;
+&lt;p&gt;Any time the Tired result is rolled on the exploration die, every
+character marks a Tired pip (two if the character is encumbered). When
+all three Tired pips are filled, the character becomes Wearied.&lt;/p&gt;
+&lt;h4 id=&#34;effects-of-weariness&#34;&gt;Effects of Weariness&lt;/h4&gt;
+&lt;p&gt;Wearied characters suffer disadvantage on all rolls and halve their
+movement value. This stacks with any other disadvantage affecting the
+character, forcing them to roll twice, keep the worst, and subtract four
+(most commonly encountered as the combination of overload and
+weariness). &lt;/p&gt;
+&lt;h4 id=&#34;removing-tiredness-and-weariness&#34;&gt;Removing Tiredness and Weariness&lt;/h4&gt;
+&lt;p&gt;Characters may erase one Tired pip by spending an exploration turn
+sharing around a ration (maximum of eight people per ration) and
+drinking water. Wearied characters may erase all Tired pips and remove
+their condition by spending an exploration turn eating a full ration
+each and drinking water. Waterskins have a usage die of D6 when full.
+Sleeping through the night (or at least for several hours), even with a
+guard shift, will remove all Tired pips.&lt;/p&gt;
+&lt;h3 id=&#34;the-exploration-die&#34;&gt;The Exploration Die&lt;/h3&gt;
+&lt;p&gt;The exploration die is rolled every turn in a dangerous environment like
+a dungeon. It may also be used for wilderness exploration, although some
+modifications would be appropriate, especially regarding light
+depletion. I recommend the players roll the exploration die, in the
+open, to make real the tradeoffs between courses of action and resource
+depletion. It also makes things easier for the referee.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;1D6&lt;/th&gt;
+&lt;th&gt;Exploration Die Result&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Random Encounter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Environmental Encounter or Sign of Random Encounter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Torches/Candles Depleted&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Lanterns Mark 1 Pip (2 Pips to Depletion)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Magic Dissipates&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;Tired - All Characters Mark One Tired Point, Two if Encumbered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;random-encounter&#34;&gt;Random Encounter&lt;/h4&gt;
+&lt;p&gt;The referee rolls on an appropriate encounter table and follows the
+rules in the encounters section for determining distance, surprise, and
+reaction rolls.&lt;/p&gt;
+&lt;h4 id=&#34;environmental-encounter&#34;&gt;Environmental Encounter&lt;/h4&gt;
+&lt;p&gt;Something relevant to the area being explored is revealed the
+characters, or perhaps just something atmospheric. Where possible, this
+should give the players more information and improve their agency. If
+appropriate, this may be a sign of a potential random encounter, such as
+the tracks of a beast or grafitti left by intelligent monsters, in which
+case the players may be able to track the sign to the encounter’s lair. &lt;/p&gt;
+&lt;h4 id=&#34;torchescandles-depleted&#34;&gt;Torches/Candles Depleted&lt;/h4&gt;
+&lt;p&gt;Any torches or candles being used as light sources go out and are used
+up. New ones can be retrieved and re-lit on the next exploration turn
+without preventing an action.&lt;/p&gt;
+&lt;h4 id=&#34;lanterns-mark-1-pip&#34;&gt;Lanterns Mark 1 Pip&lt;/h4&gt;
+&lt;p&gt;A lantern filled with a full flask of oil takes two pips to go out. Mark
+one pip each time this is rolled. Refilling a lantern takes an
+exploration turn, as it is significantly fiddlier than lighting a
+torch. &lt;/p&gt;
+&lt;h4 id=&#34;magic-dissipatescountdown&#34;&gt;Magic Dissipates/Countdown&lt;/h4&gt;
+&lt;p&gt;Any ongoing magical effects step down one level or completely dissipate.
+This may also be used to keep track of “ticking clock” scenarios, such
+as the completion of a ritual in a number of check marks.&lt;/p&gt;
+&lt;h4 id=&#34;tired&#34;&gt;Tired&lt;/h4&gt;
+&lt;p&gt;Each character marks one Tired pip, while encumbered characters mark
+two. Please note that this includes hirelings. Once a character has
+accumulated three tired marks, they become Wearied and suffer
+disadvantage on all rolls and halve their movement. &lt;/p&gt;
+&lt;h2 id=&#34;meetings&#34;&gt;Meetings&lt;/h2&gt;
+&lt;h3 id=&#34;surprise&#34;&gt;Surprise&lt;/h3&gt;
+&lt;p&gt;When characters move at normal exploration speed, they can normally not
+be surprised. If they are &lt;em&gt;hoofing it&lt;/em&gt; or if the foe is very sneaky,
+they have a 2-in-6 chance of being surprised. NPCs may be surprised by
+PCs if they work to be stealthy and are not well-lit in a dungeon. It is
+possible for both sides to surprise the other, in which case every one
+stands around shocked for a moment but otherwise the surprise is
+canceled. Some creatures or skilled NPCs may have a higher chance of
+surprise, and players may increase their chance of surprise if they take
+particular precautions, such as exceptional concealment, dousing lights,
+and so on.&lt;/p&gt;
+&lt;p&gt;A group that surprises another group has a free round to act in any way
+they choose. Monsters and NPCs should make a reaction roll as normal.
+After the first round, if the encounter continues, roll initiative as
+normal.&lt;/p&gt;
+&lt;h4 id=&#34;held-surprise&#34;&gt;Held Surprise&lt;/h4&gt;
+&lt;p&gt;Surprise need not mean fighting right away. Any group that surprises the
+other “has the drop on them” and can hold surprise: if the meeting turns
+to fighting, the group that surprised the other still gets a free round
+to do as they please before the other side can act.&lt;/p&gt;
+&lt;h3 id=&#34;reaction-rolls&#34;&gt;Reaction Rolls&lt;/h3&gt;
+&lt;p&gt;When NPCs or monsters become aware of the player characters, they should
+make a reaction roll. Depending on the circumstances, this may or may
+not be modified by a PC’s Charisma - for example, a group of NPCs
+surprising the PCs would not be modified, but if both parties warily
+approach each other and the PCs shout out something re-assuring, the
+Charisma modifier would apply. The modifier of whichever character acts
+as spokesman should be used. Reaction rolls may be re-tested when
+significant decisions are required, such as accepting or rejecting a
+deal, deciding to reveal information, and so on. In these cases the
+reaction roll should be modified by the spokesman’s charisma and any
+relevant circumstances, such as the quality of the player’s arguments,
+bribes offered, what the referee knows about these NPCs, and conditions
+in the area.&lt;/p&gt;
+&lt;p&gt;To make a reaction roll, the referee rolls 2d6, adds any relevant
+modifiers and consults the table below:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;2 or Less&lt;/th&gt;
+&lt;th&gt;Violent&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Angry&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Threat&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Warning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;Guarded&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;Neutral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;Neutral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;Positive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;Helpful&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;Amicable&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12 or More&lt;/td&gt;
+&lt;td&gt;Friendly&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;rounds&#34;&gt;Rounds&lt;/h3&gt;
+&lt;p&gt;During encounters, time is focused in on rounds, rather than the longer
+exploration turns. As with turns, this is an abstract measure of time
+that covers roughly doing one thing that matters (such as an attack).
+Use rounds even for non-violent (initially) encounters to represent back
+and forth and potentially good times to re-check reaction rolls.
+Generally assume that an encounter ends up taking a full turn unless it
+is exceptionally long.&lt;/p&gt;
+&lt;h3 id=&#34;initiative&#34;&gt;Initiative&lt;/h3&gt;
+&lt;p&gt;Each character rolls 1d6 and adds their Wisdom modifier. Monsters and
+NPCs are assumed to have a Wisdom modifier of 0 unless otherwise noted
+in their profile. Characters, NPCs, and Monsters act in descending order
+of Initiative, which is re-rolled for every round.&lt;/p&gt;
+&lt;h2 id=&#34;fighting&#34;&gt;Fighting&lt;/h2&gt;
+&lt;h3 id=&#34;movement-in-a-fight&#34;&gt;Movement in a Fight&lt;/h3&gt;
+&lt;p&gt;By default, characters can move from one of the below ranges to the next
+in combat by spending an action, and may move within their current range
+band for free. If you are getting nitty-gritty with a map or miniatures,
+assume that characters can move roughly their movement score x2 in feet,
+or their movement score divided by 3 in inches/squares if using ~28mm
+miniatures (That’s 4 inches/squares with standard “heroic scale”
+miniatures or ~24 feet if using a map). Movement can be blocked within
+arm’s reach of enemies you wish to move past. For any movement that
+requires athletic prowess (leaping over chasms, out-sprinting an
+opponent, et cetera) roll a save against movement as if it were an
+attribute.&lt;/p&gt;
+&lt;h3 id=&#34;target-20-to-hit-roll&#34;&gt;Target 20 To Hit Roll&lt;/h3&gt;
+&lt;p&gt;The basic to hit mechanic is “Target 20” which means that a player rolls
+1d20, adds their character’s Weapon Skill or Bow Skill, their target’s
+AC, and if the total is equal to 20 or higher, they hit their target.
+Monsters follow the same procedure, assuming 1 WS per HD, unless
+otherwise specified.&lt;/p&gt;
+&lt;h3 id=&#34;critical-hits-and-fumbles&#34;&gt;Critical Hits and Fumbles&lt;/h3&gt;
+&lt;p&gt;A roll of a “20” indicates a critical hit, which hits automatically and
+allows the player to choose between either double damage or a normal
+attack plus some kind of “bonus” like tripping, disarming, knocking
+over, and so on. A roll of a “1” indicates a fumble, which automatically
+misses, and either results in a free attack by their target, or
+something terrible that is situationally appropriate, at the referee’s
+discretion.&lt;/p&gt;
+&lt;p&gt;Some class templates, conditions, or other rules may extend the range
+for either critical hits or tables to include rolls other than “1” or
+“20”.&lt;/p&gt;
+&lt;h3 id=&#34;ranged-combat&#34;&gt;Ranged Combat&lt;/h3&gt;
+&lt;p&gt;Ranged combat is resolved the same as melee, except that Bow Skill
+rather than Weapon Skill is added to the attack roll, and targets may be
+selected that are farther away. If firing into melee, a miss on an
+attack roll of 1-5 will hit a random ally involved in the melee, doing
+full damage.&lt;/p&gt;
+&lt;h3 id=&#34;ranges&#34;&gt;Ranges&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Touching&lt;/strong&gt;: Intimately close - grappling or otherwise forced very close
+together. Can only use close weapons like daggers or natural weapons.&lt;br&gt;
+&lt;strong&gt;Hand-to-Hand&lt;/strong&gt;: Standard combat range, right at the edge of each other’s weapon
+ranges. All melee weapons can be used at this range, but ranged weapons
+cannot.&lt;br&gt;
+&lt;strong&gt;Close&lt;/strong&gt;: Within throwing distance. Ranged weapons can be used on targets
+in dim or bright light, and characters can move into melee range and
+attack if desired.&lt;br&gt;
+&lt;strong&gt;Far&lt;/strong&gt;: Beyond throwing distance. Lit targets can be targeted with ranged
+weapons, but not targets in dim light. Spend a round moving to get
+within Close range.&lt;/p&gt;
+&lt;h3 id=&#34;fighting-options&#34;&gt;Fighting Options&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Charge&lt;/strong&gt;: Move at full speed into combat with any unengaged opponent that
+you can reach. Gain advantage to hit, but note that you are at greater
+risk from braced weapons. Requires a bit of open space to get moving.&lt;br&gt;
+&lt;strong&gt;Brace&lt;/strong&gt;: Get a reactive attack against an opponent that comes within melee
+range. Most effective with reach weapons where the opponent may not be
+able to attack you despite coming into range.&lt;br&gt;
+&lt;strong&gt;Press&lt;/strong&gt;: Gain advantage on your attack roll but AC is 4 worse.&lt;br&gt;
+&lt;strong&gt;Defend&lt;/strong&gt;: Improve AC by 2, but cannot attack this round.&lt;/p&gt;
+&lt;p&gt;Some class templates may provide additional Fighting Options.&lt;/p&gt;
+&lt;h3 id=&#34;fighting-conditions&#34;&gt;Fighting Conditions&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Floored&lt;/strong&gt;: Knocked prone on the floor. Can defend yourself only. Enemies
+gain advantage to hit you. Takes a full action to stand up.&lt;br&gt;
+&lt;strong&gt;Stunned&lt;/strong&gt;: Prone, dazed. No actions can be taken. Enemies gain double
+advantage to hit you.&lt;br&gt;
+&lt;strong&gt;Helpless&lt;/strong&gt;: Paralyzed or unconscious. Enemies hit automatically and deal
+wounds rather than HP damage.&lt;br&gt;
+&lt;strong&gt;Bleeding Out&lt;/strong&gt;: Player must roll a constitution save every round. After
+three failures, the character dies. May be stabilized by an ally rolling
+1d6 + Int modifier, with a 6 or higher succeeding.&lt;/p&gt;
+&lt;h3 id=&#34;bare-handed-fighting&#34;&gt;Bare-Handed Fighting&lt;/h3&gt;
+&lt;p&gt;Punches, kicks, and the like do 1d3 damage unless the character has special training
+(such as through a class template) or possesses natural weapons (like
+claws or sharp teeth). Unarmed damage beyond 0 HP knocks out the target
+(Helpless) and only deals wounds if the attacker so chooses.&lt;/p&gt;
+&lt;h3 id=&#34;fighting-stunts&#34;&gt;Fighting Stunts&lt;/h3&gt;
+&lt;p&gt;If you want to do something in a fight other than hurt your foe, like tripping someone,
+pushing through a shieldwall, climbing onto a large monster, or the like,
+first make an attack against your foe as if they are unarmored. If you
+fail, your foe gets a free attack on you. If you succeed, roll 1d6
+and add the right attribute modifier (dexterity for something
+fiddly like a trip, strength for shoving people around, intelligence for
+faking them out, and so forth). A score of 6 or higher succeeds. The referee may impose modifiers or grant advantage or disadvantage to your role depending on the
+circumstances. The referee may also tell you risks that may occur if you
+fail before you attempt your trick, so be ready for those.&lt;/p&gt;
+&lt;p&gt;Some example stunts include tripping, wrestling, shoving backward,
+disarming, shoving something in a large mouth, climbing onto a large
+opponent, and so on.&lt;/p&gt;
+&lt;h3 id=&#34;guts-rolls&#34;&gt;Guts Rolls&lt;/h3&gt;
+&lt;p&gt;Monsters and NPCs are subject to Guts rolls anytime the referee wants
+to check whether they would keep going with what they&amp;rsquo;re doing or quit,
+such as danger, extremely unpleasant conditions, or taking casualties,
+in or out of combat. Guts is rated from 3 to 12 and is tested by the
+referee rolling 2d6, with results equal to or below their Guts
+passing. It is the referee’s choice when foes will roll a Guts check,
+but some common reasons are taking their first casualty,
+being reduced to half strength, losing a leader, or encountering
+something that might cause fear. Hirelings may make Guts rolls
+(modified by their employer’s Charisma) when asked to do something
+dangerous, nasty, or outside of their job description, as well as when
+combat may not be going well for the players’ group.&lt;/p&gt;
+&lt;h3 id=&#34;armor-and-armor-class&#34;&gt;Armor and Armor Class&lt;/h3&gt;
+&lt;p&gt;Armor class defines your character’s overall defensive ability. An
+unarmored opponent has an Armor Class of 9, while one in full plate with
+a shield has an AC of 2. Descending armor class seems a little weird,
+but it makes the Target 20 math super easy, so I like it.&lt;/p&gt;
+&lt;p&gt;Some campaigns may allow piecemeal armor or alternative approaches. The
+specifics of what armor maps to Light, Medium, or Heavy will vary
+depending on the equipment list for the campaign.&lt;/p&gt;
+&lt;h4 id=&#34;armor-types-and-values&#34;&gt;Armor Types and Values&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Light&lt;/em&gt; (Leather): 7&lt;br&gt;
+&lt;em&gt;Medium&lt;/em&gt; (Chain): 5&lt;br&gt;
+&lt;em&gt;Heavy&lt;/em&gt; (Plate): 3&lt;br&gt;
+&lt;em&gt;Shield&lt;/em&gt;: 1 Better (so, one lower)&lt;/p&gt;
+&lt;h3 id=&#34;death-and-dying-1&#34;&gt;Death and Dying&lt;/h3&gt;
+&lt;p&gt;Characters reduced to 0 HP suffer a wound if they take any further
+damage before restoring their HP.&lt;/p&gt;
+&lt;h4 id=&#34;wounds&#34;&gt;Wounds&lt;/h4&gt;
+&lt;p&gt;Characters that are damaged after being reduced to 0 HP take a wound and
+are immediately Stunned or Helpless depending on the type of wound and
+the circumstances. Some wounds may cause the character to begin Bleeding
+Out. In any case, a second wound will kill the character.&lt;/p&gt;
+&lt;p&gt;Referees who are worried they will be either too soft or too hard
+without guidance can use the following chart as a default, but it should
+be modified by the nature of the attack and the surrounding
+circumstances:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Roll&lt;/th&gt;
+&lt;th&gt;Wound&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Severe Head Wound - Helpless, Bleeding Out&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Severe Gut Wound - Helpless, Bleeding Out&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Nasty Cut - Stunned, Bleeding Out&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Maimed/Broken Limb - Stunned&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Cracked Rips - Stunned&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;Light Head Wound - Prone&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Note that this rule may be replaced by some kind of death and
+dismemberment chart or other approach in some campaigns.&lt;/p&gt;
+&lt;h3 id=&#34;weapon-abilities&#34;&gt;Weapon Abilities&lt;/h3&gt;
+&lt;p&gt;Since all weapons do the same damage, they are distinguished by certain
+characteristics. Some class templates may specify that certain classes
+may only use weapons with certain abilities, or that certain abilities
+are only usable by classes that specify know how. Also note that
+campaigns may add to, subtract from, or modify the list below.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Heavy&lt;/strong&gt;: Heavy Weapons have advantage on damage, but require two hands to use and
+penalize initiative by one, unless the character wielding is inhumanly
+strong or enormous. Includes huge swords, axes, and hammers, but
+depending on the campaign might also include rifles or others.&lt;br&gt;
+&lt;strong&gt;Light&lt;/strong&gt;: Weapon has disadvantage on damage. Includes most improvised weapons like
+chairs or broken bottles, but also certain thrown weapons like javelins
+or knives.&lt;br&gt;
+&lt;strong&gt;Reach&lt;/strong&gt;: Can be used to attack from the second rank (over the shoulder of someone
+in front of you). If Braced, can perform a reactive attack for x2 damage
+on the first opponent to charge within range. 
+&lt;strong&gt;Close&lt;/strong&gt;: Not only allowed to be used at Near range, which is usually only
+achieved by ambush or shenanigans (wrestling), grants advantage on
+damage. Most close weapons can be used at melee range for normal damage.
+Includes daggers and most natural weapons.&lt;br&gt;
+&lt;strong&gt;Reactive&lt;/strong&gt;: Allows you to interrupt an incoming attack with an attack that resolves
+first. Especially dangerous when combined with reach in the form a
+braced spear or similar. Some weapons are only reactive conditionally
+(like a braced spear), while others may always be (such as pistols in
+appropriate campaigns). Note that a reactive weapon only grants one
+attack, unless the campaign rules specify otherwise.&lt;br&gt;
+&lt;strong&gt;Crushing&lt;/strong&gt;: These weapons are designed to smash through heavy armor. Any armor
+granting AC better than 5 counts as 5 against crushing weapons. Note
+that this only applies if the AC is derived from physical weight of
+armor - plate, scales, carapace or the like. AC derived from nimbleness,
+magic, or otherworldly nature is unaffected. In the case of monsters,
+the reason for a given armor class (and whether crushing weapons reduce
+it) is left to the discretion of the referee.&lt;br&gt;
+&lt;strong&gt;Finesse&lt;/strong&gt;: These weapons allow a much better trade-off between attack and defense.
+When pressing with a Finesse weapon, only reduce AC by 2, and when
+defending, you may still make an attack, but with disadvantage. Includes
+most types of swords that are neither heavy nor cleaving.&lt;br&gt;
+&lt;strong&gt;Cleaving&lt;/strong&gt;: These weapons allow an immediate follow-up attack on a nearby enemy
+after landing a killing blow. Includes light axes, falchions, and
+scimitars.&lt;/p&gt;
+&lt;h2 id=&#34;doing-stuff&#34;&gt;Doing Stuff&lt;/h2&gt;
+&lt;h3 id=&#34;skills&#34;&gt;Skills&lt;/h3&gt;
+&lt;h4 id=&#34;skill-slots&#34;&gt;Skill Slots&lt;/h4&gt;
+&lt;p&gt;Characters have a number of skill slots equal to half their
+intelligence, rounded down. They may never have more skills than skill
+slots. &lt;/p&gt;
+&lt;h4 id=&#34;skill-rank&#34;&gt;Skill Rank&lt;/h4&gt;
+&lt;p&gt;Every skill is ranked from 0 to 6, and characters may not have a skill
+with a higher rank than their level.&lt;/p&gt;
+&lt;h4 id=&#34;using-skills&#34;&gt;Using Skills&lt;/h4&gt;
+&lt;p&gt;To use a skill, roll 1d6 and add your relevant skill - if the result is
+six or higher, it succeeds. A roll of 1 always fails. Occasionally
+circumstances may be especially favorable or the chances of your skill
+being relevant are extremely slim. Your referee may grant you advantage,
+disadvantage, or a small modifier to the roll, if so. Some skills can be
+attempted when you are untrained (rank 0) but not all, see below. Every
+time you use a skill, successful or not, put a check mark next to it on
+your character sheet.&lt;/p&gt;
+&lt;h4 id=&#34;improving-skills&#34;&gt;Improving Skills&lt;/h4&gt;
+&lt;p&gt;When you character has a week of downtime that is not taken up by
+healing or other full time action like research, they may practice a
+skill and attempt to raise its rank. Remember that rank cannot rise
+above your current level. To attempt to raise a skill, erase all marks
+and make an intelligence save (roll 1d20 and attempt to get equal to or
+lower than your intelligence) - if successful, increase your skill rank
+by 1. Some things may improve your chance of learning, such as a
+knowledgeable mentor, access to appropriate facilities, or the like. If
+so, make the save with advantage.&lt;/p&gt;
+&lt;h4 id=&#34;untrained-skills&#34;&gt;Untrained Skills&lt;/h4&gt;
+&lt;p&gt;Some skills, but not all, can be attempted without any training at rank
+0. This is the referee’s call, but in general it should be limited to
+things anyone can try to do without any particular knowledge, like
+sneaking around, searching a room, or identifying if a structure looks
+dodgy or not. In the case of knowledge based skills, like history or
+lore, it is up to the referee how much this field is “common knowledge” - if it’s something almost anyone might have picked up, allow an
+untrained attempt, but if it requires specific mastery, do not. For
+example, in the modern world, it would probably be fair to allow someone
+a check for general knowledge of the Romans, but only an attempt to read
+a passage in Latin if they have the skill.&lt;/p&gt;
+&lt;h4 id=&#34;what-skills-are-available&#34;&gt;What Skills are Available?&lt;/h4&gt;
+&lt;p&gt;By default, skills are left open ended, to be defined as needed in play.
+Players and the referee can hash out how specific/general skills can be,
+and what advantages they can confer. Some campaigns will include fixed
+skill lists, no skills at all, or alternate skill rules. &lt;/p&gt;
+&lt;h4 id=&#34;what-not-to-use-skills-for&#34;&gt;What NOT to Use Skills For&lt;/h4&gt;
+&lt;p&gt;Skills should not have a direct use in combat, except occasionally for
+stealth, and should not be used for persuasion or social skills. &lt;/p&gt;
+&lt;h3 id=&#34;advantage--disadvantage&#34;&gt;Advantage &amp;amp; Disadvantage&lt;/h3&gt;
+&lt;p&gt;Many things in the game will give your character advantage or
+disadvantage on a roll, such as the situation, class abilities, or being
+encumbered. Advantage means that you roll two dice and keep the better
+result. Disadvantage means you roll two and keep the worse. If you ever
+have double advantage, roll two, keep the better, and improve the roll
+by 4. If you have double disadvantage, roll two, keep the worse, and
+make worse by 4. &lt;/p&gt;
+&lt;h3 id=&#34;usage-dice&#34;&gt;Usage Dice&lt;/h3&gt;
+&lt;p&gt;For anything that gets used up that isn’t otherwise covered (such as by
+the exploration die), represent their availability with usage dice. Any
+time you use the item, roll on its usage die. A roll of 1 or 2 indicates
+that you step down one die size in the following chain. Rolling a 1 or 2
+on a D4 means that you are out of that item and have to purchase more.
+Items will have a relevant usage die listed next to them. Buying extras
+takes up an additional slot but increases the usage die by one step. &lt;/p&gt;
+&lt;p&gt;Out &amp;lt; D4 &amp;lt; D6 &amp;lt; D8 &amp;lt; D10 &amp;lt; D12 &amp;lt; D20&lt;/p&gt;
+&lt;h2 id=&#34;character-growth&#34;&gt;Character Growth&lt;/h2&gt;
+&lt;h3 id=&#34;experience-points&#34;&gt;Experience Points&lt;/h3&gt;
+&lt;p&gt;All characters measure their advancement in skill and ability through
+experience points (XP), when enough XP are earned, characters advance in
+level and gain several perks detailed in the Leveling Up section below.
+All characters advance in level at the same rate detailed in the chart
+below.&lt;/p&gt;
+&lt;h3 id=&#34;standard-level-up-chart&#34;&gt;Standard Level Up Chart&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;HP&lt;/th&gt;
+&lt;th&gt;Templates&lt;/th&gt;
+&lt;th&gt;Max Skill&lt;/th&gt;
+&lt;th&gt;Weapon Skill&lt;/th&gt;
+&lt;th&gt;XP&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1D6&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;2000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;4000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;7000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;10000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;14000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;18000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;22000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;26000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;+1D6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;30000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;+2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;5000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;earning-experience&#34;&gt;Earning Experience&lt;/h3&gt;
+&lt;p&gt;Characters can earn experience in a number of ways. The default ways are
+listed below, but some campaigns may introduce alternate methods of
+earning experience, such as fulfilling quests, meeting objectives, or
+others.&lt;/p&gt;
+&lt;h4 id=&#34;treasure-looted&#34;&gt;Treasure Looted&lt;/h4&gt;
+&lt;p&gt;The primary means of earning experience is through obtaining objects of
+material worth through adventurous means. This might mean piles of coins
+from a dragon’s hoard or fine art stolen from a rich widow’s house. In
+any case, such treasure is worth 1 XP per Standard Coin of value. If it
+is ever unclear if treasure has been “recovered”, consider whether it
+was physically returned to a relatively civilized area, or if stolen in
+a civilized environment, to the character’s lair. Getting ripped off by
+unscrupulous fences won’t deny characters XP, but being waylaid by
+bandits between the dungeon and town will. &lt;/p&gt;
+&lt;p&gt;The guys from the Thieves’ Guild that Fafhrd and the Gray Mouser ripped
+off in Ill Met in Lankhmar did not receive experience for their
+treasure, whereas Fafhrd and the Gray Mouser did, despite eventually
+losing the treasure, because they got it back home and bought several
+rounds of booze with it.&lt;/p&gt;
+&lt;h4 id=&#34;killing-enemies&#34;&gt;Killing Enemies&lt;/h4&gt;
+&lt;p&gt;By default, player characters will receive 25 XP per HD of a dangerous
+foe killed. This does not distinguish between “monsters” or “people”,
+but some campaigns may wish to do so, if they have a greater or lesser
+focus on conflict between “civilized” people. Note that this is
+intentionally rather small compared to the potential rewards for
+treasure, because XP for treasure tends to encourage more interesting
+gameplay than XP for killing. &lt;/p&gt;
+&lt;h3 id=&#34;leveling-up-1&#34;&gt;Leveling Up&lt;/h3&gt;
+&lt;p&gt;When a character has achieved the required experience for the next level
+and has at least a week of downtime, they Level Up to the next level.
+Follow the procedure below at each level up.&lt;/p&gt;
+&lt;h4 id=&#34;add-new-hp&#34;&gt;Add New HP&lt;/h4&gt;
+&lt;p&gt;Through level 10, roll a new d6 HD and add the result to your
+character’s HP. Add your constitution modifier to the roll. After
+level 10, add 2 HP per level.&lt;/p&gt;
+&lt;h4 id=&#34;check-for-weapon-skill-improvement-and-add-if-relevant&#34;&gt;Check for Weapon Skill Improvement and Add if Relevant&lt;/h4&gt;
+&lt;p&gt;At every even level, add +1 to your character’s Weapon Skill.&lt;/p&gt;
+&lt;h4 id=&#34;select-and-apply-class-templates-max-4&#34;&gt;Select and apply class templates (max 4)&lt;/h4&gt;
+&lt;p&gt;For their first four levels, characters select a class template from
+those the referee has made available and apply the appropriate
+abilities. Each class has templates labeled A, B, C, D. You have to take
+the templates in order - you can’t pick ‘B’ without ‘A’.&lt;/p&gt;
+&lt;p&gt;After level 4, characters receive no more class abilities - additional
+power will have to come from other sources.&lt;/p&gt;
+&lt;h5 id=&#34;primary-class-and-multi-classing&#34;&gt;Primary Class and Multi-classing&lt;/h5&gt;
+&lt;p&gt;Each class has a “primary ability”. A character’s primary class is
+whichever one they have chosen the most templates from. In the case of a
+tie, pick whichever you prefer. Multi-classing is simply having
+templates from more than one class, and characters will only possess the
+primary ability of their primary class.&lt;/p&gt;
+&lt;h4 id=&#34;up-max-skill-rank&#34;&gt;Up Max Skill Rank&lt;/h4&gt;
+&lt;p&gt;Up until level six, note your characters new max Skill Rank to
+correspond to your new level. Max Skill Rank Six is the highest for any
+character.&lt;/p&gt;
+&lt;h2 id=&#34;referee-stuff&#34;&gt;Referee Stuff&lt;/h2&gt;
+&lt;h3 id=&#34;treasure&#34;&gt;Treasure&lt;/h3&gt;
+&lt;p&gt;Most treasure will be in Lairs of some kind, for which the table below
+will work, but when in doubt, you may substitute the level of the
+dungeon or the average player level for the monster HD to create a basic
+hoard:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;HD of Owner&lt;/th&gt;
+&lt;th&gt;Two Above Base Coin (1d12 - 6x)&lt;/th&gt;
+&lt;th&gt;One Above Base Coin (1d6x)&lt;/th&gt;
+&lt;th&gt;Base Coin&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;50&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;1d100 x100xHD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2-3&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;200&lt;/td&gt;
+&lt;td&gt;1d100 x100xHD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4-5&lt;/td&gt;
+&lt;td&gt;200&lt;/td&gt;
+&lt;td&gt;500&lt;/td&gt;
+&lt;td&gt;1d100 x100xHD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6-7&lt;/td&gt;
+&lt;td&gt;500&lt;/td&gt;
+&lt;td&gt;1,000&lt;/td&gt;
+&lt;td&gt;1d100 x100xHD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8-9&lt;/td&gt;
+&lt;td&gt;1,000&lt;/td&gt;
+&lt;td&gt;2,000&lt;/td&gt;
+&lt;td&gt;1d100 x100xHD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10-11&lt;/td&gt;
+&lt;td&gt;2,000&lt;/td&gt;
+&lt;td&gt;5,000&lt;/td&gt;
+&lt;td&gt;1d100 x100xHD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12+&lt;/td&gt;
+&lt;td&gt;3,000&lt;/td&gt;
+&lt;td&gt;10,000&lt;/td&gt;
+&lt;td&gt;1d100 x100xHD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Along with the following for non-cash treasure:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Die Type&lt;/th&gt;
+&lt;th&gt;Example&lt;/th&gt;
+&lt;th&gt;Value Per Item&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Clothing&lt;/td&gt;
+&lt;td&gt;1d6 vs W&lt;/td&gt;
+&lt;td&gt;Fine apparel and hangings&lt;/td&gt;
+&lt;td&gt;1d10x5 2 Above Base coins*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Goods&lt;/td&gt;
+&lt;td&gt;1d8 vs W&lt;/td&gt;
+&lt;td&gt;Well-made useful things&lt;/td&gt;
+&lt;td&gt;2d10x10 2 Above Base Coins*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Artwork&lt;/td&gt;
+&lt;td&gt;1d10 vs W&lt;/td&gt;
+&lt;td&gt;Paintings, statues, etc&lt;/td&gt;
+&lt;td&gt;1d10x20 2 Above Base Coins*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Gem/Jewel&lt;/td&gt;
+&lt;td&gt;1d12 vs W&lt;/td&gt;
+&lt;td&gt;Gems&lt;/td&gt;
+&lt;td&gt;1d10x50 2 Above Base Coins*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Magic&lt;/td&gt;
+&lt;td&gt;1d20 vs W&lt;/td&gt;
+&lt;td&gt;Magic Items&lt;/td&gt;
+&lt;td&gt;Generate as B/X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;*Rolling maximum results adds an additional re-roll of same potential
+value&lt;/p&gt;
+&lt;h3 id=&#34;monsters--npcs&#34;&gt;Monsters &amp;amp; NPCs&lt;/h3&gt;
+&lt;p&gt;One of the many things monsters and NPCs can do is fight the Player
+Characters. NPCs might have stats similar to PCs if they are important
+enough, but the below monster profile provides the barebones necessary
+for combat. NPCs are assumed to be average in every way (attributes =
+10) unless otherwise specified, so go with that when you have not
+prepared specifics.&lt;/p&gt;
+&lt;h4 id=&#34;monster-profile&#34;&gt;Monster Profile&lt;/h4&gt;
+&lt;p&gt;The following stat line can be used to summarize the relevant combat
+statistics for monsters and NPCs. Obviously, good monsters and NPCs will
+be more than these stat lines with interests, motivations, special
+attacks, weaknesses, and so on - but this is what you need at a moment’s
+notice when the dice hit the table.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mv&lt;/strong&gt;: How far this thing can move. If roughly humanoid, the standard movement
+rate is 12, which translates into 120 feet per exploration turn and 24
+feet per combat round. Roll this as a save if the monster attempts any
+kind of athletics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WS&lt;/strong&gt;: The monster’s weapon skill is added to its D20 rolls to hit opponents.
+Usually equal to the Monster’s HD, unless their fighting ability does
+not match their toughness.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SS&lt;/strong&gt;: The monster’s shooting skill is added to its D20 attack rolls for ranged
+attacks. Most monsters will either have 0 or 1 Shooting Skill, or it
+will be equal to their HD, depending on if they are incapable of
+shooting, can give it a shot (hah), or are trained archers/shootists.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Att&lt;/strong&gt;: The number of attacks the monster can make in a turn. If more than one,
+be on the look out for special attacks, which will hopefully be marked
+with an asterisk or the like.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HD&lt;/strong&gt;: The number of hit dice the monster has (D6s). For full on randomness,
+roll a number of D6s equal to this score per opponent to determine hit
+points. If you’re in a rush, assume 3.5 per die and round down (if you
+are soft) or round up (if you are hard) for every foe of the same time.
+If you have to worry about the monster’s “level”, such as for some spell
+effects, use HD.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AC&lt;/strong&gt;: The monster’s armor class - this may reflect armor worn, naturally thick
+hide, great reflexes, or any other number of reasons for being hard to
+wound. Have some idea what contributes to this before going into a
+fight, as players may try to take advantage of different characteristics
+(such as using Crushing weapons against mundane armor or magical weapons
+against demonic foes).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt;: This is the equivalent of a player’s Wisdom modifier and is added to the
+monster’s initiative roll. The default is ‘0’, but especially quick or
+dangerous monsters may have more. Usually it is most convenient to roll
+for all monsters with the same stats as one group. Feel free to go more
+granular, but it sucks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sv&lt;/strong&gt;: If the monster is ever called upon to make a saving throw, use this
+number. The default is 10. Some monsters may note that they have a
+variable save based on the type of danger (such as a very robust but
+dumb monster getting a bonus to saves against physical damage but a
+penalty to mental manipulation).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gts&lt;/strong&gt;: Most frequently, the monster’s Guts measures its willingness to
+continue a fight. It is a score from 3 to 12, and to test it, the
+referee rolls 2d6 - a score equal to or below Guts indicates a
+success. These rules are usually made on behalf of a group of creatures
+with the same Guts, which may be influenced by a leader. Occasionally,
+Guts will be used as a more generalized “will they/won’t they” stat
+for Monsters, at the referee’s discretion.&lt;/p&gt;
+&lt;h4 id=&#34;monster-hd&#34;&gt;Monster HD&lt;/h4&gt;
+&lt;p&gt;All monsters have a hit dice rating that is the equivalent of character
+level. Their HD are all D6s. Some monsters may have HP adjustments to
+their HD. HD may be rolled individually per monster or assumed to be an
+average of 3.5, rounded down (if you are soft) or rounded up (if you are
+hard). With large groups of monsters, it is usually preferable to assume
+constant HP for all monsters of identical stats.&lt;/p&gt;
+&lt;h4 id=&#34;monster-ws&#34;&gt;Monster WS&lt;/h4&gt;
+&lt;p&gt;Unless otherwise specified, monsters default to +1 WS per HD. Some
+monsters will adjust this up or down depending on their inclination to
+kill things. This is somewhat more dangerous than most adventurers, but
+they need all the help they can get.&lt;/p&gt;
+&lt;h4 id=&#34;monster-damage&#34;&gt;Monster Damage&lt;/h4&gt;
+&lt;p&gt;As with characters, all monster damage is equal to D6 per attack by
+default. Some special attacks may gain advantage, and some very special
+attacks may roll multiple dice or larger dice for damage. The referee is
+encouraged to design such monsters sparingly, and to be careful when
+converting monsters from versions later than OD&amp;amp;D, as D6 HD PCs are
+much more fragile than their later edition cousins. It is generally
+preferable for monsters to be made more dangerous through multiple
+attacks, inflicting special penalties, or affecting an area, rather than
+upping the HP output for a single attack.&lt;/p&gt;
+&lt;h4 id=&#34;treasure-1&#34;&gt;Treasure&lt;/h4&gt;
+&lt;h5 id=&#34;pocket-change&#34;&gt;Pocket Change&lt;/h5&gt;
+&lt;p&gt;Intelligent monsters can be assumed to carry some small amount of money
+about on their persons. Such monsters and characters can be assumed to
+carry 1d10 x HD^2 in base coins - on a roll of ’10’, roll again for the
+next highest denomination of coin, and if that comes up a ’10’, give
+this random schmoe some minor treasure or special item.&lt;/p&gt;
+&lt;p&gt;Some especially wealthy characters or creatures may have more on them
+than this, but they should be correspondingly more carefully guarded
+and/or careful with where they keep their wealth. &lt;/p&gt;
+&lt;h4 id=&#34;lairs&#34;&gt;Lairs&lt;/h4&gt;
+&lt;p&gt;Monsters of the treasure hoarding kind will have more treasure in their
+lair than on their person. In such cases, you can either place whatever
+treasure you like, or you can use the following tables to get some
+ideas.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;HD of Owner&lt;/th&gt;
+&lt;th&gt;Two Above Base Coin (1d12 - 6x)&lt;/th&gt;
+&lt;th&gt;One Above Base Coin (1d6x)&lt;/th&gt;
+&lt;th&gt;Base Coin&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;$50.00&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;1d100 x100xHD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2-3&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;200&lt;/td&gt;
+&lt;td&gt;1d100 x100xHD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4-5&lt;/td&gt;
+&lt;td&gt;200&lt;/td&gt;
+&lt;td&gt;500&lt;/td&gt;
+&lt;td&gt;1d100 x100xHD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6-7&lt;/td&gt;
+&lt;td&gt;500&lt;/td&gt;
+&lt;td&gt;1,000&lt;/td&gt;
+&lt;td&gt;1d100 x100xHD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8-9&lt;/td&gt;
+&lt;td&gt;1,000&lt;/td&gt;
+&lt;td&gt;2,000&lt;/td&gt;
+&lt;td&gt;1d100 x100xHD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10-11&lt;/td&gt;
+&lt;td&gt;2,000&lt;/td&gt;
+&lt;td&gt;5,000&lt;/td&gt;
+&lt;td&gt;1d100 x100xHD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12+&lt;/td&gt;
+&lt;td&gt;3,000&lt;/td&gt;
+&lt;td&gt;10,000&lt;/td&gt;
+&lt;td&gt;1d100 x100xHD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Along with the following for non-cash treasure:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Die Type&lt;/th&gt;
+&lt;th&gt;Example&lt;/th&gt;
+&lt;th&gt;Value Per Item&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Clothing&lt;/td&gt;
+&lt;td&gt;1d6 vs W&lt;/td&gt;
+&lt;td&gt;Fine apparel and hangings&lt;/td&gt;
+&lt;td&gt;1d10x5 2 Above Base coins*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Goods&lt;/td&gt;
+&lt;td&gt;1d8 vs W&lt;/td&gt;
+&lt;td&gt;Well-made useful things&lt;/td&gt;
+&lt;td&gt;2d10x10 2 Above Base Coins*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Artwork&lt;/td&gt;
+&lt;td&gt;1d10 vs W&lt;/td&gt;
+&lt;td&gt;Paintings, statues, etc&lt;/td&gt;
+&lt;td&gt;1d10x20 2 Above Base Coins*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Gem/Jewel&lt;/td&gt;
+&lt;td&gt;1d12 vs W&lt;/td&gt;
+&lt;td&gt;Gems&lt;/td&gt;
+&lt;td&gt;1d10x50 2 Above Base Coins*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Magic&lt;/td&gt;
+&lt;td&gt;1d20 vs W&lt;/td&gt;
+&lt;td&gt;Magic Items&lt;/td&gt;
+&lt;td&gt;Generate as B/X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;*Rolling maximum results adds an additional re-roll of same potential
+value&lt;/p&gt;
+&lt;h4 id=&#34;guts-rolls-1&#34;&gt;Guts Rolls&lt;/h4&gt;
+&lt;p&gt;Monsters will generally test their Guts in a few standard situations,
+and also whenever the referee deems it situationally appropriate. Some
+standard reasons to roll Guts: ambushed from surprise, take first
+casualty, reduced to half strength, lose leader or champion, subject to
+infighting. Guts is something of a catch all for determining monster
+behavior outside of direct reaction to the player characters (for which
+we have the reaction roll). When failed the referee should have the
+monsters react according to their base nature, rather than what is best
+for them: cowardly ratmen might flee a fight despite seemingly
+overwhelming odds, whereas Ogres might stay and try to eat their foes
+despite being desperately outclassed and ordered to run away. &lt;/p&gt;
+&lt;h4 id=&#34;experience-1&#34;&gt;Experience&lt;/h4&gt;
+&lt;p&gt;Monsters offer 25 XP per HD when killed by the player characters. Some
+campaigns may allow that XP for “circumventing” or “solving” those
+monsters, but by default, such indirect means are intended to be
+captured by the (faster moving) system of gaining XP for treasure. Some
+especially dangerous or important monsters may offer more experience, at
+the referee’s discretion.&lt;/p&gt;
 - http://jpowellrussell.com/gaming/2017-12-12-russell-house-rules-core/ - </description>
         </item>
     
