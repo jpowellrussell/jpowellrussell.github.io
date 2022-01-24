@@ -59,3 +59,114 @@ footer {
     height: auto;
   }
 }
+
+/* Text attributes */
+body {
+    color: #704214;
+    background-color: #fffdf8;
+	font-family: "Crimson";
+}
+
+h1, 
+.jpr-h1,
+h2,
+.jpr-h2,
+h3,
+.jpr-h3,
+h4,
+.jpr-h4,
+h5,
+.jpr-h5,
+h6,
+.jpr-h6 {
+    color: #3f250b;
+	margin-top: .1rem;
+	line-height: 1.1;
+}
+
+h1, 
+.jpr-h1 {
+	font-size: 250%;
+	font-style: bold;
+	margin-bottom: .2rem;
+}
+
+h2,
+.jpr-h2 {
+	font-size: 150%;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: uppercase;
+	margin-bottom: .1rem;
+}
+
+h3,
+.jpr-h3 {
+	font-size: 125%;
+	font-style: bold;
+	margin-bottom: 0;
+}
+h4,
+.jpr-h4,
+h5,
+.jpr-h5,
+h6,
+.jpr-h6 {
+	font-size: normal;
+	margin-bottom: 0;
+}
+
+h4,
+.jpr-h4 {
+	font-variant: small-caps;
+}
+
+h5,
+.jpr-h5 {
+	font-style: bold;
+}
+
+h6,
+.jpr-h6 {
+	font-style: italic;
+	font-weight: normal;
+}
+
+small, 
+.jpr-small {
+
+}
+
+p,
+.jpr-p {
+    line-height: 1.1;
+	margin-top: 0;
+	margin-left: .25rem;
+	margin-right: .25rem;
+	margin-bottom: 1.1rem;
+}
+
+a {
+	color: #709a5b;
+}
+
+a:visited {
+	color: #3a502f;
+	text-decoration: underline;
+}
+
+a:hover,
+a:focus,
+a:active {
+	font-style: bold;
+}
+
+ol,
+ul {
+	margin-top: .1rem;
+}
+
+
+li {
+	line-height: 1.1;
+}
