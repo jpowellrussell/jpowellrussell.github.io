@@ -19,7 +19,7 @@ header {
 /* Create two columns/boxes that floats next to each other */
 nav {
   float: left;
-  width: 30%;
+  width: 10%;
   /* background: #ccc; */
   padding: 20px;
 }
@@ -33,7 +33,7 @@ nav ul {
 main {
   float: left;
   padding: 20px;
-  width: 70%;
+  width: 40%;
   /* background-color: #f1f1f1; */
 }
 
@@ -55,7 +55,7 @@ footer {
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
 @media (max-width: 600px) {
   nav, article {
-    width: 100%;
+    width: 50%;
     height: auto;
   }
 }
