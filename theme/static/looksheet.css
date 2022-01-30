@@ -37,14 +37,14 @@ main {
   /* background-color: #f1f1f1; */
 }
 
-right margin {
+right_margin {
   float: right;
   width: 30%;
   /* background: #ccc; */
   padding: 20px;
 }
 
-left margin {
+left_margin {
   float: right;
   width: 20%;
   /* background: #ccc; */
