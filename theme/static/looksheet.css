@@ -19,7 +19,7 @@ header {
 /* Create two columns/boxes that floats next to each other */
 nav {
   float: left;
-  width: 10%;
+  width: 30%;
   /* background: #ccc; */
   padding: 20px;
 }
@@ -35,6 +35,13 @@ main {
   padding: 20px;
   width: 40%;
   /* background-color: #f1f1f1; */
+}
+
+margin {
+  float: right;
+  width: 30%;
+  /* background: #ccc; */
+  padding: 20px;
 }
 
 /* Clear floats after the columns */
