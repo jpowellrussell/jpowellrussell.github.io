@@ -38,14 +38,14 @@ main {
 }
 
 right_margin {
-  float: right;
+  float: left;
   width: 30%;
   /* background: #ccc; */
   padding: 20px;
 }
 
 left_margin {
-  float: right;
+  float: left;
   width: 20%;
   /* background: #ccc; */
   padding: 20px;
