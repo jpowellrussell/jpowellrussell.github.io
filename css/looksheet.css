@@ -10,45 +10,52 @@ title {
 
 /* Style the header */
 header {
-  /* background-color: #666; */
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  /* color: white; */
+    /* background-color: #666; */
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    /* color: white; */
 }
 
 /* Style the main content column */
 main {
   float: left;
-  padding: 20px;
-  /* padding-left: 20px; */
+  padding-left: 20px;
   /* padding-top: 20px; */
-  /* padding-right: 20px; */
-  /* padding-bottom: 20px; */
+  padding-right: 20px;
+  padding-bottom: 20px;
   width: 50%;
   /* height: 100%; */
-  overflow: auto;
-  box-sizing:border-box;
+  /* overflow: auto; */
+  /* box-sizing:border-box; */
   /* background-color: #f1f1f1; */
 }
 
 /* Style the whitespace to the right of main content */
 right_margin {
-  float: left;
-  width: 25%;
-  /* background: #ccc; */
-  padding: 20px;
+    float: left;
+    width: 25%;
+    padding-left: 20px;
+    padding-right: 20px;
+    /* padding-top: 20px; */
+    padding-bottom: 20px;
+    padding: 20px;
 }
 
 /* Style the column to the left of the main column */
 left_margin {
-  float: left;
-  width: 25%;
-  /* background: #ccc; */
-  padding: 20px;
-  box-sizing: border-box;
+    float: left;
+    width: 25%;
+    padding-left: 20px;
+    padding-right: 20px;
+    /* padding-top: 20px; */
+    padding-bottom: 20px;
+    margin-top: 3rem;
+  /* box-sizing: border-box; */
   /* height: 100%; */
-  overflow: auto;
+  /* overflow: auto; */
   /* -ms-overflow-style: none;  /\* IE and Edge *\/ */
   /* scrollbar-width: none;  /\* Firefox *\/ */
 }
@@ -75,8 +82,9 @@ footer {
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other, on small screens */
 @media screen and (max-width: 800px) {
-    left_margin, main, right_margin {
-      width: 100%;
+    header, left_margin, main, right_margin {
+        width: 100%;
+        margin: 0%;
     }
 }
 
@@ -209,6 +217,7 @@ hr {
     height: 1px;
     border: 0;
     border-top: 2px solid #3a502f;
-    margin: 1em 0;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     padding: 0;
 }
