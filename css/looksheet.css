@@ -17,20 +17,7 @@ header {
   /* color: white; */
 }
 
-/* Create two columns/boxes that floats next to each other */
-nav {
-  float: left;
-  width: 10%;
-  /* background: #ccc; */
-  padding: 20px;
-}
-
-/* Style the list inside the menu */
-nav ul {
-  list-style-type: none;
-  padding: 0;
-}
-
+/* Style the main content column */
 main {
   float: left;
   padding: 20px;
@@ -40,11 +27,12 @@ main {
   /* padding-bottom: 20px; */
   width: 50%;
   /* height: 100%; */
-  /* overflow: auto; */
-  /* box-sizing:border-box; */
+  overflow: auto;
+  box-sizing:border-box;
   /* background-color: #f1f1f1; */
 }
 
+/* Style the whitespace to the right of main content */
 right_margin {
   float: left;
   width: 25%;
@@ -52,22 +40,23 @@ right_margin {
   padding: 20px;
 }
 
+/* Style the column to the left of the main column */
 left_margin {
   float: left;
   width: 25%;
   /* background: #ccc; */
   padding: 20px;
   box-sizing: border-box;
-  height: 100%;
+  /* height: 100%; */
   overflow: auto;
   /* -ms-overflow-style: none;  /\* IE and Edge *\/ */
   /* scrollbar-width: none;  /\* Firefox *\/ */
 }
 
 /*Hide the Scrollbar in Webkit Browsers */
-.margin::-webkit-scrollbar {
-    display:none;
-}
+/* .margin::-webkit-scrollbar { */
+/*     display:none; */
+/* } */
 
 /* Clear floats after the columns */
 section::after {
@@ -84,19 +73,19 @@ footer {
   /* color: white; */
 }
 
-/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
-@media (max-width: 600px) {
-  nav, article {
-    width: 60%;
-    height: auto;
-  }
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other, on small screens */
+@media screen and (max-width: 800px) {
+    left_margin, main, right_margin {
+      width: 100%;
+    }
 }
 
 /* Text attributes */
 body {
     color: #704214;
     background-color: #fffdf8;
-	font-family: "Crimson";
+    font-family: "Crimson";
+    font-size: 115%;
 }
 
 h1, 
@@ -177,7 +166,7 @@ small,
 
 p,
 .jpr-p {
-    line-height: 1.1;
+    line-height: 1.2;
 	margin-top: 0;
 	margin-left: .25rem;
 	margin-right: .25rem;
