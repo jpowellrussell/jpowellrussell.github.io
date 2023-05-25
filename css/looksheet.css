@@ -116,7 +116,7 @@ h1,
 .jpr-h1 {
     margin-top: .2rem;
     font-size: 350%;
-    font-style: bold;
+    font-weight: bold;
     margin-bottom: .4rem;
 }
 
@@ -133,7 +133,7 @@ h2,
 h3,
 .jpr-h3 {
 	font-size: 125%;
-	font-style: bold;
+	font-weight: bold;
 	margin-bottom: 0;
 }
 h4,
@@ -153,7 +153,7 @@ h4,
 
 h5,
 .jpr-h5 {
-	font-style: bold;
+	font-weight: bold;
 }
 
 h6,
@@ -198,7 +198,7 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-	font-style: bold;
+	font-weight: bold;
 }
 
 ol,
