@@ -162,8 +162,13 @@ h6,
 	font-weight: normal;
 }
 
-h2.Post  {
+h1.Post  {
     font-size: 200%;
+    margin-top: 3rem;
+}
+
+h1.Footer {
+    font-size: 50%;
     margin-top: 3rem;
 }
 
