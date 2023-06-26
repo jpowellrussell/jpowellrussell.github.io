@@ -14,8 +14,8 @@
   <link></link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Sun, 18 Jun 2023 23:01:00 -0500</pubDate>
-  <lastBuildDate>Sun, 18 Jun 2023 23:01:00 -0500</lastBuildDate>
+  <pubDate>Sun, 25 Jun 2023 20:17:56 -0500</pubDate>
+  <lastBuildDate>Sun, 25 Jun 2023 20:17:56 -0500</lastBuildDate>
   <generator>Emacs 29.0 Org-mode 9.7-pre</generator>
   <webMaster>jeff.powell.russell@gmail.com (Jeff Russell)</webMaster>
   <image>
@@ -25,528 +25,695 @@
   </image>
 
   <item>
-    <title>The Trouble with Authenticity</title>
-    <link>./https://jpowellrussell.com/#the_trouble_with_authenticity</link>
+    <title>How the Cost of Freight Has Shaped the World</title>
+    <link>./https://jpowellrussell.com/#how_the_cost_of_freight_has_shaped_the_world</link>
     <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
-    <guid isPermaLink="false">./https://jpowellrussell.com/#the_trouble_with_authenticity</guid>
-    <pubDate>Sun, 18 Jun 2023 22:51:00 -0500</pubDate>
+    <guid isPermaLink="false">./https://jpowellrussell.com/#how_the_cost_of_freight_has_shaped_the_world</guid>
+    <pubDate>Sun, 25 Jun 2023 12:51:00 -0500</pubDate>
     <category><![CDATA[rss]]></category>
     <description><![CDATA[<p>
-    <b>Date</b>: 2023-June-18
+    <b>Date</b>: 2023-June-25
     </p>
 
     <p>
-    I've been letting my thoughts about <a href="https://www.youtube.com/watch?v=K9ZPa4vleiU">authenticity</a> and how we should think about
-    it when it comes to belief simmer for a while now. I've gone from giving
-    authenticity nearly the top spot for working out what to believe and how to
-    worship to now giving it a much narrower job. I think a lot of us grapple with
-    authenticity in belief, but I've yet to see anyone go over it as thoroughly as I
-    might wish. Luckily, I read something the other day that helped untangle what
-    had been holding me back. To get there, though, let's lay some groundwork.
+    Ever since I read this <a href="https://terminalvelocity-rpg.blogspot.com/2021/11/freight-rates-and-what-they-mean-for.html">post</a> about what the cost of freight says about your
+    sci-fi setting, I've been thinking about what it means for the real world. If
+    you don't care about sci-fi world building, don't worry, that's not where I'm
+    going with this, but here's what the post does: it spells out what the world
+    would be like with cheaper or costlier shipping . If you have very cheap
+    freight, you move all kinds of things between worlds. If freight is dear,
+    though, you only ship the fanciest things - if you're gonna bring food, it might
+    as well be steak and lobster. Interesting enough if you're a writer or building
+    an RPG setting, but what does that have to do with the this world right here?
+    Well, it seems to me that when folks talk about the industrial revolution, they
+    always talk about <i>production</i> and almost not at all about <i>distribution</i>. This
+    might be a mistake - I'm starting to think that cheaper shipping has had at
+    least as much to do with making the industrial world as mass production. Maybe
+    somebody else has already done this to death, so if you happen to know of any
+    books that talk about this, kindly let me know, as I'd love to read them.
+    </p>
+
+    <p>
+    This is a big, hairy topic, and one I'm likely to come back to, but I wanted to
+    think out loud a bit and see if that gets me anywhere. First off, let me lay out
+    an important premise underlying what follows: whatever else the industrial
+    revolution has been, it is <i>mostly</i> the story of energy becoming <a href="https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html">insanely cheap</a>
+    (Tim Urban is rather more sanguine on future energy than I am, but he does a
+    good breakdown on the history). For most of human history, the most energy we
+    could harness was putting a mill near a waterfall, but over the course of the
+    19th and 20th century, we found fossil fuels and worked out how to burn them to
+    make stuff happen, and we're still burning them like crazy.
+    </p>
+
+    <p>
+    Okay, so I bring up energy and the industrial revolution - what's the first
+    thing that comes to mind? Factories, right? True, steam power, and later
+    electricity, allowed for cranking out a lot of stuff with a lot less human
+    input. Undoubtedly, this is a big part of the story, but I think we all know it
+    pretty well. What we think about less is how did all of this factory-made stuff
+    get to where it was going?
+    </p>
+
+    <p>
+    Let's do a little thought experiment. Imagine you live in a town ringed by
+    impassable mountains. Everything the folks of the town need gets made here, all
+    business stays within these mountains. If you were to build a factory that can
+    make 100 widgets for every one the storied widget master craftsman can turn out,
+    who is going to buy them? Now imagine a pass gets blasted and there are dozens
+    of towns now within a day's ride. All of a sudden, the factory seems like a
+    better deal, right? This is basic supply and demand stuff, but the heart of the
+    idea is that productive capacity is only as useful as the size of the market
+    that can/will buy what it makes.
+    </p>
+
+    <p>
+    You can likely see where I'm going with this. With steam ships, rail, and later
+    trucking, the whole world became the market for things made anywhere. Economies
+    of scale do more for you when you can sell to such a large market. It used to be
+    that most folks could afford to have all of their furniture hand made out of
+    real wood - since every village had a woodworker. Nowadays, mass production plus
+    long-distance shipping means one factory in China can spit out furniture for
+    millions of people. Thanks to fossil fuels, that's way cheaper than having some
+    dude down the street do it, so the only handmade furniture is super high-end
+    Amish stuff that you have to take out a second mortgage to buy.
+    </p>
+
+    <p>
+    Take pretty much any craft that used to be done in the neighborhood and cheap
+    shipping has wrecked it.
+    </p>
+
+    <p>
+    But it's not only about shipping <i>stuff</i>. As the writer of the sci-fi post points
+    out, above a given shipping price, you don't get space truckers, you get
+    astronauts: if mass is expensive, you want the chunks of mass you have to have
+    (read: the crew) to be as useful and worthwhile as can be. It turns out that
+    shipping workers, or at least their work, has all kinds of knock-on outcomes. I
+    first came across the bearing of transportation and communication on work in
+    <a href="https://www.drorpoleg.com/rise-of-the-10x-class/">this post</a> by Dror Poleg. As with Tim Urban, let's set aside where Poleg thinks
+    things are going and zoom in on some of the history he shares instead. Late in
+    the 1800s, some economists began to mark some changes to some jobs, but not
+    others. For one thing, most musicians and other performers began making less
+    money, but a handful started making <i>way</i> more - for the first time, there were
+    "stars". What had happened was that performers could now cheaply and quickly get
+    around the country. Those who were very good started drawing crowds wherever
+    they went. So, if you were the best singer in New York, now you could also be
+    the best singer in Philadelphia and Washington and so forth. Great news for the
+    star! But what about the best singer in Washington? Maybe she's not as good as
+    the New York one, so whenever New York comes down to sing, that lady is no
+    longer the best singer in Washington. Before trains, every town needed singers,
+    and all of them could do okay. But with trains, fewer singers could give a
+    bigger market what it wanted, and that heated up the competition between all
+    singers, with a few winners and lots of losers. And that was just from <i>trains</i>.
+    Once we got recordings and broadcast, that competition got taken to 11 - since
+    it became <i>even cheaper</i> to "ship" the "product."
+    </p>
+
+    <p>
+    For me, that story unlocked the thought that making it cheaper to reach a wider
+    market can lead to a lot of unforeseen outcomes. Once I found that lens, I have
+    found it helpful to look at all kinds of things with it.
+    </p>
+
+    <p>
+    For example, take suburbia. You can talk about all kinds of things that added to
+    the trend for a bunch of folks to start living in a way no one else has for all
+    of human history, but you can say one thing for sure: you can't have suburbs
+    without a cheap way to get into the city. Sure, some early suburbs came about
+    once trains became common, but it was the widespread adoption of cars that made
+    suburbia mushroom through such a wide swath of the US. As the performer example
+    above showed, though, it's not only moving the person doing the work, it's
+    moving the product as well - and these days, most knowledge work can be done
+    remotely, which is even cheaper than commuting. We know what knowledge work
+    looks like when the worker can't zoom into the city from miles away in a car or
+    Zoom into the meeting from his laptop - you get a bunch of scribes and clerks.
+    Read some Dickens to get the idea.
+    </p>
+
+    <p>
+    It's not just work, either.
+    </p>
+
+    <p>
+    It used to be that if you wanted to talk to folks, you had to go to the bar or
+    the Loyal Order of Water Buffalo lodge or wherever. These days, you can just get
+    out your laptop and hop on Discord or Slack. Not only do you have more folks you
+    can talk to, you can talk about <i>whatever</i> you want - you can get down into some
+    very weird, very tiny little niches and find folks that care about your weird
+    thing as much as you do instead of struggling through listening to your neighbor
+    talk about whatever dumb thing he cares about. As I hinted when I <a href="https://jpowellrussell.com/#cows_don_t_know_what_s_best_for_them">talked about
+    cows</a>, it might be that all of this unfettered choice has some downsides. Maybe
+    the <a href="https://www.alibris.com/Bowling-Alone-The-Collapse-and-Revival-of-American-Community-Robert-D-Putnam/book/783607?matches=146">dwindling of our sundry clubs, lodges, and groups</a> is not as much about the
+    weakening worth of our folk as it is that doing something else is just <i>too easy</i>.
+    </p>
+
+    <p>
+    I don't really know what could or should be done about some of the downsides of
+    cheap freight, most of all since it seems like the more I look at it, the more
+    things it touches. As I said above, this might all be well-trodden ground, so
+    maybe others have already come up with thoughts on how to handle all of this
+    (again, if so, kindly let me know). For now, this is more of a thread I'm
+    picking up on when I come across it than something I'm going to buckle down and
+    dig deep on - so, look for more thoughts on this, but I don't know when.
     </p>
 
     <ul class="org-ul">
-    <li><a id="org03f6901"></a>Authentic Things Come From Where They Say They Do<br />
-    <div class="outline-text-3" id="text-org03f6901">
+    <li><a id="orgfd83ee7"></a>Post Footer<br />
+    <div class="outline-text-3" id="text-orgfd83ee7">
     <p>
-    First off, what are we even talking about when I say "authenticity?" A lot of
-    folks have meant a lot of things by this word, so I'm going to borrow a way of
-    pinning it down from one of the works that has shaped my thinking, <a href="https://www.ecosophia.net/blogs-and-essays/the-well-of-galabes/a-few-words-about-authenticity/">this post
-    from John Michael Greer</a>:
+    <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/8865.html">dreamwidth post</a>.</i>
     </p>
 
-    <blockquote>
-    <p>
-    Authenticity is a matter of whether something has the source it claims to have;
-    validity is a matter of whether it works.
-    </p>
-    </blockquote>
-
-    <p>
-    See that word "validity?" Keep it in mind for later, as it's the supporting
-    actor to our star. For now, though, you can see this meaning of "authenticity"
-    rests on <i>where</i> did something come from, and a bit less so on whether the
-    wellspring from which it comes has the right to bestow the name it calls itself.
-    Here's a couple of somewhat silly examples: Greg Graffin starts a new band, and
-    it doesn't sound much like Bad Religion, but he says "this is punk rock." Most
-    folks would go "okay, yeah, I can hear that." On the other hand, some unknown 15
-    year old gets together four of his best friends, they learn to sing in lovely
-    harmony, and they put together some stunning dance moves that dazzle all the
-    girls in their high school, but since their oh-so-harmonized and
-    carefully-choreographed lyrics are about anarchy, they say that what they're
-    doing is "punk" - we might not be as likely to go along with that.
-    </p>
-
-    <p>
-    Or take something near and dear to my Texan heart: chili. If your Texan
-    grandmother learned how to make chili from her range cook daddy, even if she
-    does something most folks don't with chili, we're not gonna fight her when she
-    says "this is real chili." If a hip Paris chef dreams up a brand new spicy vegan
-    soup and calls it chili, we might feel a little otherwise.
-    </p>
-
-    <p>
-    What I'm getting at here is to build on Greer's meaning a bit: our high school
-    friends could say "we're punk because our friend Bill said we are," which might
-    be wholly true. Their punk brand comes from Bill, so they have the source they
-    say they do, but for us to work out whether we <i>buy</i> it, we have to know who Bill
-    is and what makes him a rightful giver of the much-sought mark of "punk."
-    </p>
-
-    <p>
-    Okay, so are we on the same leaf about what we mean by "authenticity" for
-    today's talk? Good. Now that we know what we're talking about, we get to an even
-    weightier asking: why do we care? Isn't it kinda open-and-shut that it's a good
-    thing for something to come from where it says it does, and for that somewhere
-    to be somehow rightful? As you may have gathered from the name of this post, I
-    <i>don'/t</i> think it's open-and-shut, but authenticity <i>can</i> be very helpful, so let's
-    take a moment to talk about what authenticity can do for us.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org6a86797"></a>Folks Use Authenticity as a Shortcut for Validity<br />
-    <div class="outline-text-3" id="text-org6a86797">
-    <p>
-    At its heart, authenticity is a rule of thumb for working out whether we can
-    <i>trust</i> someone or something - is he who he says he is? Did folks truly believe
-    this stuff back in the day? If a work tells you what to do or how to be, by what
-    right does it do so? Put bluntly, things that are not authentic are often <i>lying</i>
-    somehow. If a set of teachings doesn't truly come from where it says it does,
-    how do you know whether anything else in those teachings is true? If the
-    wellspring of a belief is somehow not rightful (legitimate), then maybe that
-    belief isn't either. And if a belief is new, how do we know what effects it will
-    have on those who adopt it in the long run? I've stated all these as problems
-    with the inauthentic, but lets put them positively for the authentic: ideally, a
-    tradition or set of beliefs that is authentic should come from where it says it
-    does, that source should have some claim to validity with regard to its
-    teachings, and ideally, the tradition holding these teachings going back to this
-    source should have been around for a good, long time to see how it responds to
-    the world as it actually is, rather than as its imagined.
-    </p>
-
-    <p>
-    This is all rather airy, so let's come down to ground a bit. Take Catholicism.
-    Catholicism says that it is the body of beliefs, practices, and teachings that
-    began with Jesus Christ, as built on by the Church for the last 2,000 years.
-    Now, as for the wellspring, of course some folks don't think there was a living,
-    breathing man named Jesus, much less that he was the son of God and God Himself
-    in the flesh. But we do know that at least that in the first hundred years CE, a
-    new set of beliefs and worship got started in Judea and began to spread around
-    the Roman Empire, and that all of today's Christians, including the Catholic
-    Church, can follow an a unbroken path back to that set of beliefs and worship.
-    How about rightfulness? Well, clearly not everyone acknowledges the rightfulness
-    of the Catholic Church to settle things about Godlore (exhibit A: Martin
-    Luther), but the Church <i>does</i> have a long-running and fairly readily grasped way
-    of working out who gets to say authoritative things about the Church,
-    understanding of holy writing, and changes to ways of doing things. And again,
-    there's a clear throughline for this way of doing things going back 2,000 years.
-    Therefore, most folks would have very little trouble acknowledging mainstream
-    Catholicism as an "authentic" set of beliefs. Even if you don't think they are
-    <i>right</i>, you also likely don't think they are <i>fake</i>.
-    </p>
-
-    <p>
-    On the other hand, let's take Scientology. The wellspring was a fairly, but by
-    no means wildly, well-known and well-liked mid-twentieth century science fiction
-    author who said that he gained insight into the make-up of Being while working
-    with folks through a kind of therapy he had worked up. Said author was heard by
-    friends and family talking about how religion was the way to make money.
-    Sometime later, after a bankruptcy, he shifted from calling his therapy a
-    scientific way to a spiritual one, and was hit with a handful of criminal
-    charges as his new church grew. Said church was officially incorporated as a
-    religious organization in 1953. The way the church works out who gets to make
-    settle what is religiously true, how those settlements get made, and even what
-    those settlements are is well-known for its murkiness and kept to a narrow group
-    of folks high up in the church. From all this, many folks (myself included) do
-    not see Scientology as all that authentic, whatever else it may or may not be.
-    I'll leave it up to you whether the rule of thumb "don't trust Scientology since
-    they seem not to be authentic" is worth following here, but I know where I land.
-    </p>
-
-    <p>
-    I want to talk more about <i>why</i> we are so keen to look at authenticity as if it
-    were validity, but first I want to talk a bit about some of the turns my own
-    spiritual path has taken thus far and what it has taught me about authenticity
-    and validity.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="orgc87648d"></a>But Authenticity Doesn't Wholly Get At Validity<br />
-    <div class="outline-text-3" id="text-orgc87648d">
-    <p>
-    Okay, so we've laid out how authenticity can be a helpful shortcut for thinking
-    about some of the things we care about in weighing a religious or spiritual
-    belief. To get at why I think authenticity is not <i>enough</i> by itself, and
-    sometimes needs to give way to some other ways of judging a set of teachings,
-    though, I think it will be helpful to talk a bit about what I've done and where
-    authenticity has fit in with that.
-    </p>
-
-    <p>
-    As you may <a href="https://jpowellrussell.com/#open-minded_materialists_gentle_introduction_to_spirituality">remember</a>, not so long ago, I was a pretty won over by atheistic
-    materialist. If you pushed me, I'd say that I didn't know for sure, and there
-    wasn't really any way to do so, but it was smarter to start out needing to be
-    talked out of the thought that there was nothing but the material world, rather
-    than the other way around. Even though (because of?) this, I still found myself
-    drawn to myth, magic, and other spiritual things, most of all the weirder stuff.
-    Then, an <a href="http://www.catb.org/~esr/writings/dancing.html">essay</a> by a thinker I had long looked up to, Eric S. Raymond, helped
-    bring together some fuzzy hunches I had into a way of looking at the world that
-    hung together. Namely, that religious or magical practices <i>might</i> do <i>something</i>,
-    whether or not the metaphysics behind the ritual were what they said they were.
-    For one materialist take on how magic might "work," even if not in the way or
-    for the reasons thought by those doing the magic, check out this <a href="https://samzdat.com/2017/06/19/the-use-and-abuse-of-witchdoctors-for-life/">tale of
-    invulnerability potions against bullets in Africa</a>. Anyhow, I reckoned that if
-    magic was good enough for arch-materialist Raymond, it was good enough for me,
-    and so I had "permission" to check out magic and weirdo religion while keeping
-    my rational materialist way of seeing myself and the world.
-    </p>
-
-    <p>
-    So, the frame through which I looked at this stuff was something like this: 1.
-    almost all humans in all steads for all time have had some kind of
-    magical/religious ritual, 2. ritual seems to do <i>some</i> good things that you can't
-    get without it, and 3. ritual seems to reach the nethermind (subconscious) in
-    ways that don't always make sense to the speaking, wakeful (conscious) mind. In
-    this frame, it seemed straightforward that I needed a set of practices that 1.
-    spoke to me aesthetically, as that would shape how strongly my nethermind would
-    answer to it, 2. that fit with Jungian psychology, which seemed to have the best
-    grasp on the very deep, dark places of the mind, and 3. came from a time and
-    stead in the past that took it seriously, since that ought to mean it works.
-    Well, listing these benchmarks make it sound like I went through some
-    thoroughgoing search, poking and testing myth and magic from around the world,
-    but no. Instead, it was always clearly Germanish myth. Even when I was Christian
-    back in college, I would "joke" that if Christianity weren't true, I'd want to
-    go to Valhalla. Luckily, all elder polytheistic sets of beliefs fit with Jungian
-    psychology and had been held by large groups of folks, any of them would have
-    met those benchmarks. That being said, as you might have gathered from what I
-    said about Raymond's work above, I had landed on what some folks mean when they
-    say "soft polytheism" - I thought that the sundry Gods, Goddesses, and other
-    beings were sub-processes of my nethermind shared with the rest of mankind.
-    Powerful? Yes. Maybe scary sometimes? Yes. "Real" in any way other than "all of
-    mankind evolved these same personified shapes of thought?" Not so much.
-    </p>
-
-    <p>
-    On that footing, I started doing a lot of reading - learning the myths, reading
-    about what today's worshippers did, and a <i>lot</i> about the Runes. Whenever a writer
-    grounded what he was talking with the Gods as "really real," I'd say to myself
-    "yeah, sure thing, buddy," but even though I didn't think their way of
-    understanding the world was right, I worked to keep a fairly open mind to the
-    thought that they might know a thing or two about how to get the outcomes I
-    wanted. So, I started saying prayers. I started giving beer to the Gods and
-    wights (spirits). At some point, I read <a href="https://www.ecosophia.net/blogs-and-essays/the-well-of-galabes/how-not-to-learn-magic-an-introductory-note/">this</a> <a href="https://www.ecosophia.net/blogs-and-essays/the-well-of-galabes/foundations-of-magical-practice-ritual/">set</a> <a href="https://www.ecosophia.net/blogs-and-essays/the-well-of-galabes/foundations-of-magical-practice-meditation/">of</a> <a href="https://www.ecosophia.net/blogs-and-essays/the-well-of-galabes/foundations-of-magical-practice-divination/">essays</a> by John Michael Greer
-    about what's needed for a well-rounded daily magical practice. Once again, I
-    thought his thoughts on <i>what</i> to do would be helpful, but I didn't buy <i>why</i> he
-    thought it worked. One bit of rede (advice) he gave was to "pick a course of
-    magical study and do it 'by the book' start to end," rather than making changes
-    or cobbling together your own thing. This seemed fair to me, so I started in on
-    the <a href="https://bookshop.org/p/books/the-nine-doors-of-midgard-a-curriculum-of-rune-work-revised-and-expanded-5th-with-new-preface-edred-thorsson/8994649?ean=9780971204485">The Nine Doors of Midgard</a> from the Rune Gild. I bethought (meditated). I
-    prayed. I cast the Runes. I did daily Hammer Rituals. I followed everything the
-    book said to do.
-    </p>
-
-    <p>
-    All along the way, when it came to weighing what to bring into my understanding
-    of the myths or into my practice, authenticity seemed like the only way to work
-    out what was worthwhile or not that made sense. What do the writings from the
-    middle ages say? What does archaeology tell us about the practices of Iron Age
-    Germanish folks? Was this practice a later borrowing from Christianity, or a
-    heathen practice that kept going into Christianity? Anything that smacked of
-    being lately made up, borrowing from other folkways or sets of teachings, or
-    lacking tokens that it was thought or done in the Iron Age or early middle ages
-    was <i>at best</i> a patch to fill in the unlucky gaps of a wondrous, fully authentic
-    reconstruction of the beliefs of elder times.
-    </p>
-
-    <p>
-    There was just one problem.
-    </p>
-
-    <p>
-    It felt <i>wholly</i> like talking to myself. I'd say prayers and get no answer, not
-    even a feeling or hunch I could put down to my nethermind. I'd do rituals that
-    didn't seem to do anything and I didn't feel anything while doing them. The one
-    bit that did seem to be working was Runecasting. I would get some insights on
-    the things I asked, but it felt more like seeing something more clearly that I
-    already knew than like tapping into a spring of timeless wisdom. I kept on with
-    the practices for a while, hoping I'd get to where they did <i>something</i>, but
-    between my mom dying and my first daughter being born, it got harder and harder
-    to spend 30-45 minutes of my day talking to myself, until I just stopped.
-    </p>
-
-    <p>
-    In the meantime, I had kept on reading Greer's blog, <a href="https://www.ecosophia.net">Ecosophia</a>. Here was this
-    guy following a rather <i>inauthentic</i> religion*, Revival Druidry, seemingly in full
-    earnest, calmly and unruffably putting forth the literal, non-metaphorical
-    reality of non-bodily thinking beings like Gods, and <i>yet</i> on everything else, he
-    kept on making sense. His takes on what happened in the past and why it came
-    about were insightful and even-handed. On politics, he was good at spotting what
-    was wrong with every side of a given issue. On spiritual matters, his rede was
-    always down-to-earth, principled, and clearly wise. So, I thought "why not read
-    his book on many-godded (polytheistic) godlore, <a href="https://bookshop.org/p/books/a-world-full-of-gods-an-inquiry-into-polytheism-john-michael-greer/18731823?ean=9781801520805">World Full of Gods</a>." As I've
-    talked about <a href="https://jpowellrussell.com/#org385e1cb">elsewhere</a>, this book shook my atheistic materialist worldview and
-    made me wonder if maybe the trouble with all the practices I had tried was that
-    I <i>knew I was faking it</i> the whole time.
-    </p>
-
-    <p>
-    *(Speaking on behalf of Greer, he has never said that his religion goes back to
-    pre-Christian druids of Celtic lands, and as the leader of the Ancient Order of
-    Druids in America, he made that straightforwardness the official policy of the
-    organization. So <i>he</i> has always spoken of his religion authentically, but for
-    many years, Revival Druids <i>did</i> say that they were the holders of a set of
-    teachings from elder times.)
-    </p>
-
-    <p>
-    So, I told myself I'd do an experiment. I'd spend a few weeks, maybe a few
-    months, being at least <i>open</i> to the thought that the Gods were really real, not
-    just archetypes, not just tides of the nethermind, but Beings outside of me with
-    Their own goals, ends, and so forth. I once again took up JMG's "magical
-    tripod," this time with his <a href="https://ecosophia.dreamwidth.org/26433.html">Heathen Lesser Banishing Ritual of the Pentagram</a>
-    plus <a href="https://ecosophia.dreamwidth.org/31086.html">Heathen Middle Pillar</a> for my ritual, some guided threads on the Runes from
-    <a href="https://bookshop.org/p/books/the-teutonic-way-magic-kveldulf-gundarsson/14479256?ean=9781989033265">The Teutonic Way: Magic</a> for bethinking, and a daily Runecasting for divination.
-    The practices weren't that unlike what I had tried to do with the <i>Nine Doors of
-    Midgard</i>, but the mindset very much was.
-    </p>
-
-    <p>
-    Think on my shock when, after two weeks of this, I have a very strong religious
-    experience, with shaking and tingling all over my body and leaving me with an
-    unshakable ecstatic feeling. I won't share the details, as it was very personal,
-    but it's enough to say that I had set myself an experiment to see if "openness
-    to the existence of the Gods" shaped the outcomes I got from religious and
-    magical practice, and this was a screaming, blinding "YES!" that I couldn't
-    overlook.
-    </p>
-
-    <p>
-    I said the practices weren't that unalike, but did you heed something I slipped
-    in there? These practices were much less <i>authentic</i> - The Lesser Banishing Ritual
-    of the Pentagram is a Golden Dawn ritual, which drew heavily fromn Eliphas
-    Levi's rituals in <a href="https://bookshop.org/p/books/the-doctrine-and-ritual-of-high-magic-a-new-translation-eliphas-levi/11711532?ean=9780143111030">The Doctrine and Ritual of High Magic</a>, which was itself a
-    re-working of Renaissance magical practices, which mostly derived from Late
-    Hellenistic practices, which said they came from Egypt, who got them from the
-    God Thoth-Hermes. The Middle Pillar exercise is built on the Tree of Life of the
-    Cabala, which again, the Golden Dawn made heavy use of thanks to Levi bringing
-    it back, after it had been used widely by Renaissance Christian occultists, who
-    got it from High Medieval/Renaissance Jewish occultists, who re-worked it from
-    earlier Hellenistic Neoplatonic models, who got it from who knows where/came up
-    with it.
-    </p>
-
-    <p>
-    Notice what's missing? <i>Anything at all to do with Iron Age or early middle ages
-    Germanish practices</i>. The only link was that in these rituals, I called upon the
-    names of Germanish Gods, brought to mind things from Germanish myths, and
-    visualized the Runes at some steps. And yet these practices led to a
-    life-changing happening and a seemingly-abiding shift in metaphysical outlook.
-    </p>
-
-    <p>
-    So, clearly, authenticity wasn't the end-all, be-all I had thought it to be.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org894320a"></a>We Put a Lot of Worth on Authenticity as a Terminal Value Since It Feels Grounded<br />
-    <div class="outline-text-3" id="text-org894320a">
-    <p>
-    So how did I, along with many others, end up seeing authenticity as <i>the</i> way to
-    weigh the worth of spiritual teachings and practices? Well, one thing is that if
-    you aren't following the religion that you grew up with (and at some point,
-    maybe even if you are), you have to work out "why do I believe this and not one
-    of the zillions of other religions out there?" This is a struggle that most
-    folks in most times have not had to deal with - you believed whatever your folk
-    believed, the end. Today's world gives us the freedom to do otherwise, but with
-    the high cost of working out what to believe, why to believe it, and what to do
-    with it. Authenticity is one way to go through the beliefs out there and clump
-    them together or pull them apart. As such, authenticity can work as a benchmark
-    for <i>categorization</i>.
-    </p>
-
-    <p>
-    Now, categorization is very helpful - it's one of mankind's key thinking skills,
-    and a lot of what we have done is built on it. So I'm not crapping on
-    categorization. The trouble is that there is not, and never can be, a way of
-    categorizing that is not grounded in some sense of what is more (and what is
-    less) <i>worthwhile</i> - in other words, in <i>values</i>. Scott Alexander has a classic post
-    on this called <a href="https://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/">The Categories Were Made for Man, Not Man for the Categories</a>. You
-    should read it, but one of the long-running examples in the post is the made-up
-    struggle of a Biblical-times Judean working out what category to put a whale in.
-    Folks today see a whale called a "fish" in the Bible and think "hahah, how
-    stupid, a whale is so clearly a mammal! Those backwards dopes!" Alexander,
-    though, talks us through <i>why</i> that seems so clear to us and wouldn't even have
-    occurred to some of the folks in Judea. Bring to mind, if you will, a Judean
-    functionary given the task of gathering taxes and tariffs on seafood brought in
-    by fishermen. When one of these fishermen brings in the biggest damned flippered
-    thing ever dragged out of the ocean and is ready to make his riches by carving
-    nearly endless filets off of its bulk, do you think our tax collector friend is
-    going to find it very funny when the fisherman says "that's no fish, it's a
-    mammal!"? Likely not, right? If you mainly care about understanding a whale by
-    what other animals does it share the closest forebearers with, then a cladistic
-    understanding that Whales are mammals that went in the water and turned all
-    funny is helpful. On the other hand, if you want to make sure that the king gets
-    taxes on every swimming thing that folks haul out of the water to eat, and the
-    law says to tax "fish," you better believe it's more helpful to think of the
-    whale as a fish (to you, in that stead, in that time).
-    </p>
-
-    <p>
-    What makes this still tougher, though, is that authenticity works <i>both</i> as a
-    benchmark for "does belief A belong in this category or not?" <i>as well</i> as a
-    grounding for worth (authentic is better than inauthentic). If it's only <i>one</i>
-    such weight of worth, then okay, no trouble. But what about when you give it the
-    <i>last</i> say on what is worthwhile and what is not? What if it becomes your <i>terminal
-    value</i>? Working out how to think about terminal values is <i>hard</i> - you can't see if
-    it brings about some other good, you can't weigh it like something with a body -
-    everything else you deem worthwhile grounds out in your terminal value. If you
-    want more of a feeling for how hard this is, see <i>all of Western philosophy</i>.
-    Really. It's that hard. But authenticity makes for a welcoming terminal value,
-    most of all to Americans of this day and age, and so many of us find ourselves
-    building our other values off of it, without knowing that's what we're up to.
-    How come?
-    </p>
-
-    <p>
-    I think there are three main things that lead us to turn to authenticity as a
-    terminal value, most of all for spiritual things. Going roughly from what we are
-    most aware of to what we're least aware of. First, authenticity feels like a
-    terminal value you can get behind pretty strongly, even with a wholly
-    materialist outlook. Did this set of teachings come from where it said it did?
-    If yes, huzzah! It's worthwhile. If not, great! Into the bin with you! Either
-    way, no need for metaphysical hoo-hah. Now, of course, if you have two teachings
-    that both come from where they say they do, how do you pick between them? What
-    makes one better than the other? Are the teachings from Tibet in 1400 CE better
-    than the ones I came up with last week? How come? Both come from where they said
-    they do, so how do we tell them apart? Whoops, looks like you have to use some
-    values besides authenticity. Oh well.
-    </p>
-
-    <p>
-    Next, authenticity is <i>deeply</i> interwoven with how the West has always dealt with
-    spiritual validity. I hope I'm not shocking anyone when I let slip that for a
-    little more than a thousand years, if you were in the West, and you wanted to
-    know "is this spiritually valid?" the answer was mostly "well, what does the
-    Bible say about it?" Yeah, yeah, I know, there was a lot more to it than that,
-    most of all before the Reformation, and most Christians did not take the Bible
-    as literally as some fundamentalists do today, but even still, all valid
-    spiritual truth was seen as coming from God, and the Bible was seen as the word
-    of God, so almost all askings about spiritual validity came down to whether they
-    were backed up in the one authentic wellspring of truth, the Bible. I think that
-    this habit of thought and belief has become very deeply impressed in our psyches
-    and ways of thinking about things. If I can bring up another Greer work, we
-    greatly prefer <a href="https://www.ecosophia.net/blogs-and-essays/the-well-of-galabes/gnosis-doxa-and-episteme-or-what-kind-of-knowledge-do-you-mean/">episteme over gnosis</a>. Many "free thinking" pagans, New Agers, and
-    whatever else have traded one "only well-spring of all truth" for another.
-    </p>
-
-    <p>
-    And the last that I'd bring up, the one of which we're least aware, is that I
-    think authenticity soothes our roaring insecurity. Thanks to modernity, and
-    globalization and what not, everyone has somewhat had to deal with feeling cut
-    off from deep, true beliefs and folkways. As I said above, most of mankind to
-    ever live just believed what their folk believed, their folk had believed it
-    since before anyone could remember, and what they believed was linked with the
-    lands where they lived. There was a weight and a depth there, such that a lot of
-    practices kept on well past when anyone knew what they meant or why they did
-    them, but that was just how it had always been, and so they held onto some
-    strength. But modernity has messed with all that, and in America, it's hard to
-    say that the non-American Indians <i>ever</i> had that. We're a new country full of
-    folks who just got here, if you take a wide enough outlook, and deep down, we
-    all know this. So I think we seek what feels grounded, and authenticity does, at
-    least sometimes.
-    </p>
-
-    <p>
-    In hindsight, what has dawned on me is that the harder someone leans on
-    authenticity to prop up his religion, the more likely he is <i>LARPing</i>. Now, I've
-    been <a href="https://web.archive.org/web/20151123053702/http://brunching.com/images/geekchart.pdf">looking down my nose at LARPers</a> for a good, long time, so I'm not using
-    this because it's become a more common phrase lately, I'm putting forth a true
-    likeness. Both LARPers and hardcore reconstructionists might like what they're
-    doing, they might get great gladness from it, it might be a big and weighty bit
-    of their life that furthers some of their closest bonds - but deep down, both
-    know they're <i>pretending to be something they're not</i>. Kidding aside, playing
-    pretend is a deeply human thing to do, and I'm not crapping on it, but it is not
-    what everyone is looking for from a religion, and I bet that many folks either
-    hope that it will work notwithstanding misgivings, or else tell themselves
-    that's not what's happening and act like everything's okay.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org5b4b5fc"></a>Instead Authenticity Should Shape and Hold Up Validity - But Not Stand In For It<br />
-    <div class="outline-text-3" id="text-org5b4b5fc">
-    <p>
-    And yet&#x2026; Didn't folks in elder times have understanding about things we don't?
-    Didn't they grow up Heathen (or Pagan, or truly Orthodox, or whatever), take it
-    as given, live and breath it? Didn't they live before modernity choked the life
-    and <a href="https://www.ecosophia.net/the-nature-of-enchantment/">enchantment</a> out of everything? Didn't I say that authenticity helped us
-    avoid fake, bad stuff? So, why should we strive for authenticity as a way to
-    learn from them and do what works? Maybe LARPing something authentic is better
-    than earnestly believing something fake?
-    </p>
-
-    <p>
-    Now we have at last gotten to the insight that let me write this work. I was
-    reading a book review by Charles Haywood of <a href="https://theworthyhouse.com/2017/10/25/book-review-augustus-first-emperor-of-rome-adrian-goldsworthy/">Augustus: First Emperor of Rome</a>,
-    which went some ways I wasn't exactly looking for in a classical history book
-    review. Towards the end, he works out his own meaning for "reaction" as its own
-    thing that isn't "conservatism." Don't worry, I'm not getting political here,
-    just bear with me a tick! He sees conservatism as trying to hold onto what we
-    already have that's good - straightforward enough. "Reaction," on the other
-    hand, he sees as seeking some kind of big change, grounded not in theory or
-    ideology, but rather in what has worked in the past to get the kind of outcomes
-    wanted. Something new built out of bits of the past, you might say. This struck
-    me as rather like how I have come to look at cobbling together a meaningful
-    religious practice outside of an settled set of ways, teachings, and beliefs. I
-    had started with "stick with what worked in the past!" (That is, always go for
-    authenticity.) A time came when I saw that wasn't working and I needed something
-    new. I could tell, though, that making something up from whole cloth was very
-    unlikely to work that great, and might instead go terribly wrong (think
-    "Heaven's Gate" or "Jonestown"). So, rather than go with something wholly old,
-    or wholly new, I found a way to look to what had worked in the past, pick the
-    bits that fit in with my overall aesthetic, ethical, and religious outlook, and
-    give them a try. Maybe the weightiest change, though, was I now had seen and
-    felt what it means for a religious practice to have <i>validity</i> with or without
-    authenticity - I knew what it felt like when it <i>worked</i>. This has been a game
-    changer, when put next to the stumbling around pretending I was doing as a
-    materialist.
-    </p>
-
-    <p>
-    (By the way, I found Haywood and his book reviews when I was looking for
-    podcasts with/about JMG and found the audio version of his review of <a href="https://theworthyhouse.com/2021/01/01/retrotopia-john-michael-greer/">Retrotopia</a>,
-    so synchronicity, mayhaps?)
-    </p>
-
-    <p>
-    If I might say so, I think my work on a <a href="https://jpowellrussell.com/#why_a_heathen_rosary">Heathen Rosary</a> fits this way of doing
-    things pretty well. I have looked to the past for templates, like the Rosary
-    itself, the Germanish poetic meters, the imagery and symbolism from the myths,
-    and so forth. But I'm tweaking and putting together and cutting based on prayer,
-    intuition, and seeing what works and what doesn't. I have no illusions that
-    anyone in 5th century England prayed anything like this, nor do I think it will
-    look much like the Catholic Rosary when I'm through, either.
-    </p>
-
-    <p>
-    The thing is, though, I don't <i>care</i> that it's not what was done in the past. I
-    care whether I find the <i>heart</i> of what has made these myths echo through the ages
-    and this way of praying have such deep spiritual outcomes for so many. Gods
-    willing, and with help from you reading this, I'll find a way to make something
-    that partakes of the deep worth of these models and brings them to some folks
-    who wouldn't have found it otherwise.
-    </p>
-
-    <p>
-    That's the goal anyway: not to be authentic, but to be <i>true</i>.
-    </p>
+    <hr />
     </div>
     </li>
     </ul>
     ]]></description>
+</item>
+
+<item>
+  <title>The Trouble with Authenticity</title>
+  <link>./https://jpowellrussell.com/#the_trouble_with_authenticity</link>
+  <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
+  <guid isPermaLink="false">./https://jpowellrussell.com/#the_trouble_with_authenticity</guid>
+  <pubDate>Sun, 18 Jun 2023 22:51:00 -0500</pubDate>
+  <category><![CDATA[rss]]></category>
+  <description><![CDATA[<p>
+  <b>Date</b>: 2023-June-18
+  </p>
+
+  <p>
+  I've been letting my thoughts about <a href="https://www.youtube.com/watch?v=K9ZPa4vleiU">authenticity</a> and how we should think about
+  it when it comes to belief simmer for a while now. I've gone from giving
+  authenticity nearly the top spot for working out what to believe and how to
+  worship to now giving it a much narrower job. I think a lot of us grapple with
+  authenticity in belief, but I've yet to see anyone go over it as thoroughly as I
+  might wish. Luckily, I read something the other day that helped untangle what
+  had been holding me back. To get there, though, let's lay some groundwork.
+  </p>
+
+  <ul class="org-ul">
+  <li><a id="org03f6901"></a>Authentic Things Come From Where They Say They Do<br />
+  <div class="outline-text-3" id="text-org03f6901">
+  <p>
+  First off, what are we even talking about when I say "authenticity?" A lot of
+  folks have meant a lot of things by this word, so I'm going to borrow a way of
+  pinning it down from one of the works that has shaped my thinking, <a href="https://www.ecosophia.net/blogs-and-essays/the-well-of-galabes/a-few-words-about-authenticity/">this post
+  from John Michael Greer</a>:
+  </p>
+
+  <blockquote>
+  <p>
+  Authenticity is a matter of whether something has the source it claims to have;
+  validity is a matter of whether it works.
+  </p>
+  </blockquote>
+
+  <p>
+  See that word "validity?" Keep it in mind for later, as it's the supporting
+  actor to our star. For now, though, you can see this meaning of "authenticity"
+  rests on <i>where</i> did something come from, and a bit less so on whether the
+  wellspring from which it comes has the right to bestow the name it calls itself.
+  Here's a couple of somewhat silly examples: Greg Graffin starts a new band, and
+  it doesn't sound much like Bad Religion, but he says "this is punk rock." Most
+  folks would go "okay, yeah, I can hear that." On the other hand, some unknown 15
+  year old gets together four of his best friends, they learn to sing in lovely
+  harmony, and they put together some stunning dance moves that dazzle all the
+  girls in their high school, but since their oh-so-harmonized and
+  carefully-choreographed lyrics are about anarchy, they say that what they're
+  doing is "punk" - we might not be as likely to go along with that.
+  </p>
+
+  <p>
+  Or take something near and dear to my Texan heart: chili. If your Texan
+  grandmother learned how to make chili from her range cook daddy, even if she
+  does something most folks don't with chili, we're not gonna fight her when she
+  says "this is real chili." If a hip Paris chef dreams up a brand new spicy vegan
+  soup and calls it chili, we might feel a little otherwise.
+  </p>
+
+  <p>
+  What I'm getting at here is to build on Greer's meaning a bit: our high school
+  friends could say "we're punk because our friend Bill said we are," which might
+  be wholly true. Their punk brand comes from Bill, so they have the source they
+  say they do, but for us to work out whether we <i>buy</i> it, we have to know who Bill
+  is and what makes him a rightful giver of the much-sought mark of "punk."
+  </p>
+
+  <p>
+  Okay, so are we on the same leaf about what we mean by "authenticity" for
+  today's talk? Good. Now that we know what we're talking about, we get to an even
+  weightier asking: why do we care? Isn't it kinda open-and-shut that it's a good
+  thing for something to come from where it says it does, and for that somewhere
+  to be somehow rightful? As you may have gathered from the name of this post, I
+  <i>don't</i> think it's open-and-shut, but authenticity <i>can</i> be very helpful, so let's
+  take a moment to talk about what authenticity can do for us.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org6a86797"></a>Folks Use Authenticity as a Shortcut for Validity<br />
+  <div class="outline-text-3" id="text-org6a86797">
+  <p>
+  At its heart, authenticity is a rule of thumb for working out whether we can
+  <i>trust</i> someone or something - is he who he says he is? Did folks truly believe
+  this stuff back in the day? If a work tells you what to do or how to be, by what
+  right does it do so? Put bluntly, things that are not authentic are often <i>lying</i>
+  somehow. If a set of teachings doesn't truly come from where it says it does,
+  how do you know whether anything else in those teachings is true? If the
+  wellspring of a belief is somehow not rightful (legitimate), then maybe that
+  belief isn't either. And if a belief is new, how do we know what effects it will
+  have on those who adopt it in the long run? I've stated all these as problems
+  with the inauthentic, but lets put them positively for the authentic: ideally, a
+  tradition or set of beliefs that is authentic should come from where it says it
+  does, that source should have some claim to validity with regard to its
+  teachings, and ideally, the tradition holding these teachings going back to this
+  source should have been around for a good, long time to see how it responds to
+  the world as it actually is, rather than as its imagined.
+  </p>
+
+  <p>
+  This is all rather airy, so let's come down to ground a bit. Take Catholicism.
+  Catholicism says that it is the body of beliefs, practices, and teachings that
+  began with Jesus Christ, as built on by the Church for the last 2,000 years.
+  Now, as for the wellspring, of course some folks don't think there was a living,
+  breathing man named Jesus, much less that he was the son of God and God Himself
+  in the flesh. But we do know that at least that in the first hundred years CE, a
+  new set of beliefs and worship got started in Judea and began to spread around
+  the Roman Empire, and that all of today's Christians, including the Catholic
+  Church, can follow an a unbroken path back to that set of beliefs and worship.
+  How about rightfulness? Well, clearly not everyone acknowledges the rightfulness
+  of the Catholic Church to settle things about Godlore (exhibit A: Martin
+  Luther), but the Church <i>does</i> have a long-running and fairly readily grasped way
+  of working out who gets to say authoritative things about the Church,
+  understanding of holy writing, and changes to ways of doing things. And again,
+  there's a clear throughline for this way of doing things going back 2,000 years.
+  Therefore, most folks would have very little trouble acknowledging mainstream
+  Catholicism as an "authentic" set of beliefs. Even if you don't think they are
+  <i>right</i>, you also likely don't think they are <i>fake</i>.
+  </p>
+
+  <p>
+  On the other hand, let's take Scientology. The wellspring was a fairly, but by
+  no means wildly, well-known and well-liked mid-twentieth century science fiction
+  author who said that he gained insight into the make-up of Being while working
+  with folks through a kind of therapy he had worked up. Said author was heard by
+  friends and family talking about how religion was the way to make money.
+  Sometime later, after a bankruptcy, he shifted from calling his therapy a
+  scientific way to a spiritual one, and was hit with a handful of criminal
+  charges as his new church grew. Said church was officially incorporated as a
+  religious organization in 1953. The way the church works out who gets to make
+  settle what is religiously true, how those settlements get made, and even what
+  those settlements are is well-known for its murkiness and kept to a narrow group
+  of folks high up in the church. From all this, many folks (myself included) do
+  not see Scientology as all that authentic, whatever else it may or may not be.
+  I'll leave it up to you whether the rule of thumb "don't trust Scientology since
+  they seem not to be authentic" is worth following here, but I know where I land.
+  </p>
+
+  <p>
+  I want to talk more about <i>why</i> we are so keen to look at authenticity as if it
+  were validity, but first I want to talk a bit about some of the turns my own
+  spiritual path has taken thus far and what it has taught me about authenticity
+  and validity.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="orgc87648d"></a>But Authenticity Doesn't Wholly Get At Validity<br />
+  <div class="outline-text-3" id="text-orgc87648d">
+  <p>
+  Okay, so we've laid out how authenticity can be a helpful shortcut for thinking
+  about some of the things we care about in weighing a religious or spiritual
+  belief. To get at why I think authenticity is not <i>enough</i> by itself, and
+  sometimes needs to give way to some other ways of judging a set of teachings,
+  though, I think it will be helpful to talk a bit about what I've done and where
+  authenticity has fit in with that.
+  </p>
+
+  <p>
+  As you may <a href="https://jpowellrussell.com/#open-minded_materialists_gentle_introduction_to_spirituality">remember</a>, not so long ago, I was a pretty won over by atheistic
+  materialist. If you pushed me, I'd say that I didn't know for sure, and there
+  wasn't really any way to do so, but it was smarter to start out needing to be
+  talked out of the thought that there was nothing but the material world, rather
+  than the other way around. Even though (because of?) this, I still found myself
+  drawn to myth, magic, and other spiritual things, most of all the weirder stuff.
+  Then, an <a href="http://www.catb.org/~esr/writings/dancing.html">essay</a> by a thinker I had long looked up to, Eric S. Raymond, helped
+  bring together some fuzzy hunches I had into a way of looking at the world that
+  hung together. Namely, that religious or magical practices <i>might</i> do <i>something</i>,
+  whether or not the metaphysics behind the ritual were what they said they were.
+  For one materialist take on how magic might "work," even if not in the way or
+  for the reasons thought by those doing the magic, check out this <a href="https://samzdat.com/2017/06/19/the-use-and-abuse-of-witchdoctors-for-life/">tale of
+  invulnerability potions against bullets in Africa</a>. Anyhow, I reckoned that if
+  magic was good enough for arch-materialist Raymond, it was good enough for me,
+  and so I had "permission" to check out magic and weirdo religion while keeping
+  my rational materialist way of seeing myself and the world.
+  </p>
+
+  <p>
+  So, the frame through which I looked at this stuff was something like this: 1.
+  almost all humans in all steads for all time have had some kind of
+  magical/religious ritual, 2. ritual seems to do <i>some</i> good things that you can't
+  get without it, and 3. ritual seems to reach the nethermind (subconscious) in
+  ways that don't always make sense to the speaking, wakeful (conscious) mind. In
+  this frame, it seemed straightforward that I needed a set of practices that 1.
+  spoke to me aesthetically, as that would shape how strongly my nethermind would
+  answer to it, 2. that fit with Jungian psychology, which seemed to have the best
+  grasp on the very deep, dark places of the mind, and 3. came from a time and
+  stead in the past that took it seriously, since that ought to mean it works.
+  Well, listing these benchmarks make it sound like I went through some
+  thoroughgoing search, poking and testing myth and magic from around the world,
+  but no. Instead, it was always clearly Germanish myth. Even when I was Christian
+  back in college, I would "joke" that if Christianity weren't true, I'd want to
+  go to Valhalla. Luckily, all elder polytheistic sets of beliefs fit with Jungian
+  psychology and had been held by large groups of folks, any of them would have
+  met those benchmarks. That being said, as you might have gathered from what I
+  said about Raymond's work above, I had landed on what some folks mean when they
+  say "soft polytheism" - I thought that the sundry Gods, Goddesses, and other
+  beings were sub-processes of my nethermind shared with the rest of mankind.
+  Powerful? Yes. Maybe scary sometimes? Yes. "Real" in any way other than "all of
+  mankind evolved these same personified shapes of thought?" Not so much.
+  </p>
+
+  <p>
+  On that footing, I started doing a lot of reading - learning the myths, reading
+  about what today's worshippers did, and a <i>lot</i> about the Runes. Whenever a writer
+  grounded what he was talking with the Gods as "really real," I'd say to myself
+  "yeah, sure thing, buddy," but even though I didn't think their way of
+  understanding the world was right, I worked to keep a fairly open mind to the
+  thought that they might know a thing or two about how to get the outcomes I
+  wanted. So, I started saying prayers. I started giving beer to the Gods and
+  wights (spirits). At some point, I read <a href="https://www.ecosophia.net/blogs-and-essays/the-well-of-galabes/how-not-to-learn-magic-an-introductory-note/">this</a> <a href="https://www.ecosophia.net/blogs-and-essays/the-well-of-galabes/foundations-of-magical-practice-ritual/">set</a> <a href="https://www.ecosophia.net/blogs-and-essays/the-well-of-galabes/foundations-of-magical-practice-meditation/">of</a> <a href="https://www.ecosophia.net/blogs-and-essays/the-well-of-galabes/foundations-of-magical-practice-divination/">essays</a> by John Michael Greer
+  about what's needed for a well-rounded daily magical practice. Once again, I
+  thought his thoughts on <i>what</i> to do would be helpful, but I didn't buy <i>why</i> he
+  thought it worked. One bit of rede (advice) he gave was to "pick a course of
+  magical study and do it 'by the book' start to end," rather than making changes
+  or cobbling together your own thing. This seemed fair to me, so I started in on
+  the <a href="https://bookshop.org/p/books/the-nine-doors-of-midgard-a-curriculum-of-rune-work-revised-and-expanded-5th-with-new-preface-edred-thorsson/8994649?ean=9780971204485">The Nine Doors of Midgard</a> from the Rune Gild. I bethought (meditated). I
+  prayed. I cast the Runes. I did daily Hammer Rituals. I followed everything the
+  book said to do.
+  </p>
+
+  <p>
+  All along the way, when it came to weighing what to bring into my understanding
+  of the myths or into my practice, authenticity seemed like the only way to work
+  out what was worthwhile or not that made sense. What do the writings from the
+  middle ages say? What does archaeology tell us about the practices of Iron Age
+  Germanish folks? Was this practice a later borrowing from Christianity, or a
+  heathen practice that kept going into Christianity? Anything that smacked of
+  being lately made up, borrowing from other folkways or sets of teachings, or
+  lacking tokens that it was thought or done in the Iron Age or early middle ages
+  was <i>at best</i> a patch to fill in the unlucky gaps of a wondrous, fully authentic
+  reconstruction of the beliefs of elder times.
+  </p>
+
+  <p>
+  There was just one problem.
+  </p>
+
+  <p>
+  It felt <i>wholly</i> like talking to myself. I'd say prayers and get no answer, not
+  even a feeling or hunch I could put down to my nethermind. I'd do rituals that
+  didn't seem to do anything and I didn't feel anything while doing them. The one
+  bit that did seem to be working was Runecasting. I would get some insights on
+  the things I asked, but it felt more like seeing something more clearly that I
+  already knew than like tapping into a spring of timeless wisdom. I kept on with
+  the practices for a while, hoping I'd get to where they did <i>something</i>, but
+  between my mom dying and my first daughter being born, it got harder and harder
+  to spend 30-45 minutes of my day talking to myself, until I just stopped.
+  </p>
+
+  <p>
+  In the meantime, I had kept on reading Greer's blog, <a href="https://www.ecosophia.net">Ecosophia</a>. Here was this
+  guy following a rather <i>inauthentic</i> religion*, Revival Druidry, seemingly in full
+  earnest, calmly and unruffably putting forth the literal, non-metaphorical
+  reality of non-bodily thinking beings like Gods, and <i>yet</i> on everything else, he
+  kept on making sense. His takes on what happened in the past and why it came
+  about were insightful and even-handed. On politics, he was good at spotting what
+  was wrong with every side of a given issue. On spiritual matters, his rede was
+  always down-to-earth, principled, and clearly wise. So, I thought "why not read
+  his book on many-godded (polytheistic) godlore, <a href="https://bookshop.org/p/books/a-world-full-of-gods-an-inquiry-into-polytheism-john-michael-greer/18731823?ean=9781801520805">World Full of Gods</a>." As I've
+  talked about <a href="https://jpowellrussell.com/#org385e1cb">elsewhere</a>, this book shook my atheistic materialist worldview and
+  made me wonder if maybe the trouble with all the practices I had tried was that
+  I <i>knew I was faking it</i> the whole time.
+  </p>
+
+  <p>
+  *(Speaking on behalf of Greer, he has never said that his religion goes back to
+  pre-Christian druids of Celtic lands, and as the leader of the Ancient Order of
+  Druids in America, he made that straightforwardness the official policy of the
+  organization. So <i>he</i> has always spoken of his religion authentically, but for
+  many years, Revival Druids <i>did</i> say that they were the holders of a set of
+  teachings from elder times.)
+  </p>
+
+  <p>
+  So, I told myself I'd do an experiment. I'd spend a few weeks, maybe a few
+  months, being at least <i>open</i> to the thought that the Gods were really real, not
+  just archetypes, not just tides of the nethermind, but Beings outside of me with
+  Their own goals, ends, and so forth. I once again took up JMG's "magical
+  tripod," this time with his <a href="https://ecosophia.dreamwidth.org/26433.html">Heathen Lesser Banishing Ritual of the Pentagram</a>
+  plus <a href="https://ecosophia.dreamwidth.org/31086.html">Heathen Middle Pillar</a> for my ritual, some guided threads on the Runes from
+  <a href="https://bookshop.org/p/books/the-teutonic-way-magic-kveldulf-gundarsson/14479256?ean=9781989033265">The Teutonic Way: Magic</a> for bethinking, and a daily Runecasting for divination.
+  The practices weren't that unlike what I had tried to do with the <i>Nine Doors of
+  Midgard</i>, but the mindset very much was.
+  </p>
+
+  <p>
+  Think on my shock when, after two weeks of this, I have a very strong religious
+  experience, with shaking and tingling all over my body and leaving me with an
+  unshakable ecstatic feeling. I won't share the details, as it was very personal,
+  but it's enough to say that I had set myself an experiment to see if "openness
+  to the existence of the Gods" shaped the outcomes I got from religious and
+  magical practice, and this was a screaming, blinding "YES!" that I couldn't
+  overlook.
+  </p>
+
+  <p>
+  I said the practices weren't that unalike, but did you heed something I slipped
+  in there? These practices were much less <i>authentic</i> - The Lesser Banishing Ritual
+  of the Pentagram is a Golden Dawn ritual, which drew heavily fromn Eliphas
+  Levi's rituals in <a href="https://bookshop.org/p/books/the-doctrine-and-ritual-of-high-magic-a-new-translation-eliphas-levi/11711532?ean=9780143111030">The Doctrine and Ritual of High Magic</a>, which was itself a
+  re-working of Renaissance magical practices, which mostly derived from Late
+  Hellenistic practices, which said they came from Egypt, who got them from the
+  God Thoth-Hermes. The Middle Pillar exercise is built on the Tree of Life of the
+  Cabala, which again, the Golden Dawn made heavy use of thanks to Levi bringing
+  it back, after it had been used widely by Renaissance Christian occultists, who
+  got it from High Medieval/Renaissance Jewish occultists, who re-worked it from
+  earlier Hellenistic Neoplatonic models, who got it from who knows where/came up
+  with it.
+  </p>
+
+  <p>
+  Notice what's missing? <i>Anything at all to do with Iron Age or early middle ages
+  Germanish practices</i>. The only link was that in these rituals, I called upon the
+  names of Germanish Gods, brought to mind things from Germanish myths, and
+  visualized the Runes at some steps. And yet these practices led to a
+  life-changing happening and a seemingly-abiding shift in metaphysical outlook.
+  </p>
+
+  <p>
+  So, clearly, authenticity wasn't the end-all, be-all I had thought it to be.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org894320a"></a>We Put a Lot of Worth on Authenticity as a Terminal Value Since It Feels Grounded<br />
+  <div class="outline-text-3" id="text-org894320a">
+  <p>
+  So how did I, along with many others, end up seeing authenticity as <i>the</i> way to
+  weigh the worth of spiritual teachings and practices? Well, one thing is that if
+  you aren't following the religion that you grew up with (and at some point,
+  maybe even if you are), you have to work out "why do I believe this and not one
+  of the zillions of other religions out there?" This is a struggle that most
+  folks in most times have not had to deal with - you believed whatever your folk
+  believed, the end. Today's world gives us the freedom to do otherwise, but with
+  the high cost of working out what to believe, why to believe it, and what to do
+  with it. Authenticity is one way to go through the beliefs out there and clump
+  them together or pull them apart. As such, authenticity can work as a benchmark
+  for <i>categorization</i>.
+  </p>
+
+  <p>
+  Now, categorization is very helpful - it's one of mankind's key thinking skills,
+  and a lot of what we have done is built on it. So I'm not crapping on
+  categorization. The trouble is that there is not, and never can be, a way of
+  categorizing that is not grounded in some sense of what is more (and what is
+  less) <i>worthwhile</i> - in other words, in <i>values</i>. Scott Alexander has a classic post
+  on this called <a href="https://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/">The Categories Were Made for Man, Not Man for the Categories</a>. You
+  should read it, but one of the long-running examples in the post is the made-up
+  struggle of a Biblical-times Judean working out what category to put a whale in.
+  Folks today see a whale called a "fish" in the Bible and think "hahah, how
+  stupid, a whale is so clearly a mammal! Those backwards dopes!" Alexander,
+  though, talks us through <i>why</i> that seems so clear to us and wouldn't even have
+  occurred to some of the folks in Judea. Bring to mind, if you will, a Judean
+  functionary given the task of gathering taxes and tariffs on seafood brought in
+  by fishermen. When one of these fishermen brings in the biggest damned flippered
+  thing ever dragged out of the ocean and is ready to make his riches by carving
+  nearly endless filets off of its bulk, do you think our tax collector friend is
+  going to find it very funny when the fisherman says "that's no fish, it's a
+  mammal!"? Likely not, right? If you mainly care about understanding a whale by
+  what other animals does it share the closest forebearers with, then a cladistic
+  understanding that Whales are mammals that went in the water and turned all
+  funny is helpful. On the other hand, if you want to make sure that the king gets
+  taxes on every swimming thing that folks haul out of the water to eat, and the
+  law says to tax "fish," you better believe it's more helpful to think of the
+  whale as a fish (to you, in that stead, in that time).
+  </p>
+
+  <p>
+  What makes this still tougher, though, is that authenticity works <i>both</i> as a
+  benchmark for "does belief A belong in this category or not?" <i>as well</i> as a
+  grounding for worth (authentic is better than inauthentic). If it's only <i>one</i>
+  such weight of worth, then okay, no trouble. But what about when you give it the
+  <i>last</i> say on what is worthwhile and what is not? What if it becomes your <i>terminal
+  value</i>? Working out how to think about terminal values is <i>hard</i> - you can't see if
+  it brings about some other good, you can't weigh it like something with a body -
+  everything else you deem worthwhile grounds out in your terminal value. If you
+  want more of a feeling for how hard this is, see <i>all of Western philosophy</i>.
+  Really. It's that hard. But authenticity makes for a welcoming terminal value,
+  most of all to Americans of this day and age, and so many of us find ourselves
+  building our other values off of it, without knowing that's what we're up to.
+  How come?
+  </p>
+
+  <p>
+  I think there are three main things that lead us to turn to authenticity as a
+  terminal value, most of all for spiritual things. Going roughly from what we are
+  most aware of to what we're least aware of. First, authenticity feels like a
+  terminal value you can get behind pretty strongly, even with a wholly
+  materialist outlook. Did this set of teachings come from where it said it did?
+  If yes, huzzah! It's worthwhile. If not, great! Into the bin with you! Either
+  way, no need for metaphysical hoo-hah. Now, of course, if you have two teachings
+  that both come from where they say they do, how do you pick between them? What
+  makes one better than the other? Are the teachings from Tibet in 1400 CE better
+  than the ones I came up with last week? How come? Both come from where they said
+  they do, so how do we tell them apart? Whoops, looks like you have to use some
+  values besides authenticity. Oh well.
+  </p>
+
+  <p>
+  Next, authenticity is <i>deeply</i> interwoven with how the West has always dealt with
+  spiritual validity. I hope I'm not shocking anyone when I let slip that for a
+  little more than a thousand years, if you were in the West, and you wanted to
+  know "is this spiritually valid?" the answer was mostly "well, what does the
+  Bible say about it?" Yeah, yeah, I know, there was a lot more to it than that,
+  most of all before the Reformation, and most Christians did not take the Bible
+  as literally as some fundamentalists do today, but even still, all valid
+  spiritual truth was seen as coming from God, and the Bible was seen as the word
+  of God, so almost all askings about spiritual validity came down to whether they
+  were backed up in the one authentic wellspring of truth, the Bible. I think that
+  this habit of thought and belief has become very deeply impressed in our psyches
+  and ways of thinking about things. If I can bring up another Greer work, we
+  greatly prefer <a href="https://www.ecosophia.net/blogs-and-essays/the-well-of-galabes/gnosis-doxa-and-episteme-or-what-kind-of-knowledge-do-you-mean/">episteme over gnosis</a>. Many "free thinking" pagans, New Agers, and
+  whatever else have traded one "only well-spring of all truth" for another.
+  </p>
+
+  <p>
+  And the last that I'd bring up, the one of which we're least aware, is that I
+  think authenticity soothes our roaring insecurity. Thanks to modernity, and
+  globalization and what not, everyone has somewhat had to deal with feeling cut
+  off from deep, true beliefs and folkways. As I said above, most of mankind to
+  ever live just believed what their folk believed, their folk had believed it
+  since before anyone could remember, and what they believed was linked with the
+  lands where they lived. There was a weight and a depth there, such that a lot of
+  practices kept on well past when anyone knew what they meant or why they did
+  them, but that was just how it had always been, and so they held onto some
+  strength. But modernity has messed with all that, and in America, it's hard to
+  say that the non-American Indians <i>ever</i> had that. We're a new country full of
+  folks who just got here, if you take a wide enough outlook, and deep down, we
+  all know this. So I think we seek what feels grounded, and authenticity does, at
+  least sometimes.
+  </p>
+
+  <p>
+  In hindsight, what has dawned on me is that the harder someone leans on
+  authenticity to prop up his religion, the more likely he is <i>LARPing</i>. Now, I've
+  been <a href="https://web.archive.org/web/20151123053702/http://brunching.com/images/geekchart.pdf">looking down my nose at LARPers</a> for a good, long time, so I'm not using
+  this because it's become a more common phrase lately, I'm putting forth a true
+  likeness. Both LARPers and hardcore reconstructionists might like what they're
+  doing, they might get great gladness from it, it might be a big and weighty bit
+  of their life that furthers some of their closest bonds - but deep down, both
+  know they're <i>pretending to be something they're not</i>. Kidding aside, playing
+  pretend is a deeply human thing to do, and I'm not crapping on it, but it is not
+  what everyone is looking for from a religion, and I bet that many folks either
+  hope that it will work notwithstanding misgivings, or else tell themselves
+  that's not what's happening and act like everything's okay.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org5b4b5fc"></a>Instead Authenticity Should Shape and Hold Up Validity - But Not Stand In For It<br />
+  <div class="outline-text-3" id="text-org5b4b5fc">
+  <p>
+  And yet&#x2026; Didn't folks in elder times have understanding about things we don't?
+  Didn't they grow up Heathen (or Pagan, or truly Orthodox, or whatever), take it
+  as given, live and breath it? Didn't they live before modernity choked the life
+  and <a href="https://www.ecosophia.net/the-nature-of-enchantment/">enchantment</a> out of everything? Didn't I say that authenticity helped us
+  avoid fake, bad stuff? So, why should we strive for authenticity as a way to
+  learn from them and do what works? Maybe LARPing something authentic is better
+  than earnestly believing something fake?
+  </p>
+
+  <p>
+  Now we have at last gotten to the insight that let me write this work. I was
+  reading a book review by Charles Haywood of <a href="https://theworthyhouse.com/2017/10/25/book-review-augustus-first-emperor-of-rome-adrian-goldsworthy/">Augustus: First Emperor of Rome</a>,
+  which went some ways I wasn't exactly looking for in a classical history book
+  review. Towards the end, he works out his own meaning for "reaction" as its own
+  thing that isn't "conservatism." Don't worry, I'm not getting political here,
+  just bear with me a tick! He sees conservatism as trying to hold onto what we
+  already have that's good - straightforward enough. "Reaction," on the other
+  hand, he sees as seeking some kind of big change, grounded not in theory or
+  ideology, but rather in what has worked in the past to get the kind of outcomes
+  wanted. Something new built out of bits of the past, you might say. This struck
+  me as rather like how I have come to look at cobbling together a meaningful
+  religious practice outside of an settled set of ways, teachings, and beliefs. I
+  had started with "stick with what worked in the past!" (That is, always go for
+  authenticity.) A time came when I saw that wasn't working and I needed something
+  new. I could tell, though, that making something up from whole cloth was very
+  unlikely to work that great, and might instead go terribly wrong (think
+  "Heaven's Gate" or "Jonestown"). So, rather than go with something wholly old,
+  or wholly new, I found a way to look to what had worked in the past, pick the
+  bits that fit in with my overall aesthetic, ethical, and religious outlook, and
+  give them a try. Maybe the weightiest change, though, was I now had seen and
+  felt what it means for a religious practice to have <i>validity</i> with or without
+  authenticity - I knew what it felt like when it <i>worked</i>. This has been a game
+  changer, when put next to the stumbling around pretending I was doing as a
+  materialist.
+  </p>
+
+  <p>
+  (By the way, I found Haywood and his book reviews when I was looking for
+  podcasts with/about JMG and found the audio version of his review of <a href="https://theworthyhouse.com/2021/01/01/retrotopia-john-michael-greer/">Retrotopia</a>,
+  so synchronicity, mayhaps?)
+  </p>
+
+  <p>
+  If I might say so, I think my work on a <a href="https://jpowellrussell.com/#why_a_heathen_rosary">Heathen Rosary</a> fits this way of doing
+  things pretty well. I have looked to the past for templates, like the Rosary
+  itself, the Germanish poetic meters, the imagery and symbolism from the myths,
+  and so forth. But I'm tweaking and putting together and cutting based on prayer,
+  intuition, and seeing what works and what doesn't. I have no illusions that
+  anyone in 5th century England prayed anything like this, nor do I think it will
+  look much like the Catholic Rosary when I'm through, either.
+  </p>
+
+  <p>
+  The thing is, though, I don't <i>care</i> that it's not what was done in the past. I
+  care whether I find the <i>heart</i> of what has made these myths echo through the ages
+  and this way of praying have such deep spiritual outcomes for so many. Gods
+  willing, and with help from you reading this, I'll find a way to make something
+  that partakes of the deep worth of these models and brings them to some folks
+  who wouldn't have found it otherwise.
+  </p>
+
+  <p>
+  That's the goal anyway: not to be authentic, but to be <i>true</i>.
+  </p>
+  </div>
+  </li>
+  </ul>
+  ]]></description>
 </item>
 
 <item>
@@ -978,8 +1145,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org03186e5"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org03186e5">
+  <li><a id="org7c20cbf"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org7c20cbf">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -1080,8 +1247,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org226c253"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org226c253">
+  <li><a id="org3126d76"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org3126d76">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -1267,8 +1434,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org9d36b9b"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org9d36b9b">
+  <li><a id="org0111bdb"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org0111bdb">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -1511,8 +1678,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgba5e7b2"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-orgba5e7b2">
+  <li><a id="org89eacf0"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org89eacf0">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -1735,8 +1902,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org020fd6d"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org020fd6d">
+  <li><a id="orga115d1d"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orga115d1d">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a> &lt;&#x2013; You are Here</li>
@@ -1907,8 +2074,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org7c20cbf"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org7c20cbf">
+  <li><a id="org40d8782"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org40d8782">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a> &lt;&#x2013; You are Here</li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -2835,8 +3002,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org49df24b"></a>Way 1<br />
-  <div class="outline-text-3" id="text-org49df24b">
+  <li><a id="org443ac6b"></a>Way 1<br />
+  <div class="outline-text-3" id="text-org443ac6b">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -2855,8 +3022,8 @@
   </div>
   </li>
 
-  <li><a id="org6f9b4ca"></a>Way 2<br />
-  <div class="outline-text-3" id="text-org6f9b4ca">
+  <li><a id="org42b0b52"></a>Way 2<br />
+  <div class="outline-text-3" id="text-org42b0b52">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -2875,8 +3042,8 @@
   </div>
   </li>
 
-  <li><a id="org5e17ad0"></a>Way 3<br />
-  <div class="outline-text-3" id="text-org5e17ad0">
+  <li><a id="org89260f7"></a>Way 3<br />
+  <div class="outline-text-3" id="text-org89260f7">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -3256,8 +3423,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org443ac6b"></a>Way 1<br />
-  <div class="outline-text-3" id="text-org443ac6b">
+  <li><a id="orgc9cb24d"></a>Way 1<br />
+  <div class="outline-text-3" id="text-orgc9cb24d">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -3275,8 +3442,8 @@
   </div>
   </li>
 
-  <li><a id="org42b0b52"></a>Way 2<br />
-  <div class="outline-text-3" id="text-org42b0b52">
+  <li><a id="orge000896"></a>Way 2<br />
+  <div class="outline-text-3" id="text-orge000896">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -3294,8 +3461,8 @@
   </div>
   </li>
 
-  <li><a id="org89260f7"></a>Way 3<br />
-  <div class="outline-text-3" id="text-org89260f7">
+  <li><a id="org8233443"></a>Way 3<br />
+  <div class="outline-text-3" id="text-org8233443">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -3788,8 +3955,8 @@
   </div>
   </li>
 
-  <li><a id="orgaf7cce6"></a>The Poetic Edda<br />
-  <div class="outline-text-4" id="text-orgaf7cce6">
+  <li><a id="orgad2e1f3"></a>The Poetic Edda<br />
+  <div class="outline-text-4" id="text-orgad2e1f3">
   <p>
   <b>By</b>: Many writers<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -4556,8 +4723,8 @@
   </div>
   </li>
 
-  <li><a id="org1902b99"></a>Shamanism<br />
-  <div class="outline-text-5" id="text-org1902b99">
+  <li><a id="org2c572fe"></a>Shamanism<br />
+  <div class="outline-text-5" id="text-org2c572fe">
   <p>
   <b>By</b>: Mircea Eliade<br />
   <b>Have I Read It?</b>: About halfway.<br />
@@ -4960,8 +5127,8 @@
   </div>
   </li>
 
-  <li><a id="orge665dbe"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-orge665dbe">
+  <li><a id="orga73ac9a"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-orga73ac9a">
   <p>
   <b>By</b>: Dr. Stephen Flowers, PhD.<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -4971,8 +5138,8 @@
   </li>
 
 
-  <li><a id="orga73ac9a"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-orga73ac9a">
+  <li><a id="orge6f7644"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-orge6f7644">
   <p>
   <b>By</b>: P.D. Brown and Michael Moynihan (eds)<br />
   <b>Have I Read It?</b>: Some<br />
@@ -5148,8 +5315,8 @@
   </ul>
   </li>
 
-  <li><a id="org2c572fe"></a>Shamanism<br />
-  <div class="outline-text-4" id="text-org2c572fe">
+  <li><a id="orgedc4bfe"></a>Shamanism<br />
+  <div class="outline-text-4" id="text-orgedc4bfe">
   <p>
   As I said above, "shamanism" is a word that gets used for many unalike things, but the ways of the folks who live about the North pole gave us the name, and I think it likely those ways left some mark on the ways of the Norse at least, and maybe the wider Germanish world. The books below are all by Raven Kaldera and/or Galina Krasskova, and they have a way of looking at things that is rather unlike other folks, so take with as much salt as seems right to you.
   </p>
@@ -6867,8 +7034,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgcdf3ecf"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgcdf3ecf">
+  <li><a id="org52c42c3"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org52c42c3">
   <p>
   The Story Grid by Shawn Coyne
   </p>
@@ -6905,8 +7072,8 @@
   </ul>
   </li>
 
-  <li><a id="org8938c60"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org8938c60">
+  <li><a id="org875be55"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org875be55">
   </div>
 
   <ul class="org-ul">
@@ -6959,8 +7126,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org6461e55"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org6461e55">
+  <li><a id="org7fe180d"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org7fe180d">
   </div>
 
   <ul class="org-ul">
@@ -7006,8 +7173,8 @@
   </ul>
   </li>
 
-  <li><a id="org6541d53"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org6541d53">
+  <li><a id="orga1a1f52"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orga1a1f52">
   </div>
 
   <ul class="org-ul">
@@ -7044,8 +7211,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org77794ca"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org77794ca">
+  <li><a id="orgd604d48"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgd604d48">
   </div>
 
   <ul class="org-ul">
@@ -7091,8 +7258,8 @@
   </ul>
   </li>
 
-  <li><a id="org6582669"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org6582669">
+  <li><a id="orgfaf739a"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgfaf739a">
   </div>
 
   <ul class="org-ul">
@@ -7137,8 +7304,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org04535c1"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org04535c1">
+  <li><a id="org28114e3"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org28114e3">
   </div>
 
   <ul class="org-ul">
@@ -7176,8 +7343,8 @@
   </ul>
   </li>
 
-  <li><a id="orge693b3c"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orge693b3c">
+  <li><a id="org2e3fe25"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org2e3fe25">
   </div>
 
   <ul class="org-ul">
@@ -7214,8 +7381,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org8c708c5"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org8c708c5">
+  <li><a id="orgc9013c5"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgc9013c5">
   </div>
 
   <ul class="org-ul">
@@ -7261,8 +7428,8 @@
   </ul>
   </li>
 
-  <li><a id="org905d267"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org905d267">
+  <li><a id="orged287d1"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orged287d1">
   </div>
 
   <ul class="org-ul">
@@ -7307,8 +7474,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org52c42c3"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org52c42c3">
+  <li><a id="orgd451c88"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgd451c88">
   </div>
 
   <ul class="org-ul">
@@ -7346,8 +7513,8 @@
   </ul>
   </li>
 
-  <li><a id="org875be55"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org875be55">
+  <li><a id="orga540b2f"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orga540b2f">
   </div>
 
   <ul class="org-ul">
@@ -8579,8 +8746,8 @@
   </div>
   </li>
 
-  <li><a id="orgad2e1f3"></a>The Poetic Edda<br />
-  <div class="outline-text-3" id="text-orgad2e1f3">
+  <li><a id="org28f73c1"></a>The Poetic Edda<br />
+  <div class="outline-text-3" id="text-org28f73c1">
   <p>
   <b>By Unknown, but I like the Hollander and Crawford translations</b>
   </p>
