@@ -14,8 +14,8 @@
   <link></link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Sun, 23 Jul 2023 19:32:16 -0500</pubDate>
-  <lastBuildDate>Sun, 23 Jul 2023 19:32:16 -0500</lastBuildDate>
+  <pubDate>Sun, 30 Jul 2023 23:13:18 -0500</pubDate>
+  <lastBuildDate>Sun, 30 Jul 2023 23:13:18 -0500</lastBuildDate>
   <generator>Emacs 29.0 Org-mode 9.7-pre</generator>
   <webMaster>jeff.powell.russell@gmail.com (Jeff Russell)</webMaster>
   <image>
@@ -25,188 +25,306 @@
   </image>
 
   <item>
-    <title>[Book] The Wealth of Nature</title>
-    <link>./https://jpowellrussell.com/#book_the_wealth_of_nature</link>
+    <title>[Book] The Seed of Yggdrasill 1 - Introduction and the Books of Old</title>
+    <link>./https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old</link>
     <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
-    <guid isPermaLink="false">./https://jpowellrussell.com/#book_the_wealth_of_nature</guid>
-    <pubDate>Sun, 23 Jul 2023 12:08:00 -0500</pubDate>
+    <guid isPermaLink="false">./https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old</guid>
+    <pubDate>Thu, 27 Jul 2023 11:30:00 -0500</pubDate>
     <category><![CDATA[rss]]></category>
     <description><![CDATA[<p>
-    <b>Date</b>: 2023-July-23
+    <b>Date</b>: 2023-July-27
     </p>
-    <ul class="org-ul">
-    <li><a id="org94aa6c8"></a>Lead In<br />
-    <div class="outline-text-3" id="text-org94aa6c8">
-    <p>
-    Though I only read this book the year before last, it's done a lot to shape my thinking since. I'll likely need to look back on it later, but for now I'd like to write this out to help set its ideas in my mind more strongly. This book did two main worthwhile things for me: 1. It gave me a helpful framework for thinking about economics that all my earlier reading lacked, and 2. it laid out in enough depth for me to feel like I understand the challenges we are likely to face with energy going forward. So, if those sound like something you might also find helpful, let's dig into <a href="https://bookshop.org/p/books/the-wealth-of-nature-economics-as-if-surival-mattered-second-edition-john-michael-greer/17786245?ean=9781945810572">The Wealth of Nature: Economics as If Survival Mattered</a>.
-    </p>
-    </div>
 
     <ul class="org-ul">
-    <li><a id="orgdea94a6"></a>Economics as an Intellectual "Swiss Army Knife"<br />
-    <div class="outline-text-4" id="text-orgdea94a6">
+    <li><a id="orgc84d2d7"></a>Posts about Seed of Yggdrasill<br />
+    <div class="outline-text-3" id="text-orgc84d2d7">
     <p>
-    First off, let's take a tick to talk about "why economics?" In a comment on a <a href="http://esr.ibiblio.org/?p=3514">post</a>, ESR called microeconomics an intellectual "swiss-army knife". I think this is an apt metaphor in more ways than one. For one, economic thinking is made up of a handful of principles that you apply in different situations: the law of supply and demand, costs vs price, marginal utility, and so forth. For another, that handful of principles can be used in many situations for many different purposes, sometimes where you wouldn't expect it, like how Game Theory was built out of hyper-simplified models of what folks do and don't want and how they might act, and yet those models give some valuable insight into decision-making in situations of uncertainty. Lastly, though, like a Swiss Army knife, economic thinking pays for its versatility and broad usefulness by very firmly being <i>not</i> the right specialized tool for really any specific situation. Even in it's notional field of expertise, buying and selling, if you set out to run a business with only microeconomics as your guide, you're gonna have a bad time. I say all of this to put much of the below in a bit of context, and to explain why the second half of the review isn't really about economics at all, but physics.
+    <a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a> - You Are Here
     </p>
     </div>
     </li>
 
-    <li><a id="org2a8cf22"></a>Outsider Views of Specialized Fields<br />
-    <div class="outline-text-4" id="text-org2a8cf22">
+    <li><a id="orgd4eaf6b"></a>Lead-In: My Mixed Feelings Coming into this Book<br />
+    <div class="outline-text-3" id="text-orgd4eaf6b">
     <p>
-    Next, you might be saying to yourself "hold on, John Michael Greer? Isn't he that druid guy you were <a href="https://jpowellrussell.com/#how_i_came_to_believe_what_i_do">talking about</a>? What does he know about economics?" And yes, it's true - Greer is by no means an economist, which has some drawbacks for a book on economics, but also some upsides.
+    Earlier this year, as research for my <a href="https://jpowellrussell.com/#last_hail_idun">Hail Idun</a>, I read <i>The Goddess Idhunn in
+    Poetry and Myth</i> by Maria Kvilhaug (for which I could have <i>sworn</i> I had a
+    write-up, but I must have made that up). I heard about Kvilhaug when folks
+    pointed me to her Master's thesis <i>Maiden and the Mead Cup</i> and her main book, <i>The
+    Seed of Yggdrasill</i>, and what I found when I dipped my toes in both of those
+    intrigued me greatly, but this was during my <a href="https://jpowellrussell.com/#thoughts_on_spending_a_year_with_the_dead">year with the dead</a>, and so I had to
+    hold off. Then, in the same year (2022), she put out <i>The Goddess Idhunn</i>, and I
+    knew I had to read that as soon as I could. It was the first non-fiction book I
+    read of the year, and I was almost hopping up and down for a book-length
+    treatment of a Goddess that is very important to me.
     </p>
-    </div>
 
-    <ul class="org-ul">
-    <li><a id="orgbe03f2a"></a>There's a good reason experts are skeptical of outsider opinions on their field<br />
-    <div class="outline-text-5" id="text-orgbe03f2a">
     <p>
-    First off, the drawbacks. Folks who are knowledgeable in a field are often wary of outsiders coming around and telling them their business. Professional economists have spent years learning ways to think about what they study, reading the articles and books that have been published, doing their own research, and so forth. There's a whole lot of background knowledge that you can only really pick up by years of being up to your eyeballs in a field. Outsiders are likely to lack this kind of background knowledge, to put forward as new ideas that have long since been talked over in the field, and to make the kind of mistakes that the experts have learned to avoid.
+    On the one hand, the book gave me <i>exactly</i> what I was looking for: wonderful,
+    in-depth analysis of every stanza of the two Eddic poems that feature Idhunn.
+    Translations of every proper name in those poems, so that the potential symbolic
+    meanings of characters, places, and things can be understood. A thorough
+    run-down of possible archaeological evidence for related (or the same?)
+    Goddesses. A full list of every kenning given for Idhunn, <i>with translations of
+    included proper names</i>. A discussion of what Her own name might mean, and
+    alternative possible etymologies. It was very nearly the <a href="https://www.youtube.com/watch?v=s4pZFsEdP3Y">perfect country and
+    western song</a>, err, I mean, perfect book on one of the non-star Norse
+    Goddesses.
+    </p>
+
+    <p>
+    But on the other hand, whooooo boy, some things about that book were
+    <i>infuriating</i>. There's no index. There's no footnotes. There are annoying typos
+    and formatting errors that occasionally introduce confusion about meaning (like
+    not ending <i>italics</i> after a quote is finished, or leaving out the verb). Worst of
+    all, <i>it's a collection of transcripts of video lectures originally put out on
+    YouTube</i>. And it appears to be barely edited at all. This means that missteps in
+    speech are part of the text, as is an amount of repetition that can be useful
+    from one video to the next, but not so much within a lone 200 leaf book. It also
+    uses the kind of fluid "mostly organized" approach that can sound conversational
+    and thus fine in a spoken context, but a tighter organization would be much,
+    much better.
+    </p>
+
+    <p>
+    All of which means that I found <i>The Goddess Idhunn</i> terribly frustrating: it has
+    some truly worthwhile stuff in it, helpful to any student of Norse myth, and
+    invaluable to someone for whom Idhunn plays an important role in religion, but
+    it could be shared in ways that were so much easier to understand, reference,
+    and so forth. So why am I telling you so much about this little book in a post
+    about a whole 'nother book? Because it's 600-leaf big sister of a book, <i>The Seed
+    of Yggdrasill</i> shows many of the same strengths and weaknesses, and that's much
+    of what's kept me from getting to it for the last few months. That being said, I
+    have now more than once had the distinctly hair-pulling experience of pulling
+    <i>The Seed of Yggdrasill</i> out to get Kvilhaug's take on something, or her
+    translation of a name, finding hints at something that feels deeply meaningful
+    and worthwhile to add to my understanding of the Lore, but not being able to
+    find the specific thing I was looking for, or else only finding it after 3 or 4
+    tangents. I realized I was going to have to tackle the whole thing, get a good
+    idea of what's in there, and organize my own damn notes as a reference, since
+    this book isn't going to do it for me. That being said, the book is a <i>bear</i> - not
+    only 600 pages, but 600 textbook-sized pages, and though there are a fair number
+    of pictures and single column poetry translations, it's still pretty much as
+    long you'd think, so it's gonna take some doing to get through this, and I'm
+    going to post on it as I go. Let's get to it!
     </p>
     </div>
     </li>
 
-    <li><a id="org0a1e7d7"></a>But experts can become blind to the assumptions and paradigms that hold them<br />
-    <div class="outline-text-5" id="text-org0a1e7d7">
+    <li><a id="org41d82af"></a>The Book Itself<br />
+    <div class="outline-text-3" id="text-org41d82af">
     <p>
-    On the other hand, outsiders can bring a worthwhile way of looking at things to a field. All that background knowledge we just talked about also leads to folks in a field trying to work things out the same way. Those ideas that have been talked over and thrown out might not have been because they are <i>wrong</i>, but because they don't draw research grants, or are politically unacceptable, or because the guy who first put it forward was a jerk. Lastly, for economics specifically, let's remember that most of the seminal works of economics were not written by "professional economists" - back when it was still called "political economy" (likely a more useful term, see below for more on this), philosophers and gentleman felt quite up to sharing their thoughts on how goods and services work, and we're all better off for it. So maybe Greer's wider, non-expert view has something we'd be better off with as well.
+    First, a handful of thoughts on the physical book. I have the 2020 edition,
+    which is the one currently available, but it was first printed in 2012 as a
+    hardcover. These days, you can only get paperback, which seems to be POD via
+    Amazon. Kvilhaug's "publisher" is <a href="https://the3littlesisters.com/">Three Little Sisters</a>, which has links to all
+    of her books, but as I said, these days, I think they're just ebooks or POD
+    through Amazon. To be fair, it does seem to be at the higher end of resolution
+    and print quality, as far as POD goes, at least the full-color version I have.
+    As I said above, some of the formatting leaves some things to be desired - the
+    title page is on the left page of the very first spread in the book, with the
+    copyright page on the right side, and the title on the spine is backwards from
+    what I would expect (is this a European/Scandinavian thing? I think I saw it on
+    another book put out by someone from there). The typography is unobtrusively
+    attractive, set in Georgia, and with distinct-enough headers and such to stand
+    out. As I mentioned, there's a decent number of pictures, but not a ton, and
+    they're usually pretty small. Most of these are black and white and/or
+    line-work, such as the sketches archaeologists make of carvings or reconstructed
+    artifacts, but some of the pictures benefit from the color. It might also be
+    that the pretty crisp resolution of the printing only comes with the color
+    version. Altogether, this is neither slapdash nor anything to write home about,
+    but a perfectly serviceable medium for delivering the information it has. I just
+    wish there were still a hardcover version available with better binding, for the
+    sake of longevity.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org359450b"></a>Upfront Stuff<br />
+    <div class="outline-text-3" id="text-org359450b">
+    <p>
+    This bit is very short, but has a few handy things in it. Kvilhaug begins by
+    telling the tale of how she came to care about Norse Myth, after being taught as
+    a kid in Norwegian school that these were basically "the silly stories folks
+    believed before they got Christianity, and then even better, science" (which
+    just hurts my heart to hear). She then talks about how the translations of the
+    poems are her own, some spelling conventions, and some basics on how letters in
+    Old Norse words are pronounced. Lastly for these quick 8 pages, the best bits: a
+    list of Old Norse magical/religious terms, a list of Old Norse terms for
+    religious professions of different kinds, and a list of the kinds of divine
+    beings talked about in Norse myth, broken up into the masculine and feminine
+    powers. This last one especially is helpful for giving not only a translation of
+    the name for the group, but also a few thoughts on how/when different terms were
+    used. Altogether, most of this stuff is likely not <i>needed</i> for anyone who's going
+    to read this particular book (this is emphatically <i>not</i> "My First Book on Norse
+    Myth"), much of it helpful nonetheless.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org1fafdae"></a>Chapter 1: The Books of Old<br />
+    <div class="outline-text-3" id="text-org1fafdae">
+    <p>
+    Okay, I gotta admit, looking through the table of contents, I assumed this
+    chapter would be a mostly-skippable overview of the content and history of our
+    sources for Norse myth that I mostly already know. There is some of that, but I
+    was pleasantly surprised to find there's actually more here as well - in 56
+    pages, I filled up three 4x6 notecards (one side only) with notes. Don't worry,
+    I'm not going to try to squeeze all of that into this post, but there was a lot
+    that seemed interesting, insightful, or a useful thread to follow up on.
+    </p>
+    </div>
+
+    <ul class="org-ul">
+    <li><a id="org45bc528"></a>The Eddic Poem Rundowns are Great<br />
+    <div class="outline-text-4" id="text-org45bc528">
+    <p>
+    First, Kvilhaug lists each of the Eddic poems with a brief summary. She includes
+    two poems that are not always included in published version of <i>The Poetic Edda</i>,
+    <i>Odhins Hrafnagaldur</i> (Odin's Ravenspell) and <i>Solarliodh</i> (The Song of the Sun).
+    The reason these poems are not always included is that their date of composition
+    is controversial, and many scholars believe them to be later compositions by
+    antiquarians. Kvilhaug argues that they show enough understanding of the
+    fundamentally heathen <i>structure</i> of the other poems that even if they are not as
+    old, they were nonetheless written by someone with heathen sensibilities. In my
+    own work, I've found <i>Odhins Hrafnagaldur</i> very worthwhile as a source for imagery
+    and threads for bethinking (meditation). I haven't checked out <i>Solarliodh</i> yet,
+    though. At any rate, the real gold in this bit is the summaries. Kvilhaug does a
+    great job of briefly relating what happens in the poems, plot-wise, but also
+    what the poem is doing spiritually/religiously, according to her method of
+    interpretation (more on that below). These really are great. You might not
+    wholly buy her take on these poems, but if you plan on bethinking on them, her
+    take is worth adding to your list of ways to consider what they mean. I am so
+    glad I didn't skip this bit.
+    </p>
+
+    <p>
+    One example of what these add: the later poems in the <i>Poetic Edda</i> are often called the "heroic poems," as they deal less with the Gods and how the world came to be or where it is going, but instead with the adventures of human heroes (though these often cross paths with the Gods, of course). Kvilhaug's interpretation is that these are initiatory tales, and that the sequence of tales shows a soul getting part of the way there, dying, reincarnating, and then getting further along each time, turning what can feel like a loosely-linked anthology into a coherent spiritually relevant cycle. I'm not sure that she's right, but wow! What a different and more interesting way to look at these than only "some cool adventure stories with some perplexing elements."
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org5fa93af"></a>What was Snorri Up to with the Prose Edda?<br />
+    <div class="outline-text-4" id="text-org5fa93af">
+    <p>
+    Okay, real quick, in case you don't know, what's up with this "Edda" business, one "Prose" and one "Poetic"? Snorri Sturlusson was an Icelandic statesman/poet/badass of the 13th century. He wrote a book that he called <i>Edda</i>, and by sometime between the late medieval and early modern era, nobody remembered what the hell that was supposed to mean, but since it was a book about how to compose poetry, they figured it was something like "book of poetry/poetics." He also keeps talking about all of these famous old heathen poems, but nobody had ever seen them, so there was speculation that there must have been an "Elder Edda" that he was quoting. Lo and behold, in 1643, Bishop Brynjolfur Sveinsson is handed this old manuscript a family has handed down for who knows how long, and it's got all (most) of those famous old poems! Here was the hypothesized "Elder Edda!" Over the years, one way of distinguishing these besides the "Elder" and "Younger" (which you'll still find occasionally, especially in older writing), was to call one "Prose" and the other "Poetic," since Snorri's work was a work of prose full of quotes of poetry, whereas the mysterious manuscript (known today as the <i>Codex Regius</i>) was almost entirely poems, except for a few prose introductions. Well, later scholarship has found no sign that anything was ever called "Edda" before Snorri's work, and the <i>Codex Regius</i> doesn't have any title on it, and later finds of other manuscripts have found other versions of the same poems, along with a few that were not in the <i>Codex Regius</i> but seem to be from the same time and/or in the same title. All of these poems sometimes get collected by scholars and translators and published, and the name everyone has agreed upon for this body of work is "The Poetic Edda," despite it's goofy history. As I mentioned, which manuscripts to favor when there are differences between them, even which poems to include or leave out, are matters of some debate, and different scholars come to different conclusions. The most important poems will be in any version of the <i>Poetic Edda</i> you get, and Kvilhaug takes a maximalist approach, so she summarizes everything that has ever been considered a part of the <i>Poetic Edda</i>. If you really want to get more into it, there's lots of books and articles on the subject to dive into.
+    </p>
+
+    <p>
+    Whew, okay. So back to Snorri. Snorri loved the poetry of his folk, and he saw that fewer and fewer Icelanders were learning how to do it, and he set out to write a guide that would help folks learn the craft. Doing this was more complex than just explaining the <a href="https://jpowellrussell.com/#rules_of_germanish_meter">rules of alliteration</a>, meter, and so forth, though. You see, right at the heart of Old Norse poetry is something called the <i>kenning</i>, which means "that by which someone or something is known," and is basically a metaphor. A famous kenning from <i>Beowulf</i> is the "whale way/road" as a name for the sea. Another common one is "flame of battle" to mean "sword." So far, so good, but <i>very many</i> traditional kennings were based on mythological stories. If you think about it long enough, you might work out what a "flame of battle" is from context and imagination, but unless you know the story, it's <i>much</i> harder to work out that "Otter's Ransom" means "gold." In other words, the Old Norse heathen tales were baked right in to the very way they made poetry. And it gets even harder: kennings can go <i>fractal</i>. Instead of just "flame of battle," I might decide to substitute in a kenning for one or more of the ideas in there - like "Gullveig's Welcome of Odhin's Delight." As we'll get more into later, Old Norse poets and audiences ate this stuff up - they saw poems as puzzles, and decoding the nested metaphors and allusions was at least half the fun. All of which was well and good when everyone grew up hearing these tales from their grandmas and having them reinforced by seasonal rites, but was way harder for Christians who had never heard these tales, or only knew bits and scraps about "the old superstitions."
+    </p>
+
+    <p>
+    So, in his <i>Edda</i>, Snorri set out not only to lay out the rules of meter, nor only to explain the plain meaning of mythological kennings, but also to explain enough about the mythology that new composers could write poetry with their own mythologically-grounded kennings. To make this happen, he did his best to bring together what was then still known about the old tales, try to resolve a few things that seemed like contradictions to him, and put it all in an easy-to-understand package. There was a catch, though. By Snorri's life, Iceland was a firmly Christian country and the Christian church has not always been keen on the spread of stories about other Gods. So Snorri had to thread a very careful path: tell as much of the tales as he could, but in a way that didn't get him branded a secret heathen. He rather cleverly managed this through a combination of euhemerization and frame stories. If you don't spend a lot of time reading about old religions, you might not have met the word "euhemerization." It comes from a Greek scholar named Euhemerus who tried to find logical explanations for myths. These days, the term is mostly used to refer to the process of recasting/interpreting mythical figures like Gods as merely remarkable humans. Thus, Odhinn was not the king of the Gods, but a long-ago king with mighty magic who became so feared and respected that folks started worshiping him as a God. Sometimes this process goes very far, as with most Irish and Welsh "myth" that we have left, which is usually presented as history, but which various clues indicate were derived from myths about the Gods. Anyway, so Snorri claimed that the Gods were warriors and magicians of long ago who made a big impression, but that's not the only thing he did. He also included the <i>Gylfaginning</i>, usually rendered as something like "The Deluding of Gylfi," but Kvilhaug prefers "The Revelation/Vision of Gylfi." In this story, Gylfi, himself a king and wizard, disguises himself and seeks out the wizard king Odhinn to find out what all the fuss is about. He is taken before three Beings, "High," "Just as High," and "The Third," all of whom are presented as disguises for Odhinn. There, Gylfi asks questions about how the world was made, who rules it, and so forth, and the Three answer him with material from Norse myth and cosmology.
+    </p>
+
+    <p>
+    This was really rather clever. The framing allows Snorri to say "I didn't say this stuff was true, I said some crazy wizard told some lies to another crazy wizard and folks believed it before we got Jesus." He can present all of the details of the heathen cosmology and Gods because they are cast as <i>beguiling lies</i>. I haven't ever encountered anyone else who managed to so artfully preserve non-Christian teachings in a hostile Christian context, so well-done, Snorri!
+    </p>
+
+    <p>
+    Speaking of which, let's take a moment to appreciate how strangely lucky we are to have so much preserved. Thanks to <i>one family</i> on a windswept island in the North Atlantic, we have most of the poems of the <i>Poetic Edda</i>. Thanks to <i>one guy</i> on that same island, and his sharp thinking, we have a textbook describing what was going on in what might otherwise have been entirely opaque poems. If you haven't ever read much about ancient knowledge, you might not realize how great this is. You know the <i>Iliad</i> and the <i>Odyssey</i>? While those two were always regarded as the best, there was a whole <i>cycle</i> of other epics that covered the entire Trojan War, and they're all lost. Lost from one of the most literate and continuously-inhabited bits of Europe/Asia/Africa since folks have been writing anything down. We don't even have everything by Plato or Aristotle! It's darn near <i>miraculous</i> - given my own beliefs, I'm inclined to think that the Hooded One had a hand in keeping His stories alive and ready for an age once again ready for them.
+    </p>
+
+    <p>
+    At any rate, there are two remarkable exceptions to what Snorri included under the guise of "wrong things our ancestors believed" - despite quoting the <i>Voluspa</i> and <i>Havamal</i> extensively, showing he knew those poems, he never once mentions the attempted killing of Gullveig the sorceress in <i>Voluspa</i> or Odhin's giving of himself to himself upon the Tree to gain the Runes in <i>Havamal</i>. Kvilhaug finds these conspicuous absences <i>too</i> conspicuous, and thinks that Snorri left them out because they were so obviously models of heathen magical initiation. I'm not sure, but it does seem odd when he was so careful about everything else.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org1eb958d"></a>Kvilhaug's Method of Interpretation Leans Heavily on Kennings, Name Meanings, and Structural Elements<br />
+    <div class="outline-text-4" id="text-org1eb958d">
+    <p>
+    Kvilhaug helpfully lays out her approach to interpreting Old Norse myths and poems, which she breaks into four main bits, and three supplementary ones. The first of her main tools is to look at the kennings being used. Of course, you need to figure out "who or what is this kenning referring to?" to have any idea what's going on in the poem, but there's an additional layer here - <i>which</i> kenning gets used tells you what kind of associations the poet was shooting for. If you refer to Odhinn as "Frenzy of Battle," you are calling to mind a very different side of Him than if you refer to him as "Wandering Learner." If you bring in the fractal nature of kennings we mentioned above, you can get multi-layered references going on. The "giver of Baldr's funeral gift" as a way to call Odhinn would 1. emphasize Odhinn as Baldr's father, 2. bring up Baldr's death, 3. bring up <i>Draupnir</i>, Odhin's ring-making magic ring, forged by the dwarves, along with the whole tale of its making, and so forth.
+    </p>
+
+    <p>
+    The second bit that Kvilhaug makes much use of, and here is where her work truly shines, is in looking at the meanings of the names given to folks, things, and steads in the myths. Most translators leave names untranslated or lightly localize them (such as turning "Odhinn" into "Odin"). Occasionally, if it's <i>really</i> obvious the name is important to the poem, like a pun revolves around it, or there's some irony around a character's name, or what have you, other translators will give the name's meaning in a footnote. But most translators treat names as merely arbitrary tokens that mean nothing other than the being, thing, or stead referred to. Maybe <i>the</i> key insight of Kvilhaug is that this leaves huge amounts of meaning on the table when it comes to understanding what these poems are doing. That was what actually led me to check out Kvilhaug in the first place - hearing that she translated <i>every</i> name. So far, I've got to say I'm with her on this. There is often a <i>ton</i> of meaning baked into only the names being used in a poem or myth.
+    </p>
+
+    <p>
+    Let's run through an example, with the story of how the <i>jotun</i> Thjazi kidnaps Idhunn and takes her back to his home in Thrymsheim, before Loki borrows Freyja's falcon-shape to steal Her back in the shape of a nut, barely escaping as Thjazi chases in the shape of an eagle, before Thjazi is caught in a fire set by the Gods in Asgard. Well, this thumbnail sketch of the myth comes across very differently than if we talk about how the devourer Slave-Binder kidnapped the Goddess of Water that Returns to Its Source and took her back to his home in the Land of Drumming, before Loki (even Kvilhaug can't figure his name out) borrows the Lady's falcon-shape to steal Her back in the shape of a nut, barely escaping as Slave-Binder chases in the shape of an eagle, before Slave-Binder is caught in a fire set by the Gods in the Divine Ancestor Enclosure. See how much is going on there, just from translating the names? As I said, this is what brought me to Kvilhaug's work, and so far, it hasn't disappointed in terms of opening up many new paths to explore.
+    </p>
+
+    <p>
+    Kvilhaug also emphasizes the structural element, which she calls "interpreting the myth as parable." I'm not exactly sure why the scholars she's inspired by use the word "parable," since it doesn't seem to have much in common with the kind of stories told by Jesus for moral edification, but rather looking at the narrative structure of the myth and identifying how it holds together the different elements. One of those elements that Kvilhaug has identified are repeating "formulae." These are things like "three Gods traveling together" or "two complementary Beings get married." So, if you wanted to take this approach to Odhinn winning the Mead of Poetry, you'd focus on how Odhinn changes shape, goes underground, meets a female figure, they have sex, he takes a precious liquid, and then changes shape to escape again, chased by a giant who has also changed shape. Now, clearly, the details of each of these steps likely have meaning (why does he change into a snake at first and an eagle at the end? <i>Which</i> female figure gives him <i>what</i> precious liquid?), but boiling it down like this also can help us find parallels with other stories, the formulae Kvilhaug talks about, and sometimes get a clearer picture of what is being said about the different elements interacting.
+    </p>
+
+    <p>
+    Now, to supplement these core elements (kennings, name meanings, and structure), Kvilhaug has a few other notes. First, she points out that she does <i>not</i> lean very heavily on comparative mythology in this book. If you're not familiar, comparative mythology is when you do something like looking at Celtic or Roman or Indian myths to find parallels with Norse myths and see if that can help you understand things better. Kvilhaug says she is a fan of comparative mythology, has learned a lot from it, but that she thinks it takes away from her core message of "look what you can find out just by paying attention to the kennings, name meanings, and structures."  The other thing she does is to point out how her understanding is that the myths can be understood, enjoyed, and found meaningful at multiple levels, whether as magical tales, clues to religious ritual, or representations of deeper spiritual realities. She compares this to how the myths can function for laity, priests, and esotericists. Kvilhaug describes herself as a "pantheist," which can mean different things to different folks, but for her means that every Being, including spirits, Gods, and so forth, are truly manifestations of one universal spiritual reality. As such, her preferred meaning for these myths is as symbolic explanations of how different forces/tendencies/characteristics interact with each other, both within the individual, and in the wider cosmos ("as above, so below").
+    </p>
+
+    <p>
+    I get the impression she is trying to be even-handed and broadminded here, allowing for different folks to get different things from the myths, but there's a distinct feeling that she finds the more symbolic/esoteric interpretations "better," like the other ways of understanding the myths are mere stepping stones to getting to the "real" meaning. I might be reading more in than she actually feels, but I got a strong whiff of snobbery for those poor, benighted souls who are so foolish as to think that the "Gods" have any of Their "own" meaning besides what they can help you know about the whole behind them. My own beliefs right now aren't so far off from Kvilhaug on this, but I put more weight on the distinctness and importance of the different manifestations of the holy. Sure, maybe in some sense Woden and Thunor and me and my cat are all "just" manifestations of one cosmic creative principle, but at least right here and right now, we're also different and separate in important ways, and I think that matters. So, that leads me to look at the very many ways myths can be understood and think that all of them have worth, and that all of them are true <i>at the same time</i>. Any given myth is an exciting magical tale, an reenactment of an initiatory ritual, a symbolic representation of the forces of consciousness, and much else besides. That's what makes true myth so rich. All that being said, it's a minor gripe.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org0a48091"></a>Gender is One of the Building Blocks for Understanding Myth<br />
+    <div class="outline-text-4" id="text-org0a48091">
+    <p>
+    Kvilhaug makes a few points about how one of the groundmost ways of organizing/understanding the symbols in the myths is by their gender, and if we want to understand that, we need to understand what we can about the gender roles of folks in the lands that crafted these tales at the times they did so. All of which makes good sense to me. In laying out what Iron/Viking-Age northern European gender roles were like, Kvilhaug is mostly pretty even-handed, though at times she seems to have a bit of a rose-colored tint to how she thinks women were thought of, treated, and so forth. She also gets <i>weirdly</i> harsh about the effect of the Christian church. She makes the good point that most of us tend to think of views on gender as either "modern" or "old-fashioned," and what we think of as "old-fashioned" was heavily influenced by the church, so when we come across non-Christian societies, we run the risk of making a category error. Again, all true, but then she hauls off and blames everything bad about past beliefs about sex and gender on the church, which strikes me as, well, un-nuanced, at the very least. At any rate, despite all of that, what she boils down about what things that are masculine or feminine are doing in myths is basically the same stuff that Jung worked out, as popularized and somewhat simplified by <a href="https://jpowellrussell.com/#jordan_peterson_s_framework_for_myth">Jordan Peterson</a>, which is unsurprising, as the deepest mythological associations with sex and gender are likely due to physical realities that don't change all that much among different human groups.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org6024c16"></a>A Few Stray Insights - Creation is a Story and the Red Gold of Initiation<br />
+    <div class="outline-text-4" id="text-org6024c16">
+    <p>
+    I couldn't find another place to weave these in, but Kvilhaug makes a couple of points that I suspect she'll develop further in the book that I liked well enough to call out. The first is that she points out how the creation of the cosmos is always <i>narrated</i>, and in at least one place, is explicitly described as weaving a tale. As such, she raises the thought that all of that which is might be thought of as a story or a poem being told by Whatever or Whomever the creator might be. This is a lovely and interesting thought, and it might not be so far fetched, considering that Tolkien presented the act of creation as a great symphony, and he was <i>deeply</i> shaped by the Old Norse myths. The other insight I didn't have anywhere better to put is the thought that the "Red Gold" often mentioned in the myths is best thought of as the kind of wisdom gained through initiatory experience, which is itself the ultimate treasure. Obviously as someone pursuing initiatory paths to wisdom, this is greatly appealing to me! I'll have to read on to see how she develops it past that, though.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org09ea7f4"></a>The Organization is Bad<br />
+    <div class="outline-text-4" id="text-org09ea7f4">
+    <p>
+    Okay, after my crabby opening, I've spent most of this post talking about what's good in this book's first chapter, and by the word count, you can tell there was a lot! But the bad is real, and it mostly comes down to organization. Now, before I dive into this, I should likely point out that I'm an explainer. As this post itself shows, along with those on <a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Spengler</a>, and the Peterson post linked above, I like to take the thoughts from others that I've found worthwhile and try to work out how they might more readily be shared and understood. On top of that, my day job is explaining how to communicate in a business context. For business writing, the goal is to get your information across in as few words as you can manage, and with an organization that makes understanding them as easy as possible. Now, is that the end-all, be-all of writing? Of course not. But it's what I default to, and it means that when I see something I think would benefit from even just a bit of that structure and clarity, it's like nails on a chalkboard.
+    </p>
+
+    <p>
+    Let me give an example of what I mean. You look at the table of contents, and it seems like this is exactly the kind of well-organized book I'm looking for. Here's chapter 1:
+    1: The Books of Old
+    1.1: The Forgotten Manuscript (Poetic Edda)
+    List of Edda Poems
+    1.2: Snorri Sturluson's Prose Edda and Ynglinga Saga
+    1.3: Gylfaginning The Revelation of the Sorcerer
+    1.4: Skaldskaparmal - Hidden Meanings in Poetical Metaphors
+    1.5: Hidden in Plain SIght - What Snorri Could Not Say
+    1.6: Other Sources to Old Norse Mythology
+    1.7: My Methods of Interpretation
+    1.8: Gender as a Mythical Formula and Some Other Observations
+    1.9: That Which is Disguised in Runes
+    </p>
+
+    <p>
+    Looks straightforward enough, right? There's even numbered sub-sections, just like in a technical manual! As I have discovered over the past several months of trying to dip into this book here and there based on just that table of contents, though, it is misleading. Key points that you think ought to be covered under a heading aren't there. The section isn't always <i>really</i> about what the heading implies it is. The stuff under the heading is meandering and hits on a lot of kind-of-related things. I mentioned above that Kvilhaug's use of gender as an interpretive framework matches Peterson's pretty well, and there's another way she reminds me of Peterson: both have chosen to tackle big, messy, densely interlinked fields, where every one thing relates to many other things, and there's no easy way to define a clear start, middle, and end. So, I can feel for the lack of organization, I really can. Peterson, though, is only that way in his talks. For his books, he has disciplined himself to edit ruthlessly and structure robustly. Kvilhaug has apparently <i>not</i> learned this particular trick, as much of her writing reads like an "off the top of my head" talk, with the same quality of finding and following tangents where they might lead. Luckily, as I've stressed above, most of these are <i>interesting</i> and <i>worthwhile</i> tangents, but tangents nonetheless.
+    </p>
+
+    <p>
+    So, for this chapter, one section in particular stood out as a good example of what I mean. "1.7 My Methods of Interpretation" is itself divided into the sub-sub-headers "Comparative Mythology," "That By Which A Thing Is Known," "The Meaning of Names," "Reading Myth as a Parable," "The Formula is the Key," "Truth or Fiction? The Eyes that See," "Do the Myths Represent Common Beliefs or the Beliefs of Spiritual Elites?" Each of these is at the same level of hierarchy. You'll notice above that I took the liberty of re-organizing these when I presented them, because I found this actively hindered my understanding. Skimming through, I assumed her interpretative method had seven components, and that comparative mythology was one of them. Instead, what I found was that "Comparative Mythology" was a section explaining how she <i>won't</i> be using that in this book, "Reading Myth as a Parable" was really an introduction to the concept in "The Formula is the Key," and that both "Truth or Fiction? The Eyes that See" and "Do the Myths Represent Common Beliefs or the Beliefs of the Spiritual Elite?" were talking about the different layers of meaning and Kvilhaug's preference for the estoeric symbolism level of meaning. All of this confusion could have been solved by some formatting, some different header names, and some shuffling around. And that's not even touching a more fundamental edit to the writing itself, which almost certainly would have helped even more. This doorstop of a book could likely have been 1/2 - 3/4 the length and still absolutely brimming with wortwhile insights. This alternate reality book I have in mind could have been one of the absolute best every written on understanding Norse myth. Hence my hair-pulling in the lead-in.
+    </p>
+
+    <p>
+    Lastly, the chapter ends with three sections that don't just read like transcripts of off-the-cuff talks, they <i>are</i> transcripts of off-the-cuff talks. I'm not totally sure why they were here. They give some examples of what Kvilhaug spelled out in the interpretation section, but they don't add much that is new, and just dropping in barely-edited transcripts of Youtube talks is not how you write well (again, the Idhunn book is <i>all</i> that, and it's maddening). I think either weaving some examples into her explanations of her methods, or else just having a section called "an example of applying these methods" that she wrote for the book.
     </p>
     </div>
     </li>
     </ul>
     </li>
-    </ul>
-    </li>
 
-    <li><a id="org59420d1"></a>The Three Economies<br />
-    <div class="outline-text-3" id="text-org59420d1">
+    <li><a id="org8986b56"></a>Closing<br />
+    <div class="outline-text-3" id="text-org8986b56">
     <p>
-    The framework I spoke of above is the "Three Economies." This is an expansion of E.F. Schumacher's work in <a href="https://bookshop.org/p/books/small-is-beautiful-economics-as-if-people-mattered-e-f-schumacher/9061437?ean=9780061997761">Small is Beautiful: Economics as If People Mattered</a> (the title of Greer's book is, of course, a nod to this) - Schumacher talked about the primary and secondary economies, and Greer found it helpful to add the third.
-    </p>
-    </div>
-
-    <ul class="org-ul">
-    <li><a id="orgb493c0c"></a>A Quick Aside on "Political Economy"<br />
-    <div class="outline-text-4" id="text-orgb493c0c">
-    <p>
-    If I had worked out how to sidebars with my current blog settings, that's likely what this would be, but we'll just have to settle for an awkwardly set heading here. In this book, Greer talks about the older term for what we now call "economics," which was "political economy." If you'd like to get a preview of his thinking on this, check out <a href="https://www.ecosophia.net/introduction-political-economy/">this post</a>, and for some examples of less well-known ways of thinking about political economy, check out <a href="https://www.ecosophia.net/reimagining-political-economy/">this one</a>. At any rate, Greer prefers "political economy" to "economics" for the field at large, because the allocation of scarce resources is <i>always</i> a political question. Many modern economists act like there are "objective" or "scientific" ways to structure economies, but that only holds under certain value assumptions - the current one being something like "the currency-denominated value of assets should be maximized," often with a flavoring of "the most people should have as much money as possible." These value assumptions would look very strange to a daimyo under the <a href="https://en.wikipedia.org/wiki/Tokugawa_shogunate">Tokugawa Shogunate</a>. The point is that wealth is for the benefit of folks, and <i>which</i> folks get <i>how much</i> wealth in <i>what</i> ways are weighty questions, questions that get settled by power. Which makes them <i>political</i> questions. So even the most "objective" economic assessment can only be treated as such within a particular political and value framework - taking a moment to be aware of that framework can help clarify some seemingly "economic" questions.
+    Altogether, this book has a <i>lot</i> to recommend it, but it takes a certain amount of energy to grapple with in anything but the most casual way. I sincerely wish Kvilhaug had some kind of partner of the organizational, attention-to-detail variety who shared her passion for these myths. Then we could have things like a list of all of the major Gods, Goddesses, and steads with their names translated, to be used as a reference when reading. We could have chapters and sections that can be looked up as needed, rather than having to be sifted out of the entire 600-page web. We could have lists of the formulas she's identified with pointers to what myths you can find them in. Such glorious possibilities! Alas, for now, I'll have to settle for making my own sense of what she has to offer and sharing what I find with you.
     </p>
     </div>
     </li>
 
-    <li><a id="orgb482c5b"></a>What Do We Mean by "Wealth" Anyway?<br />
-    <div class="outline-text-4" id="text-orgb482c5b">
+    <li><a id="org2adca8d"></a>Post Footer<br />
+    <div class="outline-text-3" id="text-org2adca8d">
     <p>
-    Before we launch into talking about the three economies Greer proposes in his framework, it's helpful to think about the word "wealth" and what we mean when we use it. These days, if we don't think about it much, we tend to say "wealth" and mean "money" or "things valued in money." But the word actually goes back to <i>weal</i>, which you sometimes will hear in old timey writing put against its opposite woe. If you go even further back, it's from the same PIE root as "will." So, "wealth" grew out of a meaning something like "to have the things you need for the well-being you would will for yourself." Money is a useful economic tool, but it also can hide this ground truth: that true "wealth" is that which lets folks live happy, healthy lives. This wider meaning will be helpful to keep in mind as we go through the framework below.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org25ac2b2"></a>The Secondary Economy - Goods and Services<br />
-    <div class="outline-text-4" id="text-org25ac2b2">
-    <p>
-    Okay, now that we are on the same leaf about "wealth," I'm gonna start in the middle and talk about the Secondary Economy first. This is what's most familiar to us when we talk about "economics" - the economy of goods and services. The traditional tools of economics are pretty good at analyzing this kind of thing - supply and demand curves, marginal utility, all that jazz. For reasons that will become clear as we go, I'd like to bring in the example of a farmer. He plants his grain in the spring, tends to it over the summer as it grows, and harvests it in the fall, before taking it to market to sell. All of this work makes wealth as we've defined it - with his work, folks get to eat, without it, they don't. Economic tools will do a good job helping us understand things like the effects of importing foreign grain, if he switched to a different crop, the impacts of fuel costs on his profits, and so forth. This is the stuff economics was developed to handle, and it handles it rather well. The main wellsprings of trouble here are that 1. wealth ends up getting abstracted into dollars, even where it is hard to pin down exact amounts, and because of this, 2. stuff that is harder to measure in dollars tends to get ignored or abstracted, and lastly 3. the very success of these tools in this field ends up tempting us to think they work just as well in other fields.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="orgd5f662f"></a>The Tertiary Economy - Financial Instruments<br />
-    <div class="outline-text-4" id="text-orgd5f662f">
-    <p>
-    Speaking of wielding economic tools in other fields, let's talk about the Tertiary Economy. This is Greer's addition to Schumacher's model, and I think it's a helpful one. The Tertiary Economy is made up of all financial instruments, tokens that notionally refer to something that makes, gives, or holds wealth. Take our farmer. Let's say he has a mortgage on the farm. That mortgage is a financial instrument. To buy the farm to grow food (that is, turn his work into wealth), he needed more money than he had at one time, and so the bank loaned it to him in return for him paying it back with interest. There's a piece of paper (or at least a computer record) of this deal that specifies how much he has to pay by when, and what the bank is allowed to do if he fails to do so (like foreclose and take the farm). So far, so good, right? If everyone had to save up enough money to buy land with cash, a lot fewer folks would be able to afford it. And this particular token is pretty tightly linked to the on-the-ground wealth-making: if the farmer doesn't make money growing and selling food, he can't pay the mortgage, but if he does, he can. Assuming he makes more than that, this is a good deal for everyone, and 30 years later, he owns the farm free and clear and the bank has more money than what it loaned him. The mortgage (token) helped make all this more likely to happen than without it.
-    </p>
-
-    <p>
-    Okay, but you no doubt are looking for the "but" here, so here it is. Such financial instruments almost always start out as tokens representing some underlying wealth-making thing, and so long as they stay that, there's not too much trouble. Let's go through a bit of history to see what can happen with such tokens, though. Before the invention in the west of modern Joint Stock Companies around 1600, the main way that folks invested in commercial ventures was to put up some money before a voyage, and then at the end of the voyage take a proportional share the profits (hence the word "share" for one unit of stock in a company). Well, some bright folks started saying "hey, instead of cashing out after every voyage, want to roll your profits over into a share in the next trip?" and from there it wasn't that much of a jump to make the entity undertaking the voyages persistent, and the "shares" were in that <i>company</i>, rather than in any one of its voyages. Still, the assumption was that those shares entitled you to a payout at some point (dividends). So far, this is just a way to formalize multiple folks putting up the capital needed to start and run a business and getting paid their fair share for their contributions. Here's where it gets interesting, though. At some point, these shares started being treated as a piece of property. Meaning something you could buy and sell. Which folks started doing. Maybe you need a few thousand bucks now instead of a few hundred every year, so you sell your share to someone who wants the cashflow more than the chunk of cash now. At some point, somebody bought a share and a little later got an offer from someone else wanting to buy it for more than he paid. After a while, more and more people noticed that if you bought shares in a thriving business, a little later you could sell it for more than you bought it for, earning a profit without having to wait for all of those tedious dividend payments to add up.
-    </p>
-
-    <p>
-    You can probably see where this is going, but let's step back to understand what's going on here formally. <a href="https://fs.blog/mental-model-feedback-loops/">Feedback loops</a> are a handy bit of systems theory to have in your head if you don't already. Some systems make outputs that then change the system's behavior. These come in two flavors: positive and negative. Positive feedback loops take their output and then do more of what they were doing before, getting stronger and stronger. This is not necessarily a good thing, as the classic example shows: feedback between a microphone and speaker (as a former high school sound tech, I tend to take that sound <i>personally</i>). Negative feedback loops, on the other hand, do less of what they're doing as they pick up on their outputs. Here the classic example is your thermostat: once it gets hot or cold enough, it stops putting out hot or cold air. Negative feedback loops are self-terminating by definition, but it turns out positive feedback loops can't keep going forever, either. Instead, they do more and more of what they're doing until the system <i>breaks</i>. If you let a microphone sit in front of a speaker, unless there's a failsafe built in, it will get higher and higher pitched until the speaker blows out.
-    </p>
-
-    <p>
-    Now we have all the pieces we need to understand why it's helpful to call out the Tertiary economy as its own thing. In the secondary economy, systems are almost always negative feedback loops. Good ol' supply and demand works this way: if I am making a killing selling widgets, you might want to get in on that action, and five other folks, and soon, there's too many widgets and nobody's making any money on them, so a handful drop out of the business, and those left are making decent money, but the price for the buyers isn't insane. Remember how I said that formal economic tools get used where they're less well-suited? This is a big part of why. Those tools were developed to analyze and understand <i>negative</i> feedback loops. But guess what? That dynamic we sketched out for financial instruments is a <i>positive</i> feedback loop. You know what we call positive feedback loops in finance?
-    </p>
-
-    <p>
-    <i>Bubbles</i>.
-    </p>
-
-    <p>
-    The perception that you can buy these instruments and sell them for more later creates demand for the instruments, which drives up their price, which makes more people think they can get rich by buying now and selling later, which further drives up the price, and so forth. Until enough folks look around and think "okay, this is good enough, I'm gonna sell" - which then drives <i>another</i> positive feedback loop in the other direction. Now, the instruments are getting sold, which ups their supply, which drives down the price, which makes more folks want to get out before the price falls further, and so on, and the bubble pops.
-    </p>
-
-    <p>
-    As it happens, this is how the 2008 financial crisis happened. You can skip this paragraph if you know the story. Mortgages had traditionally been given by local banks to folks who actually wanted to live in the house they bought, and the banks were careful about taking on a loan with such a long term, so they vetted applicants pretty thoroughly. This led to mortgages being seen as rock-solid financial instruments well-tied to the secondary economy, and therefore not subject to becoming a bubble. Unfortunately, this very perception led some folks to create <i>new</i> financial instruments that were tokens of bundles of mortgages, and then sell these as "super safe." As you might imagine, "guaranteed safe returns" is something that <i>everyone</i> wants, and so those new bundles became a hot commodity. This drove up demand for the underlying mortgages. Which meant banks started looking for ways to give more people mortgages. What most of them hit on was making it way easier to get a mortgage, loaning to folks who wouldn't have been considered credit-worthy before. At first, this was subtle, but over time, it got to where banks were issuing loans with <i>zero</i> verification of the applicant's claims about things like income and assets. The easy availability of mortgages meant more folks started buying homes, which drove up their price. Folks started noticing that they could sell their house for more than they got it for, and so folks started buying houses <i>expressly</i> to sell them, not to live in them. Through financial sorcery, the safest, most mundane bit of the secondary economy got turned into a bubble. And then it popped.
-    </p>
-
-    <p>
-    So, economists look at things like the stock market or derivatives trading or the like, and they see that you have pieces of property traded in a market that are valued in dollars, and they think traditional secondary economy tools will work to understand them. And they do - to a point. But it is precisely the insanity of a full-throttle bubble that those tools are not made to handle, and that's arguably the most important thing about financial instruments. So, it's helpful to know that this bit of the economy works differently, and to have the tools to think about it. The tertiary economy is capable of "creating" vast amounts of <i>money</i>, whether or not it represents <i>wealth</i>, and that's the trouble.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="orgf07b82a"></a>The Primary Economy - Natural Processes<br />
-    <div class="outline-text-4" id="text-orgf07b82a">
-    <p>
-    Alright, why have I saved the Primary Economy for last? Because talking about the other two economies has helped give us the grounding we need to understand something a little counter-intuitive. You see, the Primary Economy is both the most important of the three, and also the one economic tools are the least well-suited to analyze. The Primary Economy is all of the wealth given to us by nature. Our farmer? Yes, he needs to work to plant, care for, and harvest his crops, but the sun shines for free. The dirt holds nutrients and microbes that help the plants grow. The rain waters the crops. The air gives the carbon the plants need to build themselves. <i>Every</i> economic activity we do is embedded in this wider world of free wealth. The way I like to drive this home is to bring up the show <a href="https://en.wikipedia.org/wiki/Naked_and_Afraid">Naked and Afraid</a>. If you're not familiar, it's a reality show where a guy and a girl are dumped somewhere in the wilderness literally naked, and they have to fend for themselves for a couple days. Sounds like a pretty bad time, right? Now, imagine an episode on <i>Mars</i>. It'd be pretty short.
-    </p>
-
-    <p>
-    All of this stuff is obviously a big part of wealth as we've defined it, but it's almost impossible to measure in dollars. It's also <i>so</i> ubiquitous that we take it for granted. And yet we can affect this economy - composting and other methods can enhance the wealth the soil can bring forth. Forestry can make sure we have healthy forests and timber. Paying attention to ecosystems and taking care of them can have ripple effects literally up and downstream. Planting mangroves can ward off the worst hurts brought by hurricanes. Also, unluckily, we can screw it up by <i>not</i> doing these things.
-    </p>
-    </div>
-    </li>
-    </ul>
-    </li>
-
-    <li><a id="org6534f2b"></a>Energy and Concentration<br />
-    <div class="outline-text-3" id="text-org6534f2b">
-    <p>
-    One of the biggest gifts of the Primary Economy has been fossil fuels. Plants used the energy in sunlight to pull carbon out of the air and into their bodies. Some of those got eaten by animals, and some of both ended up at the bottoms of seas or swamps or the like, and for millions of years, the pressure of titanic slabs of rock squashed them into oil, coal, and so forth. It is not an overstatement to say that the Industrial Revolution and everything it brought could not have happened without fossil fuels. I've linked it before, but Wait But Why has a pretty good <a href="https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html">break down</a> of the mind-blowing amounts of energy fossil fuels have let humans harness. I'm less sanguine on what alternative energy technologies will let us do than Tim, but I'll get into that below. The point is that fairly readily available fossil fuels have let mankind spend the last ~300 years seeing what we can accomplish when we use huge amounts of outside energy to make things easier for humans, and a lot of the outcomes are pretty darn impressive. But mark that premise, as it turns out to be a doozy.
-    </p>
-    </div>
-
-    <ul class="org-ul">
-    <li><a id="org36efec1"></a>Energy as the Ur-Resource<br />
-    <div class="outline-text-4" id="text-org36efec1">
-    <p>
-    It turns out if you look at societies throughout time and around the world, energy is the master resource that sets the bounds on how much an economy can produce. For most of history, that energy has been human and animal muscle, burning wood, and a smattering of wind/water power. The real turning point of the Industrial Revolution was that it allowed energy to become <i>versatile</i>. All of a sudden, you could turn <i>burning</i> into movement. Take a tick and think about how <i>weird</i> that really is - burning some long-dead plankton can get you a few hundred miles in a few hours. Burning more of that dead plankton can sew your clothes, <i>cool</i> your house (coolth from fire!), put up a skyscraper, and now even write (bad) poems. Every economy has been limited by how much energy it could muster and what kinds of work it could be put to, but the industrial world's economy has let us muster <i>a lot</i> and put it to <i>very many</i> uses, and so it has grown very, very big.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org65bf544"></a>Amount of Energy vs Concentration of Energy<br />
-    <div class="outline-text-4" id="text-org65bf544">
-    <p>
-    There's a catch, though. It's not just <i>amount</i> of energy that matters. Fans of solar are fond of pointing out how very much energy hits the planet in the form of sunlight every day, which is absolutely true. Unluckily, that energy is very diffuse. It turns out that <i>most</i> of the really interesting stuff you can do with energy needs that energy to be concentrated. On its own, sunlight can do a lot of helpful things - make plants grow, heat things up slowly, help us see (duh). With a <a href="https://en.wikipedia.org/wiki/Solar_still">little more work</a>, you can do some neat stuff like turn wine into brandy. But to make sunlight do all the tricks we've grown used to making energy do, it has to be concentrated. Right now, the best ways we know how to do that are by growing plants and photovoltaics. Plants <i>barely</i> concentrate energy, as charcoal doesn't get you as far as fossil coal, and photovoltaics take a lot of energy-intensive inputs to make. To put that in plain speech, right now, the only way photovoltaics get made is in factories running on burning fossil fuels. If you were required to make photovoltaic panels using only energy concentrated by photovoltaic panels, you would be spending more energy than you're making - it's a net energy sink. And that's to say nothing of the problem of <i>storing</i> the energy so generated, and as everyone who has ever owned a laptop or a cellphone knows all too well, batteries suck. What made fossil fuels a wonder was not at first how <i>much</i> energy there was, but rather how <i>concentrated</i> it was.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org7812e7c"></a>Concentrating Energy takes More Energy than is Concentrated<br />
-    <div class="outline-text-4" id="text-org7812e7c">
-    <p>
-    Okay, so we need concentrated energy to run an industrial economy - if we have super abundant diffuse energy in the form of sunlight or wind, why don't we just concentrate it? Well, putting energy into a physical form that can hold energy is a process that itself <i>takes energy</i>. Thanks to physics's biggest downer, the Third Law of Thermodynamics, any such process will be subject to entropy and lose some of the energy being concentrated in some kind of waste - light, heat, or whatever. That means that <i>any</i> process that can concentrate energy takes more of an energy input than it produces as an output. In the case of fossil fuels, the energy input for concentrating them was given by the combination of gravity and trillions of tons of rock sitting on top of them for millenia. All of that was actually way more energy than ended up stored in oil, coal, and the rest, but since it happened very long ago and needed no help from humans (we weren't even around yet), it seems like all that energy was "free." And we've been living high on the hog off that bounty for the last few hundred years, building stupendous wonders, birthing more humans than have ever been on the Earth at one time, and making many of those folks richer and healthier than anyone had been for at least hundreds of years before, maybe ever.
-    </p>
-    </div>
-    </li>
-    </ul>
-    </li>
-
-    <li><a id="orgf7915a9"></a>Where Does All This Leave Us?<br />
-    <div class="outline-text-3" id="text-orgf7915a9">
-    <p>
-    Here's where I may lose those of y'all who are techno-optimists. So far, we haven't found any concentrated energy sources as useful as fossil fuels. Fission power has been tried in a wide variety of states with very different regulatory regimes, and yet has never worked without a lot of subsidies. Fusion power has been coming "any day now" for longer than I've been alive. And we're getting to the point where fossil fuels are harder and harder to get to, because we already dug up the easy stuff. Technologies like fracking take far more energy input than conventional wells, which means more of the energy we're pulling out of the ground is being used to, you know, pull energy out of the ground. At some point, that becomes a losing proposition. All of which means that I've come to the distinctly uncomfortable conclusion that the exponential growth in technology we've been enjoying in the modern era is likely to come to an end, and the future will be something very different than most folks imagine. Of course, I could be wrong - maybe fusion really <i>is</i> right around the corner this time, or maybe every government that has tried fission has handicapped it in similar ways. I don't know, but I hope whether you agree with this last bit or not that you find the Three Economies framework and the model of thinking about energy in both amount and concentration as helpful in making sense of the world as I have.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org7913c43"></a>Post Footer<br />
-    <div class="outline-text-3" id="text-org7913c43">
-    <p>
-    <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10116.html">dreamwidth post</a>.</i>
+    <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10405.html">dreamwidth post</a>.</i>
     </p>
 
     <hr />
@@ -214,6 +332,198 @@
     </li>
     </ul>
     ]]></description>
+</item>
+
+<item>
+  <title>[Book] The Wealth of Nature</title>
+  <link>./https://jpowellrussell.com/#book_the_wealth_of_nature</link>
+  <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
+  <guid isPermaLink="false">./https://jpowellrussell.com/#book_the_wealth_of_nature</guid>
+  <pubDate>Sun, 23 Jul 2023 12:08:00 -0500</pubDate>
+  <category><![CDATA[rss]]></category>
+  <description><![CDATA[<p>
+  <b>Date</b>: 2023-July-23
+  </p>
+  <ul class="org-ul">
+  <li><a id="org94aa6c8"></a>Lead In<br />
+  <div class="outline-text-3" id="text-org94aa6c8">
+  <p>
+  Though I only read this book the year before last, it's done a lot to shape my thinking since. I'll likely need to look back on it later, but for now I'd like to write this out to help set its ideas in my mind more strongly. This book did two main worthwhile things for me: 1. It gave me a helpful framework for thinking about economics that all my earlier reading lacked, and 2. it laid out in enough depth for me to feel like I understand the challenges we are likely to face with energy going forward. So, if those sound like something you might also find helpful, let's dig into <a href="https://bookshop.org/p/books/the-wealth-of-nature-economics-as-if-surival-mattered-second-edition-john-michael-greer/17786245?ean=9781945810572">The Wealth of Nature: Economics as If Survival Mattered</a>.
+  </p>
+  </div>
+
+  <ul class="org-ul">
+  <li><a id="orgdea94a6"></a>Economics as an Intellectual "Swiss Army Knife"<br />
+  <div class="outline-text-4" id="text-orgdea94a6">
+  <p>
+  First off, let's take a tick to talk about "why economics?" In a comment on a <a href="http://esr.ibiblio.org/?p=3514">post</a>, ESR called microeconomics an intellectual "swiss-army knife". I think this is an apt metaphor in more ways than one. For one, economic thinking is made up of a handful of principles that you apply in different situations: the law of supply and demand, costs vs price, marginal utility, and so forth. For another, that handful of principles can be used in many situations for many different purposes, sometimes where you wouldn't expect it, like how Game Theory was built out of hyper-simplified models of what folks do and don't want and how they might act, and yet those models give some valuable insight into decision-making in situations of uncertainty. Lastly, though, like a Swiss Army knife, economic thinking pays for its versatility and broad usefulness by very firmly being <i>not</i> the right specialized tool for really any specific situation. Even in it's notional field of expertise, buying and selling, if you set out to run a business with only microeconomics as your guide, you're gonna have a bad time. I say all of this to put much of the below in a bit of context, and to explain why the second half of the review isn't really about economics at all, but physics.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org2a8cf22"></a>Outsider Views of Specialized Fields<br />
+  <div class="outline-text-4" id="text-org2a8cf22">
+  <p>
+  Next, you might be saying to yourself "hold on, John Michael Greer? Isn't he that druid guy you were <a href="https://jpowellrussell.com/#how_i_came_to_believe_what_i_do">talking about</a>? What does he know about economics?" And yes, it's true - Greer is by no means an economist, which has some drawbacks for a book on economics, but also some upsides.
+  </p>
+  </div>
+
+  <ul class="org-ul">
+  <li><a id="orgbe03f2a"></a>There's a good reason experts are skeptical of outsider opinions on their field<br />
+  <div class="outline-text-5" id="text-orgbe03f2a">
+  <p>
+  First off, the drawbacks. Folks who are knowledgeable in a field are often wary of outsiders coming around and telling them their business. Professional economists have spent years learning ways to think about what they study, reading the articles and books that have been published, doing their own research, and so forth. There's a whole lot of background knowledge that you can only really pick up by years of being up to your eyeballs in a field. Outsiders are likely to lack this kind of background knowledge, to put forward as new ideas that have long since been talked over in the field, and to make the kind of mistakes that the experts have learned to avoid.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org0a1e7d7"></a>But experts can become blind to the assumptions and paradigms that hold them<br />
+  <div class="outline-text-5" id="text-org0a1e7d7">
+  <p>
+  On the other hand, outsiders can bring a worthwhile way of looking at things to a field. All that background knowledge we just talked about also leads to folks in a field trying to work things out the same way. Those ideas that have been talked over and thrown out might not have been because they are <i>wrong</i>, but because they don't draw research grants, or are politically unacceptable, or because the guy who first put it forward was a jerk. Lastly, for economics specifically, let's remember that most of the seminal works of economics were not written by "professional economists" - back when it was still called "political economy" (likely a more useful term, see below for more on this), philosophers and gentleman felt quite up to sharing their thoughts on how goods and services work, and we're all better off for it. So maybe Greer's wider, non-expert view has something we'd be better off with as well.
+  </p>
+  </div>
+  </li>
+  </ul>
+  </li>
+  </ul>
+  </li>
+
+  <li><a id="org59420d1"></a>The Three Economies<br />
+  <div class="outline-text-3" id="text-org59420d1">
+  <p>
+  The framework I spoke of above is the "Three Economies." This is an expansion of E.F. Schumacher's work in <a href="https://bookshop.org/p/books/small-is-beautiful-economics-as-if-people-mattered-e-f-schumacher/9061437?ean=9780061997761">Small is Beautiful: Economics as If People Mattered</a> (the title of Greer's book is, of course, a nod to this) - Schumacher talked about the primary and secondary economies, and Greer found it helpful to add the third.
+  </p>
+  </div>
+
+  <ul class="org-ul">
+  <li><a id="orgb493c0c"></a>A Quick Aside on "Political Economy"<br />
+  <div class="outline-text-4" id="text-orgb493c0c">
+  <p>
+  If I had worked out how to sidebars with my current blog settings, that's likely what this would be, but we'll just have to settle for an awkwardly set heading here. In this book, Greer talks about the older term for what we now call "economics," which was "political economy." If you'd like to get a preview of his thinking on this, check out <a href="https://www.ecosophia.net/introduction-political-economy/">this post</a>, and for some examples of less well-known ways of thinking about political economy, check out <a href="https://www.ecosophia.net/reimagining-political-economy/">this one</a>. At any rate, Greer prefers "political economy" to "economics" for the field at large, because the allocation of scarce resources is <i>always</i> a political question. Many modern economists act like there are "objective" or "scientific" ways to structure economies, but that only holds under certain value assumptions - the current one being something like "the currency-denominated value of assets should be maximized," often with a flavoring of "the most people should have as much money as possible." These value assumptions would look very strange to a daimyo under the <a href="https://en.wikipedia.org/wiki/Tokugawa_shogunate">Tokugawa Shogunate</a>. The point is that wealth is for the benefit of folks, and <i>which</i> folks get <i>how much</i> wealth in <i>what</i> ways are weighty questions, questions that get settled by power. Which makes them <i>political</i> questions. So even the most "objective" economic assessment can only be treated as such within a particular political and value framework - taking a moment to be aware of that framework can help clarify some seemingly "economic" questions.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="orgb482c5b"></a>What Do We Mean by "Wealth" Anyway?<br />
+  <div class="outline-text-4" id="text-orgb482c5b">
+  <p>
+  Before we launch into talking about the three economies Greer proposes in his framework, it's helpful to think about the word "wealth" and what we mean when we use it. These days, if we don't think about it much, we tend to say "wealth" and mean "money" or "things valued in money." But the word actually goes back to <i>weal</i>, which you sometimes will hear in old timey writing put against its opposite woe. If you go even further back, it's from the same PIE root as "will." So, "wealth" grew out of a meaning something like "to have the things you need for the well-being you would will for yourself." Money is a useful economic tool, but it also can hide this ground truth: that true "wealth" is that which lets folks live happy, healthy lives. This wider meaning will be helpful to keep in mind as we go through the framework below.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org25ac2b2"></a>The Secondary Economy - Goods and Services<br />
+  <div class="outline-text-4" id="text-org25ac2b2">
+  <p>
+  Okay, now that we are on the same leaf about "wealth," I'm gonna start in the middle and talk about the Secondary Economy first. This is what's most familiar to us when we talk about "economics" - the economy of goods and services. The traditional tools of economics are pretty good at analyzing this kind of thing - supply and demand curves, marginal utility, all that jazz. For reasons that will become clear as we go, I'd like to bring in the example of a farmer. He plants his grain in the spring, tends to it over the summer as it grows, and harvests it in the fall, before taking it to market to sell. All of this work makes wealth as we've defined it - with his work, folks get to eat, without it, they don't. Economic tools will do a good job helping us understand things like the effects of importing foreign grain, if he switched to a different crop, the impacts of fuel costs on his profits, and so forth. This is the stuff economics was developed to handle, and it handles it rather well. The main wellsprings of trouble here are that 1. wealth ends up getting abstracted into dollars, even where it is hard to pin down exact amounts, and because of this, 2. stuff that is harder to measure in dollars tends to get ignored or abstracted, and lastly 3. the very success of these tools in this field ends up tempting us to think they work just as well in other fields.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="orgd5f662f"></a>The Tertiary Economy - Financial Instruments<br />
+  <div class="outline-text-4" id="text-orgd5f662f">
+  <p>
+  Speaking of wielding economic tools in other fields, let's talk about the Tertiary Economy. This is Greer's addition to Schumacher's model, and I think it's a helpful one. The Tertiary Economy is made up of all financial instruments, tokens that notionally refer to something that makes, gives, or holds wealth. Take our farmer. Let's say he has a mortgage on the farm. That mortgage is a financial instrument. To buy the farm to grow food (that is, turn his work into wealth), he needed more money than he had at one time, and so the bank loaned it to him in return for him paying it back with interest. There's a piece of paper (or at least a computer record) of this deal that specifies how much he has to pay by when, and what the bank is allowed to do if he fails to do so (like foreclose and take the farm). So far, so good, right? If everyone had to save up enough money to buy land with cash, a lot fewer folks would be able to afford it. And this particular token is pretty tightly linked to the on-the-ground wealth-making: if the farmer doesn't make money growing and selling food, he can't pay the mortgage, but if he does, he can. Assuming he makes more than that, this is a good deal for everyone, and 30 years later, he owns the farm free and clear and the bank has more money than what it loaned him. The mortgage (token) helped make all this more likely to happen than without it.
+  </p>
+
+  <p>
+  Okay, but you no doubt are looking for the "but" here, so here it is. Such financial instruments almost always start out as tokens representing some underlying wealth-making thing, and so long as they stay that, there's not too much trouble. Let's go through a bit of history to see what can happen with such tokens, though. Before the invention in the west of modern Joint Stock Companies around 1600, the main way that folks invested in commercial ventures was to put up some money before a voyage, and then at the end of the voyage take a proportional share the profits (hence the word "share" for one unit of stock in a company). Well, some bright folks started saying "hey, instead of cashing out after every voyage, want to roll your profits over into a share in the next trip?" and from there it wasn't that much of a jump to make the entity undertaking the voyages persistent, and the "shares" were in that <i>company</i>, rather than in any one of its voyages. Still, the assumption was that those shares entitled you to a payout at some point (dividends). So far, this is just a way to formalize multiple folks putting up the capital needed to start and run a business and getting paid their fair share for their contributions. Here's where it gets interesting, though. At some point, these shares started being treated as a piece of property. Meaning something you could buy and sell. Which folks started doing. Maybe you need a few thousand bucks now instead of a few hundred every year, so you sell your share to someone who wants the cashflow more than the chunk of cash now. At some point, somebody bought a share and a little later got an offer from someone else wanting to buy it for more than he paid. After a while, more and more people noticed that if you bought shares in a thriving business, a little later you could sell it for more than you bought it for, earning a profit without having to wait for all of those tedious dividend payments to add up.
+  </p>
+
+  <p>
+  You can probably see where this is going, but let's step back to understand what's going on here formally. <a href="https://fs.blog/mental-model-feedback-loops/">Feedback loops</a> are a handy bit of systems theory to have in your head if you don't already. Some systems make outputs that then change the system's behavior. These come in two flavors: positive and negative. Positive feedback loops take their output and then do more of what they were doing before, getting stronger and stronger. This is not necessarily a good thing, as the classic example shows: feedback between a microphone and speaker (as a former high school sound tech, I tend to take that sound <i>personally</i>). Negative feedback loops, on the other hand, do less of what they're doing as they pick up on their outputs. Here the classic example is your thermostat: once it gets hot or cold enough, it stops putting out hot or cold air. Negative feedback loops are self-terminating by definition, but it turns out positive feedback loops can't keep going forever, either. Instead, they do more and more of what they're doing until the system <i>breaks</i>. If you let a microphone sit in front of a speaker, unless there's a failsafe built in, it will get higher and higher pitched until the speaker blows out.
+  </p>
+
+  <p>
+  Now we have all the pieces we need to understand why it's helpful to call out the Tertiary economy as its own thing. In the secondary economy, systems are almost always negative feedback loops. Good ol' supply and demand works this way: if I am making a killing selling widgets, you might want to get in on that action, and five other folks, and soon, there's too many widgets and nobody's making any money on them, so a handful drop out of the business, and those left are making decent money, but the price for the buyers isn't insane. Remember how I said that formal economic tools get used where they're less well-suited? This is a big part of why. Those tools were developed to analyze and understand <i>negative</i> feedback loops. But guess what? That dynamic we sketched out for financial instruments is a <i>positive</i> feedback loop. You know what we call positive feedback loops in finance?
+  </p>
+
+  <p>
+  <i>Bubbles</i>.
+  </p>
+
+  <p>
+  The perception that you can buy these instruments and sell them for more later creates demand for the instruments, which drives up their price, which makes more people think they can get rich by buying now and selling later, which further drives up the price, and so forth. Until enough folks look around and think "okay, this is good enough, I'm gonna sell" - which then drives <i>another</i> positive feedback loop in the other direction. Now, the instruments are getting sold, which ups their supply, which drives down the price, which makes more folks want to get out before the price falls further, and so on, and the bubble pops.
+  </p>
+
+  <p>
+  As it happens, this is how the 2008 financial crisis happened. You can skip this paragraph if you know the story. Mortgages had traditionally been given by local banks to folks who actually wanted to live in the house they bought, and the banks were careful about taking on a loan with such a long term, so they vetted applicants pretty thoroughly. This led to mortgages being seen as rock-solid financial instruments well-tied to the secondary economy, and therefore not subject to becoming a bubble. Unfortunately, this very perception led some folks to create <i>new</i> financial instruments that were tokens of bundles of mortgages, and then sell these as "super safe." As you might imagine, "guaranteed safe returns" is something that <i>everyone</i> wants, and so those new bundles became a hot commodity. This drove up demand for the underlying mortgages. Which meant banks started looking for ways to give more people mortgages. What most of them hit on was making it way easier to get a mortgage, loaning to folks who wouldn't have been considered credit-worthy before. At first, this was subtle, but over time, it got to where banks were issuing loans with <i>zero</i> verification of the applicant's claims about things like income and assets. The easy availability of mortgages meant more folks started buying homes, which drove up their price. Folks started noticing that they could sell their house for more than they got it for, and so folks started buying houses <i>expressly</i> to sell them, not to live in them. Through financial sorcery, the safest, most mundane bit of the secondary economy got turned into a bubble. And then it popped.
+  </p>
+
+  <p>
+  So, economists look at things like the stock market or derivatives trading or the like, and they see that you have pieces of property traded in a market that are valued in dollars, and they think traditional secondary economy tools will work to understand them. And they do - to a point. But it is precisely the insanity of a full-throttle bubble that those tools are not made to handle, and that's arguably the most important thing about financial instruments. So, it's helpful to know that this bit of the economy works differently, and to have the tools to think about it. The tertiary economy is capable of "creating" vast amounts of <i>money</i>, whether or not it represents <i>wealth</i>, and that's the trouble.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="orgf07b82a"></a>The Primary Economy - Natural Processes<br />
+  <div class="outline-text-4" id="text-orgf07b82a">
+  <p>
+  Alright, why have I saved the Primary Economy for last? Because talking about the other two economies has helped give us the grounding we need to understand something a little counter-intuitive. You see, the Primary Economy is both the most important of the three, and also the one economic tools are the least well-suited to analyze. The Primary Economy is all of the wealth given to us by nature. Our farmer? Yes, he needs to work to plant, care for, and harvest his crops, but the sun shines for free. The dirt holds nutrients and microbes that help the plants grow. The rain waters the crops. The air gives the carbon the plants need to build themselves. <i>Every</i> economic activity we do is embedded in this wider world of free wealth. The way I like to drive this home is to bring up the show <a href="https://en.wikipedia.org/wiki/Naked_and_Afraid">Naked and Afraid</a>. If you're not familiar, it's a reality show where a guy and a girl are dumped somewhere in the wilderness literally naked, and they have to fend for themselves for a couple days. Sounds like a pretty bad time, right? Now, imagine an episode on <i>Mars</i>. It'd be pretty short.
+  </p>
+
+  <p>
+  All of this stuff is obviously a big part of wealth as we've defined it, but it's almost impossible to measure in dollars. It's also <i>so</i> ubiquitous that we take it for granted. And yet we can affect this economy - composting and other methods can enhance the wealth the soil can bring forth. Forestry can make sure we have healthy forests and timber. Paying attention to ecosystems and taking care of them can have ripple effects literally up and downstream. Planting mangroves can ward off the worst hurts brought by hurricanes. Also, unluckily, we can screw it up by <i>not</i> doing these things.
+  </p>
+  </div>
+  </li>
+  </ul>
+  </li>
+
+  <li><a id="org6534f2b"></a>Energy and Concentration<br />
+  <div class="outline-text-3" id="text-org6534f2b">
+  <p>
+  One of the biggest gifts of the Primary Economy has been fossil fuels. Plants used the energy in sunlight to pull carbon out of the air and into their bodies. Some of those got eaten by animals, and some of both ended up at the bottoms of seas or swamps or the like, and for millions of years, the pressure of titanic slabs of rock squashed them into oil, coal, and so forth. It is not an overstatement to say that the Industrial Revolution and everything it brought could not have happened without fossil fuels. I've linked it before, but Wait But Why has a pretty good <a href="https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html">break down</a> of the mind-blowing amounts of energy fossil fuels have let humans harness. I'm less sanguine on what alternative energy technologies will let us do than Tim, but I'll get into that below. The point is that fairly readily available fossil fuels have let mankind spend the last ~300 years seeing what we can accomplish when we use huge amounts of outside energy to make things easier for humans, and a lot of the outcomes are pretty darn impressive. But mark that premise, as it turns out to be a doozy.
+  </p>
+  </div>
+
+  <ul class="org-ul">
+  <li><a id="org36efec1"></a>Energy as the Ur-Resource<br />
+  <div class="outline-text-4" id="text-org36efec1">
+  <p>
+  It turns out if you look at societies throughout time and around the world, energy is the master resource that sets the bounds on how much an economy can produce. For most of history, that energy has been human and animal muscle, burning wood, and a smattering of wind/water power. The real turning point of the Industrial Revolution was that it allowed energy to become <i>versatile</i>. All of a sudden, you could turn <i>burning</i> into movement. Take a tick and think about how <i>weird</i> that really is - burning some long-dead plankton can get you a few hundred miles in a few hours. Burning more of that dead plankton can sew your clothes, <i>cool</i> your house (coolth from fire!), put up a skyscraper, and now even write (bad) poems. Every economy has been limited by how much energy it could muster and what kinds of work it could be put to, but the industrial world's economy has let us muster <i>a lot</i> and put it to <i>very many</i> uses, and so it has grown very, very big.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org65bf544"></a>Amount of Energy vs Concentration of Energy<br />
+  <div class="outline-text-4" id="text-org65bf544">
+  <p>
+  There's a catch, though. It's not just <i>amount</i> of energy that matters. Fans of solar are fond of pointing out how very much energy hits the planet in the form of sunlight every day, which is absolutely true. Unluckily, that energy is very diffuse. It turns out that <i>most</i> of the really interesting stuff you can do with energy needs that energy to be concentrated. On its own, sunlight can do a lot of helpful things - make plants grow, heat things up slowly, help us see (duh). With a <a href="https://en.wikipedia.org/wiki/Solar_still">little more work</a>, you can do some neat stuff like turn wine into brandy. But to make sunlight do all the tricks we've grown used to making energy do, it has to be concentrated. Right now, the best ways we know how to do that are by growing plants and photovoltaics. Plants <i>barely</i> concentrate energy, as charcoal doesn't get you as far as fossil coal, and photovoltaics take a lot of energy-intensive inputs to make. To put that in plain speech, right now, the only way photovoltaics get made is in factories running on burning fossil fuels. If you were required to make photovoltaic panels using only energy concentrated by photovoltaic panels, you would be spending more energy than you're making - it's a net energy sink. And that's to say nothing of the problem of <i>storing</i> the energy so generated, and as everyone who has ever owned a laptop or a cellphone knows all too well, batteries suck. What made fossil fuels a wonder was not at first how <i>much</i> energy there was, but rather how <i>concentrated</i> it was.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org7812e7c"></a>Concentrating Energy takes More Energy than is Concentrated<br />
+  <div class="outline-text-4" id="text-org7812e7c">
+  <p>
+  Okay, so we need concentrated energy to run an industrial economy - if we have super abundant diffuse energy in the form of sunlight or wind, why don't we just concentrate it? Well, putting energy into a physical form that can hold energy is a process that itself <i>takes energy</i>. Thanks to physics's biggest downer, the Third Law of Thermodynamics, any such process will be subject to entropy and lose some of the energy being concentrated in some kind of waste - light, heat, or whatever. That means that <i>any</i> process that can concentrate energy takes more of an energy input than it produces as an output. In the case of fossil fuels, the energy input for concentrating them was given by the combination of gravity and trillions of tons of rock sitting on top of them for millenia. All of that was actually way more energy than ended up stored in oil, coal, and the rest, but since it happened very long ago and needed no help from humans (we weren't even around yet), it seems like all that energy was "free." And we've been living high on the hog off that bounty for the last few hundred years, building stupendous wonders, birthing more humans than have ever been on the Earth at one time, and making many of those folks richer and healthier than anyone had been for at least hundreds of years before, maybe ever.
+  </p>
+  </div>
+  </li>
+  </ul>
+  </li>
+
+  <li><a id="orgf7915a9"></a>Where Does All This Leave Us?<br />
+  <div class="outline-text-3" id="text-orgf7915a9">
+  <p>
+  Here's where I may lose those of y'all who are techno-optimists. So far, we haven't found any concentrated energy sources as useful as fossil fuels. Fission power has been tried in a wide variety of states with very different regulatory regimes, and yet has never worked without a lot of subsidies. Fusion power has been coming "any day now" for longer than I've been alive. And we're getting to the point where fossil fuels are harder and harder to get to, because we already dug up the easy stuff. Technologies like fracking take far more energy input than conventional wells, which means more of the energy we're pulling out of the ground is being used to, you know, pull energy out of the ground. At some point, that becomes a losing proposition. All of which means that I've come to the distinctly uncomfortable conclusion that the exponential growth in technology we've been enjoying in the modern era is likely to come to an end, and the future will be something very different than most folks imagine. Of course, I could be wrong - maybe fusion really <i>is</i> right around the corner this time, or maybe every government that has tried fission has handicapped it in similar ways. I don't know, but I hope whether you agree with this last bit or not that you find the Three Economies framework and the model of thinking about energy in both amount and concentration as helpful in making sense of the world as I have.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org796eeae"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org796eeae">
+  <p>
+  <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10116.html">dreamwidth post</a>.</i>
+  </p>
+
+  <hr />
+  </div>
+  </li>
+  </ul>
+  ]]></description>
 </item>
 
 <item>
@@ -466,8 +776,8 @@
   </div>
   </li>
 
-  <li><a id="org08f0807"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org08f0807">
+  <li><a id="org5147e6c"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org5147e6c">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9809.html">dreamwidth post</a>.</i>
   </p>
@@ -579,8 +889,8 @@
   </div>
   </li>
 
-  <li><a id="orgbefec80"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgbefec80">
+  <li><a id="org6a167c3"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org6a167c3">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9590.html">dreamwidth post</a>.</i>
   </p>
@@ -820,8 +1130,8 @@
   </div>
   </li>
 
-  <li><a id="orgd2d78c0"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgd2d78c0">
+  <li><a id="org39360f6"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org39360f6">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9076.html">dreamwidth post</a>.</i>
   </p>
@@ -987,8 +1297,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org2adca8d"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org2adca8d">
+  <li><a id="orgdd317b7"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgdd317b7">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/8865.html">dreamwidth post</a>.</i>
   </p>
@@ -1856,8 +2166,8 @@
   </div>
   </li>
 
-  <li><a id="org41d82af"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-org41d82af">
+  <li><a id="orgbad0621"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-orgbad0621">
   <p>
   This is not usually something I would talk about when going over a book, but
   here I think it's warranted, both good and bad. First off, the good stuff:
@@ -1954,8 +2264,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org858eb3f"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org858eb3f">
+  <li><a id="org3f9f8b8"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org3f9f8b8">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -2056,8 +2366,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org370ae11"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org370ae11">
+  <li><a id="org5ede247"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org5ede247">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -2243,8 +2553,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgf021091"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-orgf021091">
+  <li><a id="orgfb514cb"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orgfb514cb">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -2487,8 +2797,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org4582325"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org4582325">
+  <li><a id="org3c8e8d4"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org3c8e8d4">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -2711,8 +3021,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org52915b6"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org52915b6">
+  <li><a id="org63ce25d"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org63ce25d">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a> &lt;&#x2013; You are Here</li>
@@ -2883,8 +3193,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org3f9f8b8"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org3f9f8b8">
+  <li><a id="org11417fa"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org11417fa">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a> &lt;&#x2013; You are Here</li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -3811,8 +4121,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org3dc8493"></a>Way 1<br />
-  <div class="outline-text-3" id="text-org3dc8493">
+  <li><a id="org38a5d13"></a>Way 1<br />
+  <div class="outline-text-3" id="text-org38a5d13">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -3831,8 +4141,8 @@
   </div>
   </li>
 
-  <li><a id="orgeab0502"></a>Way 2<br />
-  <div class="outline-text-3" id="text-orgeab0502">
+  <li><a id="org5b08728"></a>Way 2<br />
+  <div class="outline-text-3" id="text-org5b08728">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -3851,8 +4161,8 @@
   </div>
   </li>
 
-  <li><a id="org4d956cb"></a>Way 3<br />
-  <div class="outline-text-3" id="text-org4d956cb">
+  <li><a id="orge6a7406"></a>Way 3<br />
+  <div class="outline-text-3" id="text-orge6a7406">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -4232,8 +4542,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org38a5d13"></a>Way 1<br />
-  <div class="outline-text-3" id="text-org38a5d13">
+  <li><a id="org62d8909"></a>Way 1<br />
+  <div class="outline-text-3" id="text-org62d8909">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -4251,8 +4561,8 @@
   </div>
   </li>
 
-  <li><a id="org5b08728"></a>Way 2<br />
-  <div class="outline-text-3" id="text-org5b08728">
+  <li><a id="org16a9bb7"></a>Way 2<br />
+  <div class="outline-text-3" id="text-org16a9bb7">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -4270,8 +4580,8 @@
   </div>
   </li>
 
-  <li><a id="orge6a7406"></a>Way 3<br />
-  <div class="outline-text-3" id="text-orge6a7406">
+  <li><a id="org005a0b3"></a>Way 3<br />
+  <div class="outline-text-3" id="text-org005a0b3">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -4764,8 +5074,8 @@
   </div>
   </li>
 
-  <li><a id="org10c455d"></a>The Poetic Edda<br />
-  <div class="outline-text-4" id="text-org10c455d">
+  <li><a id="org6afd147"></a>The Poetic Edda<br />
+  <div class="outline-text-4" id="text-org6afd147">
   <p>
   <b>By</b>: Many writers<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -5532,8 +5842,8 @@
   </div>
   </li>
 
-  <li><a id="org52b24b0"></a>Shamanism<br />
-  <div class="outline-text-5" id="text-org52b24b0">
+  <li><a id="org29685e5"></a>Shamanism<br />
+  <div class="outline-text-5" id="text-org29685e5">
   <p>
   <b>By</b>: Mircea Eliade<br />
   <b>Have I Read It?</b>: About halfway.<br />
@@ -5936,8 +6246,8 @@
   </div>
   </li>
 
-  <li><a id="orgb8c0109"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-orgb8c0109">
+  <li><a id="org59912b9"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-org59912b9">
   <p>
   <b>By</b>: Dr. Stephen Flowers, PhD.<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -5947,8 +6257,8 @@
   </li>
 
 
-  <li><a id="org59912b9"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-org59912b9">
+  <li><a id="org669e8ea"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-org669e8ea">
   <p>
   <b>By</b>: P.D. Brown and Michael Moynihan (eds)<br />
   <b>Have I Read It?</b>: Some<br />
@@ -6124,8 +6434,8 @@
   </ul>
   </li>
 
-  <li><a id="org29685e5"></a>Shamanism<br />
-  <div class="outline-text-4" id="text-org29685e5">
+  <li><a id="org1a4d34c"></a>Shamanism<br />
+  <div class="outline-text-4" id="text-org1a4d34c">
   <p>
   As I said above, "shamanism" is a word that gets used for many unalike things, but the ways of the folks who live about the North pole gave us the name, and I think it likely those ways left some mark on the ways of the Norse at least, and maybe the wider Germanish world. The books below are all by Raven Kaldera and/or Galina Krasskova, and they have a way of looking at things that is rather unlike other folks, so take with as much salt as seems right to you.
   </p>
@@ -7843,8 +8153,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org3190673"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org3190673">
+  <li><a id="org27b8487"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org27b8487">
   <p>
   The Story Grid by Shawn Coyne
   </p>
@@ -7881,8 +8191,8 @@
   </ul>
   </li>
 
-  <li><a id="org7791134"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org7791134">
+  <li><a id="orgd9264ee"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgd9264ee">
   </div>
 
   <ul class="org-ul">
@@ -7935,8 +8245,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org9aa135b"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org9aa135b">
+  <li><a id="orge5b3a78"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orge5b3a78">
   </div>
 
   <ul class="org-ul">
@@ -7982,8 +8292,8 @@
   </ul>
   </li>
 
-  <li><a id="org36304c3"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org36304c3">
+  <li><a id="orga090526"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orga090526">
   </div>
 
   <ul class="org-ul">
@@ -8020,8 +8330,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgf64907e"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgf64907e">
+  <li><a id="org93aa8dc"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org93aa8dc">
   </div>
 
   <ul class="org-ul">
@@ -8067,8 +8377,8 @@
   </ul>
   </li>
 
-  <li><a id="orga0c4d99"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orga0c4d99">
+  <li><a id="org3d918c7"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org3d918c7">
   </div>
 
   <ul class="org-ul">
@@ -8113,8 +8423,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org90dbc61"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org90dbc61">
+  <li><a id="orgdd29188"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgdd29188">
   </div>
 
   <ul class="org-ul">
@@ -8152,8 +8462,8 @@
   </ul>
   </li>
 
-  <li><a id="orga882333"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orga882333">
+  <li><a id="orgffac603"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgffac603">
   </div>
 
   <ul class="org-ul">
@@ -8190,8 +8500,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org82d448a"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org82d448a">
+  <li><a id="orgfe8430d"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgfe8430d">
   </div>
 
   <ul class="org-ul">
@@ -8237,8 +8547,8 @@
   </ul>
   </li>
 
-  <li><a id="orgea5959f"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgea5959f">
+  <li><a id="org85cb311"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org85cb311">
   </div>
 
   <ul class="org-ul">
@@ -8283,8 +8593,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org27b8487"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org27b8487">
+  <li><a id="org45fa3e3"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org45fa3e3">
   </div>
 
   <ul class="org-ul">
@@ -8322,8 +8632,8 @@
   </ul>
   </li>
 
-  <li><a id="orgd9264ee"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgd9264ee">
+  <li><a id="org1922f28"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org1922f28">
   </div>
 
   <ul class="org-ul">
@@ -9555,8 +9865,8 @@
   </div>
   </li>
 
-  <li><a id="org6afd147"></a>The Poetic Edda<br />
-  <div class="outline-text-3" id="text-org6afd147">
+  <li><a id="org458752d"></a>The Poetic Edda<br />
+  <div class="outline-text-3" id="text-org458752d">
   <p>
   <b>By Unknown, but I like the Hollander and Crawford translations</b>
   </p>
