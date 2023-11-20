@@ -14,8 +14,8 @@
   <link></link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Sun, 12 Nov 2023 20:22:20 -0600</pubDate>
-  <lastBuildDate>Sun, 12 Nov 2023 20:22:20 -0600</lastBuildDate>
+  <pubDate>Sun, 19 Nov 2023 23:31:33 -0600</pubDate>
+  <lastBuildDate>Sun, 19 Nov 2023 23:31:33 -0600</lastBuildDate>
   <generator>Emacs 29.0 Org-mode 9.7-pre</generator>
   <webMaster>jeff.powell.russell@gmail.com (Jeff Russell)</webMaster>
   <image>
@@ -25,157 +25,77 @@
   </image>
 
   <item>
-    <title>[Book] The Secret of the Five Rites</title>
-    <link>./https://jpowellrussell.com/#book_the_secret_of_the_five_rites</link>
+    <title>Maximizing, Satisficing, and Strategy</title>
+    <link>./https://jpowellrussell.com/#maximizing_satisficing_and_strategy</link>
     <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
-    <guid isPermaLink="false">./https://jpowellrussell.com/#book_the_secret_of_the_five_rites</guid>
-    <pubDate>Sun, 12 Nov 2023 09:01:00 -0600</pubDate>
+    <guid isPermaLink="false">./https://jpowellrussell.com/#maximizing_satisficing_and_strategy</guid>
+    <pubDate>Sat, 18 Nov 2023 09:25:00 -0600</pubDate>
     <category><![CDATA[rss]]></category>
     <description><![CDATA[<p>
-    <b>Date</b>: 2023-November-12
+    <b>Date</b>: 2023-November-18
     </p>
 
     <p>
-    I've been looking forward to this <a href="https://bookshop.org/p/books/the-secret-of-the-five-rites-in-search-of-a-lost-western-tradition-of-inner-alchemy-john-michael-greer/19645542?ean=9781801520652">book</a> by John Michael Greer coming out for a while, so I'm excited to give it a quick write up. I say quick because it's not really all that long, but it is chock full of good information. Obviously, this book will be most helpful if you're interested in the exercise program of "The Five Rites," but it's also an exceptional introduction to the wild world of late 19th to early 20th century American occultism (and its antecedents elsewhere).
+    Tree of Woe has been writing a <a href="https://treeofwoe.substack.com/p/on-strategy">great</a> <a href="https://treeofwoe.substack.com/p/on-strategy-part-ii">series</a> on strategy lately. The second post describes the "OODA Loop," and the implication it has for strategic thinking that quick, decisive action is almost always a strategic advantage in-and-of itself. Despite being long familiar with both the OODA loop and maxims like Patton's "a good plan, violently executed now, is better than a perfect plan next week," I had never put the two together to realize that the OODA loop implies that attitude, so that was a great insight. Still, it reminded me of an insight of my own that came to me moving from the Army into consulting, which is that Patton's preference for violence of action is a heuristic that is situationally, but not universally, helpful. So far, so obvious, right? But it was a little later, when I began reading more about mental models and decision-making that I encountered the key to unlocking when to use that heuristic and when not to: the difference between satisficing and maximizing.
     </p>
 
     <ul class="org-ul">
-    <li><a id="org697cee5"></a>The Five "Tibetan" Rites - Neither Tibetan, nor Rites, Discuss Amongst Yourselves<br />
-    <div class="outline-text-3" id="text-org697cee5">
+    <li><a id="org8111226"></a>My Definition of Strategy - Coordinating Efforts to Get Outcomes Under Uncertainty<br />
+    <div class="outline-text-3" id="text-org8111226">
     <p>
-    The heart of the book is a set of five calisthenic exercises known as "The Five Rites," though originally billed as the "Five Tibetan Rites." These were <a href="https://templodoyoga.files.wordpress.com/2020/01/the_eye_of_revelation_by_peter_kelder_edited_by_c_witt.pdf">published</a> by Peter Kelder in 1939 as a path to youthful vitality and long life brought over from the mysterious Orient (Tibet, obviously). As you might have guessed, this appears to be entirely made up, and Tibet was selected because it at the time it was even harder to verify what came from there than it was to verify what came from India, or China, or other fashionable centers of ancient wisdom. Sure, two of the Rites very likely made their way into American practice via Hatha Yoga and Sun Salutations (these were different schools at the time), so there was <i>some</i> Eastern origin to some of the exercises, but Greer does a good job of laying out the immediate predecessors to this form of the exercises, and where those likely came from. The short version is that European and American occultists of the late 19th and early 20th century were gleefully experimenting with all kinds of physical and breathing exercises, and at the same time, the little shreds of lore and practice that were coming over from India and the rest of Asia held a lot of cachet. Put these together and American practitioners slapped one Asian label or another on anything that they could. The prolific William Walker Atkinson was an especial fan of this, and it looks like he first published versions of four of the rites in one of his "Indian" branded books (under the pen name "Yogi Ramacharaka"). Kelder's little pamphlet, with the clear fingerprints of its publisher, Harry J. Gardener, all over its writing, took these four exercises, added another exercise likely derived from the <a href="https://infogalactic.com/info/Spiritualism">spiritualist</a> movement, and packaged them as a sequence - something like an American sun salutation. Along the way, via tweaking, experimentation, and variation, these developed into a respectable workout that can be done quickly, taught through the written word (important to the booming occult correspondence course industry at the time), and is compatible with other alternative spiritual pursuits (like doing magic). If you are interested in trying this yourself, see the last section below.
+    In the first article linked above, Tree of Woe has a wonderfully elegant definition of strategy that I really like: "The art of decision-making in conditions of uncertainty." It's short, to the point, and captures the most important bits: making decisions and uncertainty. Many definitions of strategy are crafted for one field (military, political, business, and so forth), and fall down a bit when taken out of that field. This one has the advantage of working well across all fields where you might think of things as "<a href="https://jpowellrussell.com/#book-strategy-a_history">strategic</a>."
+    </p>
+
+    <p>
+    Even so, this is a topic near and dear to my heart, so a few years ago, I came up with my own definition. I take its similarity to Tree of Woe's as an indication that I got something right, but I wanted to share it to highlight the differences and why I think they're worth thinking about. So, here's my definition of strategy: "coordinating the efforts of lower-order means to achieve higher-order ends in the face of uncertainty." Notice the common focus on uncertainty (Tree of Woe's first article has a <i>great</i> framework for thinking about different sources of uncertainty) - if you know exactly how things are going to go, it might be hard, but it's planning, not strategy. On the other hand, my definition specifies a little more what kind of decisions are being made, making it a bit narrower, but I think focusing a bit more on "strategic" decision-making versus other kinds.
+    </p>
+
+    <p>
+    For starters, let's look at the first word: "coordinating." The word "strategy" comes from the ancient Greek <i>Strategos</i>, which means "general [of an army]," and so means "doing the stuff that generals do." Notice it is not doing the stuff that a fire team leader does, or a lieutenant - from the beginning, the word strategy has been applied when a certain amount of complexity is involved in the thing you are making decisions for. I may face uncertainty about what will happen with my finances in the next year, but is it "strategic" to save money? I'd argue not by itself, because it's just me making a decision about my actions. Now, if I'm the CFO of a corporation trying to improve its financial situation for the next year, that <i>is</i> strategic, because I'm coordinating efforts across a large organization.
+    </p>
+
+    <p>
+    Okay, so strategy is about coordinating, but what are we coordinating? That brings us to our next point: "the efforts of lower-order means to achieve higher-order ends." I'm not thrilled with how wordy this is, but for now, that's the best I can do to get the idea across succinctly. Remember the bit about "doing what a general does?" Not only does that imply a large/complex organization to be coordinated, it also implies a certain "level" of outcome intended. When I decide what route to take to get to work in the morning, I face all kinds of uncertainty, but it would be a bit silly to call that decision "strategic," because the outcome is just whether I'm a few minutes late to work. On the other hand, if I'm deciding what route a patrol should take through enemy territory to successfully blow up a bridge before a crucial supply convoy can get over it, <i>that's</i> strategic, because the outcome has a wider effect than its immediate surroundings. I put this piece into my definition because I wanted a way to meaningfully distinguish between tactics and strategy, which this gives us: tactics are what you do to ensure effects at the same level, strategy is what you do to affect higher-order things. Good tactics will often be informed by the strategic context, like when Lieutenant Winters of <i>Band of Brothers</i> fame took out that German artillery emplacement at <a href="https://infogalactic.com/info/Br%C3%A9court_Manor_Assault">Brecour Manor</a> - he knew that the artillery hindered units landing at Utah beach from coming inland and establishing a more secure beachhead, and so understood the significance of what he was doing, but all of his decisions that June morning were focused on the immediate goal of defeating the German artillery emplacement.
     </p>
     </div>
     </li>
 
-    <li><a id="orgca1ab9d"></a>But They Are Actually a Coherent System of American Internal Alchemy<br />
-    <div class="outline-text-3" id="text-orgca1ab9d">
+    <li><a id="org40cbaaf"></a>Satisficing against Maximizing - Good Enough or As Good as Possible<br />
+    <div class="outline-text-3" id="text-org40cbaaf">
     <p>
-    So, as someone who's been doing the Five Rites off and on for a year or two, the background on where the exercises came from was interesting, but not really earthshaking. On the other hand, the strands Greer traces on the internal/energetic/"woo" side of the Five Rites are utterly fascinating. The investigation serves as an introduction/overview of the occult scene of the late 19th and early 20th century, focusing on America, but with necessary forays into Europe and Asia. So, if you'd like a quick tour of the weird world of alternative spirituality at the turn of the last century, you can do worse than this book.
-    </p>
-    </div>
-
-    <ul class="org-ul">
-    <li><a id="org14a9cc1"></a>A Quick Aside on Subtle Bodies<br />
-    <div class="outline-text-4" id="text-org14a9cc1">
-    <p>
-    Traditional western alternative spirituality (occultism) teaches that we are more than just our material bodies made of atoms, electricity, and so forth. Different schools of thought split these "subtle" bodies up in different ways, or give a different number of them, but John Michael Greer, whose teachings I currently work with, gives four: material, etheric, astral, and mental. The material body is the one we all know so well - meat, fluids, nerves, headaches, hunger, and so forth. The etheric body is the body of "life force" - a concept that just about every culture except the industrialized West believes in. The etheric body is thought to animate and charge the material body, the difference between a living body and a corpse. When you have lots of energy and feel "alive," your etheric body is healthy and full of etheric "energy." When you feel drained, mopey, hopeless, and lethargic, your etheric body is not in great shape. Sunlight, fresh air, physical exercise, and eating well all help to keep your etheric body in good shape. The astral body is what you experience the imaginary with: day dreams, regular dreams, mental images, sounds, and scents, emotions, and desires. Most the stuff that we have been trained to think of as "in our head" is what our Astral body experiences. Last, we have a "mental sheath," which is our way of experiencing the mental plane, and it is the least developed of our bodies, because humans are the only material animals we know about that experience the mental plane at all. This is how we experience meaning, significance, and understanding. It's hard to describe, because again, we're not very good at it. If you can ever think of a concept you were trying to learn that suddenly "clicked" - it went from a memorized definition to something that actually impacts how you understand the world, that was an experience of your mental body.
+    So, I thought up the above definition while I was a consultant, and I've been pretty happy with it since. At the same time, I observed that the preference for "violence of action" the Army had drilled into me wasn't <i>always</i> appropriate in the business world. This was maybe easier for me to notice than some others because the preference for violence of action doesn't come especially naturally to me: in strategy games, my favorite tactic is to "turtle" behind a wall of impenetrable defenses until I have overwhelming force. In real life, I like to gather information, ponder, and "wait and see" as much as I can. That being said, I was an airborne infantryman, and there, violence of action is not only expected, it's <i>who you are</i>, so I internalized it pretty well, despite it not coming naturally. This combo allowed me to notice both how useful violence of action can be, but also that there are times where it's not the best way to go. For a long time, this was vague and intuitive - I could recognize when to be aggressive and when to be contemplative, but I couldn't tell you in a general way what was different about those situations.
     </p>
 
     <p>
-    Obviously, all of these bodies affect each other all the time. To use a crude example, say you imagine someone you find attractive doing sexy things with you (astral). You begin to feel excited and energetic (etheric), and your body responds by becoming aroused (material). If you follow this to where it's likely going, you'll have actively engaged all three of those bodies (far less likely that you'll be using the mental body much to get yourself off). Point is, much of what the Five Rites were aiming to do was not merely to affect the material body, but also the etheric (and to a far lesser extent, the astral).
+    And then I encountered the idea of <a href="https://infogalactic.com/info/Satisficing">satisficing</a> versus maximizing. We're all familiar with maximizing: it's getting the most of out of a situation that you possibly can. If you want to be an olympic athlete or a rock star, you likely are doing everything to maximize your craft - every extra rep, every tweak to your psychology, every opportunity to test and prove your talent, you're going to take. If you find a good investment, you want to put as much money into that as you can afford, because the more you put in, the more the payoff. Peter Thiel doesn't want to have just a <i>bit</i> of a <a href="https://jpowellrussell.com/#zero-to-one">monopoly</a>, he wants the whole thing.
     </p>
-    </div>
-    </li>
 
-    <li><a id="orgf0c8111"></a>Spiritualism and Rosicrucianism Shaped Most of the Background for the Five Rites<br />
-    <div class="outline-text-4" id="text-orgf0c8111">
     <p>
-    The two main threads of the "internal" side of things seem to come from Anton Mesmer on the one hand and Rosicrucian teachings on the other. Anton Mesmer is immortalized in the word "mesmerize," but hypnosis wasn't really his thing, but that of one of his followers. Instead, Mesmer's main focus was on what he called "animal magnetism," which was his name for Qi/Life Force/Prana/Spiritus/etc (see below on the subtle bodies). His teachings were highly influential on the homegrown American movement of Spiritualism mentioned above, and Harry Gardener, the editor/co-writer of <i>The Eye of Revelation</i> had a Spiritualist father and learned their ways early. The most obvious influence on the Five Rites as we have them is the First Rite, which seems clearly descended from Abby Judson's etheric cleansing <a href="https://ecosophia.dreamwidth.org/126779.html">exercise</a>. The Rosicrucian teachings seem to have had a more substantial impact on the Five Rites and the body of practices they grew out of. These included the seven "vortices" the <i>Eye of Revelation</i> talks about (centers in the etheric body), the energy thought to be stimulated by the exercises, and the purported physical and spiritual benefits of doing them. If you're not familiar with either of these traditions, this book will give you a great starting place, along with a good feel for what the occult "scene" was like back in the day. 
+    Satisficing, on the other hand, is when there is a certain threshold with which you will have <i>satisfaction</i> (see the link there?), and beyond that doesn't make a big difference. If you want to have a fancy dinner, once you're in Michelin Star territory, you're likely getting something fancy and delicious, and finding a place with a second Star isn't going to be as big a jump up as finding a place with a Star at all. Or if you find a job in a place you want to live that pays enough for your lifestyle and goals, you might just take it instead of spending weeks or months looking for a job that pays a bit more. Many, many situations in life work like this, and once you're consciously aware of it, you can apply it to save time and effort where you might otherwise spin your wheels. My favorite go-to example: have you ever been with a group of friends trying to decide where to order dinner from? Have you ever spent <i>way</i> too long trying to figure this out? Well, satisficing to the rescue: in this situation, your goal is not to <i>maximize</i> food enjoyment, your goal is to <i>satisfy</i> your group's need for a decent meal while you enjoy spending time together. That means that <i>any</i> restaurant that everyone is at least fine with will work. So, when you get into the start of what looks likely to be an endless round of "I dunno, what do you want?" just jump in with "let's get pizza!" If anyone objects, they'll say so, and you can throw out another suggestion. But often, just having a definite choice put out there will get everyone else to say "okay, works for me."
     </p>
-    </div>
-    </li>
-    </ul>
-    </li>
 
-    <li><a id="org213f3f0"></a>The Secret Greer Discovered is a Complete Program of Spiritual Development<br />
-    <div class="outline-text-3" id="text-org213f3f0">
     <p>
-    The titular "secret" is a set of practices that Greer has reconstructed from the various strands that he discovered went into producing the Five Rites. The Rites themselves form one part of that practice, but it also includes visualization, meditation, and behavioral recommendations (for example, make sure to bathe once daily with tepid water, neither hot nor cold). This seems to be potentially compatible with other spiritual practices, but is best practiced at a different time of day from any others, and might conflict if the other spiritual practices feature a lot of visualization of movement of energy in the subtle bodies. Following these practices is meant to provide a safe, fairly certain path to a similar spiritual awakening to what certain schools of Yoga can produce (like the modern, Westernized flavor of Kundalini Yoga). I just read the book and haven't given it a try, and I'm not sure that I will with my other spiritual practices, so I can't comment on the efficacy, but I trust Greer on such things. The procedure outlined seems more rigorous than a very basic spiritual practice, but not so rigorous as a full-on course of magical study - at its maximum, it seems like you could complete all of the recommended practices in roughly half an hour. So, if that's appealing, consider checking it out!
+    The technical difference between when you want to maximize and when you want to satisfice comes down to the expected payoff of the action. Not everything is amenable to being quantified and graphed, of course, but for the sake of clarity, it's helpful to go there for these examples. In situations where there is a linear payoff (I sell one more widget, I get $5 more dollars) or an exponential payoff (going from 3rd to 2nd in marketshare makes me 50% richer, going from 2nd to 1st makes me 150% richer), you want to maximize if you can - more effort brings more payoff, so it makes sense to put in as much effort as you can that isn't held back by other constraints. On the other hand, very many situations have diminishing marginal returns: the first one gives you a huge payoff, the second a decent payoff, the third meh, and so on. Imagine you're starving. The first cheeseburger will literally save your life and likely be the most delicious meal you've ever had. The second cheeseburger might get you to feeling stuffed, which might be a nice contrast. The third will make you sick. These are situations where you want to satisfice - maybe just eat that first cheeseburger and move on with your life.
     </p>
     </div>
     </li>
 
-    <li><a id="orgd1ba6b8"></a>My Own Experience with the Five Rites<br />
-    <div class="outline-text-3" id="text-orgd1ba6b8">
+    <li><a id="orgebab16a"></a>Applying to the OODA Loop - How Quickly Can You Orient?<br />
+    <div class="outline-text-3" id="text-orgebab16a">
     <p>
-    I learned about the Five Rites from JMG on one of his sites, likely in a "<a href="https://ecosophia.dreamwidth.org/tag/magic+monday">Magic Monday</a>" thread, something like, oh, a year and a half, two years ago? For some time I did this daily, but also supplemented with weight lifting and Indian Clubs. When I started noticing numbness in my forearms and hands (and when I started getting busier, if we're being wholly honest here), I cut back on much I was doing from 21 reps every day to 9 reps of each exercise twice a week. Later, I dropped even that very easy standard of practice and did a whole lot of nothing for awhile, the <a href="https://www.artofmanliness.com/health-fitness/fitness/famous-daily-dozen-exercises/">Daily Dozen</a> (which share some William Walker Atkinson DNA with the Five Rites, it turns out!) for a bit, and more nothing for a while. For the last few months, I've gotten back to more-or-less consistently doing the Five Rites, but I'm very slowly working my number of reps back up (I'm at 11, as of today). I say all this so that you can calibrate your reaction to my comments below appropriately.
+    Now we know that some situations call for maximizing, and some for satisficing. It turns out that's the key to what produces the preference for violence of action in the military - almost every military situation has a threshold that must be reached and diminishing marginal returns for doing better than that threshold. If the enemy stops fighting, it doesn't <i>really</i> matter how many more soldiers you kill (okay, it might in the long run, but you see my point). If you take a solid defensible position, it doesn't really matter if it's the <i>best</i> defensible position. Not only are most military situations ones where a satisficing approach brings about good results, much of the uncertainty in military situations is brought about by the enemy's <i>choice</i>. If the opposing general would just stop <i>deciding</i> things, you could easily work out the best approach. But alas, he won't. This means that not only will you get diminishing returns from figuring out the <i>best</i> plan once you've come up with a <i>fine</i> plan, but in the time you spend evaluating options and coming up with the best approach, the other side is <i>changing the game</i>. So, your perfect plan might end up applying to a situation that no longer applies. This is the other reason the military has such a strong preference for violence of action - taking the initiative <i>literally</i> shapes the situation both sides are making decisions about, and it shapes it in a way that is hopefully to your advantage. Put these things together, and it's clear why <i>do something that makes sense</i> has so strongly dominated "figure out the best thing to do."
     </p>
 
     <p>
-    I've never been what you'd call an "enthusiastic exerciser." I like how I <i>feel</i> when I work out regularly, but I have never really gotten to the point that other folks tell me they experience where I actually like working out, or they actively miss it when they skip it. I believe them that this is a thing normal humans experience, but not really me, at least so far. Anyway, one of the things I most like about the Five Rites it that even from this decidedly lazy starting point, the Five Rites are pretty easy to build into a habit. They're quick, they don't require a massive, painful effort like lifting heavy, and they don't get you sucking wind the way a hard run or bike does. In other words, all of the immediately unpleasant things that will leave you feeling better later and in the long run, it minimizes. Instead, the usual state for me to finish a session of the Five Rites is with a slightly elevated heart rate, breathing a bit heavier than usual, and feeling slightly amped, ready for more. This is <i>far</i> more motivating for me than kicking my ass on a Tabata ride on my 80s Aerodyne bike or picking up as much weight as I can without throwing my back out. Also, I tend to feel "energized," in a non-woo, totally physical way after the Five Rites - if I'm tired, it's a pick me up, if I'm unmotivated, I'm ready to tackle some stuff afterward. Physically, I've lost some stubborn weight without trying <i>that</i> hard about my diet, so I'm not complaining there either.
-    </p>
-
-    <p>
-    I also have not felt as fit and strong from just the Five Rites as I have when I've had a more comprehensive fitness plan. I suspect that to be where I want to be, I <i>do</i> need to have some hard runs or bike rides and some heavy weight lifting, which is too bad for a lazy jerk like me. On the other hand, if I'm trying to maintain, or if I want something I can do every day, even days where I can't "really" work out, the Five Rites are <i>really</i> good, at least for me. At maximum, it takes about 10 minutes to do it, and you end feeling jazzed rather than wiped. You can even do them in formal-ish clothes in the office, if you have some fairly private space. So, setting aside completely any esoteric benefits, I'm a pretty big fan of the Five Rites as daily "baseline" exercise routine, but as always, what works for me might not be so hot for you.
+    What's interesting is that Boyd's OODA loop provides a way of thinking about this. Briefly, OODA stands for "Observe, Orient, Decide, and Act." Boyd recognized that each phase was dynamic and involved taking in information from the situation and other side, but as it's presented usually, folks way over-simplify. So, observe is about understanding what's happening around you. Orient is judging the significance of those things. Decide is picking a course of action, and Act is taking that course of action. The phase with the most relevance for our discussion is <i>Orient</i>. Working out whether a situation takes maximizing or satisficing is an orienting decision. Likewise, the reason taking the initiative is generally preferred in military situations is that it allows you to shape what's happening, which forces your opponent to <i>orient</i>. So, once again, understanding when "getting the gist of things" orients you well enough versus when you should know all of the ins and outs tells you when to maximize and when to satisfice. Point being, in many situations, going with the <i>satisfice</i> option makes good sense, but overall, it's helpful to notice when you ought to shoot for maximizing. 
     </p>
     </div>
     </li>
 
-    <li><a id="org7a55e58"></a>How to Get Started<br />
-    <div class="outline-text-3" id="text-org7a55e58">
+    <li><a id="org0ee9e26"></a>Post Footer<br />
+    <div class="outline-text-3" id="text-org0ee9e26">
     <p>
-    Alright, so maybe now you're saying "I want to give this a shot!" Below I give my description of the five exercises. You can also follow the link above to the original pamphlet with its full instructions. The book recommends starting with three repetitions of each, and adding 2 more repetitions once that becomes easy (after about a week, minimum). Once you get to 21 reps, that's it, don't add any more. If you've been doing 21 reps of each exercise for awhile and feel good, you can add a second session (say, one in the morning, and another in the evening). If you do this, start over again at 3 reps for the second session, and build up 2 reps at a time, week by week, until you get to 21. Add repetitions at the rate of your <i>worst</i> exercise - if you can do 9 of four of the rites easily, but one of them is still a struggle, don't add any more repetitions yet - wait until that last rite is easy too. Do each repetition slow and steady, don't rush or try to "bang it out." I do three long, slow breaths between each exercise.
-    </p>
-
-    <p>
-    If you're a generally fit person, this may sound <i>way</i> too easy, but trust me, it's worth taking it slow. For one, these exercises make a lot of use of fiddly little stabilizer muscles, especially in your core. If you go hard to start with, you're asking to pull or strain one of those, which is not only no fun, it will also keep you from doing these or other exercises for a while. Secondly, remember that bit about internal alchemy above? Well, that means that these exercises are meant to stimulate systems in your body, including your endocrine glands (and that's not even touching the possible effects on your non-physical subtle bodies, if you go in for that stuff). If you do too much too fast, you can over-stimulate these glands and end up with some weird and unpleasant results.
-    </p>
-
-    <p>
-    Basically, if you start doing the Five Rites and you feel like you're not getting enough of a workout, instead of pushing your progress with the Rites, go do something else in addition - pull ups, lifting weights, going for a run, whatever works.
-    </p>
-    </div>
-
-    <ul class="org-ul">
-    <li><a id="org9926c07"></a>The First Rite<br />
-    <div class="outline-text-4" id="text-org9926c07">
-    <p>
-    Stand with your arms held out to your sides, parallel to the ground (forming a 'T' with your body). Spin in a circle, going clockwise (imagine a clock on the floor under you, spin in the direction the hands would turn). No need to do this too quickly - if you find yourself more than a little dizzy, slow it down.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org781a474"></a>The Second Rite<br />
-    <div class="outline-text-4" id="text-org781a474">
-    <p>
-    Lay on the floor (preferably on something like a mat or rug that gives a bit of cushion and insulation) with your hands flat on the floor next to your hips. For each repetition, keeping your legs straight, raise both feet together until they are straight up in the air, simultaneously lifting your head and shoulders to compress your belly. Lower your legs and head back to the floor to complete one repetition.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org846ad84"></a>The Third Rite<br />
-    <div class="outline-text-4" id="text-org846ad84">
-    <p>
-    If you do any yoga, this is basically Camel Pose. Kneel on your knees, but with your thighs straight up an down (your butt should not be resting on anything), the tops of your feet on the floor,  with your hands at your sides, and let your chin dip slightly, to relax your neck and upper back, but otherwise keep a fairly upright posture. To do a repetition, lean your head back and let your spine bend backwards, with your arms hanging back free. I find I get the best results if I focus less on bending my back and more on opening my chest. To complete a repetition, come back up to upright, and again, let your chin hand down a bit to relax your neck and upper back.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="orgf2ad3e8"></a>The Fourth Rite<br />
-    <div class="outline-text-4" id="text-orgf2ad3e8">
-    <p>
-    Sit with your legs together and extended in front of you, with your hands on the floor to either side of your hips. Again, it seems to be helpful to let your chin dip a bit to relax the neck and upper back in this position. Lift up your hips, letting your feet go flat on the floor, forming a "table" out of your trunk and thighs, with hands and feet flat on the floor. Don't arch your back like a gymnastic bridge, and don't throw your head too far back. I find it helpful to do this slowly and deliberately, minimizing any "pop" into position. Return to the seated position and remember to relax the neck/upper back before the next repetition. I also find it helpful to "unload" my arms in this position - let the elbows and shoulders relax and stop putting any weight on the hands.
-    </p>
-
-    <p>
-    If you do a lot of repetitive work with your hands (like typing), you might find yourself getting some weird numbness on the under/outside of your forearms and hands once you start doing a lot of repetitions of this. Taking it slow in introducing repetitions and relaxing the neck and arms in the starting positions as I've recommended will help, but you might also want to introduce some shoulder extension stretches before/after the Five Rites. To do these, sit on the floor with legs relaxed (feet on floor, knees bent) and put your arms behind you, palms flat, fingers pointing away from your body. Move your hands until your pinkies touch and crawl them as far away from you as you can. Then, pick up your butt and move it away from your hands before putting it back on the floor. Repeat until you feel a strong, but not painful, stretch in the inside of your elbows. Hold for 30 seconds or a minute, or as long as feels good to you. You can also stretch your wrists by getting on your hands and knees, fingers facing forward, then lean as far forward as you can, until you feel a stretch in your wrist. Hold for 30 seconds to a minute. Then, rotate your hands so your fingers are facing in toward you, heels of your hand facing out, thumbs on the outside. Then sit back on your heels as far as you can comfortably, and feel the stretch in your wrists. Hold for 30 seconds to a minute. When I've added these stretches, I've gotten rid of any numbness in my forearms and hands that I might have been feeling from some combination of work and the Five Rites.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org12b831e"></a>The Fifth Rite<br />
-    <div class="outline-text-4" id="text-org12b831e">
-    <p>
-    Again, if you do Yoga, this will be familiar. It's basically a Downward Dog into an Upward Dog, or what you might have heard called a "Hindu Push Up" in certain workout spaces. Start on your hands and knees and then lift up your hips and straighten your legs, leaving yourself with hands and toes flat on the ground and your butt as your highest point. Try to keep your spine straight, feeling the stretch in your legs. To begin, you likely won't be able to flatten your feet, but as you do more of this, you might be able to get your heels down to the floor without compromising your spinal posture. From this position, lower your hips and lift up your head, now arching your back and looking as far up/back as you can, keeping your arms straight. Allow your feet to roll over to where the top of your foot is on the floor instead of the bottoms of your toes.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org6719dbd"></a>Optional - Grounding and Follow Up<br />
-    <div class="outline-text-4" id="text-org6719dbd">
-    <p>
-    You can do the five exercises above with no "woo" whatsoever and get good results. You won't get super jacked or anything, but you'll develop decent core strength and flexibility, and it tends to have a great effect on energy. I've also shed the last 5 or 10 pounds that have been dogging me for years since I've started doing these at least semi-regularly (your mileage may, of course, vary). All that being said, one simple addition I have found helpful was suggested by another commenter over on JMG's <a href="https://ecosophia.dreamwidth.org">dreamwidth</a>: "grounding," which apparently comes from Qi Gong practice. After completing your full set, stand with your feet hip-to-shoulder width apart, knees slightly bent, comfortably settled and solid. Place your hands on your belly, an inch or two under your belly button, with your elbows out at your sides (I form a little diamond with my thumbs and forefingers). Breath in deeply through your nose then slowly out of pursed lips. While you do this, put as much of your attention on your belly and trunk as you can, trying to center your awareness there. Do this for a couple of minutes or until you feel "settled" or "grounded." I also find it helpful to follow Kelder's advice and avoid cold drinks, showers, or other exposure to strong cold for a while after finishing the Rites. Given the endocrine stimulation, you might also want to avoid strong caffeine drinks immediately after, or you might feel a bit jitterry.
-    </p>
-    </div>
-    </li>
-    </ul>
-    </li>
-
-    <li><a id="org4badf5e"></a>Post Footer<br />
-    <div class="outline-text-3" id="text-org4badf5e">
-    <p>
-    <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14146.html">dreamwidth post</a>.</i>
+    <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14562.html">dreamwidth post</a>.</i>
     </p>
 
     <hr />
@@ -183,6 +103,167 @@
     </li>
     </ul>
     ]]></description>
+</item>
+
+<item>
+  <title>[Book] The Secret of the Five Rites</title>
+  <link>./https://jpowellrussell.com/#book_the_secret_of_the_five_rites</link>
+  <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
+  <guid isPermaLink="false">./https://jpowellrussell.com/#book_the_secret_of_the_five_rites</guid>
+  <pubDate>Sun, 12 Nov 2023 09:01:00 -0600</pubDate>
+  <category><![CDATA[rss]]></category>
+  <description><![CDATA[<p>
+  <b>Date</b>: 2023-November-12
+  </p>
+
+  <p>
+  I've been looking forward to this <a href="https://bookshop.org/p/books/the-secret-of-the-five-rites-in-search-of-a-lost-western-tradition-of-inner-alchemy-john-michael-greer/19645542?ean=9781801520652">book</a> by John Michael Greer coming out for a while, so I'm excited to give it a quick write up. I say quick because it's not really all that long, but it is chock full of good information. Obviously, this book will be most helpful if you're interested in the exercise program of "The Five Rites," but it's also an exceptional introduction to the wild world of late 19th to early 20th century American occultism (and its antecedents elsewhere).
+  </p>
+
+  <ul class="org-ul">
+  <li><a id="org697cee5"></a>The Five "Tibetan" Rites - Neither Tibetan, nor Rites, Discuss Amongst Yourselves<br />
+  <div class="outline-text-3" id="text-org697cee5">
+  <p>
+  The heart of the book is a set of five calisthenic exercises known as "The Five Rites," though originally billed as the "Five Tibetan Rites." These were <a href="https://templodoyoga.files.wordpress.com/2020/01/the_eye_of_revelation_by_peter_kelder_edited_by_c_witt.pdf">published</a> by Peter Kelder in 1939 as a path to youthful vitality and long life brought over from the mysterious Orient (Tibet, obviously). As you might have guessed, this appears to be entirely made up, and Tibet was selected because it at the time it was even harder to verify what came from there than it was to verify what came from India, or China, or other fashionable centers of ancient wisdom. Sure, two of the Rites very likely made their way into American practice via Hatha Yoga and Sun Salutations (these were different schools at the time), so there was <i>some</i> Eastern origin to some of the exercises, but Greer does a good job of laying out the immediate predecessors to this form of the exercises, and where those likely came from. The short version is that European and American occultists of the late 19th and early 20th century were gleefully experimenting with all kinds of physical and breathing exercises, and at the same time, the little shreds of lore and practice that were coming over from India and the rest of Asia held a lot of cachet. Put these together and American practitioners slapped one Asian label or another on anything that they could. The prolific William Walker Atkinson was an especial fan of this, and it looks like he first published versions of four of the rites in one of his "Indian" branded books (under the pen name "Yogi Ramacharaka"). Kelder's little pamphlet, with the clear fingerprints of its publisher, Harry J. Gardener, all over its writing, took these four exercises, added another exercise likely derived from the <a href="https://infogalactic.com/info/Spiritualism">spiritualist</a> movement, and packaged them as a sequence - something like an American sun salutation. Along the way, via tweaking, experimentation, and variation, these developed into a respectable workout that can be done quickly, taught through the written word (important to the booming occult correspondence course industry at the time), and is compatible with other alternative spiritual pursuits (like doing magic). If you are interested in trying this yourself, see the last section below.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="orgca1ab9d"></a>But They Are Actually a Coherent System of American Internal Alchemy<br />
+  <div class="outline-text-3" id="text-orgca1ab9d">
+  <p>
+  So, as someone who's been doing the Five Rites off and on for a year or two, the background on where the exercises came from was interesting, but not really earthshaking. On the other hand, the strands Greer traces on the internal/energetic/"woo" side of the Five Rites are utterly fascinating. The investigation serves as an introduction/overview of the occult scene of the late 19th and early 20th century, focusing on America, but with necessary forays into Europe and Asia. So, if you'd like a quick tour of the weird world of alternative spirituality at the turn of the last century, you can do worse than this book.
+  </p>
+  </div>
+
+  <ul class="org-ul">
+  <li><a id="org14a9cc1"></a>A Quick Aside on Subtle Bodies<br />
+  <div class="outline-text-4" id="text-org14a9cc1">
+  <p>
+  Traditional western alternative spirituality (occultism) teaches that we are more than just our material bodies made of atoms, electricity, and so forth. Different schools of thought split these "subtle" bodies up in different ways, or give a different number of them, but John Michael Greer, whose teachings I currently work with, gives four: material, etheric, astral, and mental. The material body is the one we all know so well - meat, fluids, nerves, headaches, hunger, and so forth. The etheric body is the body of "life force" - a concept that just about every culture except the industrialized West believes in. The etheric body is thought to animate and charge the material body, the difference between a living body and a corpse. When you have lots of energy and feel "alive," your etheric body is healthy and full of etheric "energy." When you feel drained, mopey, hopeless, and lethargic, your etheric body is not in great shape. Sunlight, fresh air, physical exercise, and eating well all help to keep your etheric body in good shape. The astral body is what you experience the imaginary with: day dreams, regular dreams, mental images, sounds, and scents, emotions, and desires. Most the stuff that we have been trained to think of as "in our head" is what our Astral body experiences. Last, we have a "mental sheath," which is our way of experiencing the mental plane, and it is the least developed of our bodies, because humans are the only material animals we know about that experience the mental plane at all. This is how we experience meaning, significance, and understanding. It's hard to describe, because again, we're not very good at it. If you can ever think of a concept you were trying to learn that suddenly "clicked" - it went from a memorized definition to something that actually impacts how you understand the world, that was an experience of your mental body.
+  </p>
+
+  <p>
+  Obviously, all of these bodies affect each other all the time. To use a crude example, say you imagine someone you find attractive doing sexy things with you (astral). You begin to feel excited and energetic (etheric), and your body responds by becoming aroused (material). If you follow this to where it's likely going, you'll have actively engaged all three of those bodies (far less likely that you'll be using the mental body much to get yourself off). Point is, much of what the Five Rites were aiming to do was not merely to affect the material body, but also the etheric (and to a far lesser extent, the astral).
+  </p>
+  </div>
+  </li>
+
+  <li><a id="orgf0c8111"></a>Spiritualism and Rosicrucianism Shaped Most of the Background for the Five Rites<br />
+  <div class="outline-text-4" id="text-orgf0c8111">
+  <p>
+  The two main threads of the "internal" side of things seem to come from Anton Mesmer on the one hand and Rosicrucian teachings on the other. Anton Mesmer is immortalized in the word "mesmerize," but hypnosis wasn't really his thing, but that of one of his followers. Instead, Mesmer's main focus was on what he called "animal magnetism," which was his name for Qi/Life Force/Prana/Spiritus/etc (see below on the subtle bodies). His teachings were highly influential on the homegrown American movement of Spiritualism mentioned above, and Harry Gardener, the editor/co-writer of <i>The Eye of Revelation</i> had a Spiritualist father and learned their ways early. The most obvious influence on the Five Rites as we have them is the First Rite, which seems clearly descended from Abby Judson's etheric cleansing <a href="https://ecosophia.dreamwidth.org/126779.html">exercise</a>. The Rosicrucian teachings seem to have had a more substantial impact on the Five Rites and the body of practices they grew out of. These included the seven "vortices" the <i>Eye of Revelation</i> talks about (centers in the etheric body), the energy thought to be stimulated by the exercises, and the purported physical and spiritual benefits of doing them. If you're not familiar with either of these traditions, this book will give you a great starting place, along with a good feel for what the occult "scene" was like back in the day. 
+  </p>
+  </div>
+  </li>
+  </ul>
+  </li>
+
+  <li><a id="org213f3f0"></a>The Secret Greer Discovered is a Complete Program of Spiritual Development<br />
+  <div class="outline-text-3" id="text-org213f3f0">
+  <p>
+  The titular "secret" is a set of practices that Greer has reconstructed from the various strands that he discovered went into producing the Five Rites. The Rites themselves form one part of that practice, but it also includes visualization, meditation, and behavioral recommendations (for example, make sure to bathe once daily with tepid water, neither hot nor cold). This seems to be potentially compatible with other spiritual practices, but is best practiced at a different time of day from any others, and might conflict if the other spiritual practices feature a lot of visualization of movement of energy in the subtle bodies. Following these practices is meant to provide a safe, fairly certain path to a similar spiritual awakening to what certain schools of Yoga can produce (like the modern, Westernized flavor of Kundalini Yoga). I just read the book and haven't given it a try, and I'm not sure that I will with my other spiritual practices, so I can't comment on the efficacy, but I trust Greer on such things. The procedure outlined seems more rigorous than a very basic spiritual practice, but not so rigorous as a full-on course of magical study - at its maximum, it seems like you could complete all of the recommended practices in roughly half an hour. So, if that's appealing, consider checking it out!
+  </p>
+  </div>
+  </li>
+
+  <li><a id="orgd1ba6b8"></a>My Own Experience with the Five Rites<br />
+  <div class="outline-text-3" id="text-orgd1ba6b8">
+  <p>
+  I learned about the Five Rites from JMG on one of his sites, likely in a "<a href="https://ecosophia.dreamwidth.org/tag/magic+monday">Magic Monday</a>" thread, something like, oh, a year and a half, two years ago? For some time I did this daily, but also supplemented with weight lifting and Indian Clubs. When I started noticing numbness in my forearms and hands (and when I started getting busier, if we're being wholly honest here), I cut back on much I was doing from 21 reps every day to 9 reps of each exercise twice a week. Later, I dropped even that very easy standard of practice and did a whole lot of nothing for awhile, the <a href="https://www.artofmanliness.com/health-fitness/fitness/famous-daily-dozen-exercises/">Daily Dozen</a> (which share some William Walker Atkinson DNA with the Five Rites, it turns out!) for a bit, and more nothing for a while. For the last few months, I've gotten back to more-or-less consistently doing the Five Rites, but I'm very slowly working my number of reps back up (I'm at 11, as of today). I say all this so that you can calibrate your reaction to my comments below appropriately.
+  </p>
+
+  <p>
+  I've never been what you'd call an "enthusiastic exerciser." I like how I <i>feel</i> when I work out regularly, but I have never really gotten to the point that other folks tell me they experience where I actually like working out, or they actively miss it when they skip it. I believe them that this is a thing normal humans experience, but not really me, at least so far. Anyway, one of the things I most like about the Five Rites it that even from this decidedly lazy starting point, the Five Rites are pretty easy to build into a habit. They're quick, they don't require a massive, painful effort like lifting heavy, and they don't get you sucking wind the way a hard run or bike does. In other words, all of the immediately unpleasant things that will leave you feeling better later and in the long run, it minimizes. Instead, the usual state for me to finish a session of the Five Rites is with a slightly elevated heart rate, breathing a bit heavier than usual, and feeling slightly amped, ready for more. This is <i>far</i> more motivating for me than kicking my ass on a Tabata ride on my 80s Aerodyne bike or picking up as much weight as I can without throwing my back out. Also, I tend to feel "energized," in a non-woo, totally physical way after the Five Rites - if I'm tired, it's a pick me up, if I'm unmotivated, I'm ready to tackle some stuff afterward. Physically, I've lost some stubborn weight without trying <i>that</i> hard about my diet, so I'm not complaining there either.
+  </p>
+
+  <p>
+  I also have not felt as fit and strong from just the Five Rites as I have when I've had a more comprehensive fitness plan. I suspect that to be where I want to be, I <i>do</i> need to have some hard runs or bike rides and some heavy weight lifting, which is too bad for a lazy jerk like me. On the other hand, if I'm trying to maintain, or if I want something I can do every day, even days where I can't "really" work out, the Five Rites are <i>really</i> good, at least for me. At maximum, it takes about 10 minutes to do it, and you end feeling jazzed rather than wiped. You can even do them in formal-ish clothes in the office, if you have some fairly private space. So, setting aside completely any esoteric benefits, I'm a pretty big fan of the Five Rites as daily "baseline" exercise routine, but as always, what works for me might not be so hot for you.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org7a55e58"></a>How to Get Started<br />
+  <div class="outline-text-3" id="text-org7a55e58">
+  <p>
+  Alright, so maybe now you're saying "I want to give this a shot!" Below I give my description of the five exercises. You can also follow the link above to the original pamphlet with its full instructions. The book recommends starting with three repetitions of each, and adding 2 more repetitions once that becomes easy (after about a week, minimum). Once you get to 21 reps, that's it, don't add any more. If you've been doing 21 reps of each exercise for awhile and feel good, you can add a second session (say, one in the morning, and another in the evening). If you do this, start over again at 3 reps for the second session, and build up 2 reps at a time, week by week, until you get to 21. Add repetitions at the rate of your <i>worst</i> exercise - if you can do 9 of four of the rites easily, but one of them is still a struggle, don't add any more repetitions yet - wait until that last rite is easy too. Do each repetition slow and steady, don't rush or try to "bang it out." I do three long, slow breaths between each exercise.
+  </p>
+
+  <p>
+  If you're a generally fit person, this may sound <i>way</i> too easy, but trust me, it's worth taking it slow. For one, these exercises make a lot of use of fiddly little stabilizer muscles, especially in your core. If you go hard to start with, you're asking to pull or strain one of those, which is not only no fun, it will also keep you from doing these or other exercises for a while. Secondly, remember that bit about internal alchemy above? Well, that means that these exercises are meant to stimulate systems in your body, including your endocrine glands (and that's not even touching the possible effects on your non-physical subtle bodies, if you go in for that stuff). If you do too much too fast, you can over-stimulate these glands and end up with some weird and unpleasant results.
+  </p>
+
+  <p>
+  Basically, if you start doing the Five Rites and you feel like you're not getting enough of a workout, instead of pushing your progress with the Rites, go do something else in addition - pull ups, lifting weights, going for a run, whatever works.
+  </p>
+  </div>
+
+  <ul class="org-ul">
+  <li><a id="org9926c07"></a>The First Rite<br />
+  <div class="outline-text-4" id="text-org9926c07">
+  <p>
+  Stand with your arms held out to your sides, parallel to the ground (forming a 'T' with your body). Spin in a circle, going clockwise (imagine a clock on the floor under you, spin in the direction the hands would turn). No need to do this too quickly - if you find yourself more than a little dizzy, slow it down.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org781a474"></a>The Second Rite<br />
+  <div class="outline-text-4" id="text-org781a474">
+  <p>
+  Lay on the floor (preferably on something like a mat or rug that gives a bit of cushion and insulation) with your hands flat on the floor next to your hips. For each repetition, keeping your legs straight, raise both feet together until they are straight up in the air, simultaneously lifting your head and shoulders to compress your belly. Lower your legs and head back to the floor to complete one repetition.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org846ad84"></a>The Third Rite<br />
+  <div class="outline-text-4" id="text-org846ad84">
+  <p>
+  If you do any yoga, this is basically Camel Pose. Kneel on your knees, but with your thighs straight up an down (your butt should not be resting on anything), the tops of your feet on the floor,  with your hands at your sides, and let your chin dip slightly, to relax your neck and upper back, but otherwise keep a fairly upright posture. To do a repetition, lean your head back and let your spine bend backwards, with your arms hanging back free. I find I get the best results if I focus less on bending my back and more on opening my chest. To complete a repetition, come back up to upright, and again, let your chin hand down a bit to relax your neck and upper back.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="orgf2ad3e8"></a>The Fourth Rite<br />
+  <div class="outline-text-4" id="text-orgf2ad3e8">
+  <p>
+  Sit with your legs together and extended in front of you, with your hands on the floor to either side of your hips. Again, it seems to be helpful to let your chin dip a bit to relax the neck and upper back in this position. Lift up your hips, letting your feet go flat on the floor, forming a "table" out of your trunk and thighs, with hands and feet flat on the floor. Don't arch your back like a gymnastic bridge, and don't throw your head too far back. I find it helpful to do this slowly and deliberately, minimizing any "pop" into position. Return to the seated position and remember to relax the neck/upper back before the next repetition. I also find it helpful to "unload" my arms in this position - let the elbows and shoulders relax and stop putting any weight on the hands.
+  </p>
+
+  <p>
+  If you do a lot of repetitive work with your hands (like typing), you might find yourself getting some weird numbness on the under/outside of your forearms and hands once you start doing a lot of repetitions of this. Taking it slow in introducing repetitions and relaxing the neck and arms in the starting positions as I've recommended will help, but you might also want to introduce some shoulder extension stretches before/after the Five Rites. To do these, sit on the floor with legs relaxed (feet on floor, knees bent) and put your arms behind you, palms flat, fingers pointing away from your body. Move your hands until your pinkies touch and crawl them as far away from you as you can. Then, pick up your butt and move it away from your hands before putting it back on the floor. Repeat until you feel a strong, but not painful, stretch in the inside of your elbows. Hold for 30 seconds or a minute, or as long as feels good to you. You can also stretch your wrists by getting on your hands and knees, fingers facing forward, then lean as far forward as you can, until you feel a stretch in your wrist. Hold for 30 seconds to a minute. Then, rotate your hands so your fingers are facing in toward you, heels of your hand facing out, thumbs on the outside. Then sit back on your heels as far as you can comfortably, and feel the stretch in your wrists. Hold for 30 seconds to a minute. When I've added these stretches, I've gotten rid of any numbness in my forearms and hands that I might have been feeling from some combination of work and the Five Rites.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org12b831e"></a>The Fifth Rite<br />
+  <div class="outline-text-4" id="text-org12b831e">
+  <p>
+  Again, if you do Yoga, this will be familiar. It's basically a Downward Dog into an Upward Dog, or what you might have heard called a "Hindu Push Up" in certain workout spaces. Start on your hands and knees and then lift up your hips and straighten your legs, leaving yourself with hands and toes flat on the ground and your butt as your highest point. Try to keep your spine straight, feeling the stretch in your legs. To begin, you likely won't be able to flatten your feet, but as you do more of this, you might be able to get your heels down to the floor without compromising your spinal posture. From this position, lower your hips and lift up your head, now arching your back and looking as far up/back as you can, keeping your arms straight. Allow your feet to roll over to where the top of your foot is on the floor instead of the bottoms of your toes.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org6719dbd"></a>Optional - Grounding and Follow Up<br />
+  <div class="outline-text-4" id="text-org6719dbd">
+  <p>
+  You can do the five exercises above with no "woo" whatsoever and get good results. You won't get super jacked or anything, but you'll develop decent core strength and flexibility, and it tends to have a great effect on energy. I've also shed the last 5 or 10 pounds that have been dogging me for years since I've started doing these at least semi-regularly (your mileage may, of course, vary). All that being said, one simple addition I have found helpful was suggested by another commenter over on JMG's <a href="https://ecosophia.dreamwidth.org">dreamwidth</a>: "grounding," which apparently comes from Qi Gong practice. After completing your full set, stand with your feet hip-to-shoulder width apart, knees slightly bent, comfortably settled and solid. Place your hands on your belly, an inch or two under your belly button, with your elbows out at your sides (I form a little diamond with my thumbs and forefingers). Breath in deeply through your nose then slowly out of pursed lips. While you do this, put as much of your attention on your belly and trunk as you can, trying to center your awareness there. Do this for a couple of minutes or until you feel "settled" or "grounded." I also find it helpful to follow Kelder's advice and avoid cold drinks, showers, or other exposure to strong cold for a while after finishing the Rites. Given the endocrine stimulation, you might also want to avoid strong caffeine drinks immediately after, or you might feel a bit jitterry.
+  </p>
+  </div>
+  </li>
+  </ul>
+  </li>
+
+  <li><a id="org5a79213"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org5a79213">
+  <p>
+  <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14146.html">dreamwidth post</a>.</i>
+  </p>
+
+  <hr />
+  </div>
+  </li>
+  </ul>
+  ]]></description>
 </item>
 
 <item>
@@ -197,8 +278,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org026a040"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org026a040">
+  <li><a id="org7ac1ade"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org7ac1ade">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -246,8 +327,8 @@
   </div>
   </li>
 
-  <li><a id="org55a3c96"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org55a3c96">
+  <li><a id="org33cd6d1"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org33cd6d1">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13742.html">dreamwidth post</a>.</i>
   </p>
@@ -271,8 +352,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orge3b6476"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orge3b6476">
+  <li><a id="org00817d6"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org00817d6">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -420,8 +501,8 @@
   </div>
   </li>
 
-  <li><a id="org256980f"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org256980f">
+  <li><a id="org4999af0"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org4999af0">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13462.html">dreamwidth post</a>.</i>
   </p>
@@ -473,8 +554,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org79e7653"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org79e7653">
+  <li><a id="org1fb1da9"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org1fb1da9">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13241.html">dreamwidth post</a>.</i>
   </p>
@@ -542,8 +623,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgb1d8a2d"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgb1d8a2d">
+  <li><a id="orga84386d"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orga84386d">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12951.html">dreamwidth post</a>.</i>
   </p>
@@ -567,8 +648,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org07878b7"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org07878b7">
+  <li><a id="org89f1cfd"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org89f1cfd">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -688,8 +769,8 @@
   </div>
   </li>
 
-  <li><a id="org13dbc83"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org13dbc83">
+  <li><a id="org2bb98ad"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org2bb98ad">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12612.html">dreamwidth post</a>.</i>
   </p>
@@ -757,8 +838,8 @@
   </div>
   </li>
 
-  <li><a id="org7bdc999"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7bdc999">
+  <li><a id="org226f274"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org226f274">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12323.html">dreamwidth post</a>.</i>
   </p>
@@ -782,8 +863,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org6e75e22"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org6e75e22">
+  <li><a id="orgaeaad2a"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgaeaad2a">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -871,8 +952,8 @@
   </div>
   </li>
 
-  <li><a id="org805962c"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org805962c">
+  <li><a id="orgde7d1a2"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgde7d1a2">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12162.html">dreamwidth post</a>.</i>
   </p>
@@ -924,8 +1005,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgda9555a"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgda9555a">
+  <li><a id="org53b845c"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org53b845c">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11815.html">dreamwidth post</a>.</i>
   </p>
@@ -978,8 +1059,8 @@
   </div>
   </li>
 
-  <li><a id="org44f914d"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org44f914d">
+  <li><a id="org2e74a83"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org2e74a83">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11677.html">dreamwidth post</a>.</i>
   </p>
@@ -1003,8 +1084,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org7b2d807"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org7b2d807">
+  <li><a id="orgab5f79f"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgab5f79f">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a> - <b>You Are Here</b></li>
@@ -1137,16 +1218,16 @@
   </div>
   </li>
 
-  <li><a id="orgdce7a7a"></a>Closing<br />
-  <div class="outline-text-3" id="text-orgdce7a7a">
+  <li><a id="org366a1f9"></a>Closing<br />
+  <div class="outline-text-3" id="text-org366a1f9">
   <p>
   So, whoo, here we are. The next chapter is, as I said, mercifully shorter, and focuses on "The Maiden with the Mead," the subject of Kvilhaug's master's thesis, but apparently new work on the same topic here. So, expect lots more on feminine spiritual Beings and/or bits of the soul, magic drinks, and initiation. As always, I welcome any thoughts, recommendations, or corrections.
   </p>
   </div>
   </li>
 
-  <li><a id="orgb44a8cc"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgb44a8cc">
+  <li><a id="org08ae504"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org08ae504">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11306.html">dreamwidth post</a>.</i>
   </p>
@@ -1210,8 +1291,8 @@
   </div>
   </li>
 
-  <li><a id="orgf5ff687"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgf5ff687">
+  <li><a id="org146e844"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org146e844">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11228.html">dreamwidth post</a>.</i>
   </p>
@@ -1398,16 +1479,16 @@
   </div>
   </li>
 
-  <li><a id="org4d4b485"></a>Closing<br />
-  <div class="outline-text-3" id="text-org4d4b485">
+  <li><a id="org1c44f62"></a>Closing<br />
+  <div class="outline-text-3" id="text-org1c44f62">
   <p>
   Whether you find these prayers helpful for your own spiritual work, as always, I welcome any and all feedback!
   </p>
   </div>
   </li>
 
-  <li><a id="org901fc97"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org901fc97">
+  <li><a id="org2c0a804"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org2c0a804">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10887.html">dreamwidth post</a>.</i>
   </p>
@@ -1672,8 +1753,8 @@
   </div>
   </li>
 
-  <li><a id="orgda25087"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgda25087">
+  <li><a id="orgd4f88d6"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgd4f88d6">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -1699,8 +1780,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org7ac1ade"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org7ac1ade">
+  <li><a id="orgb9251fa"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgb9251fa">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a> - <b>You Are Here</b></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -1779,8 +1860,8 @@
   </div>
   </li>
 
-  <li><a id="org15ae415"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-org15ae415">
+  <li><a id="org92e26aa"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-org92e26aa">
   <p>
   First, a handful of thoughts on the physical book. I have the 2020 edition,
   which is the one currently available, but it was first printed in 2012 as a
@@ -1981,16 +2062,16 @@
   </ul>
   </li>
 
-  <li><a id="org366a1f9"></a>Closing<br />
-  <div class="outline-text-3" id="text-org366a1f9">
+  <li><a id="orgf31f63a"></a>Closing<br />
+  <div class="outline-text-3" id="text-orgf31f63a">
   <p>
   Altogether, this book has a <i>lot</i> to recommend it, but it takes a certain amount of energy to grapple with in anything but the most casual way. I sincerely wish Kvilhaug had some kind of partner of the organizational, attention-to-detail variety who shared her passion for these myths. Then we could have things like a list of all of the major Gods, Goddesses, and steads with their names translated, to be used as a reference when reading. We could have chapters and sections that can be looked up as needed, rather than having to be sifted out of the entire 600-page web. We could have lists of the formulas she's identified with pointers to what myths you can find them in. Such glorious possibilities! Alas, for now, I'll have to settle for making my own sense of what she has to offer and sharing what I find with you.
   </p>
   </div>
   </li>
 
-  <li><a id="org3f3de57"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org3f3de57">
+  <li><a id="org7399d1b"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org7399d1b">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10405.html">dreamwidth post</a>.</i>
   </p>
@@ -2181,8 +2262,8 @@
   </div>
   </li>
 
-  <li><a id="orgf02b29d"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgf02b29d">
+  <li><a id="org206776f"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org206776f">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10116.html">dreamwidth post</a>.</i>
   </p>
@@ -2444,8 +2525,8 @@
   </div>
   </li>
 
-  <li><a id="org17fa373"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org17fa373">
+  <li><a id="org040af1d"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org040af1d">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9809.html">dreamwidth post</a>.</i>
   </p>
@@ -2557,8 +2638,8 @@
   </div>
   </li>
 
-  <li><a id="org3ecab62"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org3ecab62">
+  <li><a id="org3ba9554"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org3ba9554">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9590.html">dreamwidth post</a>.</i>
   </p>
@@ -2798,8 +2879,8 @@
   </div>
   </li>
 
-  <li><a id="org9b6da96"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org9b6da96">
+  <li><a id="org4936e8e"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org4936e8e">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9076.html">dreamwidth post</a>.</i>
   </p>
@@ -2965,8 +3046,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org0ee9e26"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org0ee9e26">
+  <li><a id="orge380a30"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orge380a30">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/8865.html">dreamwidth post</a>.</i>
   </p>
@@ -3834,8 +3915,8 @@
   </div>
   </li>
 
-  <li><a id="org92e26aa"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-org92e26aa">
+  <li><a id="org2b85759"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-org2b85759">
   <p>
   This is not usually something I would talk about when going over a book, but
   here I think it's warranted, both good and bad. First off, the good stuff:
@@ -3932,8 +4013,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org3a97d59"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org3a97d59">
+  <li><a id="orgee21f0b"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orgee21f0b">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -4034,8 +4115,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org91346b3"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org91346b3">
+  <li><a id="orgbfad70b"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orgbfad70b">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -4221,8 +4302,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org872308a"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org872308a">
+  <li><a id="org64931f6"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org64931f6">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -4465,8 +4546,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgba93d3a"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-orgba93d3a">
+  <li><a id="org4df158d"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org4df158d">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -4689,8 +4770,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org8275740"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org8275740">
+  <li><a id="org206a53c"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org206a53c">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a> &lt;&#x2013; You are Here</li>
@@ -4861,8 +4942,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgee21f0b"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-orgee21f0b">
+  <li><a id="org546db63"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org546db63">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a> &lt;&#x2013; You are Here</li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -5789,8 +5870,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgad32b62"></a>Way 1<br />
-  <div class="outline-text-3" id="text-orgad32b62">
+  <li><a id="orgaeb9869"></a>Way 1<br />
+  <div class="outline-text-3" id="text-orgaeb9869">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -5809,8 +5890,8 @@
   </div>
   </li>
 
-  <li><a id="org712f784"></a>Way 2<br />
-  <div class="outline-text-3" id="text-org712f784">
+  <li><a id="orgc19ba3f"></a>Way 2<br />
+  <div class="outline-text-3" id="text-orgc19ba3f">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -5829,8 +5910,8 @@
   </div>
   </li>
 
-  <li><a id="org32120f1"></a>Way 3<br />
-  <div class="outline-text-3" id="text-org32120f1">
+  <li><a id="orgb88c85e"></a>Way 3<br />
+  <div class="outline-text-3" id="text-orgb88c85e">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -6210,8 +6291,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgaeb9869"></a>Way 1<br />
-  <div class="outline-text-3" id="text-orgaeb9869">
+  <li><a id="org459ad78"></a>Way 1<br />
+  <div class="outline-text-3" id="text-org459ad78">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -6229,8 +6310,8 @@
   </div>
   </li>
 
-  <li><a id="orgc19ba3f"></a>Way 2<br />
-  <div class="outline-text-3" id="text-orgc19ba3f">
+  <li><a id="org31b0f2c"></a>Way 2<br />
+  <div class="outline-text-3" id="text-org31b0f2c">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -6248,8 +6329,8 @@
   </div>
   </li>
 
-  <li><a id="orgb88c85e"></a>Way 3<br />
-  <div class="outline-text-3" id="text-orgb88c85e">
+  <li><a id="orge195767"></a>Way 3<br />
+  <div class="outline-text-3" id="text-orge195767">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -6742,8 +6823,8 @@
   </div>
   </li>
 
-  <li><a id="orgb0aa87f"></a>The Poetic Edda<br />
-  <div class="outline-text-4" id="text-orgb0aa87f">
+  <li><a id="orga910128"></a>The Poetic Edda<br />
+  <div class="outline-text-4" id="text-orga910128">
   <p>
   <b>By</b>: Many writers<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -7510,8 +7591,8 @@
   </div>
   </li>
 
-  <li><a id="orga5b6d32"></a>Shamanism<br />
-  <div class="outline-text-5" id="text-orga5b6d32">
+  <li><a id="org98a017a"></a>Shamanism<br />
+  <div class="outline-text-5" id="text-org98a017a">
   <p>
   <b>By</b>: Mircea Eliade<br />
   <b>Have I Read It?</b>: About halfway.<br />
@@ -7914,8 +7995,8 @@
   </div>
   </li>
 
-  <li><a id="orgaefebb5"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-orgaefebb5">
+  <li><a id="org5db1758"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-org5db1758">
   <p>
   <b>By</b>: Dr. Stephen Flowers, PhD.<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -7925,8 +8006,8 @@
   </li>
 
 
-  <li><a id="org5db1758"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-org5db1758">
+  <li><a id="orge3034c0"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-orge3034c0">
   <p>
   <b>By</b>: P.D. Brown and Michael Moynihan (eds)<br />
   <b>Have I Read It?</b>: Some<br />
@@ -8102,8 +8183,8 @@
   </ul>
   </li>
 
-  <li><a id="org98a017a"></a>Shamanism<br />
-  <div class="outline-text-4" id="text-org98a017a">
+  <li><a id="org547d343"></a>Shamanism<br />
+  <div class="outline-text-4" id="text-org547d343">
   <p>
   As I said above, "shamanism" is a word that gets used for many unalike things, but the ways of the folks who live about the North pole gave us the name, and I think it likely those ways left some mark on the ways of the Norse at least, and maybe the wider Germanish world. The books below are all by Raven Kaldera and/or Galina Krasskova, and they have a way of looking at things that is rather unlike other folks, so take with as much salt as seems right to you.
   </p>
@@ -9863,8 +9944,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org3b736eb"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org3b736eb">
+  <li><a id="org39bb350"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org39bb350">
   <p>
   The Story Grid by Shawn Coyne
   </p>
@@ -9901,8 +9982,8 @@
   </ul>
   </li>
 
-  <li><a id="orgaf01121"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgaf01121">
+  <li><a id="orgb0dd74e"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgb0dd74e">
   </div>
 
   <ul class="org-ul">
@@ -9955,8 +10036,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org0cec9c4"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org0cec9c4">
+  <li><a id="org6117f7d"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org6117f7d">
   </div>
 
   <ul class="org-ul">
@@ -10002,8 +10083,8 @@
   </ul>
   </li>
 
-  <li><a id="org84a5ef8"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org84a5ef8">
+  <li><a id="orgcb6446a"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgcb6446a">
   </div>
 
   <ul class="org-ul">
@@ -10040,8 +10121,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org1699452"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org1699452">
+  <li><a id="orgeabb5d6"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgeabb5d6">
   </div>
 
   <ul class="org-ul">
@@ -10087,8 +10168,8 @@
   </ul>
   </li>
 
-  <li><a id="orgaf110b4"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgaf110b4">
+  <li><a id="orgf667bd0"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgf667bd0">
   </div>
 
   <ul class="org-ul">
@@ -10133,8 +10214,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orga6ad47e"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orga6ad47e">
+  <li><a id="org0de9d53"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org0de9d53">
   </div>
 
   <ul class="org-ul">
@@ -10172,8 +10253,8 @@
   </ul>
   </li>
 
-  <li><a id="org5fcc0b9"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org5fcc0b9">
+  <li><a id="org0521252"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org0521252">
   </div>
 
   <ul class="org-ul">
@@ -10210,8 +10291,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgf1f9f4b"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgf1f9f4b">
+  <li><a id="orgcde289a"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgcde289a">
   </div>
 
   <ul class="org-ul">
@@ -10257,8 +10338,8 @@
   </ul>
   </li>
 
-  <li><a id="org5f0483a"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org5f0483a">
+  <li><a id="org71ff459"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org71ff459">
   </div>
 
   <ul class="org-ul">
@@ -10303,8 +10384,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org39bb350"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org39bb350">
+  <li><a id="orgde1eff6"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgde1eff6">
   </div>
 
   <ul class="org-ul">
@@ -10342,8 +10423,8 @@
   </ul>
   </li>
 
-  <li><a id="orgb0dd74e"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgb0dd74e">
+  <li><a id="org41c54e0"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org41c54e0">
   </div>
 
   <ul class="org-ul">
@@ -10689,8 +10770,8 @@
   </div>
   </li>
 
-  <li><a id="orgeff0022"></a><a href="https://smile.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1505445474&amp;sr=1-1&amp;keywords=zero+to+one">Zero to One</a><br />
-  <div class="outline-text-5" id="text-orgeff0022">
+  <li><a id="zero-to-one"></a><a href="https://smile.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1505445474&amp;sr=1-1&amp;keywords=zero+to+one">Zero to One</a><br />
+  <div class="outline-text-5" id="text-zero-to-one">
   <p>
   Though it focuses on building a start up, the core thesis of this book is that start ups are near perfect vehicles for world-changing innovation, but to make that happen, you have to think about the world in certain ways. The most provocative way this book recommends is to seek out "secrets" - things that you know or suspect and the rest of the world either doesn't know or thinks is ridiculous - and then use those secrets to build a monopoly in a field.  To find such secrets, Thiel suggests that you ask yourself "what are things that I believe that everyone else thinks are ridiculous?" Read this book if you are trying to figure out why creativity matters or how you can change the world with it.
   </p>
@@ -10699,11 +10780,8 @@
   </ul>
   </li>
 
-  <li><a id="orgfdabf2e"></a>Active Divergence<br />
-  <div class="outline-text-4" id="text-orgfdabf2e">
-  <p>
-  :CUSTOM_ID: active-divergence-creativity
-  </p>
+  <li><a id="active-divergence-creativity"></a>Active Divergence<br />
+  <div class="outline-text-4" id="text-active-divergence-creativity">
   <p>
   The core habit for active divergence - practicing idea generation - is extremely simple and will take you far, but if you are looking for more resources on how to stretch your brain to have more and different ideas, these books will help.
   </p>
@@ -11575,8 +11653,8 @@
   </div>
   </li>
 
-  <li><a id="orga910128"></a>The Poetic Edda<br />
-  <div class="outline-text-3" id="text-orga910128">
+  <li><a id="org3462615"></a>The Poetic Edda<br />
+  <div class="outline-text-3" id="text-org3462615">
   <p>
   <b>By Unknown, but I like the Hollander and Crawford translations</b>
   </p>
