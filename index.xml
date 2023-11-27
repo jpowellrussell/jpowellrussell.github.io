@@ -14,8 +14,8 @@
   <link></link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Sun, 19 Nov 2023 23:42:41 -0600</pubDate>
-  <lastBuildDate>Sun, 19 Nov 2023 23:42:41 -0600</lastBuildDate>
+  <pubDate>Sun, 26 Nov 2023 20:49:28 -0600</pubDate>
+  <lastBuildDate>Sun, 26 Nov 2023 20:49:28 -0600</lastBuildDate>
   <generator>Emacs 29.0 Org-mode 9.7-pre</generator>
   <webMaster>jeff.powell.russell@gmail.com (Jeff Russell)</webMaster>
   <image>
@@ -25,77 +25,119 @@
   </image>
 
   <item>
-    <title>Maximizing, Satisficing, and Strategy</title>
-    <link>./https://jpowellrussell.com/#maximizing_satisficing_and_strategy</link>
+    <title>[Book] The Seed of Yggdrasill 7 - Death and Resurrection</title>
+    <link>./https://jpowellrussell.com/#book_the_seed_of_yggdrasill_7_death_and_resurrection</link>
     <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
-    <guid isPermaLink="false">./https://jpowellrussell.com/#maximizing_satisficing_and_strategy</guid>
-    <pubDate>Sat, 18 Nov 2023 09:25:00 -0600</pubDate>
+    <guid isPermaLink="false">./https://jpowellrussell.com/#book_the_seed_of_yggdrasill_7_death_and_resurrection</guid>
+    <pubDate>Fri, 24 Nov 2023 11:14:00 -0600</pubDate>
     <category><![CDATA[rss]]></category>
     <description><![CDATA[<p>
-    <b>Date</b>: 2023-November-18
-    </p>
-
-    <p>
-    Tree of Woe has been writing a <a href="https://treeofwoe.substack.com/p/on-strategy">great</a> <a href="https://treeofwoe.substack.com/p/on-strategy-part-ii">series</a> on strategy lately. The second post describes the "OODA Loop," and the implication it has for strategic thinking that quick, decisive action is almost always a strategic advantage in-and-of itself. Despite being long familiar with both the OODA loop and maxims like Patton's "a good plan, violently executed now, is better than a perfect plan next week," I had never put the two together to realize that the OODA loop implies that attitude, so that was a great insight. Still, it reminded me of an insight of my own that came to me moving from the Army into consulting, which is that Patton's preference for violence of action is a heuristic that is situationally, but not universally, helpful. So far, so obvious, right? But it was a little later, when I began reading more about mental models and decision-making that I encountered the key to unlocking when to use that heuristic and when not to: the difference between satisficing and maximizing.
+    <b>Date</b>: 2023-November-24
     </p>
 
     <ul class="org-ul">
-    <li><a id="org8111226"></a>My Definition of Strategy - Coordinating Efforts to Get Outcomes Under Uncertainty<br />
-    <div class="outline-text-3" id="text-org8111226">
-    <p>
-    In the first article linked above, Tree of Woe has a wonderfully elegant definition of strategy that I really like: "The art of decision-making in conditions of uncertainty." It's short, to the point, and captures the most important bits: making decisions and uncertainty. Many definitions of strategy are crafted for one field (military, political, business, and so forth), and fall down a bit when taken out of that field. This one has the advantage of working well across all fields where you might think of things as "<a href="https://jpowellrussell.com/#book-strategy-a_history">strategic</a>."
-    </p>
+    <li><a id="org27b6508"></a>Posts about Seed of Yggdrasill<br />
+    <div class="outline-text-3" id="text-org27b6508">
+    <ul class="org-ul">
+    <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
+    <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
+    <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_3_the_maiden_with_the_mead">The Seed of Yggdrasill 3 - The Maiden with the Mead</a></li>
+    <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_4_retrieving_the_soul_of_the_gods">The Seed of Yggdrasill 4 - Retrieving the Soul of the Gods</a></li>
+    <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_5_the_loss_of_the_golden_age_in_old_norse_myth">The Seed of Yggdrasill 5 - The Loss of the Golden Age in Old Norse Myth</a></li>
+    <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_6_ragnarok_and_the_new_age">The Seed of Yggdrasill 6 - Ragnarok and the New Age</a></li>
+    <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_7_death_and_resurrection">The Seed of Yggdrasill 7 - Death and Resurrection</a> - <b>You Are Here</b></li>
+    </ul>
 
     <p>
-    Even so, this is a topic near and dear to my heart, so a few years ago, I came up with my own definition. I take its similarity to Tree of Woe's as an indication that I got something right, but I wanted to share it to highlight the differences and why I think they're worth thinking about. So, here's my definition of strategy: "coordinating the efforts of lower-order means to achieve higher-order ends in the face of uncertainty." Notice the common focus on uncertainty (Tree of Woe's first article has a <i>great</i> framework for thinking about different sources of uncertainty) - if you know exactly how things are going to go, it might be hard, but it's planning, not strategy. On the other hand, my definition specifies a little more what kind of decisions are being made, making it a bit narrower, but I think focusing a bit more on "strategic" decision-making versus other kinds.
-    </p>
-
-    <p>
-    For starters, let's look at the first word: "coordinating." The word "strategy" comes from the ancient Greek <i>Strategos</i>, which means "general [of an army]," and so means "doing the stuff that generals do." Notice it is not doing the stuff that a fire team leader does, or a lieutenant - from the beginning, the word strategy has been applied when a certain amount of complexity is involved in the thing you are making decisions for. I may face uncertainty about what will happen with my finances in the next year, but is it "strategic" to save money? I'd argue not by itself, because it's just me making a decision about my actions. Now, if I'm the CFO of a corporation trying to improve its financial situation for the next year, that <i>is</i> strategic, because I'm coordinating efforts across a large organization.
-    </p>
-
-    <p>
-    Okay, so strategy is about coordinating, but what are we coordinating? That brings us to our next point: "the efforts of lower-order means to achieve higher-order ends." I'm not thrilled with how wordy this is, but for now, that's the best I can do to get the idea across succinctly. Remember the bit about "doing what a general does?" Not only does that imply a large/complex organization to be coordinated, it also implies a certain "level" of outcome intended. When I decide what route to take to get to work in the morning, I face all kinds of uncertainty, but it would be a bit silly to call that decision "strategic," because the outcome is just whether I'm a few minutes late to work. On the other hand, if I'm deciding what route a patrol should take through enemy territory to successfully blow up a bridge before a crucial supply convoy can get over it, <i>that's</i> strategic, because the outcome has a wider effect than its immediate surroundings. I put this piece into my definition because I wanted a way to meaningfully distinguish between tactics and strategy, which this gives us: tactics are what you do to ensure effects at the same level, strategy is what you do to affect higher-order things. Good tactics will often be informed by the strategic context, like when Lieutenant Winters of <i>Band of Brothers</i> fame took out that German artillery emplacement at <a href="https://infogalactic.com/info/Br%C3%A9court_Manor_Assault">Brecour Manor</a> - he knew that the artillery hindered units landing at Utah beach from coming inland and establishing a more secure beachhead, and so understood the significance of what he was doing, but all of his decisions that June morning were focused on the immediate goal of defeating the German artillery emplacement.
+    This chapter mostly covered topics that have come up before, so my thoughts might be briefer than they otherwise would be, especially given the weighty nature of what this chapter covers: death and rebirth. The very short version is that Kvilhaug argues that the Old Norse believed that at least some souls reincarnated, and that souls faced different fates after death depending on what wisdom they did (or didn't) develop during life, and that wisdom comes from encounters with one or more Gods or Goddesses, which are manifestations of an underlying unified divinity. Want to dig in more? Let's get to it.
     </p>
     </div>
     </li>
 
-    <li><a id="org40cbaaf"></a>Satisficing against Maximizing - Good Enough or As Good as Possible<br />
-    <div class="outline-text-3" id="text-org40cbaaf">
+    <li><a id="org7597b85"></a>Maybe Elves are Just Folks Who Won at Spirituality<br />
+    <div class="outline-text-3" id="text-org7597b85">
     <p>
-    So, I thought up the above definition while I was a consultant, and I've been pretty happy with it since. At the same time, I observed that the preference for "violence of action" the Army had drilled into me wasn't <i>always</i> appropriate in the business world. This was maybe easier for me to notice than some others because the preference for violence of action doesn't come especially naturally to me: in strategy games, my favorite tactic is to "turtle" behind a wall of impenetrable defenses until I have overwhelming force. In real life, I like to gather information, ponder, and "wait and see" as much as I can. That being said, I was an airborne infantryman, and there, violence of action is not only expected, it's <i>who you are</i>, so I internalized it pretty well, despite it not coming naturally. This combo allowed me to notice both how useful violence of action can be, but also that there are times where it's not the best way to go. For a long time, this was vague and intuitive - I could recognize when to be aggressive and when to be contemplative, but I couldn't tell you in a general way what was different about those situations.
+    I've long been curious what to make of Elves in the Germanic lore, and Kvilhaug helps shed some more light on them, but not so much for me to be fully satisfied. Where does this confusion come from? We have lots of references to "elves" as some kind of group of conscious beings, but the <i>kind</i> of conscious being referred to seems to vary rather a lot. A dead king buried in a mound became known as "The Elf of Geirstad." A Christian traveler was barred from entering a farm because they were giving sacrifice to "elves." The God Frey is said to live in <i>Alfheim</i>, the home/land/world of Elves, is called a Lord of Elves, and sometimes seems to be called an Elf himself. And that's without even getting into the fact that Snorri talks about both "light" and "dark" elves, and that "dark elves" may or may not be the same thing as the <i>dvergr</i>, dwarves. Further complicating things, as with everywhere else, later Germanic folklore is full of beings that get up to mischief and have various interactions with humans, like the fae of Celtic lands, and some of the names of these beings are etymologically linked with Elves (like, you know, the word "elf").
     </p>
 
     <p>
-    And then I encountered the idea of <a href="https://infogalactic.com/info/Satisficing">satisficing</a> versus maximizing. We're all familiar with maximizing: it's getting the most of out of a situation that you possibly can. If you want to be an olympic athlete or a rock star, you likely are doing everything to maximize your craft - every extra rep, every tweak to your psychology, every opportunity to test and prove your talent, you're going to take. If you find a good investment, you want to put as much money into that as you can afford, because the more you put in, the more the payoff. Peter Thiel doesn't want to have just a <i>bit</i> of a <a href="https://jpowellrussell.com/#zero-to-one">monopoly</a>, he wants the whole thing.
+    Kvilhaug's interpretation is, as you might imagine, a bit dependent on her metaphysical/theological presuppositions, my reservations about which I've shared, but I think it has some merit. She sees "elf" as a label for a soul that has transcended reincarnation to live eternally outside of materiality. As such, Gods are elves, enlightened dead humans are elves, and presumably, any other conscious spirit sufficiently in touch with the divine is an elf. This does a good job of sidestepping the <a href="https://infogalactic.com/info/Monster_Manual">Gygaxian</a> desire to divide all beings into neat mutually exclusive, collectively exhaustive categories based on different names. Kvilhaug plays to her strengths here, being willing to see overlap and fluid borders where others look to make them as firm as possible. That being said, this also brings up the downside of her approach: the utility of "elf" as a label depends on her interpretation of souls reincarnating, reaching spiritual enlightenment, and moving on to some other kind of existence being the view of the afterlife the Old Norse had. If you don't buy that theory, then her solution to the elf puzzle isn't so helpful.
     </p>
 
     <p>
-    Satisficing, on the other hand, is when there is a certain threshold with which you will have <i>satisfaction</i> (see the link there?), and beyond that doesn't make a big difference. If you want to have a fancy dinner, once you're in Michelin Star territory, you're likely getting something fancy and delicious, and finding a place with a second Star isn't going to be as big a jump up as finding a place with a Star at all. Or if you find a job in a place you want to live that pays enough for your lifestyle and goals, you might just take it instead of spending weeks or months looking for a job that pays a bit more. Many, many situations in life work like this, and once you're consciously aware of it, you can apply it to save time and effort where you might otherwise spin your wheels. My favorite go-to example: have you ever been with a group of friends trying to decide where to order dinner from? Have you ever spent <i>way</i> too long trying to figure this out? Well, satisficing to the rescue: in this situation, your goal is not to <i>maximize</i> food enjoyment, your goal is to <i>satisfy</i> your group's need for a decent meal while you enjoy spending time together. That means that <i>any</i> restaurant that everyone is at least fine with will work. So, when you get into the start of what looks likely to be an endless round of "I dunno, what do you want?" just jump in with "let's get pizza!" If anyone objects, they'll say so, and you can throw out another suggestion. But often, just having a definite choice put out there will get everyone else to say "okay, works for me."
-    </p>
-
-    <p>
-    The technical difference between when you want to maximize and when you want to satisfice comes down to the expected payoff of the action. Not everything is amenable to being quantified and graphed, of course, but for the sake of clarity, it's helpful to go there for these examples. In situations where there is a linear payoff (I sell one more widget, I get $5 more dollars) or an exponential payoff (going from 3rd to 2nd in marketshare makes me 50% richer, going from 2nd to 1st makes me 150% richer), you want to maximize if you can - more effort brings more payoff, so it makes sense to put in as much effort as you can that isn't held back by other constraints. On the other hand, very many situations have diminishing marginal returns: the first one gives you a huge payoff, the second a decent payoff, the third meh, and so on. Imagine you're starving. The first cheeseburger will literally save your life and likely be the most delicious meal you've ever had. The second cheeseburger might get you to feeling stuffed, which might be a nice contrast. The third will make you sick. These are situations where you want to satisfice - maybe just eat that first cheeseburger and move on with your life.
+    Synchronistically enough, as I was about to start writing this post, I read this short <a href="https://readoldthings.dreamwidth.org/89237.html">post</a> by readoldthings over on Dreamwidth. He includes a short passage from the <i>Odyssey</i> about the Naiads and nymphs and references an analysis of it by Plotinus. His interpretation is that the nymphs are nature spirits and seem to be the same kind of being as the Fae in Celtic lands. What's most interesting for this discussion is that Plotinus argues that Homer is saying that these nature spirits are, in fact, souls between human incarnations. I had never encountered this idea before, and it's a remarkable piece of comparative evidence to set next to beliefs in the Fae, Elves, and other ambiguous (to us) spiritual beings.
     </p>
     </div>
     </li>
 
-    <li><a id="orgebab16a"></a>Applying to the OODA Loop - How Quickly Can You Orient?<br />
-    <div class="outline-text-3" id="text-orgebab16a">
+    <li><a id="orgff3f406"></a>Kvilhaug Argues the Old Norse Believed in Reincarnation<br />
+    <div class="outline-text-3" id="text-orgff3f406">
     <p>
-    Now we know that some situations call for maximizing, and some for satisficing. It turns out that's the key to what produces the preference for violence of action in the military - almost every military situation has a threshold that must be reached and diminishing marginal returns for doing better than that threshold. If the enemy stops fighting, it doesn't <i>really</i> matter how many more soldiers you kill (okay, it might in the long run, but you see my point). If you take a solid defensible position, it doesn't really matter if it's the <i>best</i> defensible position. Not only are most military situations ones where a satisficing approach brings about good results, much of the uncertainty in military situations is brought about by the enemy's <i>choice</i>. If the opposing general would just stop <i>deciding</i> things, you could easily work out the best approach. But alas, he won't. This means that not only will you get diminishing returns from figuring out the <i>best</i> plan once you've come up with a <i>fine</i> plan, but in the time you spend evaluating options and coming up with the best approach, the other side is <i>changing the game</i>. So, your perfect plan might end up applying to a situation that no longer applies. This is the other reason the military has such a strong preference for violence of action - taking the initiative <i>literally</i> shapes the situation both sides are making decisions about, and it shapes it in a way that is hopefully to your advantage. Put these things together, and it's clear why <i>do something that makes sense</i> has so strongly dominated "figure out the best thing to do."
+    By this point in the book, Kvilhaug has made no secret of her interpretation of the lore as indicating that the heathens of elder times believed in reincarnation, at least sometimes, at least for some folks. When I first encountered the idea that there might be reincarnation in the Germanish lore, I was pretty skeptical - I had only ever heard of reincarnation as a Hindu and Buddhist belief, or as a modern New Agey one that got it from those older sources. Since then, though, I've encountered a lot of evidence that has caused me to <a href="https://jpowellrussell.com/#hold-on-to-what-you-believe">change those beliefs</a>. I now suspect that a belief in reincarnation likely goes back <i>at least</i> to the <a href="https://www.youtube.com/watch?v=exlcT_iL9-U">Proto-Indo-Europeans</a>, and that some elements of those beliefs likely lingered in the various folks whose religions and tongues came from them well into historical times - sometimes very obviously, as in India, sometimes in ways that were obvious to ancients but aren't well known today (Pythagoras and his followers taught the transmigration of souls, multiple Roman writers commented that the Celts believed in reincarnation, and so forth), and sometimes in tiny little snippets like we find in the Germanish lore.
     </p>
 
     <p>
-    What's interesting is that Boyd's OODA loop provides a way of thinking about this. Briefly, OODA stands for "Observe, Orient, Decide, and Act." Boyd recognized that each phase was dynamic and involved taking in information from the situation and other side, but as it's presented usually, folks way over-simplify. So, observe is about understanding what's happening around you. Orient is judging the significance of those things. Decide is picking a course of action, and Act is taking that course of action. The phase with the most relevance for our discussion is <i>Orient</i>. Working out whether a situation takes maximizing or satisficing is an orienting decision. Likewise, the reason taking the initiative is generally preferred in military situations is that it allows you to shape what's happening, which forces your opponent to <i>orient</i>. So, once again, understanding when "getting the gist of things" orients you well enough versus when you should know all of the ins and outs tells you when to maximize and when to satisfice. Point being, in many situations, going with the <i>satisfice</i> option makes good sense, but overall, it's helpful to notice when you ought to shoot for maximizing. 
+    In the Germanish lore, one of the most direct pieces of evidence is unfortunately also one of the less credible: in the <i>Codex Regius</i>, the first-found and still most important manuscript of most of what we today call the <i>Poetic Edda</i>, there's a prose snippet between two poems, given by the Christians who wrote it down, saying that "back then before they knew about Christ, they believed that folks can be reborn." Mark that I said <i>less</i> credible, and not "not credible at all." Those Christian monks were much closer to the beliefs of elder times than we are today, and my general starting place is to assume that the writers of long ago actually knew what they were talking about unless we have strong reason to believe otherwise - a kind of historiographic Chesterton's fence, if you will. But it's not as direct as Socrates/Plato saying "okay, here's exactly how reincarnation works, I got it from a guy who talked to a guy who died and was revived and saw it all happen" at the end of the <i>Republic</i>. Instead, you have scattered references that the old Norse seem to have believed that at least something from someone who died could come back later. Kvilhaug leans towards the maximalist end of interpretation here, but I think she makes a pretty good case. Specifically, she argues that many of the human heroes in the <i>Poetic Edda</i>, especially both Helgis, should be seen as a series of incarnations of the same soul. That being said, she goes more into that particular analysis more in earlier chapters. At any rate, since reincarnation is consistent with the teachings I currently work with, I find this approach reasonable, interesting, and useful.
     </p>
     </div>
     </li>
 
-    <li><a id="orge380a30"></a>Post Footer<br />
-    <div class="outline-text-3" id="text-orge380a30">
+    <li><a id="org2393cc5"></a>What is the Underworld like, and Why Would You Go There?<br />
+    <div class="outline-text-3" id="text-org2393cc5">
     <p>
-    <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14562.html">dreamwidth post</a>.</i>
+    Kvilhaug spends some time going through various descriptions of the underworld, most of which is pretty familiar, but she does point out two things that I think are interesting and possibly worth looking more into. The first is that the earlier descriptions of Hel's realm include more positive elements, unlike the better-known stereotype of Valhalla as a raucous good time and Hel as dreary wasteland, which is found more in later sources. Now, the idea of the underworld as dark, dreary, and generally unpleasant is very old and very widespread (at least among Indo-European folks), so it's not like Hel <i>wasn't</i> those things in the older sources, but it was apparently <i>also</i> a place with warm, inviting neighborhoods. I'm not sure what it means that the later heathens seem to have felt that any warm and inviting afterlife destinations were somehow <i>not</i> Hel, if earlier ones thought otherwise, but it might be worth thinking about and looking more into.
+    </p>
+
+    <p>
+    The second thing Kvilhaug points out that I think I might want to look into more deeply is that whenever someone living visits the underworld, there is a loud, "resounding" sound. Kvilhaug argues that this is a characteristic of a shamanic spiritual journey of some kind. As I've talked about in earlier posts, I've long been curious about the (maybe) shamanic elements in Germanish lore and practices, so finding more potential comparative elements always grabs my attention. But wait a tick, what the heck are living guys doing in the underworld? In just about every case, it's to <i>learn</i> some kind of secret wisdom. Again, Kvilhaug covered all of this in more detail in earlier chapters, such as the <a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_3_the_maiden_with_the_mead">Maiden with the Mead</a>, but it's interesting to mark that when the living go to the underworld for this knowledge, they're still obviously different from the souls that show up because they're dead.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org8ac6f57"></a>Death as a Lover<br />
+    <div class="outline-text-3" id="text-org8ac6f57">
+    <p>
+    This is one section where I was hoping for a bit more of Kvilhaug's gathering up of examples to make a point - she does give examples, but at times just says things like "lots of skaldic poems use this imagery." Anyway, I'll pull the same trick here and say that Kvilhaug shares that often in Old Norse poetry, death was described as a woman welcoming the dying man as a lover. This is one place where I'm not sure about the comparative mythology, whether among the Indo-Europeans or elsewhere. Given the nearly equally deep significance of love/sex and death to human life, psychology, and spirituality, finding them combined in Old Norse belief is, well, suggestive, if nothing stronger. This feels like another of those areas that warrants further reading and bethinking.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org8cfde1d"></a>The Many Many Worlds of Norse Belief<br />
+    <div class="outline-text-3" id="text-org8cfde1d">
+    <p>
+    Okay, I'm getting a bit cutesy with my header titles, but I couldn't resist. If you've spent any time with the Germanish lore at all, you've run into the thought that there is more than one "world" or <i>heimr</i>. The most commonly found count of those worlds is nine. What Kvilhaug lays out nice and clear is that there are actually multiple accounts given of how many worlds there are and what their names are, just among Old Norse works, without even touching other Germanish sources (such as the "seven worlds" of the <i>Nine Herbs Charm</i> in Old English). <i>Grimnismal</i> gives twelve "heavens," in nine of which "death rules," which Kvilhaug finds highly significant, especially since the three worlds where death does <i>not</i> rule are said to hold "elves," which she uses as evidence for her interpretation discussed above that "elves" are beings that have achieved immortality. Snorri describes ten "heavens," where, again, Kvilhaug sees the tenth as holding immortal "light elves," distinct from the beings in the other nine worlds. The variety here is interesting for a few reasons. For one, it's a good reminder not to be overly doctrinaire in how we interpret the lore and what it might mean for our beliefs and practice - many of us were raised in religious traditions that put great weight on the strict <i>accuracy</i> of texts, and it can be hard to shake the desire to figure out what the "real" meaning of a set of religiously-significant texts "really is." Another reason its helpful is the exact opposite of dogmatic certainty: multiple versions, with different numbers, names, and characteristics provides multiple sets of symbolism that can be meditated on, adapted to rituals, and compared with other sets of symbolism (10 worlds would be super handy if you're trying to map things to the Sephiroth, for example, or twelve could be handy if you want to have four trinities, and so forth).
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org650aa1a"></a>There May Have Been a Norse Mystery Religion<br />
+    <div class="outline-text-3" id="text-org650aa1a">
+    <p>
+    In one of the more interesting things from this chapter for me, Kvilhaug <i>does</i> bring in some comparative material and talks about classical mystery cults, specifically the Eleusinian Mysteries and the cult of Isis. (Quick Aside: "cult" here has none of the modern negative connotation. In academic literature, "cult" is used to mean any specific body of practice and belief, often to stress the fact that participation in a specific cult was not necessarily exclusive - going and doing the Eleusinian mysteries didn't make you an "Eleusinian" who couldn't do "regular" Greek religion anymore.) She talks about how Apuleius's <i>Golden Ass</i>, an allegorical tale of initiation dressed up as a fantastic, even slightly silly, fable, has many striking parallels with the path of initiation she's described being held in Norse poems in earlier chapters. I found this comparison fascinating, not least because I want to do a deeper dive on the Eleusinian Mysteries and their central myth of Hades carrying away Persephone to make Her His bride and compare it to Thjazi carrying away Idhunn for unspecified reasons (but I suspect they're the same). Where this section fell a bit short for me, though, was another greatest hit from this book: Kvilhaug goes further than I would like in identification of divine beings, stating that Isis was the Goddess behind all Goddesses, and making the argument that Freyja played a similar role for the Norse. Despite that, what's most interesting here is her contention that maybe the Norse, or at least some of them, had literal mystery cults where folks went, had a spiritually significant experience, and came away with a different view on life and the afterlife, and this might be hinted at in the poetry that has survived. This is another of those places where I think what we can explicitly prove by the records is far, far tinier than what we can reasonably infer by knowing about humans, history, culture, and religion, so I think she's very likely right. 
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org569893d"></a>Valhalla as a Metaphor for Reincarnation Gets a Bit Muddled<br />
+    <div class="outline-text-3" id="text-org569893d">
+    <p>
+    Toward the end of the chapter, Kvilhaug has one of her weaker sections, despite a potentially interesting idea. The potentially interesting idea is that the image of Valhalla as a place where warriors fight every day, feast every night, and heal/resurrect to do it all over again the next day might be a metaphor for reincarnation, which is an endlessly repeated struggle until you figure out what you need to to move past it. What makes it weak is that it's fairly muddled, and in many places it contradicts things she's said, like giving Valhalla as an example of the eternal afterlife achieved by souls that have learned what they need to get away from reincarnation and claim their spiritual bride. It's also tainted by a bit of the snobbery we've talked about elsewhere, though here I think it's a bit more forgivable. Basically, Kvilhaug recognizes that most folks who have even heard of Valhalla picture something fairly cartoonish: burly manly men fighting all day and then drinking, feasting, and swiving all night. Is that a bit simplistic and focused on the bodily appetites for a profound spiritual reward? Very likely so, yes. On the other hand, I don't think Valhalla is described that way <i>on accident</i>, nor do I think it was a cynical psyop by Viking kings to get their men to fight harder. There is something deeply appealing about that cartoonish afterlife for the kind of man who wants to go do dangerous things and cares more about living gloriously than living for a long time. The reason I'm fairly sympathetic to Kvilhaug is that I think her dismissal of that image mostly comes from taking the myths seriously and wanting others to do so, and she figures that if folks think "Viking religion was all about fighting and getting drunk, hell yeah!" then they might not notice the deeper stuff she has spent her adult life digging into and sharing with others. So, that's admirable enough, right? On the other hand, I think there's <i>something</i> there that Kvilhaug is missing in her haste to defend the spiritual profundity of these myths and maintain her self-image as a good, modern feminist - some reason that these profound myths painted a very vivid, appealing image of fighting <i>for real</i>, but without hatred or consequence, eating and drinking without cost, and being welcomed by women who were as fierce and formidable as they were welcoming and attractive. My own guess, at this point, is that it's meant to point to the attractions behind the attraction, the goal behind the goal - whatever it is we should <i>truly</i> want cannot be described, for it is beyond the experience of this life. The closest we can come is to imagine what we most intensely want in this life, but then make it even better by removing the drawbacks that are inherent in whatever we want in this material existence. But I dunno, I need to bethink on it more.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org810b237"></a>A Chapter with Good Points, but Getting Leaner<br />
+    <div class="outline-text-3" id="text-org810b237">
+    <p>
+    Overall, there were several things I found interesting and helpful in this chapter, but the amount of meat on the bone is getting a little light compared to earlier chapters. Much of what was most relevant or interesting had already been said in more detail in earlier chapters, but was also not simply a reference saying "go back and read chapter 3 for more on this." In other words, this chapter once again drove home how badly I wish Kvilhaug had made the effort, or secured the effort of someone else, to better organize and streamline the material in this book. It keeps on making good points and finding worthwhile links between things, but it does so in a scattered, sometimes repetitive way. By this point, I've mostly come to accept this, but I also am feeling more and more acutely "wait, I'm not done with this book yet?"
+    </p>
+    </div>
+    </li>
+
+    <li><a id="orgf0c89ba"></a>Post Footer<br />
+    <div class="outline-text-3" id="text-orgf0c89ba">
+    <p>
+    <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14716.html">dreamwidth post</a>.</i>
     </p>
 
     <hr />
@@ -103,6 +145,87 @@
     </li>
     </ul>
     ]]></description>
+</item>
+
+<item>
+  <title>Maximizing, Satisficing, and Strategy</title>
+  <link>./https://jpowellrussell.com/#maximizing_satisficing_and_strategy</link>
+  <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
+  <guid isPermaLink="false">./https://jpowellrussell.com/#maximizing_satisficing_and_strategy</guid>
+  <pubDate>Sat, 18 Nov 2023 09:25:00 -0600</pubDate>
+  <category><![CDATA[rss]]></category>
+  <description><![CDATA[<p>
+  <b>Date</b>: 2023-November-18
+  </p>
+
+  <p>
+  Tree of Woe has been writing a <a href="https://treeofwoe.substack.com/p/on-strategy">great</a> <a href="https://treeofwoe.substack.com/p/on-strategy-part-ii">series</a> on strategy lately. The second post describes the "OODA Loop," and the implication it has for strategic thinking that quick, decisive action is almost always a strategic advantage in-and-of itself. Despite being long familiar with both the OODA loop and maxims like Patton's "a good plan, violently executed now, is better than a perfect plan next week," I had never put the two together to realize that the OODA loop implies that attitude, so that was a great insight. Still, it reminded me of an insight of my own that came to me moving from the Army into consulting, which is that Patton's preference for violence of action is a heuristic that is situationally, but not universally, helpful. So far, so obvious, right? But it was a little later, when I began reading more about mental models and decision-making that I encountered the key to unlocking when to use that heuristic and when not to: the difference between satisficing and maximizing.
+  </p>
+
+  <ul class="org-ul">
+  <li><a id="org8111226"></a>My Definition of Strategy - Coordinating Efforts to Get Outcomes Under Uncertainty<br />
+  <div class="outline-text-3" id="text-org8111226">
+  <p>
+  In the first article linked above, Tree of Woe has a wonderfully elegant definition of strategy that I really like: "The art of decision-making in conditions of uncertainty." It's short, to the point, and captures the most important bits: making decisions and uncertainty. Many definitions of strategy are crafted for one field (military, political, business, and so forth), and fall down a bit when taken out of that field. This one has the advantage of working well across all fields where you might think of things as "<a href="https://jpowellrussell.com/#book-strategy-a_history">strategic</a>."
+  </p>
+
+  <p>
+  Even so, this is a topic near and dear to my heart, so a few years ago, I came up with my own definition. I take its similarity to Tree of Woe's as an indication that I got something right, but I wanted to share it to highlight the differences and why I think they're worth thinking about. So, here's my definition of strategy: "coordinating the efforts of lower-order means to achieve higher-order ends in the face of uncertainty." Notice the common focus on uncertainty (Tree of Woe's first article has a <i>great</i> framework for thinking about different sources of uncertainty) - if you know exactly how things are going to go, it might be hard, but it's planning, not strategy. On the other hand, my definition specifies a little more what kind of decisions are being made, making it a bit narrower, but I think focusing a bit more on "strategic" decision-making versus other kinds.
+  </p>
+
+  <p>
+  For starters, let's look at the first word: "coordinating." The word "strategy" comes from the ancient Greek <i>Strategos</i>, which means "general [of an army]," and so means "doing the stuff that generals do." Notice it is not doing the stuff that a fire team leader does, or a lieutenant - from the beginning, the word strategy has been applied when a certain amount of complexity is involved in the thing you are making decisions for. I may face uncertainty about what will happen with my finances in the next year, but is it "strategic" to save money? I'd argue not by itself, because it's just me making a decision about my actions. Now, if I'm the CFO of a corporation trying to improve its financial situation for the next year, that <i>is</i> strategic, because I'm coordinating efforts across a large organization.
+  </p>
+
+  <p>
+  Okay, so strategy is about coordinating, but what are we coordinating? That brings us to our next point: "the efforts of lower-order means to achieve higher-order ends." I'm not thrilled with how wordy this is, but for now, that's the best I can do to get the idea across succinctly. Remember the bit about "doing what a general does?" Not only does that imply a large/complex organization to be coordinated, it also implies a certain "level" of outcome intended. When I decide what route to take to get to work in the morning, I face all kinds of uncertainty, but it would be a bit silly to call that decision "strategic," because the outcome is just whether I'm a few minutes late to work. On the other hand, if I'm deciding what route a patrol should take through enemy territory to successfully blow up a bridge before a crucial supply convoy can get over it, <i>that's</i> strategic, because the outcome has a wider effect than its immediate surroundings. I put this piece into my definition because I wanted a way to meaningfully distinguish between tactics and strategy, which this gives us: tactics are what you do to ensure effects at the same level, strategy is what you do to affect higher-order things. Good tactics will often be informed by the strategic context, like when Lieutenant Winters of <i>Band of Brothers</i> fame took out that German artillery emplacement at <a href="https://infogalactic.com/info/Br%C3%A9court_Manor_Assault">Brecour Manor</a> - he knew that the artillery hindered units landing at Utah beach from coming inland and establishing a more secure beachhead, and so understood the significance of what he was doing, but all of his decisions that June morning were focused on the immediate goal of defeating the German artillery emplacement.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org40cbaaf"></a>Satisficing against Maximizing - Good Enough or As Good as Possible<br />
+  <div class="outline-text-3" id="text-org40cbaaf">
+  <p>
+  So, I thought up the above definition while I was a consultant, and I've been pretty happy with it since. At the same time, I observed that the preference for "violence of action" the Army had drilled into me wasn't <i>always</i> appropriate in the business world. This was maybe easier for me to notice than some others because the preference for violence of action doesn't come especially naturally to me: in strategy games, my favorite tactic is to "turtle" behind a wall of impenetrable defenses until I have overwhelming force. In real life, I like to gather information, ponder, and "wait and see" as much as I can. That being said, I was an airborne infantryman, and there, violence of action is not only expected, it's <i>who you are</i>, so I internalized it pretty well, despite it not coming naturally. This combo allowed me to notice both how useful violence of action can be, but also that there are times where it's not the best way to go. For a long time, this was vague and intuitive - I could recognize when to be aggressive and when to be contemplative, but I couldn't tell you in a general way what was different about those situations.
+  </p>
+
+  <p>
+  And then I encountered the idea of <a href="https://infogalactic.com/info/Satisficing">satisficing</a> versus maximizing. We're all familiar with maximizing: it's getting the most of out of a situation that you possibly can. If you want to be an olympic athlete or a rock star, you likely are doing everything to maximize your craft - every extra rep, every tweak to your psychology, every opportunity to test and prove your talent, you're going to take. If you find a good investment, you want to put as much money into that as you can afford, because the more you put in, the more the payoff. Peter Thiel doesn't want to have just a <i>bit</i> of a <a href="https://jpowellrussell.com/#zero-to-one">monopoly</a>, he wants the whole thing.
+  </p>
+
+  <p>
+  Satisficing, on the other hand, is when there is a certain threshold with which you will have <i>satisfaction</i> (see the link there?), and beyond that doesn't make a big difference. If you want to have a fancy dinner, once you're in Michelin Star territory, you're likely getting something fancy and delicious, and finding a place with a second Star isn't going to be as big a jump up as finding a place with a Star at all. Or if you find a job in a place you want to live that pays enough for your lifestyle and goals, you might just take it instead of spending weeks or months looking for a job that pays a bit more. Many, many situations in life work like this, and once you're consciously aware of it, you can apply it to save time and effort where you might otherwise spin your wheels. My favorite go-to example: have you ever been with a group of friends trying to decide where to order dinner from? Have you ever spent <i>way</i> too long trying to figure this out? Well, satisficing to the rescue: in this situation, your goal is not to <i>maximize</i> food enjoyment, your goal is to <i>satisfy</i> your group's need for a decent meal while you enjoy spending time together. That means that <i>any</i> restaurant that everyone is at least fine with will work. So, when you get into the start of what looks likely to be an endless round of "I dunno, what do you want?" just jump in with "let's get pizza!" If anyone objects, they'll say so, and you can throw out another suggestion. But often, just having a definite choice put out there will get everyone else to say "okay, works for me."
+  </p>
+
+  <p>
+  The technical difference between when you want to maximize and when you want to satisfice comes down to the expected payoff of the action. Not everything is amenable to being quantified and graphed, of course, but for the sake of clarity, it's helpful to go there for these examples. In situations where there is a linear payoff (I sell one more widget, I get $5 more dollars) or an exponential payoff (going from 3rd to 2nd in marketshare makes me 50% richer, going from 2nd to 1st makes me 150% richer), you want to maximize if you can - more effort brings more payoff, so it makes sense to put in as much effort as you can that isn't held back by other constraints. On the other hand, very many situations have diminishing marginal returns: the first one gives you a huge payoff, the second a decent payoff, the third meh, and so on. Imagine you're starving. The first cheeseburger will literally save your life and likely be the most delicious meal you've ever had. The second cheeseburger might get you to feeling stuffed, which might be a nice contrast. The third will make you sick. These are situations where you want to satisfice - maybe just eat that first cheeseburger and move on with your life.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="orgebab16a"></a>Applying to the OODA Loop - How Quickly Can You Orient?<br />
+  <div class="outline-text-3" id="text-orgebab16a">
+  <p>
+  Now we know that some situations call for maximizing, and some for satisficing. It turns out that's the key to what produces the preference for violence of action in the military - almost every military situation has a threshold that must be reached and diminishing marginal returns for doing better than that threshold. If the enemy stops fighting, it doesn't <i>really</i> matter how many more soldiers you kill (okay, it might in the long run, but you see my point). If you take a solid defensible position, it doesn't really matter if it's the <i>best</i> defensible position. Not only are most military situations ones where a satisficing approach brings about good results, much of the uncertainty in military situations is brought about by the enemy's <i>choice</i>. If the opposing general would just stop <i>deciding</i> things, you could easily work out the best approach. But alas, he won't. This means that not only will you get diminishing returns from figuring out the <i>best</i> plan once you've come up with a <i>fine</i> plan, but in the time you spend evaluating options and coming up with the best approach, the other side is <i>changing the game</i>. So, your perfect plan might end up applying to a situation that no longer holds. This is the other reason the military has such a strong preference for violence of action - taking the initiative <i>literally</i> shapes the situation both sides are making decisions about, and it shapes it in a way that is hopefully to your advantage. Put these things together, and it's clear why <i>do something that makes sense</i> has so strongly dominated "figure out the best thing to do."
+  </p>
+
+  <p>
+  What's interesting is that Boyd's OODA loop provides a way of thinking about this. Briefly, OODA stands for "Observe, Orient, Decide, and Act." Boyd recognized that each phase was dynamic and involved taking in information from the situation and other side, but as it's presented usually, folks way over-simplify. So, observe is about understanding what's happening around you. Orient is judging the significance of those things. Decide is picking a course of action, and Act is taking that course of action. The phase with the most relevance for our discussion is <i>Orient</i>. Working out whether a situation takes maximizing or satisficing is an orienting decision. Likewise, the reason taking the initiative is generally preferred in military situations is that it allows you to shape what's happening, which forces your opponent to <i>orient</i>. So, once again, understanding when "getting the gist of things" orients you well enough versus when you should know all of the ins and outs tells you when to maximize and when to satisfice. Point being, in many situations, going with the <i>satisfice</i> option makes good sense, but overall, it's helpful to notice when you ought to shoot for maximizing. 
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org9cb2c17"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org9cb2c17">
+  <p>
+  <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14562.html">dreamwidth post</a>.</i>
+  </p>
+
+  <hr />
+  </div>
+  </li>
+  </ul>
+  ]]></description>
 </item>
 
 <item>
@@ -253,8 +376,8 @@
   </ul>
   </li>
 
-  <li><a id="org0493f1b"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org0493f1b">
+  <li><a id="org0afe088"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org0afe088">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14146.html">dreamwidth post</a>.</i>
   </p>
@@ -278,8 +401,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgb9251fa"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgb9251fa">
+  <li><a id="org071c2a3"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org071c2a3">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -287,6 +410,7 @@
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_4_retrieving_the_soul_of_the_gods">The Seed of Yggdrasill 4 - Retrieving the Soul of the Gods</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_5_the_loss_of_the_golden_age_in_old_norse_myth">The Seed of Yggdrasill 5 - The Loss of the Golden Age in Old Norse Myth</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_6_ragnarok_and_the_new_age">The Seed of Yggdrasill 6 - Ragnarok and the New Age</a> - <b>You Are Here</b></li>
+  <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_7_death_and_resurrection">The Seed of Yggdrasill 7 - Death and Resurrection</a></li>
   </ul>
 
   <p>
@@ -327,8 +451,8 @@
   </div>
   </li>
 
-  <li><a id="orgc3714ce"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgc3714ce">
+  <li><a id="org34bc514"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org34bc514">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13742.html">dreamwidth post</a>.</i>
   </p>
@@ -352,8 +476,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org807a083"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org807a083">
+  <li><a id="org973dfa3"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org973dfa3">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -361,6 +485,7 @@
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_4_retrieving_the_soul_of_the_gods">The Seed of Yggdrasill 4 - Retrieving the Soul of the Gods</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_5_the_loss_of_the_golden_age_in_old_norse_myth">The Seed of Yggdrasill 5 - The Loss of the Golden Age in Old Norse Myth</a> - <b>You Are Here</b></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_6_ragnarok_and_the_new_age">The Seed of Yggdrasill 6 - Ragnarok and the New Age</a></li>
+  <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_7_death_and_resurrection">The Seed of Yggdrasill 7 - Death and Resurrection</a></li>
   </ul>
 
   <p>
@@ -501,8 +626,8 @@
   </div>
   </li>
 
-  <li><a id="org03d5e60"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org03d5e60">
+  <li><a id="orgf99c4e9"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgf99c4e9">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13462.html">dreamwidth post</a>.</i>
   </p>
@@ -554,8 +679,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgca01f00"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgca01f00">
+  <li><a id="org0919ddd"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org0919ddd">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13241.html">dreamwidth post</a>.</i>
   </p>
@@ -623,8 +748,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgc7bb8a0"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgc7bb8a0">
+  <li><a id="orgc0a7f9b"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgc0a7f9b">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12951.html">dreamwidth post</a>.</i>
   </p>
@@ -648,8 +773,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgc27f61c"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgc27f61c">
+  <li><a id="org05cc134"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org05cc134">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -657,6 +782,7 @@
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_4_retrieving_the_soul_of_the_gods">The Seed of Yggdrasill 4 - Retrieving the Soul of the Gods</a> - <b>You Are Here</b></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_5_the_loss_of_the_golden_age_in_old_norse_myth">The Seed of Yggdrasill 5 - The Loss of the Golden Age in Old Norse Myth</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_6_ragnarok_and_the_new_age">The Seed of Yggdrasill 6 - Ragnarok and the New Age</a></li>
+  <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_7_death_and_resurrection">The Seed of Yggdrasill 7 - Death and Resurrection</a></li>
   </ul>
 
   <p>
@@ -769,8 +895,8 @@
   </div>
   </li>
 
-  <li><a id="org2804474"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org2804474">
+  <li><a id="org31c9d6f"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org31c9d6f">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12612.html">dreamwidth post</a>.</i>
   </p>
@@ -838,8 +964,8 @@
   </div>
   </li>
 
-  <li><a id="orgacef8d1"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgacef8d1">
+  <li><a id="orgb8a5fe4"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgb8a5fe4">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12323.html">dreamwidth post</a>.</i>
   </p>
@@ -863,8 +989,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org36bee2b"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org36bee2b">
+  <li><a id="org4132e53"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org4132e53">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -872,6 +998,7 @@
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_4_retrieving_the_soul_of_the_gods">The Seed of Yggdrasill 4 - Retrieving the Soul of the Gods</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_5_the_loss_of_the_golden_age_in_old_norse_myth">The Seed of Yggdrasill 5 - The Loss of the Golden Age in Old Norse Myth</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_6_ragnarok_and_the_new_age">The Seed of Yggdrasill 6 - Ragnarok and the New Age</a></li>
+  <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_7_death_and_resurrection">The Seed of Yggdrasill 7 - Death and Resurrection</a></li>
   </ul>
 
   <p>
@@ -952,8 +1079,8 @@
   </div>
   </li>
 
-  <li><a id="org9b888db"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org9b888db">
+  <li><a id="orgb714cdd"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgb714cdd">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12162.html">dreamwidth post</a>.</i>
   </p>
@@ -1005,8 +1132,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgfd27520"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgfd27520">
+  <li><a id="org82a88c8"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org82a88c8">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11815.html">dreamwidth post</a>.</i>
   </p>
@@ -1059,8 +1186,8 @@
   </div>
   </li>
 
-  <li><a id="orge7d6d99"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orge7d6d99">
+  <li><a id="orgdcd0df7"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgdcd0df7">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11677.html">dreamwidth post</a>.</i>
   </p>
@@ -1084,8 +1211,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgc5eec31"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgc5eec31">
+  <li><a id="org95c2cd3"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org95c2cd3">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a> - <b>You Are Here</b></li>
@@ -1093,6 +1220,7 @@
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_4_retrieving_the_soul_of_the_gods">The Seed of Yggdrasill 4 - Retrieving the Soul of the Gods</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_5_the_loss_of_the_golden_age_in_old_norse_myth">The Seed of Yggdrasill 5 - The Loss of the Golden Age in Old Norse Myth</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_6_ragnarok_and_the_new_age">The Seed of Yggdrasill 6 - Ragnarok and the New Age</a></li>
+  <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_7_death_and_resurrection">The Seed of Yggdrasill 7 - Death and Resurrection</a></li>
   </ul>
   </div>
   </li>
@@ -1218,16 +1346,16 @@
   </div>
   </li>
 
-  <li><a id="orgf31f63a"></a>Closing<br />
-  <div class="outline-text-3" id="text-orgf31f63a">
+  <li><a id="orga17587b"></a>Closing<br />
+  <div class="outline-text-3" id="text-orga17587b">
   <p>
   So, whoo, here we are. The next chapter is, as I said, mercifully shorter, and focuses on "The Maiden with the Mead," the subject of Kvilhaug's master's thesis, but apparently new work on the same topic here. So, expect lots more on feminine spiritual Beings and/or bits of the soul, magic drinks, and initiation. As always, I welcome any thoughts, recommendations, or corrections.
   </p>
   </div>
   </li>
 
-  <li><a id="orge4556c2"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orge4556c2">
+  <li><a id="org580eb86"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org580eb86">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11306.html">dreamwidth post</a>.</i>
   </p>
@@ -1291,8 +1419,8 @@
   </div>
   </li>
 
-  <li><a id="org8c95e51"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org8c95e51">
+  <li><a id="orga6b7bb9"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orga6b7bb9">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11228.html">dreamwidth post</a>.</i>
   </p>
@@ -1479,16 +1607,16 @@
   </div>
   </li>
 
-  <li><a id="org3e8a6e8"></a>Closing<br />
-  <div class="outline-text-3" id="text-org3e8a6e8">
+  <li><a id="orgab835a5"></a>Closing<br />
+  <div class="outline-text-3" id="text-orgab835a5">
   <p>
   Whether you find these prayers helpful for your own spiritual work, as always, I welcome any and all feedback!
   </p>
   </div>
   </li>
 
-  <li><a id="orgc870931"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgc870931">
+  <li><a id="org5bf98f3"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org5bf98f3">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10887.html">dreamwidth post</a>.</i>
   </p>
@@ -1753,8 +1881,8 @@
   </div>
   </li>
 
-  <li><a id="org36c2abe"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org36c2abe">
+  <li><a id="org79644fd"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org79644fd">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -1780,8 +1908,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org27b6508"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org27b6508">
+  <li><a id="orgcd0d8e3"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgcd0d8e3">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a> - <b>You Are Here</b></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -1789,6 +1917,7 @@
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_4_retrieving_the_soul_of_the_gods">The Seed of Yggdrasill 4 - Retrieving the Soul of the Gods</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_5_the_loss_of_the_golden_age_in_old_norse_myth">The Seed of Yggdrasill 5 - The Loss of the Golden Age in Old Norse Myth</a></li>
   <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_6_ragnarok_and_the_new_age">The Seed of Yggdrasill 6 - Ragnarok and the New Age</a></li>
+  <li><a href="https://jpowellrussell.com/#book_the_seed_of_yggdrasill_7_death_and_resurrection">The Seed of Yggdrasill 7 - Death and Resurrection</a></li>
   </ul>
   </div>
   </li>
@@ -1860,8 +1989,8 @@
   </div>
   </li>
 
-  <li><a id="org2b85759"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-org2b85759">
+  <li><a id="orga6daff8"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-orga6daff8">
   <p>
   First, a handful of thoughts on the physical book. I have the 2020 edition,
   which is the one currently available, but it was first printed in 2012 as a
@@ -2062,16 +2191,16 @@
   </ul>
   </li>
 
-  <li><a id="orga17587b"></a>Closing<br />
-  <div class="outline-text-3" id="text-orga17587b">
+  <li><a id="orge48e6b9"></a>Closing<br />
+  <div class="outline-text-3" id="text-orge48e6b9">
   <p>
   Altogether, this book has a <i>lot</i> to recommend it, but it takes a certain amount of energy to grapple with in anything but the most casual way. I sincerely wish Kvilhaug had some kind of partner of the organizational, attention-to-detail variety who shared her passion for these myths. Then we could have things like a list of all of the major Gods, Goddesses, and steads with their names translated, to be used as a reference when reading. We could have chapters and sections that can be looked up as needed, rather than having to be sifted out of the entire 600-page web. We could have lists of the formulas she's identified with pointers to what myths you can find them in. Such glorious possibilities! Alas, for now, I'll have to settle for making my own sense of what she has to offer and sharing what I find with you.
   </p>
   </div>
   </li>
 
-  <li><a id="orgb0d6b91"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgb0d6b91">
+  <li><a id="org4fa84c6"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org4fa84c6">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10405.html">dreamwidth post</a>.</i>
   </p>
@@ -2262,8 +2391,8 @@
   </div>
   </li>
 
-  <li><a id="org7291e52"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7291e52">
+  <li><a id="orgfbf2f0d"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgfbf2f0d">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10116.html">dreamwidth post</a>.</i>
   </p>
@@ -2525,8 +2654,8 @@
   </div>
   </li>
 
-  <li><a id="orgb410608"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgb410608">
+  <li><a id="orgcc9d415"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgcc9d415">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9809.html">dreamwidth post</a>.</i>
   </p>
@@ -2638,8 +2767,8 @@
   </div>
   </li>
 
-  <li><a id="orga28fbd7"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orga28fbd7">
+  <li><a id="org26da369"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org26da369">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9590.html">dreamwidth post</a>.</i>
   </p>
@@ -2807,8 +2936,8 @@
   </div>
   </li>
 
-  <li><a id="orga601469"></a>Hold on to What Your Believe<br />
-  <div class="outline-text-3" id="text-orga601469">
+  <li><a id="hold-on-to-what-you-believe"></a>Hold on to What You Believe<br />
+  <div class="outline-text-3" id="text-hold-on-to-what-you-believe">
   <p>
   Okay, so if you wanted to pin me down, what do I truly <i>believe</i> now, today, as of this writing? Well, first and most importantly, I believe that what you <i>do</i> is far weightier than what you <i>believe</i>. By which I mean that I don't put a lot of weight on what thoughts you (or I) hold in your (or my) head about how Life, the Universe, and Everything tick. Letting myself be open to the ontological reality of non-physical consciousnesses outside of my body might have been a necessary step to getting where I am, or it might not have been. Sitting my ass down and bethinking on the myths was <i>definitely</i> needed to get me where I am. So while I am going to try to give as short a run down of what I believe as I can, I want to put the warning ahead of it that it is subject to change and far less important to me than keeping up with prayer, ritual, meditation, and divination.
   </p>
@@ -2879,8 +3008,8 @@
   </div>
   </li>
 
-  <li><a id="org092d298"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org092d298">
+  <li><a id="orgac60fc7"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgac60fc7">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9076.html">dreamwidth post</a>.</i>
   </p>
@@ -3046,8 +3175,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgf0c89ba"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgf0c89ba">
+  <li><a id="orgea69ecb"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgea69ecb">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/8865.html">dreamwidth post</a>.</i>
   </p>
@@ -3915,8 +4044,8 @@
   </div>
   </li>
 
-  <li><a id="orga6daff8"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-orga6daff8">
+  <li><a id="org6dab3d8"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-org6dab3d8">
   <p>
   This is not usually something I would talk about when going over a book, but
   here I think it's warranted, both good and bad. First off, the good stuff:
@@ -4013,8 +4142,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org546db63"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org546db63">
+  <li><a id="org1377c89"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org1377c89">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -4115,8 +4244,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orga1ff2cc"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-orga1ff2cc">
+  <li><a id="org2218324"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org2218324">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -4302,8 +4431,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgc92546e"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-orgc92546e">
+  <li><a id="org640936b"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org640936b">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -4546,8 +4675,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org3eca841"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org3eca841">
+  <li><a id="orgc72acf5"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orgc72acf5">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -4770,8 +4899,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgeb6662d"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-orgeb6662d">
+  <li><a id="org6f28e86"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org6f28e86">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a> &lt;&#x2013; You are Here</li>
@@ -4942,8 +5071,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org1377c89"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org1377c89">
+  <li><a id="org445cd76"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org445cd76">
   <ul class="org-ul">
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a> &lt;&#x2013; You are Here</li>
   <li><a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -5870,8 +5999,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org459ad78"></a>Way 1<br />
-  <div class="outline-text-3" id="text-org459ad78">
+  <li><a id="org4e24316"></a>Way 1<br />
+  <div class="outline-text-3" id="text-org4e24316">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -5890,8 +6019,8 @@
   </div>
   </li>
 
-  <li><a id="org31b0f2c"></a>Way 2<br />
-  <div class="outline-text-3" id="text-org31b0f2c">
+  <li><a id="org788aaef"></a>Way 2<br />
+  <div class="outline-text-3" id="text-org788aaef">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -5910,8 +6039,8 @@
   </div>
   </li>
 
-  <li><a id="orge195767"></a>Way 3<br />
-  <div class="outline-text-3" id="text-orge195767">
+  <li><a id="org7ef88f5"></a>Way 3<br />
+  <div class="outline-text-3" id="text-org7ef88f5">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -6291,8 +6420,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org4e24316"></a>Way 1<br />
-  <div class="outline-text-3" id="text-org4e24316">
+  <li><a id="org05ed348"></a>Way 1<br />
+  <div class="outline-text-3" id="text-org05ed348">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -6310,8 +6439,8 @@
   </div>
   </li>
 
-  <li><a id="org788aaef"></a>Way 2<br />
-  <div class="outline-text-3" id="text-org788aaef">
+  <li><a id="org3546f7d"></a>Way 2<br />
+  <div class="outline-text-3" id="text-org3546f7d">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -6329,8 +6458,8 @@
   </div>
   </li>
 
-  <li><a id="org7ef88f5"></a>Way 3<br />
-  <div class="outline-text-3" id="text-org7ef88f5">
+  <li><a id="orgefa5e64"></a>Way 3<br />
+  <div class="outline-text-3" id="text-orgefa5e64">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -6823,8 +6952,8 @@
   </div>
   </li>
 
-  <li><a id="org3462615"></a>The Poetic Edda<br />
-  <div class="outline-text-4" id="text-org3462615">
+  <li><a id="orgea62b72"></a>The Poetic Edda<br />
+  <div class="outline-text-4" id="text-orgea62b72">
   <p>
   <b>By</b>: Many writers<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -7591,8 +7720,8 @@
   </div>
   </li>
 
-  <li><a id="org547d343"></a>Shamanism<br />
-  <div class="outline-text-5" id="text-org547d343">
+  <li><a id="org1d99b54"></a>Shamanism<br />
+  <div class="outline-text-5" id="text-org1d99b54">
   <p>
   <b>By</b>: Mircea Eliade<br />
   <b>Have I Read It?</b>: About halfway.<br />
@@ -7995,8 +8124,8 @@
   </div>
   </li>
 
-  <li><a id="orge3034c0"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-orge3034c0">
+  <li><a id="orgc64d1af"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-orgc64d1af">
   <p>
   <b>By</b>: Dr. Stephen Flowers, PhD.<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -8006,8 +8135,8 @@
   </li>
 
 
-  <li><a id="orgc64d1af"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-orgc64d1af">
+  <li><a id="org5f45814"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-org5f45814">
   <p>
   <b>By</b>: P.D. Brown and Michael Moynihan (eds)<br />
   <b>Have I Read It?</b>: Some<br />
@@ -8183,8 +8312,8 @@
   </ul>
   </li>
 
-  <li><a id="org1d99b54"></a>Shamanism<br />
-  <div class="outline-text-4" id="text-org1d99b54">
+  <li><a id="org263fbb2"></a>Shamanism<br />
+  <div class="outline-text-4" id="text-org263fbb2">
   <p>
   As I said above, "shamanism" is a word that gets used for many unalike things, but the ways of the folks who live about the North pole gave us the name, and I think it likely those ways left some mark on the ways of the Norse at least, and maybe the wider Germanish world. The books below are all by Raven Kaldera and/or Galina Krasskova, and they have a way of looking at things that is rather unlike other folks, so take with as much salt as seems right to you.
   </p>
@@ -9944,8 +10073,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgde1eff6"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgde1eff6">
+  <li><a id="orgcf1690c"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgcf1690c">
   <p>
   The Story Grid by Shawn Coyne
   </p>
@@ -9982,8 +10111,8 @@
   </ul>
   </li>
 
-  <li><a id="org41c54e0"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org41c54e0">
+  <li><a id="orgddc0dae"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgddc0dae">
   </div>
 
   <ul class="org-ul">
@@ -10036,8 +10165,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgef317a3"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgef317a3">
+  <li><a id="org15c6e04"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org15c6e04">
   </div>
 
   <ul class="org-ul">
@@ -10083,8 +10212,8 @@
   </ul>
   </li>
 
-  <li><a id="org7256eb0"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org7256eb0">
+  <li><a id="orgda85f29"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgda85f29">
   </div>
 
   <ul class="org-ul">
@@ -10121,8 +10250,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org4e3dfed"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org4e3dfed">
+  <li><a id="orgd43d48a"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgd43d48a">
   </div>
 
   <ul class="org-ul">
@@ -10168,8 +10297,8 @@
   </ul>
   </li>
 
-  <li><a id="org6f5a8c7"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org6f5a8c7">
+  <li><a id="org1c53492"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org1c53492">
   </div>
 
   <ul class="org-ul">
@@ -10214,8 +10343,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org977bec1"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org977bec1">
+  <li><a id="org1034875"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org1034875">
   </div>
 
   <ul class="org-ul">
@@ -10253,8 +10382,8 @@
   </ul>
   </li>
 
-  <li><a id="org46c9d1b"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org46c9d1b">
+  <li><a id="orgddca4b1"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgddca4b1">
   </div>
 
   <ul class="org-ul">
@@ -10291,8 +10420,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgdacba43"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgdacba43">
+  <li><a id="orge2c7d70"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orge2c7d70">
   </div>
 
   <ul class="org-ul">
@@ -10338,8 +10467,8 @@
   </ul>
   </li>
 
-  <li><a id="org698ee7f"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org698ee7f">
+  <li><a id="org7409990"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org7409990">
   </div>
 
   <ul class="org-ul">
@@ -10384,8 +10513,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgcf1690c"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgcf1690c">
+  <li><a id="org6b095cb"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org6b095cb">
   </div>
 
   <ul class="org-ul">
@@ -10423,8 +10552,8 @@
   </ul>
   </li>
 
-  <li><a id="orgddc0dae"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgddc0dae">
+  <li><a id="org44bda2a"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org44bda2a">
   </div>
 
   <ul class="org-ul">
@@ -11653,8 +11782,8 @@
   </div>
   </li>
 
-  <li><a id="orgea62b72"></a>The Poetic Edda<br />
-  <div class="outline-text-3" id="text-orgea62b72">
+  <li><a id="org44f1faf"></a>The Poetic Edda<br />
+  <div class="outline-text-3" id="text-org44f1faf">
   <p>
   <b>By Unknown, but I like the Hollander and Crawford translations</b>
   </p>
