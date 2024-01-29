@@ -14,8 +14,8 @@
   <link></link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Thu, 25 Jan 2024 11:44:21 -0600</pubDate>
-  <lastBuildDate>Thu, 25 Jan 2024 11:44:21 -0600</lastBuildDate>
+  <pubDate>Mon, 29 Jan 2024 00:01:13 -0600</pubDate>
+  <lastBuildDate>Mon, 29 Jan 2024 00:01:13 -0600</lastBuildDate>
   <generator>Emacs 29.0 Org-mode 9.7-pre</generator>
   <webMaster>jeff.powell.russell@gmail.com (Jeff Russell)</webMaster>
   <image>
@@ -25,20 +25,25 @@
   </image>
 
   <item>
-    <title>[Book] The Seed of Yggdrasill 12 - The One and the Many and Epilogue</title>
-    <link>./#book_the_seed_of_yggdrasill_12_the_one_and_the_many_and_epilogue</link>
+    <title>[Book] The Seed of Yggdrasill - Overall Rundown</title>
+    <link>./#book_the_seed_of_yggdrasill_overall_rundown</link>
     <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
-    <guid isPermaLink="false">./#book_the_seed_of_yggdrasill_12_the_one_and_the_many_and_epilogue</guid>
-    <pubDate>Sat, 20 Jan 2024 15:54:00 -0600</pubDate>
+    <guid isPermaLink="false">./#book_the_seed_of_yggdrasill_overall_rundown</guid>
+    <pubDate>Sat, 27 Jan 2024 07:50:00 -0600</pubDate>
     <category><![CDATA[rss]]></category>
     <description><![CDATA[<p>
-    <b>Date</b>: 2024-January-20
+    <b>Date</b>: 2024-January-27
+    </p>
+
+    <p>
+    Going through Maria Kvilhaug's hefty ~600 leaf book chapter by chapter has helped me to better understand it and get the most out of it, but reading through all of that may be more than you're looking for, so I thought I'd write up my thoughts on the book as a whole as a short(ish) guide for those who would like to know what the book's about and it what it has to offer, but may not want an in-depth commentary. If you'd like to dive deeper on any of this, but still aren't sold on reading the book yourself, you can always check out the relevant post(s).
     </p>
 
     <ul class="org-ul">
-    <li><a id="org5fd806f"></a>Posts about Seed of Yggdrasill<br />
-    <div class="outline-text-3" id="text-org5fd806f">
+    <li><a id="orga267c0c"></a>Posts about Seed of Yggdrasill<br />
+    <div class="outline-text-3" id="text-orga267c0c">
     <ul class="org-ul">
+    <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a> - <b>You Are Here</b></li>
     <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
     <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
     <li><a href="#book_the_seed_of_yggdrasill_3_the_maiden_with_the_mead">The Seed of Yggdrasill 3 - The Maiden with the Mead</a></li>
@@ -50,125 +55,207 @@
     <li><a href="#book_the_seed_of_yggdrasill_9_the_priestess_and_the_king">The Seed of Yggdrasill 9 - The Priestess and the King</a></li>
     <li><a href="#book_the_seed_of_yggdrasill_10_the_wise_man_s_path">The Seed of Yggdrasill 10 - The Wise Man's Path</a></li>
     <li><a href="#book_the_seed_of_yggdrasill_11_the_trials_of_thorr">The Seed of Yggdrasill 11 - The Trials of Thorr</a></li>
-    <li><a href="#book_the_seed_of_yggdrasill_12_the_one_and_the_many_and_epilogue">The Seed of Yggdrasill 12 - The One and the Many and Epilogue</a> - <b>You Are Here</b></li>
+    <li><a href="#book_the_seed_of_yggdrasill_12_the_one_and_the_many_and_epilogue">The Seed of Yggdrasill 12 - The One and the Many and Epilogue</a></li>
     </ul>
+    </div>
+    </li>
+
+    <li><a id="orgd26b8ea"></a>The Overall Thread Holding the Book Together - Myths are Metaphors for Pantheistic Mysteries<br />
+    <div class="outline-text-3" id="text-orgd26b8ea">
+    <p>
+    Kvilhaug has a pretty idiosyncratic take on the Norse myths that informs everything she has to say about them. She believes that the Eddic and skaldic poems from heathen times were consciously crafted metaphorical allegories meant to get across mostly-ineffable pantheistic spiritual truths. That's a lot of sometimes-fuzzy words, so let's break down what we mean, here.
+    </p>
 
     <p>
-    We've made it! I know I've harped a bit much about the length of this book and how it's been a slog at times, but in my defense, I started reading this book in July of last year, so that's about half a year of working my way through this book. All of which is to say, I'm glad to have made it through. I'll write up the last chapter and Epilogue here, and I'm thinking about doing one more post with overall thoughts on the book as a kind of capstone to the series. Let's take a look at how Kvilhaug closes out her book.
+    The groundmost thing to understand about Kvilhaug's understanding and analysis is that she believes in the truth of a kind of "pantheism," and she thinks that the heathen poets did too. Her flavor of pantheism holds that everything in all of creation is truly a manifestation of an single underlying divine substance/soul/being - Odhinn, you, me, your dog, this table I'm typing on, all of it is just as much a "part of the divine" as anything else. She says the she is agnostic about how much weight to give to the distinctness of "different" Gods and Goddesses, but it seems clear to me that she sees them as masks or roles for the same underlying Godhead/divinity/soul.
+    </p>
+
+    <p>
+    Since she sees the distinctness of the Gods as basically an illusion, she believes that it is less important <i>which</i> God plays a role in a myth than what characteristics that God has. She thinks that those roles were chosen <i>consciously</i> by the skalds that put these poems together, as a metaphor to express a spiritual truth that is hard to put into words. In other words, it's not that the skalds "really" believed that a large fellow named Thjazi turned into an eagle and grabbed a magical, youthful lady named Idhunn, nor even that they grew up hearing that story from their grandmas, and so told it in their own way, but rather that they sat down and did something like "I want to craft a poem about how the immortal soul we all share is cut off from us by mortality and the fear thereof, ah, yes, Idhunn and Thjazi would be a good way to get that across." We know that metaphor, allusion, disguise, and alternate names were all vital parts of Old Norse poetics, and Kvilhaug believes that this thread runs to the very identities of the Gods and the plots of the stories told about Them.
+    </p>
+
+    <p>
+    The upshot of all of this is that Kvilhaug looks for similarities between stories and particular mythic figures to find ways that they are "the same," and then treats the different names and situations as ways of getting at the same underlying truth from different angles. To use one of the less controversial examples, in some tales Odhinn is called "the All Father," and in others he is called "Frenzy." Kvilhaug would argue that both of these are pieces of the truth about "spirit," which is more fundamentally what Odhinn represents in these myths. More controversially, she would also say that Skadhi, Hel, Ran, and a few other Goddesses/Giantesses all represent death, and are thus "the same Goddess," but which name and characteristics the poet uses will be based on what he wants to emphasize: Ran for drowning, Skadhi for a death in the wilds, and Hel for plain, old death at home. One perhaps surprising outgrowth of her approach is that she is rather unconcerned with the timing and provenance of the poems. She has no problem analyzing <i>Solarliodh</i> (pretty confidently attributed to a Christian writer ~1200 CE) or <i>Hrafnagaldur Odhins</i> (suspected of also being done by an antiquarian, but there's more debate) in the exact same manner she does the unquestionably old and authentically heathen poems.
+    </p>
+
+    <p>
+    How you react to this, and how much weight you give it, will likely have much to do with your own understanding of the nature of the Gods. If you believe that the different God are distinct in some meaningful way besides the effect they have on us in the stories told about us, you will likely find her interpretations thought-provoking at best, and muddled at worst. If you share her pantheistic views, or for any other reason see the myths as primarily metaphors for the inner workings of the soul, then you might find her approach deeply insightful and useful.
     </p>
     </div>
     </li>
 
-    <li><a id="org402196a"></a>At Last, a Clear Meaning for "Pantheism"<br />
-    <div class="outline-text-3" id="text-org402196a">
+    <li><a id="org31902d0"></a>Not a Starter Book - Read if You Want to Go Deep<br />
+    <div class="outline-text-3" id="text-org31902d0">
     <p>
-    All throughout the book, Kvilhaug has been talked about "pantheism," but she's been a bit murky about what she exactly means by that, which has been frustrating, because "pantheism" comes in a lot of unalike flavors that can have some very different theological implications. At last, here at the end, though, Kvilhaug lays out what she means:
-    </p>
-
-    <blockquote>
-    Pantheism is a concept that may be understood in different ways, so to clarify what I mean by the term. It is basically the idea that one unifying deity or universal soul lays at the core of all deities, a one within the many, or a many within the one. The concept also includes divine immanence, the idea that the divine unity is immanent in "creation," "nature," or "the universe," not outside of and apart from it. In many Pantheist traditions, the divine is the soul of existence itself, as a whole, and thus we are all aspects of the ultimate divine soul.
-    </blockquote>
-    - Kvilhaug, M. (2020). p. 551
-
-    <p>
-    In the rest of the chapter, she expands further on this. Though she says that she acknowledges the reality of difference between different people and different Gods, it becomes pretty clear that she thinks it's <i>more</i> true in some important sense that we are parts of "the same thing," the universal soul/Godhead/pantheistic root stuff. This has a few implications, some of which we'll talk about in a tick, but maybe the biggest one is that she believes any and every path to contemplation of or searching for the divine will end up leading to the same place, and some paths seem to be more direct routes than others, so if you figure all this out, you can skip tedious steps like worshiping the Gods as separate beings rather than as particular manifestations of something you already have within yourself. As early on in the book, Kvilhaug again gives some lip service to the idea that different religious approaches are all valid, but manages to give off the impression that anyone who doesn't take her approach is less sophisticated or hasn't gotten as close to the truth, so that's fun. To be clear, I don't think Kvilhaug's beliefs or approach are untenable or preposterous, I just think that her certainty that her way is the right way is kind of annoying.
+    Given Kvilhaug's goals and approach, this book doesn't seem well suited to someone just starting with the Norse myths. Luckily, there are several good options there (Ellis-Davidson, Lindow, Abram, Turville-Peters if you can afford it). Instead, this book is pretty much only helpful if you want to think deeply about the myths and the kinds of symbolic or even esoteric meanings they might have. It is a <i>wonderful</i> book if you plan to <a href="https://ecosophia.dreamwidth.org/tag/discursive+meditation">bethink</a> (meditate) on the myths. Whether you believe her conclusions are "right" or not, they are always thought-provoking and will invite you to explore some aspects of the Gods and their tales that you might otherwise not have thought about, so I can strongly recommend it for anyone who uses the heathen lore as a part of esoteric spiritual lore, with a few caveats (see the rest of this rundown for those).
     </p>
     </div>
     </li>
 
-    <li><a id="org72cf8ec"></a>More On Mystery Cults<br />
-    <div class="outline-text-3" id="text-org72cf8ec">
+    <li><a id="org189292b"></a>The Best Bits of this Book<br />
+    <div class="outline-text-3" id="text-org189292b">
     <p>
-    Kvilhaug gets back into the idea of Germanish "mystery cults" like those known from the classical world and goes further with the idea than when she talked about it before. One of the main jumping off points she uses for her discussion is a curious remark by Tacitus: he says that the Suebi, one of the Germanish confederations of tribes around in his time (1st century CE), worship "Isis." Kvilhaug does a pretty good job of talking about the various things this might mean, assuming he's not just wrong, which seems unlikely for an otherwise rather credible observer. First, she goes through the likelihood that some of the Germans back then <i>literally</i> worshiped an Egyptian Goddess. This is not as crazy a possibility as it might at first glance seem: by the 1st century CE, a mystery cult devoted to the Hellenistic version of Isis was one of the most popular forms of religious devotion in the Roman Empire. Even at this early date, the Germans must have had plenty of cultural contact with the Romans - it wasn't all cattle raids and obliterated legions - so, some of them might have picked up some religious practices from their more civilized neighbors to the south.
+    Notwithstanding some of my issues with this book, it does have a lot of great insights and interesting takes. Here are a few of my favorites. 
     </p>
+    </div>
 
+    <ul class="org-ul">
+    <li><a id="org730d5b1"></a>Names are Literally Translated<br />
+    <div class="outline-text-4" id="text-org730d5b1">
     <p>
-    Though not implausible, Kvilhaug asserts, and I agree, that it is even more likely that when Tacitus said "Isis," he very likely meant a Goddess that seemed enough like what an educated Roman knew about Isis that he figured the Goddess the Germans were worshiping was the same one. This was, in fact, the norm for Roman writers: to use the familiar name of a Roman God or Goddess for whichever of the local Gods or Goddesses seemed most alike: for example, it seems very likely that when the Romans talked about German worship of "Mercury," they meant an earlier version of Odhinn, most likely because they heard something like "he is the God of poetry, speaking well, and magic, and he travels around a lot" and thought "sounds like Mercury to us." Kvilhaug goes on to argue that Tacitus's choice of <i>Isis</i> rather than, say, Juno or Venus or Minerva, or another more homegrown Roman Goddess, is an indirect indicator that the Goddess worshiped by the Germans was a "Great Goddess" (more on that in the next bit), or at least a Goddess with many areas of influence, including sovereignty of some kind. She also finds it significant that Tacitus chose the Goddess worshiped in a mystery cult - one reason he might have picked her is that he recognized something in the worship of the Suebi that looked like a mystery cult.
-    </p>
-
-    <p>
-    Kvilhaug goes on to argue that the famous cult center at Uppsala might have functioned as the site of mystery initiations like Eluesis in Greece. I don't think the case is decisive, but it is certainly an intriguing possibility. We know that Uppsala was famous throughout the Old Norse world and drew worshipers from all over, much as Eleusis was and did in the Mediterranean. We know that Uppsala was richly endowed with gold and other ornaments, as was Eleusis. Uppsala held a regular festival (every nine years) as did Eluesis (yearly). There's even a hint in Saxo Grammaticus that there was some kind of stage performance at Uppsala, and Eleusis likely staged plays as part of the Lesser Mysteries. There are also some interesting mythological parallels between some of the tales of the Gods we know to have been worshiped at Uppsala (Odhinn, Freyr, and Thorr) and some of the mystery cults we know about from the classical world, but those were a bigger focus in the earlier section of the book.
-    </p>
-
-    <p>
-    As I said, I think Kvilhaug makes some interesting points here, and perhaps offers some avenues for further exploration. I'm not quite as <i>sure</i> that there was a "Mystery Cult" of the Nordic world in heathen times as it seems Kvilhaug is, but that may be a bit of playing around with definitions. I think it is nearly beyond doubt that there existed <i>some</i> kind of esoteric religious practice, very likely including some kind of initiation, during most, or more likely all, of heathen times. If <i>nothing</i> else, it seems very likely that religious specialists of various kinds, like the <i>volur</i>, must have had some kind of practice, training, and initiation to become recognized in their roles. It would also be consistent with what we know of other polytheistic religions for their to be some amount of more involved practice or special rituals for more enthusiastic members of the laity (such as the mysteries that are the main topic of this section, but also things like pilgrimages to significant shrines for purification in Shinto or meditative and prayer practices in Buddhism). Should we consider such initiatory and/or esoteric practices "mystery cults?" That's harder to say. To me, that implies a level of regularity, continuity, and organization that it's a lot harder to prove, especially for a <i>mystery</i> cult. So, I'm not saying Kvilhaug is <i>wrong</i> that there was an Old Norse mystery school of some sort, just that I'm less confident than she is that it's a slam dunk.
+    So, why do I find this book so helpful for coming at the myths as a source of esoteric insight? First and most importantly, <i>the</i> key of Kvilhaug's analytical method is to assume that every single name is meaningful. In most modern cultures, we have grown used to thinking of names as arbitrary sounds that act as a label for a particular person or thing, and nothing else. "Jeffrey" is just some guy who writes about odd topics online, and your understanding of him and his writing has nothing to do with "The God's/Goth's Peace." Many (most? nearly all?) translations of Old Norse myth follow along with this assumption and just give names as-is, maybe lightly localized to English (for example, Odin for Odhinn). The cornerstone of all of Kvilhaug's work is that this approach is <i>deeply</i> flawed and makes opaque much of what would have been obvious, or at least accessible with some thought, to a native-speaking audience. As such, Kvilhaug makes an effort to give the literal meaning of every name she references in the book, and when she renders translations, she translates the names to their literal meanings in-line. So, for example, rather than saying "Thjazi the jotun stole Idhunn" she will say "Slave-binder the devourer stole Water-that-returns-to-its-source." This alone is worth the price of admission and is an incredible source of fodder for bethinking. Sure, some of her translations differ from the scholarly consensus, and I lack the knowledge to evaluate who's right, but as spurs to thinking, even speculative translations are very worthwhile.
     </p>
     </div>
     </li>
 
-    <li><a id="org3864194"></a>The Great Goddess (or God)<br />
-    <div class="outline-text-3" id="text-org3864194">
+    <li><a id="orgf0e0420"></a>Kennings, Metaphors, and Allusions are Assumed and Explored<br />
+    <div class="outline-text-4" id="text-orgf0e0420">
     <p>
-    Earlier in the book, Kvilhaug talked about Freyja as a "Great Goddess," a theory put forth by some scholars (some that she named: Britt Mari Nasstrom, Folke Strom, and Anne Holtsmark). Basically, the theory goes that in some religions, and most especially in those of a pantheistic bent, you tend to see one deity revered as the best representation of the universal immanent soul/divinity/godhead, and that often that deity is a Goddess. Further, in the Nordic countries, that Goddess was Freyja, and all of the other Goddesses are just hypostases or other aspects of Her. Here, Kvilhaug revisits this argument, but takes it a bit farther given the explicit pantheism that is the focus of this chapter. She says that if all Gods and Goddesses are just manifestations of the same universal soul, then <i>of course</i> all Goddesses are one Goddesses, but also, they're all one God, depending on the myth. She further elaborates on the point she has made before that Heimdallr is the "Great World," or the embodiment of all of the cosmos, and in some of His myths serves as the universal divine that all other Gods (And Goddesses and Men and Women and everything else) are just emanations of. Odhinn also seems to sometimes fill the role of "all divinity present in all things." I think mostly you'll be nodding along with this if you buy Kvilhaug's assertions about pantheism, and you'll find it speculative or hand-wavey or otherwise useless if you don't. 
+    Kvilhaug is keenly aware that one of the key elements of the Old Norse poetry was finding puzzle-like ways to call the Gods, Goddesses, wights, steads, and other things that show up in the poems. Kennings, heiti, and other approaches were used to create dense, inter-woven fields of meaning in as few words as possible. It seems that both the poets and their audience saw the crafting of such dense, non-obvious constellations of meaning as one of the chief marks of skill in crafting poetry, as well as one of the main sources of enjoyment for those listening. Many writers will acknowledge this, but then not go as far with it as they might. Kvilhaug's <i>entire analysis</i> is based on the idea that the name is meaningful, and so <i>which</i> name gets used (or name substitute, in the case of some kennings) is a further source of potential meaning. Another thing Kvilhaug acknowledges that I think is bit lacking in much of the scholarly writing is the, well, <i>poetic</i> considerations of poetry - things like choosing words due to how they sound, making puns by picking a "sound-alike" world, and the possibility that words might get used due to folk etymologies believed at the time that we now know "better" to ignore because they are not the true etymology. A famous example is that modern scholarship rejects the etymology of "Loki" that comes from the same root that created <i>logi</i> ("fire") - which either goes back to Jacob Grimm or the 19th century "natural school," I can't remember. I don't know enough to call the modern conclusion about the etymology into doubt, even if I didn't think they were likely right - "Loki" very likely does <i>not</i> mean "fire," nor did His name derive from a word that did. But we <i>do</i> see Him pitted against Logi in the court of Utgardhsloki, and Kvilhaug points out that whether or not Loki "really" has a historical semantic link with fire, such a juxtaposition implies that the poet wanted you to make an association. Sure, it's hard to be rigorous about such potential associations (poetry is by its nature ambiguous, that's part of the point), but that doesn't mean they can't be a fruitful source of speculation and themes for meditation.
     </p>
     </div>
     </li>
 
-    <li><a id="org73b77a4"></a>Eagles: An Unlooked-For Comparison<br />
-    <div class="outline-text-3" id="text-org73b77a4">
+    <li><a id="orgc81fdb9"></a>Extensive Exploration of Similarities Between Myths<br />
+    <div class="outline-text-4" id="text-orgc81fdb9">
     <p>
-    Okay, this far into the book, I've gotten used to some pretty out-there comparisons and tie-ins and the like: dwarves as space aliens, Thorr as the literal magnetosphere, Cybele and Ishtar as influences on Norse Goddesses, but I was still <i>not</i> expecting to see the Norse myths compared to Carlos Castaneda <i>at all</i>. If you're not familiar, Castaneda wrote a series of books while studying for his anthropology Ph.D. that became rather popular. In these, he describes learning about spiritual matters from a Yaqui (a Mexican Indian tribe) "man of knowledge" named don Juan Matus. Apparently, in one of these books, <i>The Fire from Within</i>, Castaneda tells about don Juan describing the visions of the "Old Toltec seers" involving a huge spiritual force/entity that is "like an eagle" that is the source of all consciousness, and from which "streams" or "emanations" of force or awareness flow, but which also eats the awareness of souls when they die, enhancing it's own knowledge and consciousness through the experience thus consumed. Kvilhaug compares this with the prominent role played by eagles and Gods/jotnar in eagle shape in the Norse myths, especially <i>Hraesvelgr</i>, "Corpse Swallower," the eagle who sits at the top of the World Tree, from whose flapping wings come all winds, and who eats the dead (and might be the same as Thjazi and/or Suttung). I'm not gonna lie: the parallels are at least interesting, if not downright striking, not least because they seem to come from such disparate sources.
-    </p>
-
-    <p>
-    There's something to know when considering this comparison, though. After Castaneda's books became very popular, some folks came out expressing doubts that his accounts were accurate, or even that don Juan was a real person. The works feature very little that is verifiably Yaqui in language or culture, there's no outside corroboration of don Juan or Castaneda's interactions with him, and there are certain inconsistencies in the stories as given that would be odd for careful ethnographic work. All of which is to say that some folks think Castaneda's a stone-cold fake. <a href="https://ecosophia.net">John Michael Greer</a>, whom I respect greatly on all matters occult and esoteric, agrees that Castaneda's works are likely best thought of as fiction, but fiction that nevertheless includes some very deep spiritual insights. If such allegations are true, or close to true, it also renders the "proof" of Old Norse and indigenous Mexican beliefs describing similar spiritual realities far less impressive. Even still, I've never encountered any mention of Castaneda having any familiarity with Norse myth, so it'd be pretty strange if he had consciously incorporated anything from it as part of making something up. If Kvilhaug is wrong that these are truly uncrossed parallel visions of a deeper spiritual reality, the most likely explanation to me is that Castaneda was exposed to enough "adjacent" cultural material to Old Norse myth that a vision he had himself featured an eagle in a similar role. But it's also possible that she's onto something here, and it certainly makes for great food for bethinking.
+    Thanks to Kvilhaug's pantheism we talked about above, she is <i>extremely</i> keyed into parallels and similarities between myths, which can often grant some interesting insights, especially when you combine this with the weight she puts on kennings that we just discussed. Let me break that down a bit more. One challenge created by the Old Norse poets' proclivity for using metaphors, references, and alternate names for Gods, giants, and others is that these poems are often the only source we have for these names, and so what might have been a well known nickname or reference in the culture might leave us totally baffled. Imagine a future culture that has one, small snippet of text that refers to "The Big Apple," and from context, they can tell it's a nickname for a culturally important city on the east coast. From other sources, they've heard of Boston, New York, Washington, and Miami, but they know there were lots of other cities, the records for which have been lost. You'd likely have folks that assigned "The Big Apple" to each of those cities as well as some who said it was a different city we don't have any other name for. That's roughly the situation we're in with some of the names of beings in the lore. Kvilhaug's penchant for finding similarities makes her <i>very</i> good at finding evidence that two seemingly disparate figures might just be different names or references to the same thing. Many of these are not new or even that controversial (equating Odhinn, Vili, and Ve with Odhinn, Hoenir, and Lodhur, for example), but one that was new to me that I found and stuck out as fairly compelling was saying that the eagle that sits at the top of Yggdrasill, the eagle at the "end of the world" from whom all winds flow, and Thjazi, the jotun who turns into an eagle to kidnap Idhunn might all be the same figure. Even where she takes the equation game farther than I am comfortable with or find credible (like that all Goddesses are really just masks for Freyja), she often is good at digging up the points of similarity that led her to that conclusion, which can lead to some interesting thinking along the lines of "so, how <i>are</i> these two Gods similar?" Where this approach is the strongest is when she has a clear, central idea (like the "maiden with the mead" from her Master's thesis) and then she combs through the lore for every scrap that might possibly show evidence of that central idea. Her work is great for finding the common threads that run through multiple myths.
     </p>
     </div>
     </li>
 
-    <li><a id="org6b8c0ca"></a>The Norse Myths are Intentional, Symbolic Fiction<br />
-    <div class="outline-text-3" id="text-org6b8c0ca">
+    <li><a id="org25bbb1c"></a>The Poetic Edda Presented as a Path of Initiation<br />
+    <div class="outline-text-4" id="text-org25bbb1c">
     <p>
-    I mentioned above that Kvilhaug's belief that the pantheistic truth of the universe can be approached multiple ways has further implications in the chapter, and the biggest one might be that she sees the myths as <i>merely</i> metaphorical expressions of the ineffable truth of pantheism. Specifically, she believes that the poems of the Edda were works of "fiction" crafted by their writers with conscious metaphorical intent. In other words, she thinks the Eddic poems bear a similar relationship to pantheistic truth as <i>The Lion, the Witch, and the Wardrobe</i> bears to the gospel. She sees the Eddic and Skaldic poets as initiates into the pantheist-flavored mysteries she discusses who used the raw material of their culture's folkways and lore to consciously try to convey the deep truths they had experienced in metaphorical language. On the one hand, this helps make sense of Kvilhaug's tendency to equate darn-near everything (more on that in the next bit) - she feels like they're all just intentionally chosen symbols anyway, so it doesn't much matter which one is used, except as it is affected by things like poetic, narrative, or aesthetic considerations. Since all religious insights end up pointing to the same end eventually, it's helpful to compare notes between two different paths to triangulate where it seems they're both pointing to. Hell, this interpretative framework being asserted is even consistent with Kvilhaug's pantheistic chauvinism - if the pantheistic unity of all spiritual insights is true, and if these poets were folks who had deeply grasped this, what else <i>could</i> they write besides conscious metaphors of ineffable truths?
-    </p>
-
-    <p>
-    My main beef here is that this isn't really how myths work, and Kvilhaug has shown a lot of the evidence that they don't throughout this book. Multiple times, she gives examples of the surprising longevity of mythic themes and figures - the Bronze Age carvings showing a sun Goddess and what looks like a God with a hammer, Tacitus's account of a Goddess of plenty paraded in a cart, just like Frey's statue in late heathen times, and others. One of the reasons myths are so long-lasting is because they are <i>important</i> to their culture: there's a right way to tell one and a wrong way. Different storytellers might try out different variations, but only within certain bounds. You might be able to get away with changing <i>how</i> Thor killed a particular jotun, but if you said He <i>didn't</i>, or that He was a coward, or a pacifist, everyone would just say "that's not how the story goes!" My point is that within a culture where myths are still a vital part of its religious life, and not just one piece of cultural heritage among others, the elements of those myths are not simple raw materials that can be repurposed to whatever end an individual author wants.
-    </p>
-
-    <p>
-    To be fair, I don't think Kvilhaug is saying that the skalds were picking Gods or Goddesses willy-nilly, with no regard for what They were known to be like. I think, instead, that she was saying the old stories had always had hints of the pantheism she believes the skalds wanted to convey, and those skalds picked stories and emphasized elements from them that highlighted those hints. Sure, at times in the ancient world, we had self-conscious works using mythological elements like Ovid's <i>Metamorphoses</i>, or more earnest, but still clearly very intentional, works like <i>The Golden Ass</i> by Apuleius, but these came in societies at a very different place in their development than the Iron Age and early Medieval Nordic countries. Even if Kvilhaug is right that there were explicit mystery cults in the north back then, I am skeptical that their adherents would be crafting explicitly allegorical works out of the raw material of organic myths.
+    Kvilhaug also makes a bold claim about the <i>Poetic Edda</i> as a work: it is a complete, coherent tale of initiation into spiritual mysteries, meant to work as a whole, not just a random grab bag of poems that some medieval scribe happened to know and like. I'm not sure if I had encountered this idea anywhere else before, but I don't think I had ever seen it put so straightforwardly and then tied into so much stuff in the lore. Whether her assertion about the author(s)'s intent is right, she presents enough compelling details to make the thought of treating the <i>Edda</i> as if it's an initiatory framework an enticing one. I haven't had the chance to do so myself yet, but I suspect that bethinking (meditating) your way through the whole <i>Poetic Edda</i> with the idea that it is a tale about/guide to initiation would be very productive spiritually. This notion also comes with a fun bonus idea: if the whole <i>Edda</i> is a path of initiation, the <i>Voluspa</i> is a summary of that path: the microcosm to the <i>Edda</i>'s macrocosm, which I thought was a pretty neat idea.
     </p>
     </div>
     </li>
 
-    <li><a id="org13c754c"></a>Everything is the Same as Everything Else<br />
-    <div class="outline-text-3" id="text-org13c754c">
+    <li><a id="orgc81b5cf"></a>Some Poems are Given Very Close Readings<br />
+    <div class="outline-text-4" id="text-orgc81b5cf">
     <p>
-    It is maybe fitting that once Kvilhaug (finally) reveals the full shape of her interpretative framework of the myths she makes it clearer than ever before why she has been so ready to find similarities between different Gods, Goddesses, jotnar, stories, places, and things: she <i>literally</i> believes they are all "really" the same thing. Urdhr is Brynhild is Idhunn is Frigg is Freyja is Odhinn is Heimdall is Ymir is Mimir is Thjazi is&#x2026; You get the idea. And no, I'm not exaggerating for comedic effect here. When making the comparison between different eagle myths we talked about above, she goes on to say that the myth of an eagle that is the source of all winds and is the "corpse devourer" is <i>the same</i> myth as the roaring mill (<i>Hvergelmir</i>) in the underworld that receives all souls but is also the source of all streams. And both of those are the same as <i>Urdharbrunnar</i>, the Well of Origin/Fate. If Freyja is the "Great Goddess" that is the "true" nature behind the many masks of the other Goddesses, Norns, Valkyries, and others, well, then, Odhinn the Great God is <i>the same thing</i>, only seen for its masculine attributes rather than feminine. Since all of these figures are just symbols pointing at one, single thing behind them, any differences are wholly arbitrary, or at best, aesthetic or contingent on what aspect of that single thing the storyteller wants to emphasize today, in this one story. I have to give Kvilhaug credit for being consistent on this matter, and following the implications of her beliefs through to their logical conclusions, but if you don't share her starting premise, it's a frustrating experience to see the rich and exciting world of manifold Gods, Goddesses, elves, dwarves, jotnar, trolls, and so forth all thrown into a blender and turned into homogeneous slop.
-    </p>
-
-    <p>
-    The systems of spiritual teaching I am currently exploring teach that, yes, all of reality is a manifestation of a single source, and so, in some sense, we are all made of the same "stuff" and are parts of the same "whole," as Kvilhaug asserts. The systems I follow, though, lay far more emphasis than Kvilhaug seems to on how different manifestations truly do differ in meaningful ways. You and I and Odhinn may all be emanations of "the One," but to say that it is "more true" or "more important" that we are "the same" than that we are "different" seems reductive to the point that it might as well be false. Now, might it be an important part of spiritual insight and growth to see that we are "the same" in ways that are not immediately obvious? Quite possibly, yes! But to take that and say "therefore, differences are an unimportant illusion that can be dispensed with" strikes me as springing from a desire to make a big, complicated world easier to understand.
-    </p>
-
-    <p>
-    Look at how utterly confusing and messy the natural world is. On the one hand, you could just say "well, all of life is just an assortment of arrangements of carbon atoms with a few others brought along." Okay, sure, technically right, I guess, but hell, look at how utterly messy and confusing those arrangements of carbon are. Look at <i>just your own gut</i> - we have such a poor understanding of how digestion works, how it interacts with everything else going on in our body, how it interacts with the billions of other critters that live inside our body, and so forth. That's one piece of the natural world that is <i>right here</i>! We haven't even touched the fungal and microbial ecosystems in the soil under forests. Or the undiscovered species of insects in the rainforests. Or what the hell is going on at the vents at the bottom of the ocean. If the world that is available to our bodily senses is made out of such fractal complexity, why would we expect the world beyond those senses, which is supposed to be inhabited by beings greater, smarter, and far older than us, to be any simpler? Or for attractive simplifying assumptions like "they're all <i>really</i> just emanations of the same universal soul" to be any more helpful than "those are all <i>really</i> just arrangements of carbon atoms"?
-    </p>
-
-    <p>
-    Maybe I'll change my mind on this as I go further in my spiritual exploration, but for now, I am deeply suspicious of any metaphysical scheme that tries to wrap things up in a nice, neat, easy-for-humans-to-understand package. We're clever apes with moderately developed sparks of something divine within us, and there's a whole lot more of Being than there is of us.
+    A few times throughout the book, Kvilhaug gives poems, or at least large excerpts of them, very close readings with interleaved commentary, which I think is another approach where she shines. The structure of the poem forces a certain amount of organization on the commentary, translations of names are given in their context, and any far flung links or associations have to be tied back into specific passages in the poem to make any sense. All of which serves to mitigate many of my complaints about her approach while highlighting her strengths. Much of the first chapter is such a reading of <i>Voluspa</i>, but she departs from the close reading for other thoughts and doesn't go through the whole poem, which was what made me realize how worthwhile it was when she took this approach. Some of her other works do more with this: <i>The Goddess Idhunn in Myth and Poetry</i> does this the two poems that explicitly reference Idhunn, and <i>Six Old Norse Cosmology Poems</i> has her translations, but only very limited commentary. A fully annotated translation of the complete <i>Poetic Edda</i> by her would almost certainly be a multi-volume door-holding, mouse-crushing, foot-breaking affair, but I think it might be awfully good.
     </p>
     </div>
     </li>
 
-    <li><a id="org0b8707a"></a>Not Really a Mystery, and Not Really a Thesis<br />
-    <div class="outline-text-3" id="text-org0b8707a">
+    <li><a id="org85f74c4"></a>Evidence for Links with Long Ago and Neighboring Folks<br />
+    <div class="outline-text-4" id="text-org85f74c4">
     <p>
-    Given that in other parts of the book, Kvilhaug has talked about how working out the deeper meanings of the myths is like a detective story, I think one reason she might have held off until the last chapter to lay her metaphysical/theological cards on the table was to "make her case." Now, there's a place for narrative non-fiction, where the thing being explored <i>is</i> treated kind of like a mystery that is gradually uncovered chapter by chapter as new evidence is brought in and the implications are gradually, tantalizingly made clear. From what I remember about reading <i>Fingerprints of the Gods</i> back in college, it did an <i>excellent</i> job of this, hinting and teasing at the final "reveal" while making its case, but not entirely giving the game away until the end. If something like that is what Kvilhaug was going for, well, the poor organization I've lamented in almost all of these reviews has betrayed her, because she spoiled herself throughout the whole book, repeatedly. I think the book would have been much stronger if she had just come out at the beginning and said "I think the Old Norse myths are works of metaphorical literature intentionally crafted to convey the pantheistic spiritual insights of a mystery religion similar to those found in the classical world and elsewhere, I'll spend the rest of the book proving it." Which is, you know, the standard approach in academic writing, which you might expect someone who holds a Masters degree to gravitate toward. Finally having her put these things so explicitly made a lot of the rest of the book click into place more clearly. Maybe it wouldn't have done so without reading the rest of the book, I dunno - if you happen to read all of these reviews before reading the book and decide to start with the last chapter and then read the rest, please let me know how that works out.
-    </p>
-
-    <p>
-    For me, this is a much stronger criticism than "it's a bit repetitive at times" or "wow, I wish you had gone to the trouble to make an index" or even "you scatter important insights about the same topic across multiple chapters."  All of those are structural issues, but this is a <i>foundational</i> issue - the rest of the structure is built on shaky groundwork, so no wonder it's harder to follow than it ought to be. Kvilhaug ends the book with a description of another personal spiritual experience (and again, it's pretty well done for that kind of thing), one that granted her a key insight into the pantheism she has come to believe is at the core of Norse Myth, and together with the Epilogue, it seems clear that she thinks this provides a nice, inspirational send-off, encouraging the reader to begin his own exploration of the pantheistic truth hidden within the myths, with her insights as his guide. Instead, it just felt like another idiosyncratic take consistent with what has been said over-and-over throughout the book, but never all that clearly, and presented as the authoritative truth, despite some token protestations of intellectual humility. It was a somewhat disappointing, but not all that surprising, ending to a very uneven book - genuinely worthwhile insights mired in a confused, repetitive structure, and crammed into one true framework of interpretation.
+    In a few places, Kvilhaug goes into some of the evidence that beliefs or tales or narrative elements can be traced in historically interesting ways, though the historical development is never her main focus in the book. The two of these threads I found most interesting are those that go back a long, long, long time to the Nordic Bronze Age, and those that lead to the circumpolar folk who were neighbors to the Old Norse. The first shows a remarkable continuity in certain concepts and images and the second demonstrates that the hints and traces of "shamanism" found in the lore and archaeology may point to some important links. As I'll get to below, the historical context to the myths and its development isn't always her strong point, but on these two areas, she includes some interesting stuff that might be worth tracking down more.
     </p>
     </div>
     </li>
 
-
-    <li><a id="orgbdf860a"></a>Post Footer<br />
-    <div class="outline-text-3" id="text-orgbdf860a">
+    <li><a id="orgbbc1b59"></a>Coherent and Reasonable Rebuttal of Christian Influence on Key Myths<br />
+    <div class="outline-text-4" id="text-orgbbc1b59">
     <p>
-    <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16668.html">dreamwidth post</a></i>.
+    I went into this in more detail in the <a href="#book_the_seed_of_yggdrasill_10_the_wise_man_s_path">post on chapter 10</a>, but there is a lot of debate, both among scholars and practicing heathens, how much Christian influence there is in various bits of the lore as we have it (to say nothing of what that influence means or how we should handle it). Answers range from "practically none" to "all of this is basically just the gospels with horned helmets on." I tend to fall somewhere in between, maybe more toward the "little" end of the spectrum, so I might be a bit biased when it comes to such arguments, but Kvilhaug presents one of the better and more detailed arguments I've seen <i>against</i> significant Christian influence in some of the poems where it is thought by some to be strongest: Odhin's self sacrifice and the renewal after Ragnarok. Again, see the chapter review for more details, but Kvilhaug lays out that all of the major elements of these stories are consistent with pre-Christian beliefs and practices, and sometimes beliefs and practices that go waaaay back, even to the Bronze Age, so it's perfectly reasonable to assume continuity rather than borrowing.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="orgc0a835f"></a>The Heroic Poems are Treated as Part of the Same Whole as the Mythic Poems<br />
+    <div class="outline-text-4" id="text-orgc0a835f">
+    <p>
+    For a long time, scholars have broken the <i>Poetic Edda</i> into the "mythological" poems of the first ~half and the "heroic" poems of the back ~half. Reading them, there's a pretty clear difference in subject matter and tone - mythic time, cosmic events, and Gods versus a specific number of generations ago, historical events, and men, so the division makes sense. In part thanks to this distinction, modern works for practicing heathens often focus far more on the mythological poems for religious guidance and tend to see the heroic poems as sources of inspiration on how to live, at most. Kvilhaug argues, instead, that the heroic poems show human initiates navigating their way to grasping the cosmic, spiritual truths embodied and established by the Gods in the mythological poems, and so actually make for a logical and coherent progression from the mythological poems, instead of the somewhat abrupt jump in topic and significance they're usually treated as making. As I said above, I'm not sure if the collection of poems we have was <i>meant</i> that way by those who composed them and those who wrote them down, but it makes the heroic poems more helpful and significant, which seems like a good thing. 
+    </p>
+    </div>
+    </li>
+
+    <li><a id="orgfec7f8a"></a>Many of the Proposed Metaphorical Meanings are Thought-Sparking<br />
+    <div class="outline-text-4" id="text-orgfec7f8a">
+    <p>
+    Because Kvilhaug sees the tales in the lore as metaphor-laden parables, she is at pains to find a metaphorical meaning behind, well, <i>everything</i>, and often, her proposed interpretations are at least interesting, if not downright compelling. This is one of the hardest sections to talk about in a general way, not least because much of what makes these interpretations grabby is that they drawn on what I've outlined above: they take literal name meanings, similarities from other tales, and the allusions made by the kennings used to weave together ways of understanding the stories that are often not obvious at all, but once you hear them, seem worth taking seriously. A couple of my favorite examples are how Kvilhaug finds evidence (especially in <i>Voluspa</i>) for the idea that our creation is one after many earlier creations (8 before, ours being the 9th, according to her most common interpretation along these lines), which paints some interesting light on the Hindu belief in cosmic days and nights and creation beginning and ending cyclically. Another is all of the evidence for and stories about reincarnation Kvilhaug believes she has found in the lore. I often found myself thinking that her interpretations were not the <i>best</i> or what I would settle on as the "right" way to interpret a poem, but they always expanded what I considered about the tales and what they might mean, and that's pretty worthwhile all by itself.
+    </p>
+    </div>
+    </li>
+    </ul>
+    </li>
+
+    <li><a id="org2e6e092"></a>The Worst Bits of this Book<br />
+    <div class="outline-text-3" id="text-org2e6e092">
+    <p>
+    "Worst" is maybe an overly strong word, as overall I found a lot to like about the book, but if you haven't gathered by now, there was also a lot that I was none too thrilled by.
+    </p>
+    </div>
+
+    <ul class="org-ul">
+    <li><a id="org9ccb053"></a>The Book is Long, Badly Organized, and Repetitive<br />
+    <div class="outline-text-4" id="text-org9ccb053">
+    <p>
+    This book is pretty darn long - over 600 pages, and I'm not talking digest format or large print. I'm not one to be against books based on their length alone (I mean, look at how long my blog posts are), but in this case, the length struck me as unneeded. The trouble is that the length seems to stem more from poor editing and organization and repetition than it does from flat out having that much to say. I really think with better organization and editing, this book could have been at least half the length, maybe even shorter, without missing many, if any, of it's best points. Call it maybe three quarters of the length and likely not missing anything. This point is basically why this series of reviews exists - I was so frustrated that these interesting insights were trapped inside a tangled mess of a book that I wanted to pull them out and organize them, for myself if no one else.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="orgab46323"></a>Sometimes Kvilhaug Comes Off as Smug, Condescending, or Hostile<br />
+    <div class="outline-text-4" id="text-orgab46323">
+    <p>
+    From what I've seen in videos, Kvilhaug seems like a perfectly pleasant, enthusiastic person, but there's a few places in this book where I got a less favorable impression. She seems to have some beef with Christianity, getting weirdly hostile and exaggerating the negative events in its history and the bad influences it has had on modern culture. Other than Christianity, her ire also comes out for stodgy scholars and the patriarchy. Besides the anger, Kvilhaug also sometimes struck me as condescending about the <i>real</i> meaning of the lore, which she has found out, and anyone who doesn't see that it's all metaphorical parables about pantheism is welcome to keep on with his poor, meager understanding, but is obviously wrong. Even when not looking down on ways of understanding the myths that she finds lacking, she is <i>very</i> confident that her understanding is right, and that if it contradicts what every scholar in the field has said for 100 years, it is clearly the &lt;strike&gt;children&lt;/strike&gt; scholars who are wrong. Perhaps all of this is the price we have to pay to get the kind of insights she has to offer, as someone less sure of herself and her interpretative framework might balk contradicting orthodoxy, but it would be nice if the token humility felt a bit less like lip service. 
+    </p>
+    </div>
+    </li>
+
+    <li><a id="orgdb70001"></a>Some of the Analysis Leans on Shaky Scholarship<br />
+    <div class="outline-text-4" id="text-orgdb70001">
+    <p>
+    There's a few places in the book where Kvilhaug brings in some scholarship to support a point that I find very shaky, if not outright wrong. For example, Marija Gimbutas was a brilliant scholar who figured out what I believe to be the true origins of the speakers of Indo-European languages <i>decades</i> before the field got there, but who also believed that the folks who lived in Europe before various Indo-European-speaking groups moved in lived in peaceful matriarchies, which now appears to have been very, <i>very</i> wrong (at least the peaceful part - proving/disproving "matriarchy" is hard, even if you can define it in the first place). Kvilhaug leans on Gimbutas's theories of pre-Indo-European Europe in a few places in the book, and I found that weakened the arguments where she brought it in, rather than strengthened them. There's a few other cases I picked up on, but even worse than my specific disagreements is that it makes me suspect the other historical "evidence" she brings in that I'm less familiar with. If she cites such widely-discredited theories without any acknowledgment or defense of why she's bucking the trend, why should I trust her other equally confident assertions about historical facts elsewhere? Luckily, most of her analysis doesn't depend on history all that much, so it's not as debilitating as it might seem.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="orgccb495c"></a>Everyone is Everyone Else, Everything is Everything Else<br />
+    <div class="outline-text-4" id="text-orgccb495c">
+    <p>
+    Okay, I've already brought this up multiple times in the series and even in this review, but my biggest complaint about the book is actually <i>not</i> a problem with execution, but a fundamental disagreement on premise. Kvilhaug's pantheism leads her to interpret all of the Gods, jotnar, elves, dwarves, men, and other wights in the myths as "the same" in some important sense. All of the myths are just metaphors for understanding the universal divinity. This leads to a vagueness or mushiness in saying what the myths are "about" - they're all "about" the same thing, the seeming differences are just different angles to come at the same underlying truth, which renders the seeming differences between the myths shallow, uninteresting, and unimportant. Given Kvilhaug's premises, her analysis makes perfect sense. I just suspect those premises are importantly flawed, which takes the whole work in some directions I find less helpful.
+    </p>
+    </div>
+    </li>
+    </ul>
+    </li>
+
+    <li><a id="org3391f0b"></a>Lingering Wellsprings of Confusion<br />
+    <div class="outline-text-3" id="text-org3391f0b">
+    <p>
+    I didn't put this as one of the "worst bits," since I'm truly not sure if it's on me or on her, but I <i>still</i> don't know what she means by calling Idhunn the "soul of the Gods." I mean, I kinda-sorta have a better idea now that I get that she uses "soul" to mean "the unifying divine force/substance/reality that all things share" and that she sees all characters in the myths as fundamentally metaphors rather than "people" with some kind of ontological, objective reality. Maybe that truly is all she means: the story of Idhunn is a story of how we as incarnated beings have lost touch with the reality of our connection to the underlying and unifying divinity of the cosmos, and to make understanding that easier, that divinity is represented as a Goddess, rather than a "force" or "substance" or whatever else. I somewhat balk at this, as it seems fundamentally unsatisfying to me, but then, that might just once again be my lack of agreement with Kvilhaug's metaphysics. That being said, I'm not even sure that's what she means, despite having read a chapter in this book and a whole 'nother book by her on this very topic, and that's frustrating, because Idun is <a href="#last_hail_idun">very important</a> to my own beliefs and practices. Once again, if you have thoughts on how to sort this out, I'd love to hear from you.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="orgf568b6d"></a>What I Wish Kvilhaug Would Make - A New Dictionary of Northern Mythology and Commentaries on Specific Works<br />
+    <div class="outline-text-3" id="text-orgf568b6d">
+    <p>
+    Altogether, I left this book perhaps even more frustrated than when I started it - it truly has some wonderful insights and great scholarship. Kvilhaug's core mission to translate names to their literal meanings should be the <i>default</i> in studying these myths, and the fact that name meanings are treated as an etymological curiosity that, at best, might shed some light on when/how a figure came to be worshiped, is, frankly, ridiculous. Not translating the names leaves <i>so much</i> meaning on the table. So, truly, my deep thanks to Ms. Kvilhaug for the work she has put into this analysis. What makes this frustrating is that these wonderful insights are buried in a sprawling, rambly book without an index. And the very fact that she defaults to translating names means that you can't always look up a God or hero or object by his/its name using a search function, if you have an electronic copy (which I bought to supplement my paperback because the lack of an index was making me pull out my hair).
+    </p>
+
+    <p>
+    In an ideal world, I would love to see something like Rudolf Simek's foundational <i>Dictionary of Northern Mythology</i>, but with Kvilhaug's translations of names and fanatical eye for parallels between figures and tales. If I could look up <i>Gunnlodh</i>, see Kvilhaug's translation of the name, and a list of everywhere She appears in the myths, along with a "See Also" section that points to other entries, that would be worth its weight in gold. Especially helpful would be if she discussed where she differs from other scholars in translating the name, and why she favors her take. All that's a pretty tall order, but I'd still be thrilled with just a compiled list of names with her translations, in alpahbetical order for easy look-up. Maybe not the sexiest work of scholarship, but dang would that be helpful.
+    </p>
+
+    <p>
+    Other than a reference work of that sort, the thing I'd next most like to see from Kvilhaug would be one or more poems, translated by her, with interleaved commentary, stanza-by-stanza. Maybe asking for the whole <i>Poetic Edda</i> would be a bit much, but hey, a guy can dream. She regularly makes use of this approach with snippets from poems, where she embeds the poem, her translation, and her commentary in a wider analysis, both in this book and in her others, but again, it would be really helpful to a serious student of the lore to be able to read, say, Voluspa, with her name meanings and commentary, rather than having to hunt through her books for every place she brings up the poem. One of the reasons I'd love to see this is that following the poem closely provides the kind of structure and focus that Kvilhaug benefits from and seems to have trouble imposing on herself.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="orgba92c94"></a>Closing - There's Gold, but You'll Have to Sift It Out<br />
+    <div class="outline-text-3" id="text-orgba92c94">
+    <p>
+    Altogether, there are some truly surprising and, I think, worthwhile insights in this book for any serious student of the Germanish lore, but it's not as easy to find as I'd like. This book is not well suited to pulling off the shelf, flipping to a section, and reading a paragraph or three to get a key idea. Even most of the sections are hard to read as stand-alone bits, unless you're already familiar with much else of what Kvilhaug is up to. As it is, I'd say the chapter is the smallest unit of the work you can read on its own and hope to walk away from with some understanding. Hopefully my chapter guides and this rundown help with that somewhat as well. Unluckily, if you truly want to get most of the insights out of this book, you'll likely have to read it for yourself, especially since much of its worth lies in the links it makes between disparate Gods, tales, and works, and your own associations and knowledge will shape which of those you find most interesting and helpful. If you do dive in, I'd love to hear your thoughts, most of all where they differ from mine.
+    </p>
+
+    <p>
+    Happy mining!
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org315aec5"></a>Post Footer<br />
+    <div class="outline-text-3" id="text-org315aec5">
+    <p>
+    <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16911.html">dreamwidth post</a></i>.
     </p>
 
     <p>
@@ -180,6 +267,165 @@
     </li>
     </ul>
     ]]></description>
+</item>
+
+<item>
+  <title>[Book] The Seed of Yggdrasill 12 - The One and the Many and Epilogue</title>
+  <link>./#book_the_seed_of_yggdrasill_12_the_one_and_the_many_and_epilogue</link>
+  <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
+  <guid isPermaLink="false">./#book_the_seed_of_yggdrasill_12_the_one_and_the_many_and_epilogue</guid>
+  <pubDate>Sun, 21 Jan 2024 23:06:00 -0600</pubDate>
+  <category><![CDATA[rss]]></category>
+  <description><![CDATA[<p>
+  <b>Date</b>: 2024-January-20
+  </p>
+
+  <ul class="org-ul">
+  <li><a id="org4da312b"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org4da312b">
+  <ul class="org-ul">
+  <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
+  <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
+  <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
+  <li><a href="#book_the_seed_of_yggdrasill_3_the_maiden_with_the_mead">The Seed of Yggdrasill 3 - The Maiden with the Mead</a></li>
+  <li><a href="#book_the_seed_of_yggdrasill_4_retrieving_the_soul_of_the_gods">The Seed of Yggdrasill 4 - Retrieving the Soul of the Gods</a></li>
+  <li><a href="#book_the_seed_of_yggdrasill_5_the_loss_of_the_golden_age_in_old_norse_myth">The Seed of Yggdrasill 5 - The Loss of the Golden Age in Old Norse Myth</a></li>
+  <li><a href="#book_the_seed_of_yggdrasill_6_ragnarok_and_the_new_age">The Seed of Yggdrasill 6 - Ragnarok and the New Age</a></li>
+  <li><a href="#book_the_seed_of_yggdrasill_7_death_and_resurrection">The Seed of Yggdrasill 7 - Death and Resurrection</a></li>
+  <li><a href="#book_the_seed_of_yggdrasill_8_the_way_of_the_wand_witch">The Seed of Yggdrasill 8 - The Way of the Wand Witch</a></li>
+  <li><a href="#book_the_seed_of_yggdrasill_9_the_priestess_and_the_king">The Seed of Yggdrasill 9 - The Priestess and the King</a></li>
+  <li><a href="#book_the_seed_of_yggdrasill_10_the_wise_man_s_path">The Seed of Yggdrasill 10 - The Wise Man's Path</a></li>
+  <li><a href="#book_the_seed_of_yggdrasill_11_the_trials_of_thorr">The Seed of Yggdrasill 11 - The Trials of Thorr</a></li>
+  <li><a href="#book_the_seed_of_yggdrasill_12_the_one_and_the_many_and_epilogue">The Seed of Yggdrasill 12 - The One and the Many and Epilogue</a> - <b>You Are Here</b></li>
+  </ul>
+
+  <p>
+  We've made it! I know I've harped a bit much about the length of this book and how it's been a slog at times, but in my defense, I started reading this book in July of last year, so that's about half a year of working my way through this book. All of which is to say, I'm glad to have made it through. I'll write up the last chapter and Epilogue here, and I'm thinking about doing one more post with overall thoughts on the book as a kind of capstone to the series. Let's take a look at how Kvilhaug closes out her book.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org402196a"></a>At Last, a Clear Meaning for "Pantheism"<br />
+  <div class="outline-text-3" id="text-org402196a">
+  <p>
+  All throughout the book, Kvilhaug has been talked about "pantheism," but she's been a bit murky about what she exactly means by that, which has been frustrating, because "pantheism" comes in a lot of unalike flavors that can have some very different theological implications. At last, here at the end, though, Kvilhaug lays out what she means:
+  </p>
+
+  <blockquote>
+  Pantheism is a concept that may be understood in different ways, so to clarify what I mean by the term. It is basically the idea that one unifying deity or universal soul lays at the core of all deities, a one within the many, or a many within the one. The concept also includes divine immanence, the idea that the divine unity is immanent in "creation," "nature," or "the universe," not outside of and apart from it. In many Pantheist traditions, the divine is the soul of existence itself, as a whole, and thus we are all aspects of the ultimate divine soul.
+  </blockquote>
+  - Kvilhaug, M. (2020). p. 551
+
+  <p>
+  In the rest of the chapter, she expands further on this. Though she says that she acknowledges the reality of difference between different people and different Gods, it becomes pretty clear that she thinks it's <i>more</i> true in some important sense that we are parts of "the same thing," the universal soul/Godhead/pantheistic root stuff. This has a few implications, some of which we'll talk about in a tick, but maybe the biggest one is that she believes any and every path to contemplation of or searching for the divine will end up leading to the same place, and some paths seem to be more direct routes than others, so if you figure all this out, you can skip tedious steps like worshiping the Gods as separate beings rather than as particular manifestations of something you already have within yourself. As early on in the book, Kvilhaug again gives some lip service to the idea that different religious approaches are all valid, but manages to give off the impression that anyone who doesn't take her approach is less sophisticated or hasn't gotten as close to the truth, so that's fun. To be clear, I don't think Kvilhaug's beliefs or approach are untenable or preposterous, I just think that her certainty that her way is the right way is kind of annoying.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org72cf8ec"></a>More On Mystery Cults<br />
+  <div class="outline-text-3" id="text-org72cf8ec">
+  <p>
+  Kvilhaug gets back into the idea of Germanish "mystery cults" like those known from the classical world and goes further with the idea than when she talked about it before. One of the main jumping off points she uses for her discussion is a curious remark by Tacitus: he says that the Suebi, one of the Germanish confederations of tribes around in his time (1st century CE), worship "Isis." Kvilhaug does a pretty good job of talking about the various things this might mean, assuming he's not just wrong, which seems unlikely for an otherwise rather credible observer. First, she goes through the likelihood that some of the Germans back then <i>literally</i> worshiped an Egyptian Goddess. This is not as crazy a possibility as it might at first glance seem: by the 1st century CE, a mystery cult devoted to the Hellenistic version of Isis was one of the most popular forms of religious devotion in the Roman Empire. Even at this early date, the Germans must have had plenty of cultural contact with the Romans - it wasn't all cattle raids and obliterated legions - so, some of them might have picked up some religious practices from their more civilized neighbors to the south.
+  </p>
+
+  <p>
+  Though not implausible, Kvilhaug asserts, and I agree, that it is even more likely that when Tacitus said "Isis," he very likely meant a Goddess that seemed enough like what an educated Roman knew about Isis that he figured the Goddess the Germans were worshiping was the same one. This was, in fact, the norm for Roman writers: to use the familiar name of a Roman God or Goddess for whichever of the local Gods or Goddesses seemed most alike: for example, it seems very likely that when the Romans talked about German worship of "Mercury," they meant an earlier version of Odhinn, most likely because they heard something like "he is the God of poetry, speaking well, and magic, and he travels around a lot" and thought "sounds like Mercury to us." Kvilhaug goes on to argue that Tacitus's choice of <i>Isis</i> rather than, say, Juno or Venus or Minerva, or another more homegrown Roman Goddess, is an indirect indicator that the Goddess worshiped by the Germans was a "Great Goddess" (more on that in the next bit), or at least a Goddess with many areas of influence, including sovereignty of some kind. She also finds it significant that Tacitus chose the Goddess worshiped in a mystery cult - one reason he might have picked her is that he recognized something in the worship of the Suebi that looked like a mystery cult.
+  </p>
+
+  <p>
+  Kvilhaug goes on to argue that the famous cult center at Uppsala might have functioned as the site of mystery initiations like Eluesis in Greece. I don't think the case is decisive, but it is certainly an intriguing possibility. We know that Uppsala was famous throughout the Old Norse world and drew worshipers from all over, much as Eleusis was and did in the Mediterranean. We know that Uppsala was richly endowed with gold and other ornaments, as was Eleusis. Uppsala held a regular festival (every nine years) as did Eluesis (yearly). There's even a hint in Saxo Grammaticus that there was some kind of stage performance at Uppsala, and Eleusis likely staged plays as part of the Lesser Mysteries. There are also some interesting mythological parallels between some of the tales of the Gods we know to have been worshiped at Uppsala (Odhinn, Freyr, and Thorr) and some of the mystery cults we know about from the classical world, but those were a bigger focus in the earlier section of the book.
+  </p>
+
+  <p>
+  As I said, I think Kvilhaug makes some interesting points here, and perhaps offers some avenues for further exploration. I'm not quite as <i>sure</i> that there was a "Mystery Cult" of the Nordic world in heathen times as it seems Kvilhaug is, but that may be a bit of playing around with definitions. I think it is nearly beyond doubt that there existed <i>some</i> kind of esoteric religious practice, very likely including some kind of initiation, during most, or more likely all, of heathen times. If <i>nothing</i> else, it seems very likely that religious specialists of various kinds, like the <i>volur</i>, must have had some kind of practice, training, and initiation to become recognized in their roles. It would also be consistent with what we know of other polytheistic religions for their to be some amount of more involved practice or special rituals for more enthusiastic members of the laity (such as the mysteries that are the main topic of this section, but also things like pilgrimages to significant shrines for purification in Shinto or meditative and prayer practices in Buddhism). Should we consider such initiatory and/or esoteric practices "mystery cults?" That's harder to say. To me, that implies a level of regularity, continuity, and organization that it's a lot harder to prove, especially for a <i>mystery</i> cult. So, I'm not saying Kvilhaug is <i>wrong</i> that there was an Old Norse mystery school of some sort, just that I'm less confident than she is that it's a slam dunk.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org3864194"></a>The Great Goddess (or God)<br />
+  <div class="outline-text-3" id="text-org3864194">
+  <p>
+  Earlier in the book, Kvilhaug talked about Freyja as a "Great Goddess," a theory put forth by some scholars (some that she named: Britt Mari Nasstrom, Folke Strom, and Anne Holtsmark). Basically, the theory goes that in some religions, and most especially in those of a pantheistic bent, you tend to see one deity revered as the best representation of the universal immanent soul/divinity/godhead, and that often that deity is a Goddess. Further, in the Nordic countries, that Goddess was Freyja, and all of the other Goddesses are just hypostases or other aspects of Her. Here, Kvilhaug revisits this argument, but takes it a bit farther given the explicit pantheism that is the focus of this chapter. She says that if all Gods and Goddesses are just manifestations of the same universal soul, then <i>of course</i> all Goddesses are one Goddesses, but also, they're all one God, depending on the myth. She further elaborates on the point she has made before that Heimdallr is the "Great World," or the embodiment of all of the cosmos, and in some of His myths serves as the universal divine that all other Gods (And Goddesses and Men and Women and everything else) are just emanations of. Odhinn also seems to sometimes fill the role of "all divinity present in all things." I think mostly you'll be nodding along with this if you buy Kvilhaug's assertions about pantheism, and you'll find it speculative or hand-wavey or otherwise useless if you don't. 
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org73b77a4"></a>Eagles: An Unlooked-For Comparison<br />
+  <div class="outline-text-3" id="text-org73b77a4">
+  <p>
+  Okay, this far into the book, I've gotten used to some pretty out-there comparisons and tie-ins and the like: dwarves as space aliens, Thorr as the literal magnetosphere, Cybele and Ishtar as influences on Norse Goddesses, but I was still <i>not</i> expecting to see the Norse myths compared to Carlos Castaneda <i>at all</i>. If you're not familiar, Castaneda wrote a series of books while studying for his anthropology Ph.D. that became rather popular. In these, he describes learning about spiritual matters from a Yaqui (a Mexican Indian tribe) "man of knowledge" named don Juan Matus. Apparently, in one of these books, <i>The Fire from Within</i>, Castaneda tells about don Juan describing the visions of the "Old Toltec seers" involving a huge spiritual force/entity that is "like an eagle" that is the source of all consciousness, and from which "streams" or "emanations" of force or awareness flow, but which also eats the awareness of souls when they die, enhancing it's own knowledge and consciousness through the experience thus consumed. Kvilhaug compares this with the prominent role played by eagles and Gods/jotnar in eagle shape in the Norse myths, especially <i>Hraesvelgr</i>, "Corpse Swallower," the eagle who sits at the top of the World Tree, from whose flapping wings come all winds, and who eats the dead (and might be the same as Thjazi and/or Suttung). I'm not gonna lie: the parallels are at least interesting, if not downright striking, not least because they seem to come from such disparate sources.
+  </p>
+
+  <p>
+  There's something to know when considering this comparison, though. After Castaneda's books became very popular, some folks came out expressing doubts that his accounts were accurate, or even that don Juan was a real person. The works feature very little that is verifiably Yaqui in language or culture, there's no outside corroboration of don Juan or Castaneda's interactions with him, and there are certain inconsistencies in the stories as given that would be odd for careful ethnographic work. All of which is to say that some folks think Castaneda's a stone-cold fake. <a href="https://ecosophia.net">John Michael Greer</a>, whom I respect greatly on all matters occult and esoteric, agrees that Castaneda's works are likely best thought of as fiction, but fiction that nevertheless includes some very deep spiritual insights. If such allegations are true, or close to true, it also renders the "proof" of Old Norse and indigenous Mexican beliefs describing similar spiritual realities far less impressive. Even still, I've never encountered any mention of Castaneda having any familiarity with Norse myth, so it'd be pretty strange if he had consciously incorporated anything from it as part of making something up. If Kvilhaug is wrong that these are truly uncrossed parallel visions of a deeper spiritual reality, the most likely explanation to me is that Castaneda was exposed to enough "adjacent" cultural material to Old Norse myth that a vision he had himself featured an eagle in a similar role. But it's also possible that she's onto something here, and it certainly makes for great food for bethinking.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org6b8c0ca"></a>The Norse Myths are Intentional, Symbolic Fiction<br />
+  <div class="outline-text-3" id="text-org6b8c0ca">
+  <p>
+  I mentioned above that Kvilhaug's belief that the pantheistic truth of the universe can be approached multiple ways has further implications in the chapter, and the biggest one might be that she sees the myths as <i>merely</i> metaphorical expressions of the ineffable truth of pantheism. Specifically, she believes that the poems of the Edda were works of "fiction" crafted by their writers with conscious metaphorical intent. In other words, she thinks the Eddic poems bear a similar relationship to pantheistic truth as <i>The Lion, the Witch, and the Wardrobe</i> bears to the gospel. She sees the Eddic and Skaldic poets as initiates into the pantheist-flavored mysteries she discusses who used the raw material of their culture's folkways and lore to consciously try to convey the deep truths they had experienced in metaphorical language. On the one hand, this helps make sense of Kvilhaug's tendency to equate darn-near everything (more on that in the next bit) - she feels like they're all just intentionally chosen symbols anyway, so it doesn't much matter which one is used, except as it is affected by things like poetic, narrative, or aesthetic considerations. Since all religious insights end up pointing to the same end eventually, it's helpful to compare notes between two different paths to triangulate where it seems they're both pointing to. Hell, this interpretative framework being asserted is even consistent with Kvilhaug's pantheistic chauvinism - if the pantheistic unity of all spiritual insights is true, and if these poets were folks who had deeply grasped this, what else <i>could</i> they write besides conscious metaphors of ineffable truths?
+  </p>
+
+  <p>
+  My main beef here is that this isn't really how myths work, and Kvilhaug has shown a lot of the evidence that they don't throughout this book. Multiple times, she gives examples of the surprising longevity of mythic themes and figures - the Bronze Age carvings showing a sun Goddess and what looks like a God with a hammer, Tacitus's account of a Goddess of plenty paraded in a cart, just like Frey's statue in late heathen times, and others. One of the reasons myths are so long-lasting is because they are <i>important</i> to their culture: there's a right way to tell one and a wrong way. Different storytellers might try out different variations, but only within certain bounds. You might be able to get away with changing <i>how</i> Thor killed a particular jotun, but if you said He <i>didn't</i>, or that He was a coward, or a pacifist, everyone would just say "that's not how the story goes!" My point is that within a culture where myths are still a vital part of its religious life, and not just one piece of cultural heritage among others, the elements of those myths are not simple raw materials that can be repurposed to whatever end an individual author wants.
+  </p>
+
+  <p>
+  To be fair, I don't think Kvilhaug is saying that the skalds were picking Gods or Goddesses willy-nilly, with no regard for what They were known to be like. I think, instead, that she was saying the old stories had always had hints of the pantheism she believes the skalds wanted to convey, and those skalds picked stories and emphasized elements from them that highlighted those hints. Sure, at times in the ancient world, we had self-conscious works using mythological elements like Ovid's <i>Metamorphoses</i>, or more earnest, but still clearly very intentional, works like <i>The Golden Ass</i> by Apuleius, but these came in societies at a very different place in their development than the Iron Age and early Medieval Nordic countries. Even if Kvilhaug is right that there were explicit mystery cults in the north back then, I am skeptical that their adherents would be crafting explicitly allegorical works out of the raw material of organic myths.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org13c754c"></a>Everything is the Same as Everything Else<br />
+  <div class="outline-text-3" id="text-org13c754c">
+  <p>
+  It is maybe fitting that once Kvilhaug (finally) reveals the full shape of her interpretative framework of the myths she makes it clearer than ever before why she has been so ready to find similarities between different Gods, Goddesses, jotnar, stories, places, and things: she <i>literally</i> believes they are all "really" the same thing. Urdhr is Brynhild is Idhunn is Frigg is Freyja is Odhinn is Heimdall is Ymir is Mimir is Thjazi is&#x2026; You get the idea. And no, I'm not exaggerating for comedic effect here. When making the comparison between different eagle myths we talked about above, she goes on to say that the myth of an eagle that is the source of all winds and is the "corpse devourer" is <i>the same</i> myth as the roaring mill (<i>Hvergelmir</i>) in the underworld that receives all souls but is also the source of all streams. And both of those are the same as <i>Urdharbrunnar</i>, the Well of Origin/Fate. If Freyja is the "Great Goddess" that is the "true" nature behind the many masks of the other Goddesses, Norns, Valkyries, and others, well, then, Odhinn the Great God is <i>the same thing</i>, only seen for its masculine attributes rather than feminine. Since all of these figures are just symbols pointing at one, single thing behind them, any differences are wholly arbitrary, or at best, aesthetic or contingent on what aspect of that single thing the storyteller wants to emphasize today, in this one story. I have to give Kvilhaug credit for being consistent on this matter, and following the implications of her beliefs through to their logical conclusions, but if you don't share her starting premise, it's a frustrating experience to see the rich and exciting world of manifold Gods, Goddesses, elves, dwarves, jotnar, trolls, and so forth all thrown into a blender and turned into homogeneous slop.
+  </p>
+
+  <p>
+  The systems of spiritual teaching I am currently exploring teach that, yes, all of reality is a manifestation of a single source, and so, in some sense, we are all made of the same "stuff" and are parts of the same "whole," as Kvilhaug asserts. The systems I follow, though, lay far more emphasis than Kvilhaug seems to on how different manifestations truly do differ in meaningful ways. You and I and Odhinn may all be emanations of "the One," but to say that it is "more true" or "more important" that we are "the same" than that we are "different" seems reductive to the point that it might as well be false. Now, might it be an important part of spiritual insight and growth to see that we are "the same" in ways that are not immediately obvious? Quite possibly, yes! But to take that and say "therefore, differences are an unimportant illusion that can be dispensed with" strikes me as springing from a desire to make a big, complicated world easier to understand.
+  </p>
+
+  <p>
+  Look at how utterly confusing and messy the natural world is. On the one hand, you could just say "well, all of life is just an assortment of arrangements of carbon atoms with a few others brought along." Okay, sure, technically right, I guess, but hell, look at how utterly messy and confusing those arrangements of carbon are. Look at <i>just your own gut</i> - we have such a poor understanding of how digestion works, how it interacts with everything else going on in our body, how it interacts with the billions of other critters that live inside our body, and so forth. That's one piece of the natural world that is <i>right here</i>! We haven't even touched the fungal and microbial ecosystems in the soil under forests. Or the undiscovered species of insects in the rainforests. Or what the hell is going on at the vents at the bottom of the ocean. If the world that is available to our bodily senses is made out of such fractal complexity, why would we expect the world beyond those senses, which is supposed to be inhabited by beings greater, smarter, and far older than us, to be any simpler? Or for attractive simplifying assumptions like "they're all <i>really</i> just emanations of the same universal soul" to be any more helpful than "those are all <i>really</i> just arrangements of carbon atoms"?
+  </p>
+
+  <p>
+  Maybe I'll change my mind on this as I go further in my spiritual exploration, but for now, I am deeply suspicious of any metaphysical scheme that tries to wrap things up in a nice, neat, easy-for-humans-to-understand package. We're clever apes with moderately developed sparks of something divine within us, and there's a whole lot more of Being than there is of us.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org0b8707a"></a>Not Really a Mystery, and Not Really a Thesis<br />
+  <div class="outline-text-3" id="text-org0b8707a">
+  <p>
+  Given that in other parts of the book, Kvilhaug has talked about how working out the deeper meanings of the myths is like a detective story, I think one reason she might have held off until the last chapter to lay her metaphysical/theological cards on the table was to "make her case." Now, there's a place for narrative non-fiction, where the thing being explored <i>is</i> treated kind of like a mystery that is gradually uncovered chapter by chapter as new evidence is brought in and the implications are gradually, tantalizingly made clear. From what I remember about reading <i>Fingerprints of the Gods</i> back in college, it did an <i>excellent</i> job of this, hinting and teasing at the final "reveal" while making its case, but not entirely giving the game away until the end. If something like that is what Kvilhaug was going for, well, the poor organization I've lamented in almost all of these reviews has betrayed her, because she spoiled herself throughout the whole book, repeatedly. I think the book would have been much stronger if she had just come out at the beginning and said "I think the Old Norse myths are works of metaphorical literature intentionally crafted to convey the pantheistic spiritual insights of a mystery religion similar to those found in the classical world and elsewhere, I'll spend the rest of the book proving it." Which is, you know, the standard approach in academic writing, which you might expect someone who holds a Masters degree to gravitate toward. Finally having her put these things so explicitly made a lot of the rest of the book click into place more clearly. Maybe it wouldn't have done so without reading the rest of the book, I dunno - if you happen to read all of these reviews before reading the book and decide to start with the last chapter and then read the rest, please let me know how that works out.
+  </p>
+
+  <p>
+  For me, this is a much stronger criticism than "it's a bit repetitive at times" or "wow, I wish you had gone to the trouble to make an index" or even "you scatter important insights about the same topic across multiple chapters."  All of those are structural issues, but this is a <i>foundational</i> issue - the rest of the structure is built on shaky groundwork, so no wonder it's harder to follow than it ought to be. Kvilhaug ends the book with a description of another personal spiritual experience (and again, it's pretty well done for that kind of thing), one that granted her a key insight into the pantheism she has come to believe is at the core of Norse Myth, and together with the Epilogue, it seems clear that she thinks this provides a nice, inspirational send-off, encouraging the reader to begin his own exploration of the pantheistic truth hidden within the myths, with her insights as his guide. Instead, it just felt like another idiosyncratic take consistent with what has been said over-and-over throughout the book, but never all that clearly, and presented as the authoritative truth, despite some token protestations of intellectual humility. It was a somewhat disappointing, but not all that surprising, ending to a very uneven book - genuinely worthwhile insights mired in a confused, repetitive structure, and crammed into one true framework of interpretation.
+  </p>
+  </div>
+  </li>
+
+
+  <li><a id="org407691d"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org407691d">
+  <p>
+  <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16668.html">dreamwidth post</a></i>.
+  </p>
+
+  <p>
+  <b>Want to get new posts emailed to your inbox? <a href="mailto:jeff.powell.russell@gmail.com?subject=Add%20me%20to%20the%20Webstead%20mailing%20list">Sign up here</a>.</b>
+  </p>
+
+  <hr />
+  </div>
+  </li>
+  </ul>
+  ]]></description>
 </item>
 
 <item>
@@ -350,8 +596,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org698b38b"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org698b38b">
+  <li><a id="org53f33c2"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org53f33c2">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16407.html">dreamwidth post</a></i>.
   </p>
@@ -379,9 +625,10 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgfd43a73"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgfd43a73">
+  <li><a id="org1757b2d"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org1757b2d">
   <ul class="org-ul">
+  <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_3_the_maiden_with_the_mead">The Seed of Yggdrasill 3 - The Maiden with the Mead</a></li>
@@ -425,15 +672,15 @@
   <li><a id="org87ab953"></a>Humiliation and Gender Role Reversal as Spiritual Growth<br />
   <div class="outline-text-3" id="text-org87ab953">
   <p>
-  Kvilhaug points out that the Thor we see in the Eddic poetry is in many ways the stereotypical viking warrior: macho, proud, strong, brave, and ready to solve all problems with violence, to the point of being hot-headed. Notice that often, this is <i>exactly</i> what the Gods need to get out of one scrape or another - Thor shows up to run off Loki or the jotun who's causing trouble, or just kill him. In a few poems, though, like <i>Harbardhsljodh</i>, <i>Thrymskvidha</i>, and <i>Hymiskvidha</i>, Thor is made fun of, shown up, or forced to engage in shameful behavior. <i>Harbardhsljodh</i> is basically an extended ridiculing of Thor by Odin in disguise, meeting every boast of Thor's about his strength and prowess in battle with put downs and counter-brags about handiness with women. Besides <i>Lokasenna</i>, this is one of the harder poems to square with devout, worshiping heathens that revered both Gods. Again in <i>Thrymskvidha</i>, Thor has His hammer stolen out from under his nose and ends up having to dress as a bride and all but consummate a wedding to a jotun. In <i>Hymiskvidha</i>, Thor isn't humiliated quite so much, but he does have to heed the crafty advice of his/Tyr's mother (I've seen both interpretations) rather than take his preferred direct approach, and Hymir thwarts him catching the Midgard Serpent. In all of these, Thor's default of "smash it with Mjolnir and sort it out afterward!" is somehow shown not to be the way, and in all cases, the right path somehow involved women.
+  Kvilhaug points out that the Thor we see in the Eddic poetry is in many ways the stereotypical viking warrior: macho, proud, strong, brave, and ready to solve all problems with violence, to the point of being hot-headed. Notice that often, this is <i>exactly</i> what the Gods need to get out of one scrape or another - Thor shows up to run off Loki or the jotun who's causing trouble, or just kill him. In a few poems, though, like <i>Harbardhsljodh</i>, <i>Thrymskvidha</i>, and <i>Hymiskvidha</i>, Thor is made fun of, shown up, or forced to engage in shameful behavior. <i>Harbardhsljodh</i> is basically an extended ridiculing of Thor by Odin in disguise, meeting every boast of Thor's about His strength and prowess in battle with put downs and counter-brags about handiness with women. Besides <i>Lokasenna</i>, this is one of the harder poems to square with devout, worshiping heathens that revered both Gods. Again in <i>Thrymskvidha</i>, Thor has His hammer stolen out from under His nose and ends up having to dress as a bride and all but consummate a wedding to a jotun. In <i>Hymiskvidha</i>, Thor isn't humiliated quite so much, but He does have to heed the crafty advice of His/Tyr's mother (I've seen both interpretations) rather than take His preferred direct approach, and Hymir thwarts Him catching the Midgard Serpent. In all of these, Thor's default of "smash it with Mjolnir and sort it out afterward!" is somehow shown not to be the way, and in all cases, the right path somehow involved women.
   </p>
 
   <p>
-  Kvilhaug makes good use of more-or-less Jungian scheme of what masculine/feminine beings and traits are doing in myth that she introduced way back in <a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">chapter 1</a> when talking through this stuff. She also makes some interesting comparisons to the trope from martial arts movies of the young, talented hot head who has to discover that being an arrogant jerk that can kick everybody's ass isn't the path to true wisdom or power (she does an extended run down of <i>Fearless</i>, starring Jet Li to make this point). I thought her analysis of what's going on in <i>Harbardhsljodh</i> made especially good use of her paradigm, pointing out that Odin's bragging about getting with the ladies might have been less about His being all-time greatest player and more about His achievement of the spiritual accomplishments that bring about union with the "Lady with the Mead," as described in earlier chapters. Likewise, His making fun of Thor for fighting women is likely less about Him being a chickpuncher and more about Him failing the test to confront the ugly ogress appropriately so that she transforms into the shining maiden, again, as a path to spiritual enlightenment.
+  Kvilhaug makes good use of a more-or-less Jungian scheme of what masculine/feminine beings and traits are doing in myth that she introduced way back in <a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">chapter 1</a> when talking through this stuff. She also makes some interesting comparisons to the trope from martial arts movies of the young, talented hot head who has to discover that being an arrogant jerk that can kick everybody's ass isn't the path to true wisdom or power (she does an extended run down of <i>Fearless</i>, starring Jet Li, to make this point). I thought her analysis of what's going on in <i>Harbardhsljodh</i> made especially good use of her paradigm, pointing out that Odin's bragging about getting with the ladies might have been less about His being all-time greatest player and more about His achievement of the spiritual accomplishments that bring about union with the "Lady with the Mead," as described in earlier chapters. Likewise, His making fun of Thor for fighting women is likely less about Him being a chickpuncher and more about Him failing the test to confront the ugly ogress appropriately so that she transforms into the shining maiden, again, as a path to spiritual enlightenment.
   </p>
 
   <p>
-  Similarly, Thor dressing up as a bride in <i>Thrymskvidha</i> may be more than a funny story about the mighty God being made a fool of. It might represent the need to embrace the feminine parts of His personality to overcome certain obstacles and reach greater wisdom and power. Kvilhaug argues that both of these stories (and arguably, also the story of Utgardhsloki given by Snorri) are about humiliation as a tool for breaking down the pride of the ego, and I think she's likely onto something. In <i>Hymiskvidha</i>, Thor has finally learned his lesson and readily acquiesces to the wisdom of His/Tyr's mother and so achieves His goals with minimal fuss (and when the jotnar decide to attack Him anyway, He gets to flex His still mighty fighting skills). The idea that we all have both masculine and feminine parts within us, but that many of us have trouble getting in touch with the part that doesn't match our bodily sex will be familiar to anyone who has read much Jung at all, and again, I think Kvilhaug makes good use of this framework for thinking here. She goes a <i>bit</i> overboard with bringing in modern gender theory and politics, but that's not really necessary to her wider point, which I think is pretty sound.
+  Similarly, Thor dressing up as a bride in <i>Thrymskvidha</i> may be more than a funny story about the mighty God being made a fool of. It might represent the need to embrace the feminine parts of His personality to overcome certain obstacles and reach greater wisdom and power. Kvilhaug argues that both of these stories (and arguably, also the story of Utgardhsloki given by Snorri) are about humiliation as a tool for breaking down the pride of the ego, and I think she's likely onto something. In <i>Hymiskvidha</i>, Thor has finally learned His lesson and readily acquiesces to the wisdom of His/Tyr's mother and so achieves His goals with minimal fuss (and when the jotnar decide to attack Him anyway, He gets to flex His still mighty fighting skills). The idea that we all have both masculine and feminine parts within us, but that many of us have trouble getting in touch with the part that doesn't match our bodily sex will be familiar to anyone who has read much Jung at all, and again, I think Kvilhaug makes good use of this framework for thinking here. She goes a <i>bit</i> overboard with bringing in modern gender theory and politics, but that's not really necessary to her wider point, which I think is pretty sound.
   </p>
   </div>
   </li>
@@ -450,8 +697,8 @@
   </div>
   </li>
 
-  <li><a id="org1952284"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org1952284">
+  <li><a id="org03c58ae"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org03c58ae">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16274.html">dreamwidth post</a></i>.
   </p>
@@ -519,8 +766,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgb360f37"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgb360f37">
+  <li><a id="orgb4fab8c"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgb4fab8c">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16049.html">dreamwidth post</a></i>.
   </p>
@@ -604,8 +851,8 @@
   </div>
   </li>
 
-  <li><a id="org7178b92"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7178b92">
+  <li><a id="orgba091b4"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgba091b4">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15741.html">dreamwidth post</a></i>.
   </p>
@@ -633,9 +880,10 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org5db5fe6"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org5db5fe6">
+  <li><a id="orga94fa8b"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orga94fa8b">
   <ul class="org-ul">
+  <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_3_the_maiden_with_the_mead">The Seed of Yggdrasill 3 - The Maiden with the Mead</a></li>
@@ -688,8 +936,8 @@
   </div>
   </li>
 
-  <li><a id="org4d5b501"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org4d5b501">
+  <li><a id="org21b6d5d"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org21b6d5d">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15378.html">dreamwidth post</a></i>.
   </p>
@@ -717,8 +965,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org4f90f21"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org4f90f21">
+  <li><a id="orgc303cb8"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgc303cb8">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -760,8 +1008,8 @@
   </div>
   </li>
 
-  <li><a id="orgf555fa5"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgf555fa5">
+  <li><a id="orgd056e62"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgd056e62">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15288.html">dreamwidth post</a></i>.
   </p>
@@ -789,9 +1037,10 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org7110b81"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org7110b81">
+  <li><a id="orge5d5578"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orge5d5578">
   <ul class="org-ul">
+  <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_3_the_maiden_with_the_mead">The Seed of Yggdrasill 3 - The Maiden with the Mead</a></li>
@@ -807,7 +1056,7 @@
   </ul>
 
   <p>
-  This was one of the shortest chapters yet, which worked out nicely, as I'm typing this on an unexpectedly long layover for international travel, and I'm not sure how much more time I'll be able to devote to a post this weekend. ALso, much like the last chapter, this one deals with material that Kvilhaug has gone into earlier in the book, but I'd say she does a better job here of not repeating herself and referring you back to those earlier chapters. In this case, Kvilhaug expands on the role played by magical tutelary women by focusing on their depictions as <i>seidhr</i> workers - witches.
+  This was one of the shortest chapters yet, which worked out nicely, as I'm typing this on an unexpectedly long layover for international travel, and I'm not sure how much more time I'll be able to devote to a post this weekend. Also, much like the last chapter, this one deals with material that Kvilhaug has gone into earlier in the book, but I'd say she does a better job here of not repeating herself and referring you back to those earlier chapters. In this case, Kvilhaug expands on the role played by magical tutelary women by focusing on their depictions as <i>seidhr</i> workers - witches.
   </p>
   </div>
   </li>
@@ -836,8 +1085,8 @@
   </div>
   </li>
 
-  <li><a id="orge9ee9af"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orge9ee9af">
+  <li><a id="org6898a87"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org6898a87">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14905.html">dreamwidth post</a>.</i>
   </p>
@@ -861,9 +1110,10 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgc13e69a"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgc13e69a">
+  <li><a id="org378703a"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org378703a">
   <ul class="org-ul">
+  <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_3_the_maiden_with_the_mead">The Seed of Yggdrasill 3 - The Maiden with the Mead</a></li>
@@ -964,8 +1214,8 @@
   </div>
   </li>
 
-  <li><a id="org59355cf"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org59355cf">
+  <li><a id="org5ffcf5a"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org5ffcf5a">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14716.html">dreamwidth post</a>.</i>
   </p>
@@ -1045,8 +1295,8 @@
   </div>
   </li>
 
-  <li><a id="org85bbc3a"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org85bbc3a">
+  <li><a id="org1fed97e"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org1fed97e">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14562.html">dreamwidth post</a>.</i>
   </p>
@@ -1206,8 +1456,8 @@
   </ul>
   </li>
 
-  <li><a id="org6113b5e"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org6113b5e">
+  <li><a id="orgc415665"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgc415665">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14146.html">dreamwidth post</a>.</i>
   </p>
@@ -1231,9 +1481,10 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orga122a40"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orga122a40">
+  <li><a id="org74ad5ab"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org74ad5ab">
   <ul class="org-ul">
+  <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_3_the_maiden_with_the_mead">The Seed of Yggdrasill 3 - The Maiden with the Mead</a></li>
@@ -1286,8 +1537,8 @@
   </div>
   </li>
 
-  <li><a id="orgc90cb61"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgc90cb61">
+  <li><a id="org032baa5"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org032baa5">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13742.html">dreamwidth post</a>.</i>
   </p>
@@ -1311,9 +1562,10 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orga71518a"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orga71518a">
+  <li><a id="orgcff64f0"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgcff64f0">
   <ul class="org-ul">
+  <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_3_the_maiden_with_the_mead">The Seed of Yggdrasill 3 - The Maiden with the Mead</a></li>
@@ -1466,8 +1718,8 @@
   </div>
   </li>
 
-  <li><a id="org4c19d57"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org4c19d57">
+  <li><a id="orgf6ae5c5"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgf6ae5c5">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13462.html">dreamwidth post</a>.</i>
   </p>
@@ -1519,8 +1771,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org861c8a0"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org861c8a0">
+  <li><a id="org5b24908"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org5b24908">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13241.html">dreamwidth post</a>.</i>
   </p>
@@ -1588,8 +1840,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org8f37842"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org8f37842">
+  <li><a id="org04d0161"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org04d0161">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12951.html">dreamwidth post</a>.</i>
   </p>
@@ -1613,9 +1865,10 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orga31129c"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orga31129c">
+  <li><a id="orga7fd74e"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orga7fd74e">
   <ul class="org-ul">
+  <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_3_the_maiden_with_the_mead">The Seed of Yggdrasill 3 - The Maiden with the Mead</a></li>
@@ -1740,8 +1993,8 @@
   </div>
   </li>
 
-  <li><a id="orgbc6f6d5"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgbc6f6d5">
+  <li><a id="org0229be5"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org0229be5">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12612.html">dreamwidth post</a>.</i>
   </p>
@@ -1809,8 +2062,8 @@
   </div>
   </li>
 
-  <li><a id="orga5787c0"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orga5787c0">
+  <li><a id="org1cfc929"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org1cfc929">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12323.html">dreamwidth post</a>.</i>
   </p>
@@ -1834,9 +2087,10 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org5e69495"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org5e69495">
+  <li><a id="org52a0760"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org52a0760">
   <ul class="org-ul">
+  <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_3_the_maiden_with_the_mead">The Seed of Yggdrasill 3 - The Maiden with the Mead</a> - <b>You Are Here</b></li>
@@ -1929,8 +2183,8 @@
   </div>
   </li>
 
-  <li><a id="org8514738"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org8514738">
+  <li><a id="org99f123e"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org99f123e">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12162.html">dreamwidth post</a>.</i>
   </p>
@@ -1982,8 +2236,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgfa9fde0"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgfa9fde0">
+  <li><a id="orgedbe4c5"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgedbe4c5">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11815.html">dreamwidth post</a>.</i>
   </p>
@@ -2036,8 +2290,8 @@
   </div>
   </li>
 
-  <li><a id="org6aff523"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org6aff523">
+  <li><a id="org7178595"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org7178595">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11677.html">dreamwidth post</a>.</i>
   </p>
@@ -2061,9 +2315,10 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgb2c36e3"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgb2c36e3">
+  <li><a id="orge615647"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orge615647">
   <ul class="org-ul">
+  <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a> - <b>You Are Here</b></li>
   <li><a href="#book_the_seed_of_yggdrasill_3_the_maiden_with_the_mead">The Seed of Yggdrasill 3 - The Maiden with the Mead</a></li>
@@ -2201,16 +2456,16 @@
   </div>
   </li>
 
-  <li><a id="org4691894"></a>Closing<br />
-  <div class="outline-text-3" id="text-org4691894">
+  <li><a id="orgb8ac518"></a>Closing<br />
+  <div class="outline-text-3" id="text-orgb8ac518">
   <p>
   So, whoo, here we are. The next chapter is, as I said, mercifully shorter, and focuses on "The Maiden with the Mead," the subject of Kvilhaug's master's thesis, but apparently new work on the same topic here. So, expect lots more on feminine spiritual Beings and/or bits of the soul, magic drinks, and initiation. As always, I welcome any thoughts, recommendations, or corrections.
   </p>
   </div>
   </li>
 
-  <li><a id="org726cfb9"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org726cfb9">
+  <li><a id="orgdf9b1d0"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgdf9b1d0">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11306.html">dreamwidth post</a>.</i>
   </p>
@@ -2274,8 +2529,8 @@
   </div>
   </li>
 
-  <li><a id="org9f2c0ce"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org9f2c0ce">
+  <li><a id="orgeed48f7"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgeed48f7">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11228.html">dreamwidth post</a>.</i>
   </p>
@@ -2462,16 +2717,16 @@
   </div>
   </li>
 
-  <li><a id="org77e1209"></a>Closing<br />
-  <div class="outline-text-3" id="text-org77e1209">
+  <li><a id="org55ce344"></a>Closing<br />
+  <div class="outline-text-3" id="text-org55ce344">
   <p>
   Whether you find these prayers helpful for your own spiritual work, as always, I welcome any and all feedback!
   </p>
   </div>
   </li>
 
-  <li><a id="orgc771424"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgc771424">
+  <li><a id="org86112ff"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org86112ff">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10887.html">dreamwidth post</a>.</i>
   </p>
@@ -2736,8 +2991,8 @@
   </div>
   </li>
 
-  <li><a id="org102afb9"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org102afb9">
+  <li><a id="orga45d45e"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orga45d45e">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -2763,9 +3018,10 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orga267c0c"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orga267c0c">
+  <li><a id="org00e41a0"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org00e41a0">
   <ul class="org-ul">
+  <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a> - <b>You Are Here</b></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_3_the_maiden_with_the_mead">The Seed of Yggdrasill 3 - The Maiden with the Mead</a></li>
@@ -2849,8 +3105,8 @@
   </div>
   </li>
 
-  <li><a id="org3c4d2ec"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-org3c4d2ec">
+  <li><a id="orgc84decf"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-orgc84decf">
   <p>
   First, a handful of thoughts on the physical book. I have the 2020 edition,
   which is the one currently available, but it was first printed in 2012 as a
@@ -3051,16 +3307,16 @@
   </ul>
   </li>
 
-  <li><a id="orgb8ac518"></a>Closing<br />
-  <div class="outline-text-3" id="text-orgb8ac518">
+  <li><a id="orgbd74b01"></a>Closing<br />
+  <div class="outline-text-3" id="text-orgbd74b01">
   <p>
   Altogether, this book has a <i>lot</i> to recommend it, but it takes a certain amount of energy to grapple with in anything but the most casual way. I sincerely wish Kvilhaug had some kind of partner of the organizational, attention-to-detail variety who shared her passion for these myths. Then we could have things like a list of all of the major Gods, Goddesses, and steads with their names translated, to be used as a reference when reading. We could have chapters and sections that can be looked up as needed, rather than having to be sifted out of the entire 600-page web. We could have lists of the formulas she's identified with pointers to what myths you can find them in. Such glorious possibilities! Alas, for now, I'll have to settle for making my own sense of what she has to offer and sharing what I find with you.
   </p>
   </div>
   </li>
 
-  <li><a id="org69ac12a"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org69ac12a">
+  <li><a id="orgf75b7db"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgf75b7db">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10405.html">dreamwidth post</a>.</i>
   </p>
@@ -3251,8 +3507,8 @@
   </div>
   </li>
 
-  <li><a id="org607b189"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org607b189">
+  <li><a id="orgeafa262"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgeafa262">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10116.html">dreamwidth post</a>.</i>
   </p>
@@ -3514,8 +3770,8 @@
   </div>
   </li>
 
-  <li><a id="org0fc2540"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org0fc2540">
+  <li><a id="orga5ddc44"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orga5ddc44">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9809.html">dreamwidth post</a>.</i>
   </p>
@@ -3627,8 +3883,8 @@
   </div>
   </li>
 
-  <li><a id="org0385625"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org0385625">
+  <li><a id="org2368952"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org2368952">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9590.html">dreamwidth post</a>.</i>
   </p>
@@ -3727,7 +3983,7 @@
   <li><a id="org805998b"></a>Building  a Mystery<br />
   <div class="outline-text-3" id="text-org805998b">
   <p>
-  For dramatic purposes, I've held off introducing some influences that I really encountered earlier, but this is where they truly became significant. I began to take far more seriously Jung's contention that mythology contained deep psychological truth and meaning encoded in symbols and "beings". I thought something like "well, 'gods' may not actually be magical dudes and ladies floating out there in the sky or an alternate dimension, but they might actually be useful, nuanced personifications of inter-related concepts, impressions, and feelings, and religious ritual might be an empirically-proven technique for interacting with these aspects of the subconscious". <a href="http://www.catb.org/esr/writings/dancing.html">This essay</a> by the old-school hacker and polymath Eric S. Raymond is a pretty good explanation of the concept, and might be the first place I encountered the idea. It will also come as no surprise that this led me to find rather a lot of value in Jordan Peterson's material (at least, if you've engaged with him at any level beyond "is this guy the devil?"). His work really helped me get a more intuitive grasp of the archetypes and how to recognize them in stories and mythologies, along with what they're doing in our subconscious (for example, using archetypal analysis helped me figure out some of the weirder ends of my sexual fantasizing over the years. No I won't tell you what it was).
+  For dramatic purposes, I've held off introducing some influences that I really encountered earlier, but this is where they truly became significant. I began to take far more seriously Jung's contention that mythology contained deep psychological truth and meaning encoded in symbols and "beings". I thought something like "well, 'gods' may not actually be magical dudes and ladies floating out there in the sky or an alternate dimension, but they might actually be useful, nuanced personifications of inter-related concepts, impressions, and feelings, and religious ritual might be an empirically-proven technique for interacting with these aspects of the subconscious". <a href="http://www.catb.org/esr/writings/dancing.html">This essay</a> by the old-school hacker and polymath Eric S. Raymond is a pretty good explanation of the concept, and might be the first place I encountered the idea. It will also come as no surprise that this led me to find rather a lot of value in Jordan Peterson's material (at least, if you've <a href="#jordan_peterson_s_framework_for_myth">engaged with him</a> at any level beyond "is this guy the devil?"). His work really helped me get a more intuitive grasp of the archetypes and how to recognize them in stories and mythologies, along with what they're doing in our subconscious (for example, using archetypal analysis helped me figure out some of the weirder ends of my sexual fantasizing over the years. No I won't tell you what it was).
   </p>
 
   <p>
@@ -3767,7 +4023,7 @@
   <li><a id="org9a31c45"></a>I Know I'm Searching for Something, Something So Undefined<br />
   <div class="outline-text-3" id="text-org9a31c45">
   <p>
-  Okay, so thank you for bearing with me for that brief foray into psychedelic "trip reports", which are <i>always</i> less compelling to literally everyone else than the one who experienced them. Back to your regularly-scheduled examination of intellectual influences. So, here I was doing better psychologically and personally - I wasn't drinking so much anymore, I was doing even better as a dad, taking care of more things around the house, seeming more myself, all that good stuff. So I wasn't any more interested in spiritual topics like philosophy, mythology, religion, and so forth than I always had been when I read a book called <i>World Full of Gods</i> by John Michael Greer.
+  Okay, so thank you for bearing with me for that brief foray into psychedelic "trip reports", which are <i>always</i> less compelling to literally everyone else than the one who experienced them. Back to your regularly-scheduled examination of intellectual influences. So, here I was doing better psychologically and personally - I wasn't drinking so much anymore, I was doing even better as a dad, taking care of more things around the house, seeming more myself, all that good stuff. So I wasn't any more interested in spiritual topics like philosophy, mythology, religion, and so forth than I always had been when I read a book called <a href="https://bookshop.org/p/books/a-world-full-of-gods-an-inquiry-into-polytheism-john-michael-greer/18731823?ean=9781801520805">World Full of Gods</a> by John Michael Greer.
   </p>
 
   <p>
@@ -3839,7 +4095,7 @@
   </p>
 
   <p>
-  So, what falls out of all of the above? I believe that there is more to me and to you than our bodies. We have an everlasting soul that was around before we were born and will be around after we die. Other non-bodily Beings are trying to either help or hurt these souls on our way. Those souls come down in the material world to learn its lessons life after life, and all of us will eventually learn every lesson we need, moving on to some new way of being. There are some practices, like religion, magic, and so forth, that can help you learn some of those lessons faster and less painfully. Pretty much all religious folks are onto at least a portion of this, but none of us have the whole picture - as such it pays to be open-minded and welcoming to religious folks, but also not to be too shaken by meeting folks who practices are very different from your own.
+  So, what falls out of all of the above? I believe that there is more to me and to you than our bodies. We have an everlasting soul that was around before we were born and will be around after we die. Other non-bodily Beings are trying to either help or hurt these souls on our way. Those souls come down in the material world to learn its lessons life after life, and all of us will eventually learn every lesson we need, moving on to some new way of being. There are some practices, like religion, magic, and so forth, that can help you learn some of those lessons faster and less painfully. Pretty much all religious folks are onto at least a portion of this, but none of us have the whole picture - as such it pays to be open-minded and welcoming to religious folks, but also not to be too shaken by meeting folks whose practices are very different from your own.
   </p>
 
   <p>
@@ -3868,8 +4124,8 @@
   </div>
   </li>
 
-  <li><a id="org98fc19b"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org98fc19b">
+  <li><a id="org0ab413a"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org0ab413a">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9076.html">dreamwidth post</a>.</i>
   </p>
@@ -4035,8 +4291,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org315aec5"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org315aec5">
+  <li><a id="org9804186"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org9804186">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/8865.html">dreamwidth post</a>.</i>
   </p>
@@ -4904,8 +5160,8 @@
   </div>
   </li>
 
-  <li><a id="orgc84decf"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-orgc84decf">
+  <li><a id="org47f2de5"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-org47f2de5">
   <p>
   This is not usually something I would talk about when going over a book, but
   here I think it's warranted, both good and bad. First off, the good stuff:
@@ -5002,8 +5258,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org20b54d3"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org20b54d3">
+  <li><a id="org1f6ea83"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org1f6ea83">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -5104,8 +5360,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org4df3c0b"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org4df3c0b">
+  <li><a id="orgf0b47ea"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orgf0b47ea">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -5291,8 +5547,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org40e1cbb"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org40e1cbb">
+  <li><a id="org90f1529"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org90f1529">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -5535,8 +5791,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org8fdf556"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org8fdf556">
+  <li><a id="org4fe49fa"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org4fe49fa">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -5759,8 +6015,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgc056de6"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-orgc056de6">
+  <li><a id="org57c1135"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org57c1135">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a> &#x2013; You are Here</li>
@@ -5931,8 +6187,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org1f6ea83"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org1f6ea83">
+  <li><a id="org7e76921"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org7e76921">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a> &#x2013; You are Here</li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -6859,8 +7115,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org858fe8b"></a>Way 1<br />
-  <div class="outline-text-3" id="text-org858fe8b">
+  <li><a id="org1438ae6"></a>Way 1<br />
+  <div class="outline-text-3" id="text-org1438ae6">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -6879,8 +7135,8 @@
   </div>
   </li>
 
-  <li><a id="org89579ea"></a>Way 2<br />
-  <div class="outline-text-3" id="text-org89579ea">
+  <li><a id="orgb3402d9"></a>Way 2<br />
+  <div class="outline-text-3" id="text-orgb3402d9">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -6899,8 +7155,8 @@
   </div>
   </li>
 
-  <li><a id="orgc69ea88"></a>Way 3<br />
-  <div class="outline-text-3" id="text-orgc69ea88">
+  <li><a id="org6939437"></a>Way 3<br />
+  <div class="outline-text-3" id="text-org6939437">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -7280,8 +7536,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org1438ae6"></a>Way 1<br />
-  <div class="outline-text-3" id="text-org1438ae6">
+  <li><a id="orge3f27d2"></a>Way 1<br />
+  <div class="outline-text-3" id="text-orge3f27d2">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -7299,8 +7555,8 @@
   </div>
   </li>
 
-  <li><a id="orgb3402d9"></a>Way 2<br />
-  <div class="outline-text-3" id="text-orgb3402d9">
+  <li><a id="org90d92d0"></a>Way 2<br />
+  <div class="outline-text-3" id="text-org90d92d0">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -7318,8 +7574,8 @@
   </div>
   </li>
 
-  <li><a id="org6939437"></a>Way 3<br />
-  <div class="outline-text-3" id="text-org6939437">
+  <li><a id="orgd593681"></a>Way 3<br />
+  <div class="outline-text-3" id="text-orgd593681">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -7812,8 +8068,8 @@
   </div>
   </li>
 
-  <li><a id="orgf1eb666"></a>The Poetic Edda<br />
-  <div class="outline-text-4" id="text-orgf1eb666">
+  <li><a id="org833f227"></a>The Poetic Edda<br />
+  <div class="outline-text-4" id="text-org833f227">
   <p>
   <b>By</b>: Many writers<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -8580,8 +8836,8 @@
   </div>
   </li>
 
-  <li><a id="orgccc29e2"></a>Shamanism<br />
-  <div class="outline-text-5" id="text-orgccc29e2">
+  <li><a id="org47b950d"></a>Shamanism<br />
+  <div class="outline-text-5" id="text-org47b950d">
   <p>
   <b>By</b>: Mircea Eliade<br />
   <b>Have I Read It?</b>: About halfway.<br />
@@ -8984,8 +9240,8 @@
   </div>
   </li>
 
-  <li><a id="org9456094"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-org9456094">
+  <li><a id="orgd430b5c"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-orgd430b5c">
   <p>
   <b>By</b>: Dr. Stephen Flowers, PhD.<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -8995,8 +9251,8 @@
   </li>
 
 
-  <li><a id="orgd430b5c"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-orgd430b5c">
+  <li><a id="org632a2d1"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-org632a2d1">
   <p>
   <b>By</b>: P.D. Brown and Michael Moynihan (eds)<br />
   <b>Have I Read It?</b>: Some<br />
@@ -9172,8 +9428,8 @@
   </ul>
   </li>
 
-  <li><a id="org47b950d"></a>Shamanism<br />
-  <div class="outline-text-4" id="text-org47b950d">
+  <li><a id="org8db539f"></a>Shamanism<br />
+  <div class="outline-text-4" id="text-org8db539f">
   <p>
   As I said above, "shamanism" is a word that gets used for many unalike things, but the ways of the folks who live about the North pole gave us the name, and I think it likely those ways left some mark on the ways of the Norse at least, and maybe the wider Germanish world. The books below are all by Raven Kaldera and/or Galina Krasskova, and they have a way of looking at things that is rather unlike other folks, so take with as much salt as seems right to you.
   </p>
@@ -10929,8 +11185,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org3b86fc6"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org3b86fc6">
+  <li><a id="orgecf4614"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgecf4614">
   <p>
   The Story Grid by Shawn Coyne
   </p>
@@ -10967,8 +11223,8 @@
   </ul>
   </li>
 
-  <li><a id="orgb3c241c"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgb3c241c">
+  <li><a id="org5ae2874"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org5ae2874">
   </div>
 
   <ul class="org-ul">
@@ -11021,8 +11277,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org78cef09"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org78cef09">
+  <li><a id="org3c06557"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org3c06557">
   </div>
 
   <ul class="org-ul">
@@ -11068,8 +11324,8 @@
   </ul>
   </li>
 
-  <li><a id="org303e707"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org303e707">
+  <li><a id="org1db9288"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org1db9288">
   </div>
 
   <ul class="org-ul">
@@ -11106,8 +11362,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org2834a38"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org2834a38">
+  <li><a id="org80a7a5f"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org80a7a5f">
   </div>
 
   <ul class="org-ul">
@@ -11153,8 +11409,8 @@
   </ul>
   </li>
 
-  <li><a id="orgf14c6d8"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgf14c6d8">
+  <li><a id="org3ee65bc"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org3ee65bc">
   </div>
 
   <ul class="org-ul">
@@ -11199,8 +11455,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org7a1e672"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org7a1e672">
+  <li><a id="org8565422"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org8565422">
   </div>
 
   <ul class="org-ul">
@@ -11238,8 +11494,8 @@
   </ul>
   </li>
 
-  <li><a id="orge5fe2ad"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orge5fe2ad">
+  <li><a id="orga1b49a4"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orga1b49a4">
   </div>
 
   <ul class="org-ul">
@@ -11276,8 +11532,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org32be011"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org32be011">
+  <li><a id="org9a8d9a9"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org9a8d9a9">
   </div>
 
   <ul class="org-ul">
@@ -11323,8 +11579,8 @@
   </ul>
   </li>
 
-  <li><a id="orgc366dce"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgc366dce">
+  <li><a id="org6415e8e"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org6415e8e">
   </div>
 
   <ul class="org-ul">
@@ -11369,8 +11625,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgecf4614"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgecf4614">
+  <li><a id="org2700ce9"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org2700ce9">
   </div>
 
   <ul class="org-ul">
@@ -11408,8 +11664,8 @@
   </ul>
   </li>
 
-  <li><a id="org5ae2874"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org5ae2874">
+  <li><a id="org4e0e5aa"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org4e0e5aa">
   </div>
 
   <ul class="org-ul">
@@ -12638,8 +12894,8 @@
   </div>
   </li>
 
-  <li><a id="org833f227"></a>The Poetic Edda<br />
-  <div class="outline-text-3" id="text-org833f227">
+  <li><a id="org428011a"></a>The Poetic Edda<br />
+  <div class="outline-text-3" id="text-org428011a">
   <p>
   <b>By Unknown, but I like the Hollander and Crawford translations</b>
   </p>
