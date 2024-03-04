@@ -14,8 +14,8 @@
   <link></link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Sun, 25 Feb 2024 23:29:19 -0600</pubDate>
-  <lastBuildDate>Sun, 25 Feb 2024 23:29:19 -0600</lastBuildDate>
+  <pubDate>Sun, 03 Mar 2024 22:53:55 -0600</pubDate>
+  <lastBuildDate>Sun, 03 Mar 2024 22:53:55 -0600</lastBuildDate>
   <generator>Emacs 29.0 Org-mode 9.7-pre</generator>
   <webMaster>jeff.powell.russell@gmail.com (Jeff Russell)</webMaster>
   <image>
@@ -25,125 +25,350 @@
   </image>
 
   <item>
-    <title>[Book] Stories of the Rose</title>
-    <link>./#book_stories_of_the_rose</link>
+    <title>Further Thoughts on Religious Authenticity</title>
+    <link>./#further_thoughts_on_religious_authenticity</link>
     <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
-    <guid isPermaLink="false">./#book_stories_of_the_rose</guid>
-    <pubDate>Wed, 14 Feb 2024 14:24:00 -0600</pubDate>
+    <guid isPermaLink="false">./#further_thoughts_on_religious_authenticity</guid>
+    <pubDate>Sun, 03 Mar 2024 08:43:00 -0600</pubDate>
     <category><![CDATA[rss]]></category>
     <description><![CDATA[<p>
-    <b>Date</b>: 2024-February-14
+    <b>Date</b>: 2024-March-03
     </p>
 
     <p>
-    After spending so long getting through <a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill</a>, I wanted to read (and post about) something a bit quicker, and so I pulled out <i>Stories of the Rose: The Making of the Rosary in the Middle Ages</i> by Anne Winston-Allen. This book does exactly what it says on the tin: it tells you how the Rosary as we know it came to be, with an emphasis on how the meditations know accepted as official developed. It's fairly well-written and pretty readable, if a bit dry at times, but it is (mostly) mercifully free of the kind of theory-heavy jargon you sometimes find in anything doing "textual analysis" after the 70s or so.
-    </p>
-
-    <p>
-    If that sounds like it's up your alley, you can find it reasonably priced from used book sellers as of the time of this writing, but weirdly, new paperback copies are rather pricey (I expect it's the usual price inflation on books that get listed as textbooks for college courses). Of course, my copy, bought used off alibris for a reasonable cost nevertheless insists on mocking me with the "50 cents" sticker that was no doubt applied to it when some tiny Catholic bookstore decided to make room for new stock.
-    </p>
-
-    <p>
-    I came to this book for my <a href="#framework_for_a_heathen_rosary">own ends</a>, so what I found notable and worthwhile might be a bit idiosyncratic, and some stuff the book gets into was outside of those interests - for example, it spends a while exploring how the promise of indulgences helped make the Rosary more popular, and how reformers like Martin Luther responded to that, all of which is quite interesting historically, but less useful for shaping a set of prayers for today. All that being said, here's some of what I thought was best from this book.
+    Over on the last <a href="https://ecosophia.dreamwidth.org/268694.html">Magic Monday</a> AMA hosted by John Michael Greer, a friendly
+    online acquaintance asked <a href="https://ecosophia.dreamwidth.org/268694.html?thread=46771862#cmt46771862">some questions</a> about how to go about worshiping Gods
+    from past cultures without being a part of those cultures, and the common thread
+    running between them that I picked up was "how do I do this without being fake?"
+    I replied briefly in the linked thread, but I've been thinking about it some
+    over the past week, and I'd like to share some <i>slightly</i> more developed thoughts,
+    but I'd put this post firmly in the "thinking things through" category, so
+    please take it in the spirit it's offered.
     </p>
 
     <ul class="org-ul">
-    <li><a id="orgf16254e"></a>The Rosary Evolved Bit by Bit<br />
-    <div class="outline-text-3" id="text-orgf16254e">
+    <li><a id="orgea704b6"></a>The Problem - Broken Traditions<br />
+    <div class="outline-text-3" id="text-orgea704b6">
     <p>
-    The first thing that this book makes very clear is that the Rosary as we have it <i>evolved</i>. It grew as bits and pieces were added, taken away, substituted, and otherwise experimented upon. You could say that it is emergent if you go in for that kind of language. Basically, a few threads that were important in European Christianity of the middle ages came together, and a way of weaving them together was found that worked for a large number of people. First, you had the practice of reciting the Psalter, all 150 psalms in a row. This was a devotional practice mainly among monks, because it required a lot of time and dedication, and either years of practice to memorize a whole book of hymns, or else being literate and having said book in front of you - either approach basically boiled down to "be a monk" in the middle ages. Another thread was the growing prominence of Marian devotions at this time. Bits and pieces of what would become the <i>Ave Maria</i> had been said for a long time, but they came to more prominence in Europe in the middle ages than in other parts of Christendom at other times (me, I suspect this is because Europeans were feeling the lack of Goddesses in their religion, but that's a whole other thing). A third thread was the developing practice of contemplative meditation and prayer of various kinds. Lastly, you had the use of prayer beads to keep track of prayers that were meant to be said in a specific number, which was apparently very old and very widespread (this book doesn't go into this thread as much as I wish it did, but the author is a historian, not an archaeologist or anthropologist, so it makes sense, her focus is on documents).
+    So, first off, let's try to elaborate a little on what the challenge is. For
+    most humans, in most times, "religion" wasn't really a thing. Your folk had
+    beliefs and practices about the Gods, and that's just the way things were. It
+    was only when cultures started bumping into each other and seeing that they did
+    these things differently that the idea of "religion" as a category got hashed
+    out, and only in fairly cosmopolitan cultures, like the Roman empire or today's
+    West, that the idea of <i>choosing</i> your religion based on what seemed best to you
+    was even remotely conceivable. So, the default for religious practice and belief
+    is to learn what your folks and everyone around you does bit-by-bit, mostly
+    absorbing it by osmosis as you celebrate holy days, bless your food before
+    eating, and get told bedtime stories.
     </p>
 
     <p>
-    All of these threads likely originated among monastic communities, but the overall trend that wove these threads together was a thirst among lay worshipers for ways of practicing their religion outside of weekly mass. Naturally enough, they looked to what the religious professionals were doing, and began to draw inspiration from them, which brings us to the first thread that kicked all of this off - saying the psalter. As I mentioned, this would have presented some big challenges to a devout layman: the whole <i>point</i> of saying all 150 psalms in a row is that it takes a long time - it's meant to demonstrate devotion by being hard! That's well and good when demonstrating your devotion is your whole life, as a monk, but can be challenging when you need to bring the crops in or your family will starve. Also, as I said, if you aren't a monk, you likely <i>can't</i> say the psalms, because you can't read them and you can't memorize them. So, monks started recommending "lay psalters" of saying 150 of either the <i>Pater Noster</i> or the <i>Ave Maria</i>. The prayers are shorter and you only have to memorize the one (which you should have done as a good Christian already anyway). The prayer beads came in as a handy way to keep track of which of 150 repetitions you were on.
-    </p>
-
-    <p>
-    So far, so reasonable. The trouble is, saying 150 of the same prayer in a row is <i>boring</i>. Again, you might say that the hardship is part of the devotional act, but the market for religious practices that intentionally suck is fairly small. So folks started looking for ways to enliven the practice. One way was to break it up into chunks and to create some variation, such as into three groups of 50, and to say a different prayer in between each group. Another was where the contemplative meditation thread comes in. Various priests, mostly monks, began recommending that the "lay psalter" be paired with thinking about certain ideas, characteristics, or images from Christian teachings. One early approach that gained some popularity was to recite/think about a quality of Mary with each repetition of an <i>Ave Maria</i>. These qualities were originally keyed to the first line of each psalm, maintaining the link with the <i>actual</i> psalter, but the trouble was that the lay folks who were learning this didn't know the psalms to begin with, so it felt like a list of 150 arbitrary characteristics of Mary, in no particular order, with no particular sense. So folks went looking for other ideas that worked. One was to focus on three things, one for each third of the prayers: Mary's joys in Jesus's life, Mary's sorrows at his death, and Mary's triumph in his glorious resurrection. Another was to think about the events of Christ's life. What turned out to be the winning combination was to group the events of Christ's life into three groups of five, each with the themes above, and thus the Joyous Mysteries, the Sorrowful Mysteries, and the Glorious Mysteries.
-    </p>
-
-    <p>
-    All of which gets us to the Rosary as we have it today: you say some prayers at the beginning, and some at the end, but mostly you say 150 <i>Ave Marias</i>, with one <i>Pater Noster</i> in between each group of 10. For each 10 <i>Aves</i>, you think about one of five scenes from Jesus or Mary's life from each category of the mysteries, and after you get all the way around your beads, you move on to the next group of mysteries. One thing that made breaking it up this way helpful is that it created natural stopping points for folks who couldn't say the whole thing at once. It has become normal practice to work your way through one groups of mysteries a day. It's a practice that takes some time and dedication, thus helping to show devotion, but is flexible and engaging enough that normal humans can work it into their lives around all of their other responsibilities.
-    </p>
-
-    <p>
-    What helped all of this get figured out is that until the Rosary received papal sanction in its modern form much later, different folks tried different things and shared how it went. There were groups called confraternities that would teach you, books you could buy, popular songs you could hear, and so forth. All of which created a bubbling cauldron of experimentation where stuff that worked better for more folks spread, and what didn't died out. In other words, you had distinct traits with variation that were subjected to selective pressures. So, when I say the Rosary <i>evolved</i>, I'm not being metaphorical, it literally did.
-    </p>
-
-    <p>
-    For me, all of this is a <i>bit</i> discouraging, as I am trying to do the opposite - put together a whole practice from scratch on my own that is as compelling as the Christian Rosary. Very likely my task is impossible and the best I can hope for is to provide a few threads for a similar evolutionary process. What I am doing, though, is trying to keep as much of the shape of the Christian Rosary as I can, since something that seems incidental might have actually been important. Also, I'm doing analysis like this so that I understand as much as I can what makes the Christian Rosary work and apply the same principles to the heathen concepts and images I am bringing into the practice I'm crafting. We'll have to see how it goes.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org8637085"></a>Memory Imposed Constraints on What Worked and What Did Not<br />
-    <div class="outline-text-3" id="text-org8637085">
-    <p>
-    Maybe the most interesting insight from the book is one of those that feels obvious in hindsight, but was interesting precisely because I hadn't thought of it: one of the major drivers for what variations stuck over those that didn't was the constraint of human memory. As we talked about above, monks are specialists who could devote a lot of time and effort to complex devotional practices, and if they couldn't memorize them, they could follow along with a book. Lay folks couldn't do this, and so variations that are easier to remember did better than those that are harder. For example, instead of presenting 15 mysteries as independent things, they are grouped into three thematic groups. This takes advantage of the well-known memory-strengthening technique of <a href="https://infogalactic.com/info/Chunking_(psychology)">chunking</a> - you take elements that have something in common and "chunk" them together under a label, and then you remember the label (this even works with non-thematically linked things, see phone and credit card numbers being in groups of 3-5 digits). Another way that part of the rosary got selected for what folks can remember was the shift from disconnected traits, characteristics, or events to <i>narrative</i> - instead of 150 characteristics of Mary, you have the life of Jesus. We are wired to remember stories, and especially stories about people. The three groups of five mysteries we have now combine these factors: the five mysteries in each group are chronological, the three groups are chronological, and the each group has a thematic coherence that makes it easier to remember <i>which</i> scenes from Jesus's life are in which group, and thus which comes next.
-    </p>
-
-    <p>
-    So, that's pretty cool. Luckily, this is something that I can much more readily copy, as heathen myths have just as much capacity for narrative coherence and memorable vividness, and I know enough about chunking and other ways to make things memorable to build those into what I'm working on. I don't have the life of one man/God to anchor things, which might make it more challenging, but here again, we'll see.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org971f6d2"></a>Interplay Between Contrasting Elements - Jesus and Mary, Repetition and Variety<br />
-    <div class="outline-text-3" id="text-org971f6d2">
-    <p>
-    One of the things that first struck me about the Rosary was the way that it weaves together several lines of contrast: happiness against sorrow, manly against womanly, repetitive against various, and so forth. <a href="#thoughts_on_the_way_of_the_rose">Way of the Rose</a> goes into a lot of this rather well, I think, highlighting especially the interplay of life and death, mother and father, sin and mercy. Winston-Allen adds a new insight by pointing out that such interplay was a common appreciated motif in other bits of folkways at the time: song, poetry, and religious plays were all characterized by a "theme" and "counterpoint," and so it's not shocking that such a stylistic element would find it's way into the Rosary. What I do find striking, though, is <i>how many</i> of these "themes" and "counterpoints" we get crammed into one fairly small, seemingly simple practice, at every level. Small beads and large beads, <i>Aves</i> and <i>Paternosters</i>, joyful mysteries and sorrowful, and more. I strongly suspect that this dense interweaving of push-pull or back-and-forth elements is one of the keys to the strength of the Rosary, and I am seeking ways to embed the same in the practice I am putting together. Another finer point that Winston-Allen points out is that the Rosary's meditations ended up as 2/3 uplifting, and 1/3 sorrowful, and significantly, ends on one of the most uplifting scenes. So, while the contrast between joy and sorry provides a strong emotional punch, the overall practice is clearly weighted toward the good, which I think is likely another one of the reasons for the Rosary's sticking power: most of us aren't made for hairshirts, and we need to not only balance the happy and the sad, but to seek out enough happiness to compensate for the sad.
+    Today, though, we live in a very different world. Sure, many of us take on the
+    religion of our fathers and mothers, and many of us find that wholly satisfying.
+    On the other hand, if you are someone living today whose experiences draw you to
+    the belief that there are many Gods, your options for worship are somewhat
+    limited, and all have their issues. The only living polytheistic traditions
+    still around are, unsurprisingly, deeply embedded within the cultures in which
+    they grew. If you want to become a practicing Hindu and didn't grow up as one,
+    that comes with a lot of cultural assumptions that you can pretty much only get
+    by going and living in India for a while (I dunno, <i>maybe</i> living with a Hindu
+    family in another country might do it too - I haven't tried). If you are instead
+    drawn to the polytheistic beliefs of cultures that have since become Christian,
+    you have a similar, but even more severe problem: those beliefs are <i>also</i> deeply
+    embedded in their home cultures, but you <i>can't</i> go live in them, because they are
+    either gone or transformed utterly (I was in Stockholm a couple months ago, and
+    it wasn't exactly full of Vikings). All of which means, if you choose to worship
+    multiple Gods from a culture without a living tradition of doing so, you're
+    going to have to make some decisions, and almost certainly, you're going to have
+    to make some stuff up/work things out by experimentation. So, how do you go
+    about that without just playing pretend?
     </p>
     </div>
     </li>
 
-    <li><a id="org8a5a9b2"></a>The Importance of "Picture Texts," Confraternities, and Physical Beads as Advertisements<br />
-    <div class="outline-text-3" id="text-org8a5a9b2">
+    <li><a id="orga96bdb9"></a>Personal Authenticity against Traditional Authenticity<br />
+    <div class="outline-text-3" id="text-orga96bdb9">
     <p>
-    At times, Winston-Allen pointed out some things that weren't huge, but were interesting and surprising to me. One of those was the likely role played things besides the prayer itself in spreading the Rosary. The first of these was the printing of "picture texts," which had illustrations of scenes of Jesus's life. Specifically, these picture texts had three groups of five pictures, and those pictures are very close to what became the standard Rosary meditation themes - about 100 years before we have written evidence of these themes! I'm pretty sure this was Winston-Allen's main scholarly contribution in this text: she argues that the picture texts might well be the source of what are today known as the mysteries (well, other than the five "Luminous Mysteries" added by Pope John Paul II), and this has been overlooked because historians deal primarily in written texts. Whether or not the picture texts are where the 15 mysteries came from, we can say pretty confidently that they played a huge role in popularizing the Rosary. As the Rosary was coalescing from the various bits that went into it, the printing press was becoming more widespread, but literacy lagged behind. That meant that for a long time, there was a market for printed material that was mainly pictorial in nature, and if that pictorial pamphlet said it could save you from decades or centuries in purgatory, well, that was gonna be popular! Songs played a similar role, talking about the Rosary and how great it was in a way that many normal people could access.
+    First off, this discussion brought up a distinction I didn't make in my <a href="#the_trouble_with_authenticity">earlier
+    thoughts on authenticity</a> between what we might call "personal" and
+    "traditional" authenticity. Traditional authenticity is what I talked about in
+    that post: does a tradition, belief, or practice come from where it says it
+    does, and does that source have legitimacy. Personal authenticity is more like
+    <a href="https://en.wiktionary.org/wiki/to_thine_own_self_be_true">"to thine own self be true"</a> - are your outer actions and statements consistent
+    with your inner beliefs and perceptions. Almost by definition, if you're the
+    kind of person who is seeking out an alternative spiritual practice, you're
+    likely concerned with personal authenticity - if your inner experiences didn't
+    conflict with what was obvious and readily available, you wouldn't be looking
+    for something else. So, how does it affect building a modern spiritual practice?
     </p>
 
     <p>
-    Besides "texts" (in the widest literary critique sense), another factor that greatly contributed to the Rosary's spread and success was the confraternity created to promote it. If you're not familiar, confraternities are Christian (most often Catholic) voluntary organizations dedicated to some specific act or charity, usually with some kind of official church approval. Many became rather important in the late middle ages and Renaissance, and some remain important today (like the Confraternity of the Rosary). What made the Rosary Confraternity special and interesting was that 1. membership was free, 2. membership was open to <i>anyone</i>, and 3. at least early on, local chapters had a lot of flexibility. One further thing that I think must have loomed large at the time, but seems less interesting today, is that the confraternity prayed on behalf of all of its members, living or dead - which meant joining was a kind of "spiritual insurance" against suffering in purgatory. The flexibility I mentioned is especially interesting: early on, the confraternity did <i>not</i> tell all of its members that there was only one way to pray the Rosary - instead, different chapters offered different options, some more wide-open than others, and things like participation in public festivals were tweaked to suit local needs. It seems to me that having a coherent organization with a clear charter, leadership, and membership, that was nevertheless flexible and open-ended must have been a really powerful combination for spreading knowledge about and practice of the Rosary.
+    Well, first off, I can only really speak for myself here, and I am, of course,
+    still pretty new to this - I've only been worshiping seriously <a href="#how_i_came_to_believe_what_i_do">for about three
+    years</a>, maybe six if you count my earlier "it's all archetypes" experience. All
+    of which is to say, salt the following appropriately. First off, my own practice
+    <i>greatly</i> favors <a href="https://www.ecosophia.net/blogs-and-essays/the-well-of-galabes/gnosis-doxa-and-episteme-or-what-kind-of-knowledge-do-you-mean/">gnosis over either episteme or doxa</a>. That's pretty heavily
+    weighted toward personal authenticity already. Partly this is because I am
+    almost perversely individualistic, but it's also part of how I deal with the
+    problem of broken traditions laid out above. While it might be <i>wonderful</i> to have
+    grown up in a culture with a strong and intact religious tradition that
+    recognizes the power and beauty of the land, the many spirits that seem to
+    inhabit it, and distinctly different divine presences, I didn't. So, since my
+    own gnosis suggests that these things are religiously significant, I have to
+    find something that embraces them.
     </p>
 
     <p>
-    The last thing contributing to the Rosary's spread and popularity outside of the prayers and meditations and their spiritual effects might have been the <i>beads themselves</i>. Folks who prayed the Rosary regularly had a set of beads, sometimes very attractively made, that they might wear looped through a belt, wrapper around the wrist/arm, or even as a necklace. These beads would form an advertisement of their own to anyone who saw that did not already know about the Rosary. Further, given the spiritual significance of the beads, folks came to believe that the beads worked as a protective amulet against hostile spiritual forces (I'm inclined to believe they were mostly right). Whatever the reason, a set of Rosary beads served as an advertisement to those not yet praying it, and a reminder and strengthener to faith.
+    Other than my own explicitly religious experiences, I have found one of my chief
+    guides to be an aesthetic sense. Long before I was lighting candles and offering
+    ale to the Germanish Gods, I found their stories extremely compelling. I
+    couldn't really tell you why, they just grabbed me far more than the Greek and
+    Roman myths of the Classics I studied in college (much as I love them, they
+    never resonated the same). So, when I decided to give serious worship a try, the
+    choice was obvious. Having grounded myself in what little we have of that
+    religious tradition, certain things associated with it have also seemed
+    aesthetically consistent - decorative knotwork for religious items, following
+    <a href="#rules_of_germanish_meter">Germanish rules for poetry</a> in today's English, using as many words as I can that
+    come from Germanish roots rather than Latin or Greek, that kind of thing. For
+    this stuff, I don't have any kind of "logical" or authority-based argument - I
+    don't go "if you read this verse of <i>Voluspa</i>, it clearly implies religious garb
+    must have knotwork!" <i>Sometimes</i>, we have clues in the lore or historical record,
+    but often, the best I can really do is "this feels right." Of course, I try to
+    check such feelings with prayer and divination, and if I try something for
+    awhile and it doesn't work, I change it up, but truly, "is it
+    beautiful/interesting/compelling?" is often the best guide I have.
+    </p>
+
+    <p>
+    On the other hand, for some reasons I'll go into more below, I also don't come
+    at things as a <i>complete</i> choose-your-own-adventure smorgasbord, the way some
+    "eclectic neopagans" might. As a polytheist, I have no problem believing that
+    the Gods from every culture are real and that worship of them is appropriate. On
+    the other hand, specific pantheons have a certain coherence to them, their own
+    "flavor" if that's not skirting too close to blasphemy. The view of the world
+    embodied in the Germanish Gods and their myths is not the same as that of the
+    Greeks, and those two are more alike than either is to that of the Chinese. At
+    least for me, there is worth in <i>mostly</i> sticking to a single "religious idiom,"
+    rather than treating every God, myth, or practice as a potential component of my
+    Rube Goldberg religion. Now, sure, I do use <a href="#a_quick_grounding_in_revival_druidry">Revival Druidry</a> as a framework for
+    much of my practice and religious philosophy, and I have established some
+    relationships with Gods and spirits that seem not to present themselves in the
+    Germanish idiom, but mostly, when faced with a specific religious challenge or
+    question, I first look to heathen lore, Gods, and practices, and that
+    consistency gives a worthwhile counterweight to my individualist, eclectic
+    tendencies.
     </p>
     </div>
     </li>
 
-    <li><a id="org4df8b72"></a>Marian Devotion as Making Up for Lack of Goddesses in Christianity<br />
-    <div class="outline-text-3" id="text-org4df8b72">
+    <li><a id="org325f94f"></a>Organic against Artificial<br />
+    <div class="outline-text-3" id="text-org325f94f">
     <p>
-    I had always wondered where all of the "Rose" imagery came from for the Rosary, and this book gives a fair amount of detail on that, so I was grateful. It seems there were two main threads, though these might have influenced one another, and so cleanly separating them may be foolish. First, the <i>Song of Songs</i> from the Old Testament was the <i>most</i> commented upon and referenced book of the Bible in the Middle Ages, which I found somewhat surprising. In it, the narrator (Solomon, presumably), compares his betrothed to a walled garden, emphasizing both the delights within, and the keeping out of anyone else - a obvious metaphor for chastity and sexual fulfillment afterward, in the appropriate context. On the other hand, non-religious poetry of the time also made great use of the "rose garden" as a metaphor for the erotic delights women held within their power to grant to their suitors. All of which means that language about roses and rose gardens was laden with all kinds of symbolic weight for virginity, sexuality, the feminine virtue of selectively withholding sexuality, and so forth. Further complicating things is the fact that erotic imagery was often used in medieval religious writing, especially by mystics, to describe the intensity and intimacy of certain spiritual states, and the line between "secular" and "religious" poetry was very, very blurry - which means you can have a song that makes a lot of erotic references and might mean in a symbolic religious way, a frankly sexual secular way, or even worse, <i>both</i>, or "whichever one gets it printed" - it was a messy and complicated time for symbolism. Obviously, sex has a lot of power and resonance in the human psyche, as does the refraining from it and the outcomes of it, and Mary somehow combines all three (well, not explicitly the "sex" part, but the boatloads of erotic or quasi-erotic imagery applied in songs and poems about her imply that it was in there somewhere).
+    I touched on this thread a bit in my thoughts on <a href="#book_stories_of_the_rose">Stories of the Rose</a>, but
+    another source of tension in solving the problem of broken traditions is the
+    robustness of organically evolved tradition versus the <a href="#book-antifragile">fragility</a> of
+    newly-made-up practices. No matter how careful you are, no matter how sensitive
+    to spiritual matters, no matter how skilled at the relevant crafts, any prayer
+    or ritual you make up just plain doesn't have hundreds or thousands of years and
+    thousands or millions of practitioners working out the kinks and tweaking it
+    until it <i>really</i> works. I gather from more experienced folks that someone with
+    well-developed spiritual senses can come up with things that work a lot more
+    reliably than someone who simply understands things intellectually, but even
+    there, <i>most</i> "new" rituals or prayers draw heavily from things that have come
+    before, because those things have a proven track record. To a degree, this gets
+    into wider questions about rationality against experience, left brain against
+    right brain, and <a href="https://samzdat.com/2017/05/22/man-as-a-rationalist-animal/">legibility</a> against <a href="https://danwang.co/how-technology-grows/">procedural knowledge</a> - all things I want to
+    dive into more, but mostly out of scope for this post. The main point is just
+    that nothing newly made up will have the same richness, depth, and track record
+    of working as something that has been done by lots of people for a long time.
     </p>
 
     <p>
-    One of the main things I think was going on here was medieval Christianity struggling with the facts of life and aspects of the world that polytheist societies have always made the purview of Goddesses. Virginity, sexuality, and maternity are <i>very</i> important and powerful forces in the lives of anyone who isn't an ascetic, and most societies find steering and meaning in these weighty topics among Goddesses, but that option is closed to Christianity. And so, I get the impression that medieval Christians felt the lack of feminine divinity in their official theology, and found it in Mary. Please note that I'm not saying that Mary was worshiped as a Goddess, nor that prayers about these feminine divine energies were misdirected when sent to the saint Mary, nor that this was all material hairless apes coping with their psychology with no spiritual component. Instead, I believe that feminine divine energies are a real part of life and the world, and that the first few centuries of Christianity didn't have a very good way of handling and incorporating those energies, and Marian devotion was a way to meet that mostly unfilled need.
+    For me, this is the single best argument in favor of stricter reconstructionist
+    approaches to ancient polytheistic practice. If you're not familiar, strict
+    reconstructionists (usually if someone says they are "a reconstructionist" they
+    mean they're pretty strict about it - I introduce the qualifier because I think
+    the practice can be helpful, but shouldn't be pursued to excess) do everything
+    they can to learn about how rituals and other practices were done in historical
+    times, and then try to recreate them as precisely as possible. At it's extreme,
+    this results in things like the <a href="https://ealdrice.org/">Theodish</a> dressing in period-accurate clothing,
+    combing ancient texts and the latest archaeology for clues on how to perform
+    rituals, and then speaking those rituals in Old English. The logic goes
+    something like this: "our forebears had a living, intact tradition that we do
+    not, so we should try to get back to that tradition as much as we can." Which is
+    pretty compelling, as far as it goes, but obviously I don't find it <i>quite</i> as
+    convincing as the good men and women of Ealdrice Theod and their ilk. While it's
+    true that those practices were part of a whole, organic culture with a long
+    background, they were part of a <i>very different</i> whole, organic culture from the
+    one we find ourselves living in. Now, when it comes to Germanish belief (and,
+    arguably, to some extent to Greek or Roman), you might say that we still have
+    the same cultural DNA, and so it's not <i>wholly</i> outlandish, but as they say, the
+    past is a foreign country, and our forebears lived very different lives than we
+    do. Back then, sacrificing a pig or a cow was <i>how you ate meat</i>, not an
+    occasional performance. If they spoke their rituals in Old English, they spoke
+    in their mother tongue, with full and deep understanding of the meaning and
+    nuance of every word. In other words, even if you get <i>every single detail</i> right,
+    you're still not doing the same ritual in the same way - because <i>you</i> are not the
+    same.
     </p>
 
     <p>
-    One of the important strands of this feminine divine energy was mercy, as opposed to the harsher, more masculine virtue of justice, and it seems that the Rosary leaned into this whole heartedly. Other than the above-mentioned emphasis on the Joyful and Glorious mysteries, over the sorrowful, there was one specific tweak that <i>really</i> showed that the Rosary was being prayed by those seeking mercy more than those glorifying justice. Specifically, early version of the picture texts and related works of art had the last of the 15 mysteries as the last judgment: Christ returning to earth and setting apart the saved and the damned. Obviously, this is a <i>slightly</i> important event in Christian theology, and a logical end-point to a narrative that is otherwise primarily about the life of Christ. And yet, in most of the picture texts, and in the other texts that seem to have continued that tradition, including what became the official Rosary, the last mystery became <i>not</i> the last judgment, but instead Mary's ascension into heaven and crowning there. All of which suggests that those praying the Rosary found it spiritually fulfilling <i>not</i> as a tool for keeping strict score of punishments deserved, but rather as an earnest asking for and celebration of divine mercy for sins committed.
-    </p>
-
-    <p>
-    For my own work, it's easy to tap into the divine energy that Goddesses bring to the table, because I do worship Goddesses. I can pray to them explicitly, so that makes some things easier in setting up the prayer practice. Even so, the very contrast between the Rosary and what you usually see from Catholic worship is perhaps instructive, and my own inspiration to pursue this path has been driven by a Goddess, so for me, if anything, the challenge will be in finding the right balance between masculine and feminine, rather than in giving weight to the feminine at all.
+    Which leaves us with the conundrum we stated up top: I have no organic tradition
+    to practice, and yet I must practice. So, we <i>have</i> to be a bit artificial, by
+    which I more mean "of artifice/conscious craft" than "fake" - we have to
+    consciously make things the best we can, see how they work for us, and slowly,
+    bit by bit, compare notes with other practitioners and see what works. Maybe one
+    day, hundreds of years from now, there will be an organic, authentic heathenry
+    (or whatever else) that the folk of North America practice unselfconsciously in
+    the manner of their forebears. But we're not there yet, so in the meantime, if
+    we want to honor the Gods and come to know them, we have to accept a bit of
+    artificiality. For my part, I try to use the traditions of the past as a source
+    of inspiration and guidance, an example of "this works/worked" so that I have a
+    good starting point from which to craft my own idiosyncratic stuff. See my <a href="#framework_for_a_heathen_rosary">whole
+    Heathen Rosary undertaking</a>, for one example. Still, I'd be lying if I said I
+    wasn't sometimes jealous of the deep, organic traditions of practice that
+    Hindus, Shintoists, Buddhists, and Orthodox and Catholic Christians have.
     </p>
     </div>
     </li>
 
-    <li><a id="orga917d8f"></a>Much of the Early Development of the Rosary was in German-Speaking Lands<br />
-    <div class="outline-text-3" id="text-orga917d8f">
+    <li><a id="org8a8a9a7"></a>Personal against Communal<br />
+    <div class="outline-text-3" id="text-org8a8a9a7">
     <p>
-    This one is likely not that important, but I hadn't realized that most of the early development of the bits that got assembled into the Rosary took place in German-speaking lands, and much of that early development was in the vernacular. Partly I'm sure this was <a href="#understanding_spengler_s_decline_of_the_west_bit_3_the_soul_image">Faustian religion</a> asserting itself in its heartland, but given that I am developing a "rosary" meant to be compatible with the beliefs that come from those lands before Christianity, I wonder if there were not cultural and/or folkloric reasons for a spiritual practice like this to resonate so strongly and to find itself birthed there. On the other hand, given its quick spread and ongoing popularity in non-Germanic tongues and cultures, maybe it was just something about Catholic belief that made it resonate so much. Of course, part of that might be that Mary really did and does love and promote this particular devotion, which might render any material explanations moot, and make analogies with prayers to other divine beings less relevant. At any rate, I feel called to work out this practice, and so I'll keep at it until I have something that works.
+    One more tension that comes up for folks trying to find their way through
+    alternative spirituality is the push-pull between doing what works for you and
+    doing what a community asks of you. Here again, if you grow up in a living
+    tradition that works for you, you're likely good: a Shintoist that is
+    spiritually satisfied with the Kami can attend his local festivals, pray at the
+    local shrine, and pray at his home <i>kamidana</i> ("Godshelf," which is a delightful
+    word for a home altar). Doing all of these things will simultaneously feed his
+    own soul and strengthen his bonds within the community that shares these
+    practices. After emerging from a bracing <i>misogi</i> under a waterfall, he can chat
+    about the experience with his neighbors over a cup of sake, strengthening both
+    his religious feeling and his social connection. Not quite so for most
+    polytheists in the West. If you want religion to be a strong part of building a
+    community (or vice versa, for that matter), you have plenty of Christian options
+    available, but many fewer for polytheism at all, much less specific traditions.
+    </p>
+
+    <p>
+    Besides the already considerable challenge of finding co-religionists at all,
+    there's the further wrinkle that most folks called down these sorts of paths
+    have their own, often highly idiosyncratic, ways of answering the kinds of
+    questions we've been discussing thus far, meaning it is <i>extremely</i> unlikely
+    you'll find a religious group that makes sense of the tradition you follow in
+    just the way you do. Do you want to engage in reconstruction as strictly as the
+    Theodish, but find yourself called to continental Saxon names, language, and
+    forms? Too bad, the only still-living group you can find is all about Old
+    English! Prefer a more personalized, gnosis-guided experience? Well, there's
+    this kindred over here, but they're <i>so</i> inclusive about beliefs that they include
+    folks who worship beings and engage in practices you don't want anything to do
+    with. If you thought the fractiousness of protestantism with its "every man his
+    own priest" was bad, buddy, wait until you meet modern Western polytheists!
+    </p>
+
+    <p>
+    Of course, the thought that you even <i>should</i> have a boutique set of religious
+    beliefs and practices that is <i>just how you like them</i> is maybe a bit, hmmm,
+    precious. If there's any weight to the organic side of things we talked about
+    above, then maybe we ought to be a little more humble about our own notions and
+    preferences and a little more willing to adopt what has worked for so many
+    people for so much time. Maybe one of the points of religion is to iron out some
+    of your idiosyncrasies that you'd be better off without. Community is not only
+    about <i>you</i> feeling welcome and supported and content - it's about making yourself
+    part of something bigger than yourself, supporting it, fitting yourself to <i>it</i>,
+    rather than the other way around. These kind of thoughts do not come naturally
+    to my highly individualistic self, but looking at what centuries of unfettered
+    individualism has brought us to spiritually, I have to give some weight to the
+    idea that some counterchecks on "expressing yourself" and "being true to
+    yourself" might, in fact, be necessary.
+    </p>
+
+    <p>
+    Truly, out of the things we've talked over in this post, this is likely the one
+    I struggle with the most. Trying to follow my own inner aesthetic sense and
+    experiences of what has been spiritually meaningful tends to pull me in some
+    very weird, very individual directions. On the other hand, I recognize the gap
+    in my life left by a lack of religious community, and I know that if I want to
+    fill that, I'll have to shape some of my beliefs and practices to what works for
+    others, rather than only what works for myself. Maybe that's why I've yet to get
+    in touch in person with any other heathens - I'm not (yet) ready to give up the
+    freedom to do things my own way. That's actually a large part of why I have been
+    following the path of Revival Druidry - I'm working my way through John Michael
+    Greer's <i>Druid Magic Handbook</i> and <i>The Dolmen Arch</i> exactly as given, in order, and
+    taking as long as it takes to do it right. It may not give me the in-person
+    community that joining a religious group would, but it is helping me to learn
+    the value in shaping myself to a tradition, rather than shaping a tradition to
+    myself. So, I don't yet have a good answer here, but I'm exploring, and I'll
+    share what I find as I find it.
     </p>
     </div>
     </li>
 
-    <li><a id="orgab930eb"></a>Post Footer<br />
-    <div class="outline-text-3" id="text-orgab930eb">
+    <li><a id="orgefdc8e9"></a>Even if You're by Yourself, You are Not Alone<br />
+    <div class="outline-text-3" id="text-orgefdc8e9">
     <p>
-    <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/17648.html">dreamwidth post</a></i>.
+    All of this may sound a bit dire, but there's some good news: you're not
+    actually alone in this. As you try to make sense of how to pray, what rituals to
+    do, what myths to focus on, and so forth, even if you don't have any other
+    humans to talk to about it, remember the point of all of this: the Gods.
+    Ultimately, all of religion is about how to have the best possible relationship
+    with your God(s), so whatever else you are drawing on, however else you are
+    working things out, you can always just, ya know, ask. Now, admittedly, learning
+    to tell the difference between your own whims and desires and what the Gods are
+    trying to tell you when you pray can be hard, but I have found some advice from
+    John Michael Greer very helpful: does the "answer" to your prayer challenge you
+    in some way, especially in a way that on some level you know to be better? Or
+    does it invite you to do more of what you wanted to do anyway or otherwise
+    reinforce your preconceptions? If the former, it's likely a true answer. If the
+    latter, chances are you're just talking to yourself. In the longer run, you can
+    extrapolate this to "by their fruits ye shall know them" - do your practices
+    leave you kinder, more patient, less neurotic, and more focused on "higher"
+    things? Then you're likely on the right track. On the other hand, if you find
+    yourself falling into the same patterns of behavior, or worse, spiraling into
+    ever more self-destructive habits, well, maybe you need to make some changes.
+    </p>
+
+    <p>
+    Which brings us to a virtue that doesn't often get much weight in polytheistic
+    circles: faith. In our culture, "faith" in a religious sense is most often taken
+    to mean your earnest belief in the truth of certain assertions about things that
+    have happened and/or the nature of reality ("<a href="https://infogalactic.com/info/Nicene_Creed">he was crucified for us under
+    Pontius Pilate, and suffered, and was buried, and the third day he rose
+    again</a>"). I have come to find "faith" important in my relationship to religion,
+    but in a slightly different way (which, to be fair, is <i>also</i> included by most
+    Christians in what they mean by "faith"). Instead of belief in certain fact
+    claims, I have come to have faith in the validity of my own religious
+    experiences, within certain guidelines. I <i>could</i> believe that my <a href="#then_i_saw_her_face_now_im_a_believer">first religious
+    experience</a> was merely a weird hiccup of my neurochemistry brought about by a
+    certain combination of behaviors, all confined to the material world, and I
+    don't really fault anyone who interprets it in that light, but I have chosen to
+    have faith that what seemed to happen really did happen: non-physical
+    consciousnesses greater than me reached out and made contact that I might turn
+    my life a better way. Since then, I have had to have faith that when I call upon
+    a God or Goddess and ask for steering, the advice I get is good and wise, and
+    not merely random chatter from my deep mind. It can be sometimes, and as someone
+    as deeply embedded in our rational, materialistic age as anyone else, I
+    sometimes have my doubts, but thus far, it seems very much to be worth it. It
+    brings a wholeness that wasn't there before, reassurance about the deepest,
+    hardest questions, and a firm answer when I go looking for meaning.
+    </p>
+
+    <p>
+    So, as hard as it may be, as many tensions as there definitely are, know that
+    there are treasures down the path of religious belief, even if none of the
+    obvious paths work for you, and even if your own path has to be hacked out of
+    the jungle with a machete. And even if it feels lonely at times, remember the
+    deepest promise of such a path: you are <i>not</i> alone.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="orga46e885"></a>Post Footer<br />
+    <div class="outline-text-3" id="text-orga46e885">
+    <p>
+    <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/17895.html">dreamwidth post</a></i>.
     </p>
 
     <p>
@@ -155,6 +380,139 @@
     </li>
     </ul>
     ]]></description>
+</item>
+
+<item>
+  <title>[Book] Stories of the Rose</title>
+  <link>./#book_stories_of_the_rose</link>
+  <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
+  <guid isPermaLink="false">./#book_stories_of_the_rose</guid>
+  <pubDate>Wed, 14 Feb 2024 14:24:00 -0600</pubDate>
+  <category><![CDATA[rss]]></category>
+  <description><![CDATA[<p>
+  <b>Date</b>: 2024-February-14
+  </p>
+
+  <p>
+  After spending so long getting through <a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill</a>, I wanted to read (and post about) something a bit quicker, and so I pulled out <i>Stories of the Rose: The Making of the Rosary in the Middle Ages</i> by Anne Winston-Allen. This book does exactly what it says on the tin: it tells you how the Rosary as we know it came to be, with an emphasis on how the meditations know accepted as official developed. It's fairly well-written and pretty readable, if a bit dry at times, but it is (mostly) mercifully free of the kind of theory-heavy jargon you sometimes find in anything doing "textual analysis" after the 70s or so.
+  </p>
+
+  <p>
+  If that sounds like it's up your alley, you can find it reasonably priced from used book sellers as of the time of this writing, but weirdly, new paperback copies are rather pricey (I expect it's the usual price inflation on books that get listed as textbooks for college courses). Of course, my copy, bought used off alibris for a reasonable cost nevertheless insists on mocking me with the "50 cents" sticker that was no doubt applied to it when some tiny Catholic bookstore decided to make room for new stock.
+  </p>
+
+  <p>
+  I came to this book for my <a href="#framework_for_a_heathen_rosary">own ends</a>, so what I found notable and worthwhile might be a bit idiosyncratic, and some stuff the book gets into was outside of those interests - for example, it spends a while exploring how the promise of indulgences helped make the Rosary more popular, and how reformers like Martin Luther responded to that, all of which is quite interesting historically, but less useful for shaping a set of prayers for today. All that being said, here's some of what I thought was best from this book.
+  </p>
+
+  <ul class="org-ul">
+  <li><a id="orgf16254e"></a>The Rosary Evolved Bit by Bit<br />
+  <div class="outline-text-3" id="text-orgf16254e">
+  <p>
+  The first thing that this book makes very clear is that the Rosary as we have it <i>evolved</i>. It grew as bits and pieces were added, taken away, substituted, and otherwise experimented upon. You could say that it is emergent if you go in for that kind of language. Basically, a few threads that were important in European Christianity of the middle ages came together, and a way of weaving them together was found that worked for a large number of people. First, you had the practice of reciting the Psalter, all 150 psalms in a row. This was a devotional practice mainly among monks, because it required a lot of time and dedication, and either years of practice to memorize a whole book of hymns, or else being literate and having said book in front of you - either approach basically boiled down to "be a monk" in the middle ages. Another thread was the growing prominence of Marian devotions at this time. Bits and pieces of what would become the <i>Ave Maria</i> had been said for a long time, but they came to more prominence in Europe in the middle ages than in other parts of Christendom at other times (me, I suspect this is because Europeans were feeling the lack of Goddesses in their religion, but that's a whole other thing). A third thread was the developing practice of contemplative meditation and prayer of various kinds. Lastly, you had the use of prayer beads to keep track of prayers that were meant to be said in a specific number, which was apparently very old and very widespread (this book doesn't go into this thread as much as I wish it did, but the author is a historian, not an archaeologist or anthropologist, so it makes sense, her focus is on documents).
+  </p>
+
+  <p>
+  All of these threads likely originated among monastic communities, but the overall trend that wove these threads together was a thirst among lay worshipers for ways of practicing their religion outside of weekly mass. Naturally enough, they looked to what the religious professionals were doing, and began to draw inspiration from them, which brings us to the first thread that kicked all of this off - saying the psalter. As I mentioned, this would have presented some big challenges to a devout layman: the whole <i>point</i> of saying all 150 psalms in a row is that it takes a long time - it's meant to demonstrate devotion by being hard! That's well and good when demonstrating your devotion is your whole life, as a monk, but can be challenging when you need to bring the crops in or your family will starve. Also, as I said, if you aren't a monk, you likely <i>can't</i> say the psalms, because you can't read them and you can't memorize them. So, monks started recommending "lay psalters" of saying 150 of either the <i>Pater Noster</i> or the <i>Ave Maria</i>. The prayers are shorter and you only have to memorize the one (which you should have done as a good Christian already anyway). The prayer beads came in as a handy way to keep track of which of 150 repetitions you were on.
+  </p>
+
+  <p>
+  So far, so reasonable. The trouble is, saying 150 of the same prayer in a row is <i>boring</i>. Again, you might say that the hardship is part of the devotional act, but the market for religious practices that intentionally suck is fairly small. So folks started looking for ways to enliven the practice. One way was to break it up into chunks and to create some variation, such as into three groups of 50, and to say a different prayer in between each group. Another was where the contemplative meditation thread comes in. Various priests, mostly monks, began recommending that the "lay psalter" be paired with thinking about certain ideas, characteristics, or images from Christian teachings. One early approach that gained some popularity was to recite/think about a quality of Mary with each repetition of an <i>Ave Maria</i>. These qualities were originally keyed to the first line of each psalm, maintaining the link with the <i>actual</i> psalter, but the trouble was that the lay folks who were learning this didn't know the psalms to begin with, so it felt like a list of 150 arbitrary characteristics of Mary, in no particular order, with no particular sense. So folks went looking for other ideas that worked. One was to focus on three things, one for each third of the prayers: Mary's joys in Jesus's life, Mary's sorrows at his death, and Mary's triumph in his glorious resurrection. Another was to think about the events of Christ's life. What turned out to be the winning combination was to group the events of Christ's life into three groups of five, each with the themes above, and thus the Joyous Mysteries, the Sorrowful Mysteries, and the Glorious Mysteries.
+  </p>
+
+  <p>
+  All of which gets us to the Rosary as we have it today: you say some prayers at the beginning, and some at the end, but mostly you say 150 <i>Ave Marias</i>, with one <i>Pater Noster</i> in between each group of 10. For each 10 <i>Aves</i>, you think about one of five scenes from Jesus or Mary's life from each category of the mysteries, and after you get all the way around your beads, you move on to the next group of mysteries. One thing that made breaking it up this way helpful is that it created natural stopping points for folks who couldn't say the whole thing at once. It has become normal practice to work your way through one groups of mysteries a day. It's a practice that takes some time and dedication, thus helping to show devotion, but is flexible and engaging enough that normal humans can work it into their lives around all of their other responsibilities.
+  </p>
+
+  <p>
+  What helped all of this get figured out is that until the Rosary received papal sanction in its modern form much later, different folks tried different things and shared how it went. There were groups called confraternities that would teach you, books you could buy, popular songs you could hear, and so forth. All of which created a bubbling cauldron of experimentation where stuff that worked better for more folks spread, and what didn't died out. In other words, you had distinct traits with variation that were subjected to selective pressures. So, when I say the Rosary <i>evolved</i>, I'm not being metaphorical, it literally did.
+  </p>
+
+  <p>
+  For me, all of this is a <i>bit</i> discouraging, as I am trying to do the opposite - put together a whole practice from scratch on my own that is as compelling as the Christian Rosary. Very likely my task is impossible and the best I can hope for is to provide a few threads for a similar evolutionary process. What I am doing, though, is trying to keep as much of the shape of the Christian Rosary as I can, since something that seems incidental might have actually been important. Also, I'm doing analysis like this so that I understand as much as I can what makes the Christian Rosary work and apply the same principles to the heathen concepts and images I am bringing into the practice I'm crafting. We'll have to see how it goes.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org8637085"></a>Memory Imposed Constraints on What Worked and What Did Not<br />
+  <div class="outline-text-3" id="text-org8637085">
+  <p>
+  Maybe the most interesting insight from the book is one of those that feels obvious in hindsight, but was interesting precisely because I hadn't thought of it: one of the major drivers for what variations stuck over those that didn't was the constraint of human memory. As we talked about above, monks are specialists who could devote a lot of time and effort to complex devotional practices, and if they couldn't memorize them, they could follow along with a book. Lay folks couldn't do this, and so variations that are easier to remember did better than those that are harder. For example, instead of presenting 15 mysteries as independent things, they are grouped into three thematic groups. This takes advantage of the well-known memory-strengthening technique of <a href="https://infogalactic.com/info/Chunking_(psychology)">chunking</a> - you take elements that have something in common and "chunk" them together under a label, and then you remember the label (this even works with non-thematically linked things, see phone and credit card numbers being in groups of 3-5 digits). Another way that part of the rosary got selected for what folks can remember was the shift from disconnected traits, characteristics, or events to <i>narrative</i> - instead of 150 characteristics of Mary, you have the life of Jesus. We are wired to remember stories, and especially stories about people. The three groups of five mysteries we have now combine these factors: the five mysteries in each group are chronological, the three groups are chronological, and the each group has a thematic coherence that makes it easier to remember <i>which</i> scenes from Jesus's life are in which group, and thus which comes next.
+  </p>
+
+  <p>
+  So, that's pretty cool. Luckily, this is something that I can much more readily copy, as heathen myths have just as much capacity for narrative coherence and memorable vividness, and I know enough about chunking and other ways to make things memorable to build those into what I'm working on. I don't have the life of one man/God to anchor things, which might make it more challenging, but here again, we'll see.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org971f6d2"></a>Interplay Between Contrasting Elements - Jesus and Mary, Repetition and Variety<br />
+  <div class="outline-text-3" id="text-org971f6d2">
+  <p>
+  One of the things that first struck me about the Rosary was the way that it weaves together several lines of contrast: happiness against sorrow, manly against womanly, repetitive against various, and so forth. <a href="#thoughts_on_the_way_of_the_rose">Way of the Rose</a> goes into a lot of this rather well, I think, highlighting especially the interplay of life and death, mother and father, sin and mercy. Winston-Allen adds a new insight by pointing out that such interplay was a common appreciated motif in other bits of folkways at the time: song, poetry, and religious plays were all characterized by a "theme" and "counterpoint," and so it's not shocking that such a stylistic element would find it's way into the Rosary. What I do find striking, though, is <i>how many</i> of these "themes" and "counterpoints" we get crammed into one fairly small, seemingly simple practice, at every level. Small beads and large beads, <i>Aves</i> and <i>Paternosters</i>, joyful mysteries and sorrowful, and more. I strongly suspect that this dense interweaving of push-pull or back-and-forth elements is one of the keys to the strength of the Rosary, and I am seeking ways to embed the same in the practice I am putting together. Another finer point that Winston-Allen points out is that the Rosary's meditations ended up as 2/3 uplifting, and 1/3 sorrowful, and significantly, ends on one of the most uplifting scenes. So, while the contrast between joy and sorry provides a strong emotional punch, the overall practice is clearly weighted toward the good, which I think is likely another one of the reasons for the Rosary's sticking power: most of us aren't made for hairshirts, and we need to not only balance the happy and the sad, but to seek out enough happiness to compensate for the sad.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org8a5a9b2"></a>The Importance of "Picture Texts," Confraternities, and Physical Beads as Advertisements<br />
+  <div class="outline-text-3" id="text-org8a5a9b2">
+  <p>
+  At times, Winston-Allen pointed out some things that weren't huge, but were interesting and surprising to me. One of those was the likely role played things besides the prayer itself in spreading the Rosary. The first of these was the printing of "picture texts," which had illustrations of scenes of Jesus's life. Specifically, these picture texts had three groups of five pictures, and those pictures are very close to what became the standard Rosary meditation themes - about 100 years before we have written evidence of these themes! I'm pretty sure this was Winston-Allen's main scholarly contribution in this text: she argues that the picture texts might well be the source of what are today known as the mysteries (well, other than the five "Luminous Mysteries" added by Pope John Paul II), and this has been overlooked because historians deal primarily in written texts. Whether or not the picture texts are where the 15 mysteries came from, we can say pretty confidently that they played a huge role in popularizing the Rosary. As the Rosary was coalescing from the various bits that went into it, the printing press was becoming more widespread, but literacy lagged behind. That meant that for a long time, there was a market for printed material that was mainly pictorial in nature, and if that pictorial pamphlet said it could save you from decades or centuries in purgatory, well, that was gonna be popular! Songs played a similar role, talking about the Rosary and how great it was in a way that many normal people could access.
+  </p>
+
+  <p>
+  Besides "texts" (in the widest literary critique sense), another factor that greatly contributed to the Rosary's spread and success was the confraternity created to promote it. If you're not familiar, confraternities are Christian (most often Catholic) voluntary organizations dedicated to some specific act or charity, usually with some kind of official church approval. Many became rather important in the late middle ages and Renaissance, and some remain important today (like the Confraternity of the Rosary). What made the Rosary Confraternity special and interesting was that 1. membership was free, 2. membership was open to <i>anyone</i>, and 3. at least early on, local chapters had a lot of flexibility. One further thing that I think must have loomed large at the time, but seems less interesting today, is that the confraternity prayed on behalf of all of its members, living or dead - which meant joining was a kind of "spiritual insurance" against suffering in purgatory. The flexibility I mentioned is especially interesting: early on, the confraternity did <i>not</i> tell all of its members that there was only one way to pray the Rosary - instead, different chapters offered different options, some more wide-open than others, and things like participation in public festivals were tweaked to suit local needs. It seems to me that having a coherent organization with a clear charter, leadership, and membership, that was nevertheless flexible and open-ended must have been a really powerful combination for spreading knowledge about and practice of the Rosary.
+  </p>
+
+  <p>
+  The last thing contributing to the Rosary's spread and popularity outside of the prayers and meditations and their spiritual effects might have been the <i>beads themselves</i>. Folks who prayed the Rosary regularly had a set of beads, sometimes very attractively made, that they might wear looped through a belt, wrapper around the wrist/arm, or even as a necklace. These beads would form an advertisement of their own to anyone who saw that did not already know about the Rosary. Further, given the spiritual significance of the beads, folks came to believe that the beads worked as a protective amulet against hostile spiritual forces (I'm inclined to believe they were mostly right). Whatever the reason, a set of Rosary beads served as an advertisement to those not yet praying it, and a reminder and strengthener to faith.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org4df8b72"></a>Marian Devotion as Making Up for Lack of Goddesses in Christianity<br />
+  <div class="outline-text-3" id="text-org4df8b72">
+  <p>
+  I had always wondered where all of the "Rose" imagery came from for the Rosary, and this book gives a fair amount of detail on that, so I was grateful. It seems there were two main threads, though these might have influenced one another, and so cleanly separating them may be foolish. First, the <i>Song of Songs</i> from the Old Testament was the <i>most</i> commented upon and referenced book of the Bible in the Middle Ages, which I found somewhat surprising. In it, the narrator (Solomon, presumably), compares his betrothed to a walled garden, emphasizing both the delights within, and the keeping out of anyone else - a obvious metaphor for chastity and sexual fulfillment afterward, in the appropriate context. On the other hand, non-religious poetry of the time also made great use of the "rose garden" as a metaphor for the erotic delights women held within their power to grant to their suitors. All of which means that language about roses and rose gardens was laden with all kinds of symbolic weight for virginity, sexuality, the feminine virtue of selectively withholding sexuality, and so forth. Further complicating things is the fact that erotic imagery was often used in medieval religious writing, especially by mystics, to describe the intensity and intimacy of certain spiritual states, and the line between "secular" and "religious" poetry was very, very blurry - which means you can have a song that makes a lot of erotic references and might mean in a symbolic religious way, a frankly sexual secular way, or even worse, <i>both</i>, or "whichever one gets it printed" - it was a messy and complicated time for symbolism. Obviously, sex has a lot of power and resonance in the human psyche, as does the refraining from it and the outcomes of it, and Mary somehow combines all three (well, not explicitly the "sex" part, but the boatloads of erotic or quasi-erotic imagery applied in songs and poems about her imply that it was in there somewhere).
+  </p>
+
+  <p>
+  One of the main things I think was going on here was medieval Christianity struggling with the facts of life and aspects of the world that polytheist societies have always made the purview of Goddesses. Virginity, sexuality, and maternity are <i>very</i> important and powerful forces in the lives of anyone who isn't an ascetic, and most societies find steering and meaning in these weighty topics among Goddesses, but that option is closed to Christianity. And so, I get the impression that medieval Christians felt the lack of feminine divinity in their official theology, and found it in Mary. Please note that I'm not saying that Mary was worshiped as a Goddess, nor that prayers about these feminine divine energies were misdirected when sent to the saint Mary, nor that this was all material hairless apes coping with their psychology with no spiritual component. Instead, I believe that feminine divine energies are a real part of life and the world, and that the first few centuries of Christianity didn't have a very good way of handling and incorporating those energies, and Marian devotion was a way to meet that mostly unfilled need.
+  </p>
+
+  <p>
+  One of the important strands of this feminine divine energy was mercy, as opposed to the harsher, more masculine virtue of justice, and it seems that the Rosary leaned into this whole heartedly. Other than the above-mentioned emphasis on the Joyful and Glorious mysteries, over the sorrowful, there was one specific tweak that <i>really</i> showed that the Rosary was being prayed by those seeking mercy more than those glorifying justice. Specifically, early version of the picture texts and related works of art had the last of the 15 mysteries as the last judgment: Christ returning to earth and setting apart the saved and the damned. Obviously, this is a <i>slightly</i> important event in Christian theology, and a logical end-point to a narrative that is otherwise primarily about the life of Christ. And yet, in most of the picture texts, and in the other texts that seem to have continued that tradition, including what became the official Rosary, the last mystery became <i>not</i> the last judgment, but instead Mary's ascension into heaven and crowning there. All of which suggests that those praying the Rosary found it spiritually fulfilling <i>not</i> as a tool for keeping strict score of punishments deserved, but rather as an earnest asking for and celebration of divine mercy for sins committed.
+  </p>
+
+  <p>
+  For my own work, it's easy to tap into the divine energy that Goddesses bring to the table, because I do worship Goddesses. I can pray to them explicitly, so that makes some things easier in setting up the prayer practice. Even so, the very contrast between the Rosary and what you usually see from Catholic worship is perhaps instructive, and my own inspiration to pursue this path has been driven by a Goddess, so for me, if anything, the challenge will be in finding the right balance between masculine and feminine, rather than in giving weight to the feminine at all.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="orga917d8f"></a>Much of the Early Development of the Rosary was in German-Speaking Lands<br />
+  <div class="outline-text-3" id="text-orga917d8f">
+  <p>
+  This one is likely not that important, but I hadn't realized that most of the early development of the bits that got assembled into the Rosary took place in German-speaking lands, and much of that early development was in the vernacular. Partly I'm sure this was <a href="#understanding_spengler_s_decline_of_the_west_bit_3_the_soul_image">Faustian religion</a> asserting itself in its heartland, but given that I am developing a "rosary" meant to be compatible with the beliefs that come from those lands before Christianity, I wonder if there were not cultural and/or folkloric reasons for a spiritual practice like this to resonate so strongly and to find itself birthed there. On the other hand, given its quick spread and ongoing popularity in non-Germanic tongues and cultures, maybe it was just something about Catholic belief that made it resonate so much. Of course, part of that might be that Mary really did and does love and promote this particular devotion, which might render any material explanations moot, and make analogies with prayers to other divine beings less relevant. At any rate, I feel called to work out this practice, and so I'll keep at it until I have something that works.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org5139ec4"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org5139ec4">
+  <p>
+  <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/17648.html">dreamwidth post</a></i>.
+  </p>
+
+  <p>
+  <b>Want to get new posts emailed to your inbox? <a href="mailto:jeff.powell.russell@gmail.com?subject=Add%20me%20to%20the%20Webstead%20mailing%20list">Sign up here</a>.</b>
+  </p>
+
+  <hr />
+  </div>
+  </li>
+  </ul>
+  ]]></description>
 </item>
 
 <item>
@@ -177,8 +535,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org848b26a"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org848b26a">
+  <li><a id="orgdf67225"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgdf67225">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a> - <b>You Are Here</b></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -413,8 +771,8 @@
   </div>
   </li>
 
-  <li><a id="org6d5df70"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org6d5df70">
+  <li><a id="org89abb06"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org89abb06">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16911.html">dreamwidth post</a></i>.
   </p>
@@ -442,8 +800,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org640e069"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org640e069">
+  <li><a id="orgf5fcbbf"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgf5fcbbf">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -572,8 +930,8 @@
   </li>
 
 
-  <li><a id="org465d10e"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org465d10e">
+  <li><a id="orgf889447"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgf889447">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16668.html">dreamwidth post</a></i>.
   </p>
@@ -757,8 +1115,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orge39059b"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orge39059b">
+  <li><a id="orgb96c2e8"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgb96c2e8">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16407.html">dreamwidth post</a></i>.
   </p>
@@ -786,8 +1144,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org70858f5"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org70858f5">
+  <li><a id="org19d9053"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org19d9053">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -858,8 +1216,8 @@
   </div>
   </li>
 
-  <li><a id="org7c24d6a"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7c24d6a">
+  <li><a id="orgb550cc8"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgb550cc8">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16274.html">dreamwidth post</a></i>.
   </p>
@@ -927,8 +1285,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org1fdf48a"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org1fdf48a">
+  <li><a id="org0ac734b"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org0ac734b">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16049.html">dreamwidth post</a></i>.
   </p>
@@ -1012,8 +1370,8 @@
   </div>
   </li>
 
-  <li><a id="orgfaaa008"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgfaaa008">
+  <li><a id="org88efd84"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org88efd84">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15741.html">dreamwidth post</a></i>.
   </p>
@@ -1041,8 +1399,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org5d624f5"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org5d624f5">
+  <li><a id="org53fdf3e"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org53fdf3e">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -1097,8 +1455,8 @@
   </div>
   </li>
 
-  <li><a id="org8ce5d89"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org8ce5d89">
+  <li><a id="orgd37835f"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgd37835f">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15378.html">dreamwidth post</a></i>.
   </p>
@@ -1126,8 +1484,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org59987b4"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org59987b4">
+  <li><a id="orge2f5e6c"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orge2f5e6c">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -1169,8 +1527,8 @@
   </div>
   </li>
 
-  <li><a id="org56e8c64"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org56e8c64">
+  <li><a id="org9e87aa1"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org9e87aa1">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15288.html">dreamwidth post</a></i>.
   </p>
@@ -1198,8 +1556,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org60d975c"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org60d975c">
+  <li><a id="orgb7c7856"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgb7c7856">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -1246,8 +1604,8 @@
   </div>
   </li>
 
-  <li><a id="orgfc1b691"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgfc1b691">
+  <li><a id="org0cc4e7d"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org0cc4e7d">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14905.html">dreamwidth post</a>.</i>
   </p>
@@ -1271,8 +1629,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orge70ed3c"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orge70ed3c">
+  <li><a id="orged65de4"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orged65de4">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -1375,8 +1733,8 @@
   </div>
   </li>
 
-  <li><a id="org3847770"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org3847770">
+  <li><a id="org036875a"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org036875a">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14716.html">dreamwidth post</a>.</i>
   </p>
@@ -1456,8 +1814,8 @@
   </div>
   </li>
 
-  <li><a id="org7f570fd"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7f570fd">
+  <li><a id="orgee09435"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgee09435">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14562.html">dreamwidth post</a>.</i>
   </p>
@@ -1617,8 +1975,8 @@
   </ul>
   </li>
 
-  <li><a id="orgf813f8a"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgf813f8a">
+  <li><a id="org6d3e117"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org6d3e117">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14146.html">dreamwidth post</a>.</i>
   </p>
@@ -1642,8 +2000,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgbbeaec0"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgbbeaec0">
+  <li><a id="orgca6fd89"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgca6fd89">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -1698,8 +2056,8 @@
   </div>
   </li>
 
-  <li><a id="orge20cfcb"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orge20cfcb">
+  <li><a id="org5b520b8"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org5b520b8">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13742.html">dreamwidth post</a>.</i>
   </p>
@@ -1723,8 +2081,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org5221f94"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org5221f94">
+  <li><a id="org5b10b7a"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org5b10b7a">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -1879,8 +2237,8 @@
   </div>
   </li>
 
-  <li><a id="org5cea9a2"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org5cea9a2">
+  <li><a id="org9444d07"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org9444d07">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13462.html">dreamwidth post</a>.</i>
   </p>
@@ -1932,8 +2290,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgd84158b"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgd84158b">
+  <li><a id="org48caeb2"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org48caeb2">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13241.html">dreamwidth post</a>.</i>
   </p>
@@ -2001,8 +2359,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org053e784"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org053e784">
+  <li><a id="org4ed1716"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org4ed1716">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12951.html">dreamwidth post</a>.</i>
   </p>
@@ -2026,8 +2384,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgd5c76c7"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgd5c76c7">
+  <li><a id="orga50339c"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orga50339c">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -2154,8 +2512,8 @@
   </div>
   </li>
 
-  <li><a id="org88992ab"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org88992ab">
+  <li><a id="org7c81479"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org7c81479">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12612.html">dreamwidth post</a>.</i>
   </p>
@@ -2223,8 +2581,8 @@
   </div>
   </li>
 
-  <li><a id="orgaeb3fb8"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgaeb3fb8">
+  <li><a id="orgfc0b1c5"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgfc0b1c5">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12323.html">dreamwidth post</a>.</i>
   </p>
@@ -2248,8 +2606,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgac9d777"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgac9d777">
+  <li><a id="orgd350fa5"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgd350fa5">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -2344,8 +2702,8 @@
   </div>
   </li>
 
-  <li><a id="orgf25495b"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgf25495b">
+  <li><a id="org763a7e8"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org763a7e8">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12162.html">dreamwidth post</a>.</i>
   </p>
@@ -2397,8 +2755,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org7acccd1"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7acccd1">
+  <li><a id="org7c5ef9e"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org7c5ef9e">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11815.html">dreamwidth post</a>.</i>
   </p>
@@ -2451,8 +2809,8 @@
   </div>
   </li>
 
-  <li><a id="org4be0397"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org4be0397">
+  <li><a id="org9ed3019"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org9ed3019">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11677.html">dreamwidth post</a>.</i>
   </p>
@@ -2476,8 +2834,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org78ccf45"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org78ccf45">
+  <li><a id="org1ecbcab"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org1ecbcab">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -2617,16 +2975,16 @@
   </div>
   </li>
 
-  <li><a id="org534e09d"></a>Closing<br />
-  <div class="outline-text-3" id="text-org534e09d">
+  <li><a id="org8a64e1e"></a>Closing<br />
+  <div class="outline-text-3" id="text-org8a64e1e">
   <p>
   So, whoo, here we are. The next chapter is, as I said, mercifully shorter, and focuses on "The Maiden with the Mead," the subject of Kvilhaug's master's thesis, but apparently new work on the same topic here. So, expect lots more on feminine spiritual Beings and/or bits of the soul, magic drinks, and initiation. As always, I welcome any thoughts, recommendations, or corrections.
   </p>
   </div>
   </li>
 
-  <li><a id="org6ec9a49"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org6ec9a49">
+  <li><a id="orge323487"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orge323487">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11306.html">dreamwidth post</a>.</i>
   </p>
@@ -2690,8 +3048,8 @@
   </div>
   </li>
 
-  <li><a id="orgff0b6fc"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgff0b6fc">
+  <li><a id="orgc24bd74"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgc24bd74">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11228.html">dreamwidth post</a>.</i>
   </p>
@@ -2878,16 +3236,16 @@
   </div>
   </li>
 
-  <li><a id="org1a3b5c2"></a>Closing<br />
-  <div class="outline-text-3" id="text-org1a3b5c2">
+  <li><a id="org27d1590"></a>Closing<br />
+  <div class="outline-text-3" id="text-org27d1590">
   <p>
   Whether you find these prayers helpful for your own spiritual work, as always, I welcome any and all feedback!
   </p>
   </div>
   </li>
 
-  <li><a id="org779a8ce"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org779a8ce">
+  <li><a id="org81f1fc6"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org81f1fc6">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10887.html">dreamwidth post</a>.</i>
   </p>
@@ -3152,8 +3510,8 @@
   </div>
   </li>
 
-  <li><a id="org3913402"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org3913402">
+  <li><a id="org87a430b"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org87a430b">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -3179,8 +3537,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgdf67225"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgdf67225">
+  <li><a id="org82d7f2e"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org82d7f2e">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a> - <b>You Are Here</b></li>
@@ -3266,8 +3624,8 @@
   </div>
   </li>
 
-  <li><a id="orgec5ccb5"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-orgec5ccb5">
+  <li><a id="org1af93ef"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-org1af93ef">
   <p>
   First, a handful of thoughts on the physical book. I have the 2020 edition,
   which is the one currently available, but it was first printed in 2012 as a
@@ -3468,16 +3826,16 @@
   </ul>
   </li>
 
-  <li><a id="org8a64e1e"></a>Closing<br />
-  <div class="outline-text-3" id="text-org8a64e1e">
+  <li><a id="org63c78cd"></a>Closing<br />
+  <div class="outline-text-3" id="text-org63c78cd">
   <p>
   Altogether, this book has a <i>lot</i> to recommend it, but it takes a certain amount of energy to grapple with in anything but the most casual way. I sincerely wish Kvilhaug had some kind of partner of the organizational, attention-to-detail variety who shared her passion for these myths. Then we could have things like a list of all of the major Gods, Goddesses, and steads with their names translated, to be used as a reference when reading. We could have chapters and sections that can be looked up as needed, rather than having to be sifted out of the entire 600-page web. We could have lists of the formulas she's identified with pointers to what myths you can find them in. Such glorious possibilities! Alas, for now, I'll have to settle for making my own sense of what she has to offer and sharing what I find with you.
   </p>
   </div>
   </li>
 
-  <li><a id="org245e2af"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org245e2af">
+  <li><a id="orgc06d579"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgc06d579">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10405.html">dreamwidth post</a>.</i>
   </p>
@@ -3668,8 +4026,8 @@
   </div>
   </li>
 
-  <li><a id="orgf92cc7c"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgf92cc7c">
+  <li><a id="orga0f2819"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orga0f2819">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10116.html">dreamwidth post</a>.</i>
   </p>
@@ -3931,8 +4289,8 @@
   </div>
   </li>
 
-  <li><a id="org390e423"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org390e423">
+  <li><a id="orgcd176a8"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgcd176a8">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9809.html">dreamwidth post</a>.</i>
   </p>
@@ -4044,8 +4402,8 @@
   </div>
   </li>
 
-  <li><a id="orge768670"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orge768670">
+  <li><a id="org49a66ce"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org49a66ce">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9590.html">dreamwidth post</a>.</i>
   </p>
@@ -4201,15 +4559,11 @@
   </div>
   </li>
 
-  <li><a id="org438c1db"></a>Then I Saw Her Face, Now I'm a Believer<br />
-  <div class="outline-text-3" id="text-org438c1db">
+  <li><a id="then_i_saw_her_face_now_im_a_believer"></a>Then I Saw Her Face, Now I'm a Believer<br />
+  <div class="outline-text-3" id="text-then_i_saw_her_face_now_im_a_believer">
   <p>
   So, I now had a profound personal insight I am bad at things that are not intellectually, linguistically describable, and an intellectual argument that this blind spot might be exactly where religious experience happens to live. I decided to conduct an experiment: I would resume prayer and religious ritual, along with a new practice called <a href="https://ecosophia.dreamwidth.org/tag/discursive+meditation">"discursive meditation"</a>, and as far as I was able, I would try to believe the Gods to whom I was praying and about whom I was thinking were "really real" even if my only experience of them would be "in my head", and I'd see how it went for a while. The short answer is that about two weeks after starting this experiment, I had a profoundly strong religious experience of being visited by a Goddess and briefly hosting a God. It was amazing, wonderful, and utterly recognizable to anyone who has read about religious experiences. It was at once one of the most singular experiences I've had and also completely mundane to most humans for most of human history.
   </p>
-
-  <ul class="org-ul">
-  <li>Maybe a little bit more on what came of that</li>
-  </ul>
   </div>
   </li>
 
@@ -4285,8 +4639,8 @@
   </div>
   </li>
 
-  <li><a id="orgf7793ab"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgf7793ab">
+  <li><a id="orgff80ecc"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgff80ecc">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9076.html">dreamwidth post</a>.</i>
   </p>
@@ -4452,8 +4806,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orga46e885"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orga46e885">
+  <li><a id="orge5116c5"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orge5116c5">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/8865.html">dreamwidth post</a>.</i>
   </p>
@@ -5322,8 +5676,8 @@
   </div>
   </li>
 
-  <li><a id="org1af93ef"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-org1af93ef">
+  <li><a id="org0e1a099"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-org0e1a099">
   <p>
   This is not usually something I would talk about when going over a book, but
   here I think it's warranted, both good and bad. First off, the good stuff:
@@ -5420,8 +5774,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org4197168"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org4197168">
+  <li><a id="org9d3ccac"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org9d3ccac">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -5522,8 +5876,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgc64c929"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-orgc64c929">
+  <li><a id="org0f0e777"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org0f0e777">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -5709,8 +6063,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgbd75556"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-orgbd75556">
+  <li><a id="orga88ca78"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orga88ca78">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -5953,8 +6307,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org2fe7ae8"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org2fe7ae8">
+  <li><a id="org05b3eea"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org05b3eea">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -6177,8 +6531,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgd891e99"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-orgd891e99">
+  <li><a id="org83180f8"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org83180f8">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a> &#x2013; You are Here</li>
@@ -6349,8 +6703,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org9d3ccac"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org9d3ccac">
+  <li><a id="org2a24f19"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org2a24f19">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a> &#x2013; You are Here</li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -7277,8 +7631,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org5292ce9"></a>Way 1<br />
-  <div class="outline-text-3" id="text-org5292ce9">
+  <li><a id="org0768f51"></a>Way 1<br />
+  <div class="outline-text-3" id="text-org0768f51">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -7297,8 +7651,8 @@
   </div>
   </li>
 
-  <li><a id="orgad9de19"></a>Way 2<br />
-  <div class="outline-text-3" id="text-orgad9de19">
+  <li><a id="org4bb9d94"></a>Way 2<br />
+  <div class="outline-text-3" id="text-org4bb9d94">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -7317,8 +7671,8 @@
   </div>
   </li>
 
-  <li><a id="org5e0ff1b"></a>Way 3<br />
-  <div class="outline-text-3" id="text-org5e0ff1b">
+  <li><a id="org37fd018"></a>Way 3<br />
+  <div class="outline-text-3" id="text-org37fd018">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -7698,8 +8052,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org0768f51"></a>Way 1<br />
-  <div class="outline-text-3" id="text-org0768f51">
+  <li><a id="org9101e4f"></a>Way 1<br />
+  <div class="outline-text-3" id="text-org9101e4f">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -7717,8 +8071,8 @@
   </div>
   </li>
 
-  <li><a id="org4bb9d94"></a>Way 2<br />
-  <div class="outline-text-3" id="text-org4bb9d94">
+  <li><a id="org3006b1c"></a>Way 2<br />
+  <div class="outline-text-3" id="text-org3006b1c">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -7736,8 +8090,8 @@
   </div>
   </li>
 
-  <li><a id="org37fd018"></a>Way 3<br />
-  <div class="outline-text-3" id="text-org37fd018">
+  <li><a id="orgd0da7b6"></a>Way 3<br />
+  <div class="outline-text-3" id="text-orgd0da7b6">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -8230,8 +8584,8 @@
   </div>
   </li>
 
-  <li><a id="orgdddf15c"></a>The Poetic Edda<br />
-  <div class="outline-text-4" id="text-orgdddf15c">
+  <li><a id="org9451f79"></a>The Poetic Edda<br />
+  <div class="outline-text-4" id="text-org9451f79">
   <p>
   <b>By</b>: Many writers<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -8998,8 +9352,8 @@
   </div>
   </li>
 
-  <li><a id="org51076cd"></a>Shamanism<br />
-  <div class="outline-text-5" id="text-org51076cd">
+  <li><a id="orga28356c"></a>Shamanism<br />
+  <div class="outline-text-5" id="text-orga28356c">
   <p>
   <b>By</b>: Mircea Eliade<br />
   <b>Have I Read It?</b>: About halfway.<br />
@@ -9402,8 +9756,8 @@
   </div>
   </li>
 
-  <li><a id="org8c03bae"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-org8c03bae">
+  <li><a id="org92583a9"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-org92583a9">
   <p>
   <b>By</b>: Dr. Stephen Flowers, PhD.<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -9413,8 +9767,8 @@
   </li>
 
 
-  <li><a id="org92583a9"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-org92583a9">
+  <li><a id="org487c739"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-org487c739">
   <p>
   <b>By</b>: P.D. Brown and Michael Moynihan (eds)<br />
   <b>Have I Read It?</b>: Some<br />
@@ -9590,8 +9944,8 @@
   </ul>
   </li>
 
-  <li><a id="orga28356c"></a>Shamanism<br />
-  <div class="outline-text-4" id="text-orga28356c">
+  <li><a id="org7d8e517"></a>Shamanism<br />
+  <div class="outline-text-4" id="text-org7d8e517">
   <p>
   As I said above, "shamanism" is a word that gets used for many unalike things, but the ways of the folks who live about the North pole gave us the name, and I think it likely those ways left some mark on the ways of the Norse at least, and maybe the wider Germanish world. The books below are all by Raven Kaldera and/or Galina Krasskova, and they have a way of looking at things that is rather unlike other folks, so take with as much salt as seems right to you.
   </p>
@@ -11347,8 +11701,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgdc29dc5"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgdc29dc5">
+  <li><a id="orgfb9c976"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgfb9c976">
   <p>
   The Story Grid by Shawn Coyne
   </p>
@@ -11385,8 +11739,8 @@
   </ul>
   </li>
 
-  <li><a id="orgda3519b"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgda3519b">
+  <li><a id="org896a1be"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org896a1be">
   </div>
 
   <ul class="org-ul">
@@ -11439,8 +11793,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org6c1e7ca"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org6c1e7ca">
+  <li><a id="org83bf7b6"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org83bf7b6">
   </div>
 
   <ul class="org-ul">
@@ -11486,8 +11840,8 @@
   </ul>
   </li>
 
-  <li><a id="orgdfe1188"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgdfe1188">
+  <li><a id="org44d5e5d"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org44d5e5d">
   </div>
 
   <ul class="org-ul">
@@ -11524,8 +11878,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orge92bfce"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orge92bfce">
+  <li><a id="org8cad861"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org8cad861">
   </div>
 
   <ul class="org-ul">
@@ -11571,8 +11925,8 @@
   </ul>
   </li>
 
-  <li><a id="org6021153"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org6021153">
+  <li><a id="orgd9749f1"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgd9749f1">
   </div>
 
   <ul class="org-ul">
@@ -11617,8 +11971,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org0b8b899"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org0b8b899">
+  <li><a id="org2520d27"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org2520d27">
   </div>
 
   <ul class="org-ul">
@@ -11656,8 +12010,8 @@
   </ul>
   </li>
 
-  <li><a id="org7841325"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org7841325">
+  <li><a id="org58ff410"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org58ff410">
   </div>
 
   <ul class="org-ul">
@@ -11694,8 +12048,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org4ca862b"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org4ca862b">
+  <li><a id="org62c87fa"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org62c87fa">
   </div>
 
   <ul class="org-ul">
@@ -11741,8 +12095,8 @@
   </ul>
   </li>
 
-  <li><a id="org29de091"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org29de091">
+  <li><a id="org7c4a9bc"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org7c4a9bc">
   </div>
 
   <ul class="org-ul">
@@ -11787,8 +12141,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgfb9c976"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgfb9c976">
+  <li><a id="org7ba8ffc"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org7ba8ffc">
   </div>
 
   <ul class="org-ul">
@@ -11826,8 +12180,8 @@
   </ul>
   </li>
 
-  <li><a id="org896a1be"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org896a1be">
+  <li><a id="org86c4b99"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org86c4b99">
   </div>
 
   <ul class="org-ul">
@@ -13056,8 +13410,8 @@
   </div>
   </li>
 
-  <li><a id="org9451f79"></a>The Poetic Edda<br />
-  <div class="outline-text-3" id="text-org9451f79">
+  <li><a id="org5e06f99"></a>The Poetic Edda<br />
+  <div class="outline-text-3" id="text-org5e06f99">
   <p>
   <b>By Unknown, but I like the Hollander and Crawford translations</b>
   </p>
