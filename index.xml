@@ -14,8 +14,8 @@
   <link></link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Wed, 12 Jun 2024 14:06:08 -0500</pubDate>
-  <lastBuildDate>Wed, 12 Jun 2024 14:06:08 -0500</lastBuildDate>
+  <pubDate>Sun, 23 Jun 2024 22:48:45 -0500</pubDate>
+  <lastBuildDate>Sun, 23 Jun 2024 22:48:45 -0500</lastBuildDate>
   <generator>Emacs 29.0 Org-mode 9.7-pre</generator>
   <webMaster>jeff.powell.russell@gmail.com (Jeff Russell)</webMaster>
   <image>
@@ -25,308 +25,102 @@
   </image>
 
   <item>
-    <title>[Book] Prayer: a History</title>
-    <link>./#book_prayer_a_history</link>
+    <title>Two Rough "All Father" Prayers</title>
+    <link>./#two_rough_all_father_prayers</link>
     <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
-    <guid isPermaLink="false">./#book_prayer_a_history</guid>
-    <pubDate>Mon, 10 Jun 2024 12:04:00 -0500</pubDate>
+    <guid isPermaLink="false">./#two_rough_all_father_prayers</guid>
+    <pubDate>Sun, 23 Jun 2024 21:17:00 -0500</pubDate>
     <category><![CDATA[rss]]></category>
     <description><![CDATA[<p>
-    <b>Date</b>: 2024-June-10
+    <b>Date</b>: 2024-June-23
     </p>
 
     <p>
-    I read this book to help me along with my <a href="#framework_for_a_heathen_rosary">Heathen Rosary</a> undertaking, and
-    overall I found it helpful, though maybe with more padding than I'd like for
-    what I got out of it. I also wonder a bit who it's written for: I read it since
-    I want to understand how prayers "work," but that's what you might call a
-    "highly specialized use-case." Anyhow, for those idiosyncratic ends, there were
-    some helpful bits, so maybe you can find something worthwhile in here as well.
-    Let's check it out.
+    The next big bit of the <a href="#framework_for_a_heathen_rosary">Heathen Rosary</a> undertaking is the "All Father" prayer, which as you might guess, stands in the stead of the Lord's Prayer in the Catholic Rosary. Once I find a take on this prayer that works, I'll have enough for "working model" of the Heathen Rosary, with an <a href="#mark_of_the_hammer">opening blessing</a>, a statement of belief/intention (which I now realize I haven't posted here before, so see below), a prayer for opening each set of nine prayers, the <a href="#last_hail_idun">main prayer</a> repeated nine times in each group, and a <a href="#mark_of_the_wells">closing prayer</a> for each group. All that will be lacking is a closing prayer for the very end, which I think the full Rosary ought to have, but which doesn't strike me as <i>needed</i>, as such.
+    </p>
+
+    <p>
+    Unluckily, or maybe thanks to drivers other than luck, I have struggled with getting anywhere with this prayer. With the "Hail Idun," it took a lot of time and many tries, but as far as I can call to mind now, I always felt like I was "getting somewhere." With the "All Father," though, I have felt for <i>months</i>, if not longer, like I was wholly stalled out. Luckily, though, after smashing my head into the first draft given below, of which I had most of the conceptual bits worked out a ways back, but couldn't wrangle into a written shape until last week, the other draft given here went much quicker, only taking three days to get down.
+    </p>
+
+    <p>
+    While I like these just fine, I'd say that I'm <i>pretty</i> sure that neither is "there" yet. I like the mythical references and parallel structure of the first, but it doesn't strike me as thematically filling the role I think the "All Father" needs to in the Heathen Rosary. Also, it's a bit "stiff," lacking in rhythm. The second one has a better rhythm (especially the first stanza), but I feel that my self-imposed structure of three stanzas of three <a href="#anglo-saxon_long_lines">Anglo-Saxon long lines</a> may have broken a better flow that I might find by loosening my constraints a bit (but I don't think I would have even this insight without having started with those constraints, so either way, very helpful). Sticklers will mark that I've already broken a rule in the first line here ("Allfather" is only 3 syllables, and a half-line ought to be at least 4). I also think the second one "fits" with the Heathen Rosary a bit better, though it's a bit sparser on allusions to mythic tales.
+    </p>
+
+    <p>
+    At any rate, I've gotten to where I think an infusion of other folks' thoughts will do them, and me, some good (that's where you come in). So, kindly take a look at the poems/prayers below and let me know what you think.
     </p>
 
     <ul class="org-ul">
-    <li><a id="orgac45957"></a>Prayer is Worldwide<br />
-    <div class="outline-text-3" id="text-orgac45957">
+    <li><a id="orgd166376"></a>Saying of Belief<br />
+    <div class="outline-text-3" id="text-orgd166376">
+    <blockquote>
+    <p>Hallowward we have &emsp;our hearts fore-turned,<br>
+    To give worship &emsp;to wealsome Gods,<br>
+    Watering anew &emsp;that nut life-bearing.<br></p>
+
+    <p>Bright with holiness &emsp;our hearts become<br>
+    As troth we give &emsp;to trustworthy Gods<br>
+    In fair trade &emsp;upon Tree life-binding.<br></p>
+
+    <p>Shining with happiness &emsp;our hearts should be,<br>
+    For steering will be given &emsp;by steadfast Gods<br>
+    To bless us &emsp;with blossoms life-healing.<br></p>
+    </blockquote>
+    </div>
+    </li>
+
+    <li><a id="orgba34274"></a>Draft 1 - The "Three Drinks" All Father<br />
+    <div class="outline-text-3" id="text-orgba34274">
+    <blockquote>
+
+    <p>One drink from death    &emsp;daringly gotten through<br>
+    Lying three nights         &emsp;with lovely maiden,<br>
+    Winning songcraft          &emsp;for worthy talespinners.<br></p>
+
+    <p>One mead from memory,   &emsp;meetly gained by<br>
+    Fearlessly plucking        &emsp;plighted eye,<br>
+    Earning mind-stock         &emsp;for open-hearted thinkers.<br></p>
+
+    <p>One draft from doom,    &emsp;dearly bought with<br>
+    Three time three nights    &emsp;thirsting upon the Tree,<br>
+    Winning Runestaves         &emsp;for rede-fast wizards.<br></p>
+    </blockquote>
+    </div>
+    </li>
+
+    <li><a id="org5e9ebf8"></a>Draft 2 - The "Father of Three" All Father<br />
+    <div class="outline-text-3" id="text-org5e9ebf8">
+    <blockquote>
+
+    <p>Allfather,              &emsp;who art in Fallhall,<br>
+    Through forefathers biding &emsp;in barrows well-laid<br>
+    Fill us full with          &emsp;fire well-stoked.<br></p>
+
+    <p>Galdor-father           &emsp;who gifted his eye<br>
+    to Bestla's brother,       &emsp;bold Well-keeper,<br>
+    open our minds             &emsp;to awesome spell-songs.<br></p>
+
+    <p>Baldaeg's father,       &emsp;who from bough was hanged,<br>
+    Food for ravens,           &emsp;by ravens full-taught,<br>
+    Help us our wyrd           &emsp;to weave with runes.<br></p>
+
+    </blockquote>
+    </div>
+    </li>
+
+    <li><a id="org3c90b3f"></a>Wrap Up<br />
+    <div class="outline-text-3" id="text-org3c90b3f">
     <p>
-    This book makes the point, I think well, that pretty much anywhere you go, the
-    folks you find will pray. Today's West might be the <i>least</i> prayerful folk to ever
-    live, and even still, a lot of us pray (or at least, still did when this book
-    was published nearly 20 years ago in 2005). The book shares examples and
-    anecdotes of prayer from Mesopotamians, American Indians, Indian Indians,
-    Japanese, Africans, and more, but, of course, <i>much</i> of what it talks about is
-    drawn from the Abrahamic tradition, most of all Christianity (more on this
-    below). Even still, the Zaleskis do a good job of showing that most folks in
-    most times and steads have ways of calling upon the holy, for many ends, but
-    that most of these ways reasonably answer to the name of "prayer." There's a few
-    places where they stretch things a bit for my taste - like including Buddhist
-    mindfulness meditation as "prayer," but overall, they make a good case for
-    "almost everybody prays." I say "almost," because even though they didn't touch
-    on it here, I happen to know that the Comanche and a handful of others were
-    <a href="https://www.stoneageherbalist.com/p/atheism-in-the-ancient-world?utm_source=publication-search">deeply weird</a> on religion compared to the rest of mankind. It's a shame they
-    <i>didn't</i> mention these handful of outliers, as it seems rather relevant to making
-    a case that prayer is (nearly) universal, and for me, the tiny number of "not
-    religious" folks that we know about strengthens the point about how common
-    religion is.
+    So, even more so than with most posts, I eagerly ask for your thoughts on these. Hearing what others had to say on the earlier takes on the "Hail Idun" was very helpful in getting me to a prayer I was (and still am) happy with, and I don't doubt that it will be the same with the "All Father," so thank you for anything you're willing to share! 
     </p>
     </div>
     </li>
 
-    <li><a id="org2f44c7e"></a>But Prayer is Deeply Local and Traditional<br />
-    <div class="outline-text-3" id="text-org2f44c7e">
+    <li><a id="orgae1de2c"></a>Post Footer<br />
+    <div class="outline-text-3" id="text-orgae1de2c">
     <p>
-    Even though the book most strongly stresses the universality of prayer, at times
-    it also puts weight on how prayer is actually deeply rooted in the culture and
-    religion from which it grows. Even when not making this point "out loud," many
-    of the examples given are so evocative of their own imagery, assumptions, thews,
-    and so forth that the point comes across nonetheless. Still, though, I think
-    this book leans <i>too</i> strongly into the universality of prayer, ironing out
-    interesting differences in its quest to reaffirm that we all pray and can all
-    learn from each other. The modern American experience of prayer as something
-    mainly individual, mainly spontaneous, mainly unstructured, and resulting from
-    and subject to individual conscience and preference is <i>very</i> weird, historically
-    speaking. Of course, I reckon that's <i>our</i> deeply local and "traditional" take on
-    prayer (I'm half joking, but only half. How Americans can and should work out
-    our troubled relationship with tradition is a long-term interest of mine).
-    There's a chapter on what prayer was/is like in "traditional societies," which
-    was one of my favorites in the book for the very interesting examples it
-    included, but unluckily, it keeps up the book's trend of painting with too broad
-    a brush. It treats late 19th century highland Scotland, early 20th century Hopi
-    reservation lands, and the Classical Mediterranean all as "traditional"
-    societies and contrasts these with "modernity." On the one hand, this <i>is</i> a
-    helpful lens through which to look at the world, as today's Western outlook is
-    indeed very unlike, well, everyone, anywhere, or anywhen else, so "modernity" is
-    a meaningful term and useful to contrast with everything that is not it. On the
-    other hand, though, that's a <i>really</i> big bucket to dump everything else into!
-    <i>Especially</i> when we're talking about the <i>most</i> deeply local and traditional parts
-    of those cultures, their religions. Overall, I find an approach like <a href="#understanding_spengler_s_decline_of_the_west_bit_1">Spengler's</a>
-    more helpful, which recognizes the underlying morphological similarities between
-    cultures and their religious feeling, but then explores the very different
-    content of those morphologies.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org0bbe373"></a>Prayer and Magic Run Together<br />
-    <div class="outline-text-3" id="text-org0bbe373">
-    <p>
-    Though it can be helpful to make distinctions, the Zaleskis make a point early
-    in the book to emphasize the similarities between prayer and magic, and how the
-    two often bleed together, sometimes to the point of being indistinguishable. I
-    suspect that part of the reason for the strength of their emphasis is the
-    largely Christian audience they anticipate, who are used to magic as being
-    something not only <i>not</i> religious, but anti-religious. At this point, it's a bit
-    hard for me to remember that is a lot of people's default understanding, because
-    I've so immersed myself in the older and more widespread view that magic is one
-    expression of the hidden world of spirits, Gods, and forces that prayer also
-    calls upon. Anyway, I think the Zaleskis were basically trying to say "guys,
-    chill out, asking the divine to help you get what you want is not that weird,
-    whether you do it on your knees with hands clasped or standing before an altar
-    having invoked the four elements." Or something like that - their discussion of
-    "magic" is pretty much limited to verbal formulas, which makes the distinction
-    from prayer even fuzzier, with zero discussion of things like visualization,
-    meditation, ritual, symbolism, or the other ways of working that the mage keeps
-    handy. Which is a shame, because I think that much of the discussion I've seen
-    about prayer from the magical side of things would support and deepen much of
-    what they say here: namely that naked "gimme gimme" prayers/magic seem to do
-    <i>something</i>, since they show up everywhere, but are also decried in every
-    tradition as fundamentally a bad idea. Ah well, chalk it up to one more bit in
-    the book that I likely would have enjoyed more as a standalone work of its own.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org5419a5b"></a>A Rough Way to Group Kinds of Prayer<br />
-    <div class="outline-text-3" id="text-org5419a5b">
-    <p>
-    Though the book is not quite as straightforwardly organized as my MBA-brain
-    might crave, a good chunk of the book broke things down in an interesting way:
-    by four "archetypes" of the kinds of folks who pray, namely "the Refugee," "the
-    Devotee," "the Ecstatic," and "the Contemplative." Each of these chapters
-    explores a different flavor of prayer, seeking to organize by the goals of and
-    effect upon the one praying rather than by specific methods, formulae, or
-    traditions, and I found this an interesting and helpful way of looking at things
-    (though, to be fair, I've never put much time or thought into ways of analyzing
-    prayer!). These kinds of prayer are intercessionary (asking for help),
-    devotional (expressing love/respect/connection with the divine), ecstatic
-    (experiencing the divine through non-ordinary states of consciousness), and
-    contemplative (experiencing a deep bond with the divine, often to the point of
-    "oneness"). Clearly there might be any number of other ways to chop up prayer,
-    and these neat and fast categories bleed together (one of the most common forms
-    of devotional prayer, the Rosary, has plenty of intercession baked in, and for
-    advanced practitioners, may lead to ecstatic or contemplative states, for
-    example), but I liked the emphasis on "why is someone doing this/what is he
-    getting out of it?" for thinking about what makes different prayers different.
-    Due to its nature, this section included the most examples of different kinds of
-    prayer and well-known folks who have given them, so it was the part of the book
-    I liked best and found most helpful. Lots of good stuff to follow up on here,
-    but with the same caveats as the rest of the book, as I go into below.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org2b22060"></a>Lots of Lovely Examples of Prayer<br />
-    <div class="outline-text-3" id="text-org2b22060">
-    <p>
-    So, as I said, one of the things I liked best about this book was the way it
-    brought together selections from different kinds of prayers from different times
-    and steads, but given context by the wider discussion. If anything, I might have
-    liked a whole book that was just this - a lot of prayers from widely-flung
-    traditions brought together, compared, contrasted, and analyzed, but even still,
-    I was glad for what they did have. Given my own weirdo interests, I especially
-    valued when they got into a discussion of what appealed about different prayer
-    traditions, how they shifted to meet the needs of those who took them up, and so
-    forth. For example, even though the founder of Alcoholics Anonymous ended up as
-    a Christian, he remembered his resistance to religion as an atheist and insisted
-    on a more generic spirituality for the program, which has allowed it to become
-    incredibly popular. Likewise the discussion of the various teachings and
-    approaches tried by the broader New Thought movement - some believing that
-    "prayer" was merely a way to direct energies within yourself, others that it
-    attuned you to your fundamental oneness with the universe, and still others that
-    you were praying to the Christian God in the traditional sense. Others of the
-    examples given were just interesting, like the tidbit that some commentators
-    have seen the postures of the Muslim <i>Salat</i> (the five-times daily prayer toward
-    Mecca) as a kind of calligraphy, which, of course, brought to mind the <a href="#book_the_rebirth">letter
-    mysticism</a> I have brushed up against - might there be an influence there? Or a
-    shared common source? Might be interesting to look into. Also interesting as
-    springboards for further research down the line were some of the prominent
-    pray-ers (those who pray), poets, and thinkers talked about. I, of course, knew
-    about John Donne, and I had heard of Gerard Manly Hopkins, but seeing them
-    discussed for the role prayer played in their lives and how their poems can be
-    construed as prayers was interesting and helpful. George Herbert was one I don't
-    recall hearing about before, but who apparently made quite the impression not
-    only on those who knew him, but most English poets to come after. Even if I am
-    working in a <a href="#rules_of_germanish_meter">quirky mode</a>, since I want to write prayers that are poems (or the
-    other way around, as you prefer), I reckon I ought to come to know better those
-    folks who have done that best in English.
-    </p>
-
-    <p>
-    Again, for my own narrow ends, likely the most helpful bits were those
-    discussing specific repetitive devotional prayers, with the "Jesus Prayer" of
-    the Orthodox Church getting the most attention. While the book gives a lot of
-    details on who says it, when, how often, with what postures and physical aids,
-    and so forth, once more, it was likely most helpful in giving jumping-off points
-    to look more into, like <i>The Way of a Pilgrim</i> for the "Jesus Prayer." Thus far,
-    I've mostly only had the Rosary as a point of inspiration for the Heathen
-    Rosary, but the Jesus prayer has some different ways of doing things, with a
-    different flavor, and this book mentioned some others that surely do as well,
-    like the Muslim (especially Sufi) use of the list of divine names/attributes in
-    a similar fashion. Here again, many such cases!
-    </p>
-    </div>
-    </li>
-
-    <li><a id="orgf4819d6"></a>Some Shortcomings: Too Modern, Too Christian, and Too Muddled<br />
-    <div class="outline-text-3" id="text-orgf4819d6">
-    <p>
-    So, I've saved my beefs with the book for near the end, because I didn't want to
-    give the wrong impression or devalue the good stuff I have gotten out of it. For
-    one, it took me nearly four months to read it, because I put it down to read a
-    couple other books that seemed more interesting and engaging at the time. Some
-    of this was the writing. I can't quite put my finger on it, as nothing jumped
-    out at me as clearly "bad," and it wasn't <i>hard</i> to read, in the sense of needing
-    work to understand what they're saying, but it was, for some reason, tiring to
-    read. I just couldn't make myself get through all that much of it at a go. Some
-    of this, I'm sure, is my internet-rotted brain craving constant distraction and
-    stimulation, but I don't think it's <i>just</i> that. Anyhow, I'm not sure how much of
-    that came from my issues with what it actually had to say, but I did have some.
-    For starters, this book suffers from the all-too-common affliction of
-    presentism. Despite reaching back to Gilgamesh and Inanna, everything is firmly
-    viewed through a comfortably ecumenical, laid-back American "it's all good, man"
-    kind of lens. Which I can't fault too much, as that's not so far from my own
-    default sensibilities, but more damning is how much weight is given to the last
-    century and some change, whether in what examples to share, which thinkers to
-    discuss, or what concerns to give the most weight to. It's a bit hard to tell
-    how much of this is an intentional strategy to make the book "relevant" to its
-    audience, and how much is the unthinking default of the writers, but either way,
-    for a "history" of something as old and widespread as prayer, the weakness was
-    keenly felt.
-    </p>
-
-    <p>
-    Next, I felt that the book suffered from being too obviously written by a couple
-    of Christians grounded in their own tradition, looking at others for inspiration
-    and a bit of comparison - which, hey, fair enough, that's almost exactly what
-    I'm doing from over here in my tradition. On the other hand, it weakens the
-    book's attempts to be "universal" and comprehensive. Remember how I mentioned
-    that touching on the handful of seemingly nearly-atheistic folks that have been
-    written about would have strengthened the sense of universality they were going
-    for? Well, here, I think they got the same effect unintentionally. A handful of
-    times, they bring up prayers from traditions way outside of the Abrahamic faiths
-    (Mesopotamian, Native American, Neoplatonic, whatever), but the sheer sparseness
-    of these examples and the nagging feeling that they've maybe been cherry-picked
-    to harmonize with the mostly Abrahamic, mostly mostly Christian examples and
-    analysis takes away from their helpfulness a bit. The viewpoint of the book,
-    which I assume reflects that of its authors (again, fair enough), seems pretty
-    well-described by concentric circles of diminishing frequency and relevance:
-    Christianity - Abrahimic Faiths - Monotheism - Monism - Everything Else. I would
-    have really liked something that made more of an effort to cast a wider net, but
-    maybe that would have been unwieldy: Mircea Eliade took three volumes to discuss
-    big picture religious ideas across time and the world, without a lot of focus on
-    the kind of nitty gritty details that a discussion of prayer requires. Or maybe
-    no one else wants that, and they wisely kept their book to the kind of stuff
-    that would be relevant and interesting to the kind of Americans who want to read
-    about prayer (read: Christians), but this is my review, so that's what I'd want.
-    </p>
-
-    <p>
-    Lastly, the bit that I've alluded to a few times above: this book can't quite
-    seem to make up what it wants to be, and there's the hint of at least two or
-    three books in here, each of which I kind of wish I'd gotten instead. Is this,
-    as the subtitle suggests, a history of prayer that gives a definition of
-    "prayer" and then traces that thing through time and human experience? Is it,
-    instead, a taxonomy of the kinds of prayer that men regularly engage in and how
-    to tell them apart? Or is it instead an analysis of what it is that's going on
-    when folks pray, what it does, and how to do it? There are elements of all of
-    these in the book, and as I said, I think it's the weaker for it, at least at
-    this level of depth - write two, or three, or four smaller, more focused books,
-    or write a behemoth multi-volume definitive treatise to <a href="https://www.youtube.com/watch?v=OBGOQ7SsJrw">crush your enemies</a>, er,
-    I mean, set the standard for posterity. Again, I can't really <i>blame</i> the Zaleskis
-    for writing the book they did, rather than the hypothetical books I'd prefer,
-    but as with some other <a href="#book_the_seed_of_yggdrasill_overall_rundown">books</a>, it can be frustrating to see the potential and not
-    get it.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org91ea0c4"></a>Should You Read this Book? Eh, Maybe<br />
-    <div class="outline-text-3" id="text-org91ea0c4">
-    <p>
-    Okay, the header likely comes across as harsh, since ambivalence is very hard to
-    express online without it coming across as dislike understated for humorous
-    effect, but really, I ask you to believe me when I say that my feelings about
-    this book are truly "middle of the road." If you are interested in prayer as a
-    topic and want to go deep, this has lots of great jumping off points. Likewise,
-    if you have a fairly narrow experience of prayer traditions or history, this
-    will give you some idea of the breadth of what you're missing (but only an
-    idea). If you are a fairly open-minded Christian looking for insights and
-    parallels from other traditions, this book might be <i>just right</i>. On the other
-    hand, as I was thinking over the book for this review, I was struck by the
-    thought "who is this book <i>for</i> anyway?" It lacks the clear "how to" or "newly
-    unearthed truth(!)" of a self-help book. It doesn't quite have the focus, depth,
-    and rigor of an academic work written for specialists and researchers. It's
-    obvious grounding in Christian assumptions makes it less helpful to folks coming
-    from outside that religion, but it's lack of a firm theological position
-    (besides something like "God is (probably) real and good, and prayer is a way to
-    tap into that") makes it less helpful to Christians looking to deepen their
-    practice or faith. It just so happened that I'm in the narrow range of folks
-    whom I can imagine finding this book actively helpful, but I'm really scratching
-    my head at how we got this kinda dry, academic book written and marketed like
-    it's supposed to be pop spirituality. All of which is to say, I think this book
-    is interesting and helpful if you have some reason to want to <i>understand</i> prayer,
-    but if all you want to do is pray in a way pleasing to your Gods and helpful to
-    you, you might be better off looking elsewhere.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org5f97ee1"></a>Post Footer<br />
-    <div class="outline-text-3" id="text-org5f97ee1">
-    <p>
-    <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
-    send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
-    thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/19741.html">dreamwidth post</a></i>.
+    <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/20195.html">dreamwidth post</a></i>.
     </p>
 
     <p>
@@ -338,6 +132,322 @@
     </li>
     </ul>
     ]]></description>
+</item>
+
+<item>
+  <title>[Book] Prayer: a History</title>
+  <link>./#book_prayer_a_history</link>
+  <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
+  <guid isPermaLink="false">./#book_prayer_a_history</guid>
+  <pubDate>Thu, 13 Jun 2024 14:33:00 -0500</pubDate>
+  <category><![CDATA[rss]]></category>
+  <description><![CDATA[<p>
+  <b>Date</b>: 2024-June-13
+  </p>
+
+  <p>
+  I read this book to help me along with my <a href="#framework_for_a_heathen_rosary">Heathen Rosary</a> undertaking, and
+  overall I found it helpful, though maybe with more padding than I'd like for
+  what I got out of it. I also wonder a bit who it's written for: I read it since
+  I want to understand how prayers "work," but that's what you might call a
+  "highly specialized use-case." Anyhow, for those idiosyncratic ends, there were
+  some helpful bits, so maybe you can find something worthwhile in here as well.
+  Let's check it out.
+  </p>
+
+  <ul class="org-ul">
+  <li><a id="orgac45957"></a>Prayer is Worldwide<br />
+  <div class="outline-text-3" id="text-orgac45957">
+  <p>
+  This book makes the point, I think well, that pretty much anywhere you go, the
+  folks you find will pray. Today's West might be the <i>least</i> prayerful folk to ever
+  live, and even still, a lot of us pray (or at least, still did when this book
+  was published nearly 20 years ago in 2005). The book shares examples and
+  anecdotes of prayer from Mesopotamians, American Indians, Indian Indians,
+  Japanese, Africans, and more, but, of course, <i>much</i> of what it talks about is
+  drawn from the Abrahamic tradition, most of all Christianity (more on this
+  below). Even still, the Zaleskis do a good job of showing that most folks in
+  most times and steads have ways of calling upon the holy, for many ends, but
+  that most of these ways reasonably answer to the name of "prayer." There's a few
+  places where they stretch things a bit for my taste - like including Buddhist
+  mindfulness meditation as "prayer," but overall, they make a good case for
+  "almost everybody prays." I say "almost," because even though they didn't touch
+  on it here, I happen to know that the Comanche and a handful of others were
+  <a href="https://www.stoneageherbalist.com/p/atheism-in-the-ancient-world?utm_source=publication-search">deeply weird</a> on religion compared to the rest of mankind. It's a shame they
+  <i>didn't</i> mention these handful of outliers, as it seems rather relevant to making
+  a case that prayer is (nearly) universal, and for me, the tiny number of "not
+  religious" folks that we know about strengthens the point about how common
+  religion is.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org2f44c7e"></a>But Prayer is Deeply Local and Traditional<br />
+  <div class="outline-text-3" id="text-org2f44c7e">
+  <p>
+  Even though the book most strongly stresses the universality of prayer, at times
+  it also puts weight on how prayer is actually deeply rooted in the culture and
+  religion from which it grows. Even when not making this point "out loud," many
+  of the examples given are so evocative of their own imagery, assumptions, thews,
+  and so forth that the point comes across nonetheless. Still, though, I think
+  this book leans <i>too</i> strongly into the universality of prayer, ironing out
+  interesting differences in its quest to reaffirm that we all pray and can all
+  learn from each other. The modern American experience of prayer as something
+  mainly individual, mainly spontaneous, mainly unstructured, and resulting from
+  and subject to individual conscience and preference is <i>very</i> weird, historically
+  speaking. Of course, I reckon that's <i>our</i> deeply local and "traditional" take on
+  prayer (I'm half joking, but only half. How Americans can and should work out
+  our troubled relationship with tradition is a long-term interest of mine).
+  There's a chapter on what prayer was/is like in "traditional societies," which
+  was one of my favorites in the book for the very interesting examples it
+  included, but unluckily, it keeps up the book's trend of painting with too broad
+  a brush. It treats late 19th century highland Scotland, early 20th century Hopi
+  reservation lands, and the Classical Mediterranean all as "traditional"
+  societies and contrasts these with "modernity." On the one hand, this <i>is</i> a
+  helpful lens through which to look at the world, as today's Western outlook is
+  indeed very unlike, well, everyone, anywhere, or anywhen else, so "modernity" is
+  a meaningful term and useful to contrast with everything that is not it. On the
+  other hand, though, that's a <i>really</i> big bucket to dump everything else into!
+  <i>Especially</i> when we're talking about the <i>most</i> deeply local and traditional parts
+  of those cultures, their religions. Overall, I find an approach like <a href="#understanding_spengler_s_decline_of_the_west_bit_1">Spengler's</a>
+  more helpful, which recognizes the underlying morphological similarities between
+  cultures and their religious feeling, but then explores the very different
+  content of those morphologies.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org0bbe373"></a>Prayer and Magic Run Together<br />
+  <div class="outline-text-3" id="text-org0bbe373">
+  <p>
+  Though it can be helpful to make distinctions, the Zaleskis make a point early
+  in the book to emphasize the similarities between prayer and magic, and how the
+  two often bleed together, sometimes to the point of being indistinguishable. I
+  suspect that part of the reason for the strength of their emphasis is the
+  largely Christian audience they anticipate, who are used to magic as being
+  something not only <i>not</i> religious, but anti-religious. At this point, it's a bit
+  hard for me to remember that is a lot of people's default understanding, because
+  I've so immersed myself in the older and more widespread view that magic is one
+  expression of the hidden world of spirits, Gods, and forces that prayer also
+  calls upon. Anyway, I think the Zaleskis were basically trying to say "guys,
+  chill out, asking the divine to help you get what you want is not that weird,
+  whether you do it on your knees with hands clasped or standing before an altar
+  having invoked the four elements." Or something like that - their discussion of
+  "magic" is pretty much limited to verbal formulas, which makes the distinction
+  from prayer even fuzzier, with zero discussion of things like visualization,
+  meditation, ritual, symbolism, or the other ways of working that the mage keeps
+  handy. Which is a shame, because I think that much of the discussion I've seen
+  about prayer from the magical side of things would support and deepen much of
+  what they say here: namely that naked "gimme gimme" prayers/magic seem to do
+  <i>something</i>, since they show up everywhere, but are also decried in every
+  tradition as fundamentally a bad idea. Ah well, chalk it up to one more bit in
+  the book that I likely would have enjoyed more as a standalone work of its own.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org5419a5b"></a>A Rough Way to Group Kinds of Prayer<br />
+  <div class="outline-text-3" id="text-org5419a5b">
+  <p>
+  Though the book is not quite as straightforwardly organized as my MBA-brain
+  might crave, a good chunk of the book broke things down in an interesting way:
+  by four "archetypes" of the kinds of folks who pray, namely "the Refugee," "the
+  Devotee," "the Ecstatic," and "the Contemplative." Each of these chapters
+  explores a different flavor of prayer, seeking to organize by the goals of and
+  effect upon the one praying rather than by specific methods, formulae, or
+  traditions, and I found this an interesting and helpful way of looking at things
+  (though, to be fair, I've never put much time or thought into ways of analyzing
+  prayer!). These kinds of prayer are intercessionary (asking for help),
+  devotional (expressing love/respect/connection with the divine), ecstatic
+  (experiencing the divine through non-ordinary states of consciousness), and
+  contemplative (experiencing a deep bond with the divine, often to the point of
+  "oneness"). Clearly there might be any number of other ways to chop up prayer,
+  and these neat and fast categories bleed together (one of the most common forms
+  of devotional prayer, the Rosary, has plenty of intercession baked in, and for
+  advanced practitioners, may lead to ecstatic or contemplative states, for
+  example), but I liked the emphasis on "why is someone doing this/what is he
+  getting out of it?" for thinking about what makes different prayers different.
+  Due to its nature, this section included the most examples of different kinds of
+  prayer and well-known folks who have given them, so it was the part of the book
+  I liked best and found most helpful. Lots of good stuff to follow up on here,
+  but with the same caveats as the rest of the book, as I go into below.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org2b22060"></a>Lots of Lovely Examples of Prayer<br />
+  <div class="outline-text-3" id="text-org2b22060">
+  <p>
+  So, as I said, one of the things I liked best about this book was the way it
+  brought together selections from different kinds of prayers from different times
+  and steads, but given context by the wider discussion. If anything, I might have
+  liked a whole book that was just this - a lot of prayers from widely-flung
+  traditions brought together, compared, contrasted, and analyzed, but even still,
+  I was glad for what they did have. Given my own weirdo interests, I especially
+  valued when they got into a discussion of what appealed about different prayer
+  traditions, how they shifted to meet the needs of those who took them up, and so
+  forth. For example, even though the founder of Alcoholics Anonymous ended up as
+  a Christian, he remembered his resistance to religion as an atheist and insisted
+  on a more generic spirituality for the program, which has allowed it to become
+  incredibly popular. Likewise the discussion of the various teachings and
+  approaches tried by the broader New Thought movement - some believing that
+  "prayer" was merely a way to direct energies within yourself, others that it
+  attuned you to your fundamental oneness with the universe, and still others that
+  you were praying to the Christian God in the traditional sense. Others of the
+  examples given were just interesting, like the tidbit that some commentators
+  have seen the postures of the Muslim <i>Salat</i> (the five-times daily prayer toward
+  Mecca) as a kind of calligraphy, which, of course, brought to mind the <a href="#book_the_rebirth">letter
+  mysticism</a> I have brushed up against - might there be an influence there? Or a
+  shared common source? Might be interesting to look into. Also interesting as
+  springboards for further research down the line were some of the prominent
+  pray-ers (those who pray), poets, and thinkers talked about. I, of course, knew
+  about John Donne, and I had heard of Gerard Manly Hopkins, but seeing them
+  discussed for the role prayer played in their lives and how their poems can be
+  construed as prayers was interesting and helpful. George Herbert was one I don't
+  recall hearing about before, but who apparently made quite the impression not
+  only on those who knew him, but most English poets to come after. Even if I am
+  working in a <a href="#rules_of_germanish_meter">quirky mode</a>, since I want to write prayers that are poems (or the
+  other way around, as you prefer), I reckon I ought to come to know better those
+  folks who have done that best in English.
+  </p>
+
+  <p>
+  Again, for my own narrow ends, likely the most helpful bits were those
+  discussing specific repetitive devotional prayers, with the "Jesus Prayer" of
+  the Orthodox Church getting the most attention. While the book gives a lot of
+  details on who says it, when, how often, with what postures and physical aids,
+  and so forth, once more, it was likely most helpful in giving jumping-off points
+  to look more into, like <i>The Way of a Pilgrim</i> for the "Jesus Prayer." Thus far,
+  I've mostly only had the Rosary as a point of inspiration for the Heathen
+  Rosary, but the Jesus prayer has some different ways of doing things, with a
+  different flavor, and this book mentioned some others that surely do as well,
+  like the Muslim (especially Sufi) use of the list of divine names/attributes in
+  a similar fashion. Here again, many such cases!
+  </p>
+  </div>
+  </li>
+
+  <li><a id="orgf4819d6"></a>Some Shortcomings: Too Modern, Too Christian, and Too Muddled<br />
+  <div class="outline-text-3" id="text-orgf4819d6">
+  <p>
+  So, I've saved my beefs with the book for near the end, because I didn't want to
+  give the wrong impression or devalue the good stuff I have gotten out of it. For
+  one, it took me nearly four months to read it, because I put it down to read a
+  couple other books that seemed more interesting and engaging at the time. Some
+  of this was the writing. I can't quite put my finger on it, as nothing jumped
+  out at me as clearly "bad," and it wasn't <i>hard</i> to read, in the sense of needing
+  work to understand what they're saying, but it was, for some reason, tiring to
+  read. I just couldn't make myself get through all that much of it at a go. Some
+  of this, I'm sure, is my internet-rotted brain craving constant distraction and
+  stimulation, but I don't think it's <i>just</i> that. Anyhow, I'm not sure how much of
+  that came from my issues with what it actually had to say, but I did have some.
+  For starters, this book suffers from the all-too-common affliction of
+  presentism. Despite reaching back to Gilgamesh and Inanna, everything is firmly
+  viewed through a comfortably ecumenical, laid-back American "it's all good, man"
+  kind of lens. Which I can't fault too much, as that's not so far from my own
+  default sensibilities, but more damning is how much weight is given to the last
+  century and some change, whether in what examples to share, which thinkers to
+  discuss, or what concerns to give the most weight to. It's a bit hard to tell
+  how much of this is an intentional strategy to make the book "relevant" to its
+  audience, and how much is the unthinking default of the writers, but either way,
+  for a "history" of something as old and widespread as prayer, the weakness was
+  keenly felt.
+  </p>
+
+  <p>
+  Next, I felt that the book suffered from being too obviously written by a couple
+  of Christians grounded in their own tradition, looking at others for inspiration
+  and a bit of comparison - which, hey, fair enough, that's almost exactly what
+  I'm doing from over here in my tradition. On the other hand, it weakens the
+  book's attempts to be "universal" and comprehensive. Remember how I mentioned
+  that touching on the handful of seemingly nearly-atheistic folks that have been
+  written about would have strengthened the sense of universality they were going
+  for? Well, here, I think they got the same effect unintentionally. A handful of
+  times, they bring up prayers from traditions way outside of the Abrahamic faiths
+  (Mesopotamian, Native American, Neoplatonic, whatever), but the sheer sparseness
+  of these examples and the nagging feeling that they've maybe been cherry-picked
+  to harmonize with the mostly Abrahamic, mostly mostly Christian examples and
+  analysis takes away from their helpfulness a bit. The viewpoint of the book,
+  which I assume reflects that of its authors (again, fair enough), seems pretty
+  well-described by concentric circles of diminishing frequency and relevance:
+  Christianity - Abrahimic Faiths - Monotheism - Monism - Everything Else. I would
+  have really liked something that made more of an effort to cast a wider net, but
+  maybe that would have been unwieldy: Mircea Eliade took three volumes to discuss
+  big picture religious ideas across time and the world, without a lot of focus on
+  the kind of nitty gritty details that a discussion of prayer requires. Or maybe
+  no one else wants that, and they wisely kept their book to the kind of stuff
+  that would be relevant and interesting to the kind of Americans who want to read
+  about prayer (read: Christians), but this is my review, so that's what I'd want.
+  </p>
+
+  <p>
+  Lastly, the bit that I've alluded to a few times above: this book can't quite
+  seem to make up what it wants to be, and there's the hint of at least two or
+  three books in here, each of which I kind of wish I'd gotten instead. Is this,
+  as the subtitle suggests, a history of prayer that gives a definition of
+  "prayer" and then traces that thing through time and human experience? Is it,
+  instead, a taxonomy of the kinds of prayer that men regularly engage in and how
+  to tell them apart? Or is it instead an analysis of what it is that's going on
+  when folks pray, what it does, and how to do it? There are elements of all of
+  these in the book, and as I said, I think it's the weaker for it, at least at
+  this level of depth - write two, or three, or four smaller, more focused books,
+  or write a behemoth multi-volume definitive treatise to <a href="https://www.youtube.com/watch?v=OBGOQ7SsJrw">crush your enemies</a>, er,
+  I mean, set the standard for posterity. Again, I can't really <i>blame</i> the Zaleskis
+  for writing the book they did, rather than the hypothetical books I'd prefer,
+  but as with some other <a href="#book_the_seed_of_yggdrasill_overall_rundown">books</a>, it can be frustrating to see the potential and not
+  get it.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org91ea0c4"></a>Should You Read this Book? Eh, Maybe<br />
+  <div class="outline-text-3" id="text-org91ea0c4">
+  <p>
+  Okay, the header likely comes across as harsh, since ambivalence is very hard to
+  express online without it coming across as dislike understated for humorous
+  effect, but really, I ask you to believe me when I say that my feelings about
+  this book are truly "middle of the road." If you are interested in prayer as a
+  topic and want to go deep, this has lots of great jumping off points. Likewise,
+  if you have a fairly narrow experience of prayer traditions or history, this
+  will give you some idea of the breadth of what you're missing (but only an
+  idea). If you are a fairly open-minded Christian looking for insights and
+  parallels from other traditions, this book might be <i>just right</i>. On the other
+  hand, as I was thinking over the book for this review, I was struck by the
+  thought "who is this book <i>for</i> anyway?" It lacks the clear "how to" or "newly
+  unearthed truth(!)" of a self-help book. It doesn't quite have the focus, depth,
+  and rigor of an academic work written for specialists and researchers. It's
+  obvious grounding in Christian assumptions makes it less helpful to folks coming
+  from outside that religion, but it's lack of a firm theological position
+  (besides something like "God is (probably) real and good, and prayer is a way to
+  tap into that") makes it less helpful to Christians looking to deepen their
+  practice or faith. It just so happened that I'm in the narrow range of folks
+  whom I can imagine finding this book actively helpful, but I'm really scratching
+  my head at how we got this kinda dry, academic book written and marketed like
+  it's supposed to be pop spirituality. All of which is to say, I think this book
+  is interesting and helpful if you have some reason to want to <i>understand</i> prayer,
+  but if all you want to do is pray in a way pleasing to your Gods and helpful to
+  you, you might be better off looking elsewhere.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org5ee1be7"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org5ee1be7">
+  <p>
+  <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
+  send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
+  thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/19741.html">dreamwidth post</a></i>.
+  </p>
+
+  <p>
+  <b>Want to get new posts emailed to your inbox? <a href="mailto:jeff.powell.russell@gmail.com?subject=Add%20me%20to%20the%20Webstead%20mailing%20list">Sign up here</a>.</b>
+  </p>
+
+  <hr />
+  </div>
+  </li>
+  </ul>
+  ]]></description>
 </item>
 
 <item>
@@ -498,8 +608,8 @@
   </div>
   </li>
 
-  <li><a id="org08ee0e2"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org08ee0e2">
+  <li><a id="orgc33acb8"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgc33acb8">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/19593.html">dreamwidth post</a></i>.
   </p>
@@ -551,8 +661,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org40bf3d7"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org40bf3d7">
+  <li><a id="org3ec6bd8"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org3ec6bd8">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/19302.html">dreamwidth post</a></i>.
   </p>
@@ -598,8 +708,8 @@
   </blockquote>
 
   <ul class="org-ul">
-  <li><a id="org8732894"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org8732894">
+  <li><a id="org88c2206"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org88c2206">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/18997.html">dreamwidth post</a></i>.
   </p>
@@ -695,8 +805,8 @@
   </div>
   </li>
 
-  <li><a id="org90bb7fa"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org90bb7fa">
+  <li><a id="orgae37d78"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgae37d78">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/18717.html">dreamwidth post</a></i>.
   </p>
@@ -752,8 +862,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org767bf39"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org767bf39">
+  <li><a id="org583e2cf"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org583e2cf">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/18657.html">dreamwidth post</a></i>.
   </p>
@@ -876,8 +986,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgfa90afc"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgfa90afc">
+  <li><a id="org3eb4c6d"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org3eb4c6d">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/17945.html">dreamwidth post</a></i>.
   </p>
@@ -1234,8 +1344,8 @@
   </div>
   </li>
 
-  <li><a id="orgfb67eac"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgfb67eac">
+  <li><a id="org0b2d7e1"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org0b2d7e1">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/17895.html">dreamwidth post</a></i>.
   </p>
@@ -1367,8 +1477,8 @@
   </div>
   </li>
 
-  <li><a id="org555749c"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org555749c">
+  <li><a id="org3587374"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org3587374">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/17648.html">dreamwidth post</a></i>.
   </p>
@@ -1404,8 +1514,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org62aa9a2"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org62aa9a2">
+  <li><a id="orge5fbefa"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orge5fbefa">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a> - <b>You Are Here</b></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -1640,8 +1750,8 @@
   </div>
   </li>
 
-  <li><a id="org383c44a"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org383c44a">
+  <li><a id="orgd549d67"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgd549d67">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16911.html">dreamwidth post</a></i>.
   </p>
@@ -1669,8 +1779,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgab4791b"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgab4791b">
+  <li><a id="orgff78bef"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgff78bef">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -1799,8 +1909,8 @@
   </li>
 
 
-  <li><a id="org8f8198a"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org8f8198a">
+  <li><a id="org58e932f"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org58e932f">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16668.html">dreamwidth post</a></i>.
   </p>
@@ -1984,8 +2094,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org50220b0"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org50220b0">
+  <li><a id="org0912869"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org0912869">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16407.html">dreamwidth post</a></i>.
   </p>
@@ -2013,8 +2123,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org10156de"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org10156de">
+  <li><a id="org2558122"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org2558122">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -2085,8 +2195,8 @@
   </div>
   </li>
 
-  <li><a id="org0c557f8"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org0c557f8">
+  <li><a id="org834d5fd"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org834d5fd">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16274.html">dreamwidth post</a></i>.
   </p>
@@ -2154,8 +2264,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgd55761b"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgd55761b">
+  <li><a id="org98e0c73"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org98e0c73">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16049.html">dreamwidth post</a></i>.
   </p>
@@ -2239,8 +2349,8 @@
   </div>
   </li>
 
-  <li><a id="orgd248bd8"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgd248bd8">
+  <li><a id="orgdf2773c"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgdf2773c">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15741.html">dreamwidth post</a></i>.
   </p>
@@ -2268,8 +2378,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org1f8b006"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org1f8b006">
+  <li><a id="orgd6cb7a7"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgd6cb7a7">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -2324,8 +2434,8 @@
   </div>
   </li>
 
-  <li><a id="org828ab75"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org828ab75">
+  <li><a id="org4550775"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org4550775">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15378.html">dreamwidth post</a></i>.
   </p>
@@ -2353,8 +2463,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org62fd1e4"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org62fd1e4">
+  <li><a id="orge7c4c4b"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orge7c4c4b">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -2396,8 +2506,8 @@
   </div>
   </li>
 
-  <li><a id="orgc2b76c1"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgc2b76c1">
+  <li><a id="orgbf13673"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgbf13673">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15288.html">dreamwidth post</a></i>.
   </p>
@@ -2425,8 +2535,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgea8bb6d"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgea8bb6d">
+  <li><a id="org0025671"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org0025671">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -2473,8 +2583,8 @@
   </div>
   </li>
 
-  <li><a id="org80f9bfc"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org80f9bfc">
+  <li><a id="org55bb239"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org55bb239">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14905.html">dreamwidth post</a>.</i>
   </p>
@@ -2498,8 +2608,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgd6d34da"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgd6d34da">
+  <li><a id="org89f0669"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org89f0669">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -2602,8 +2712,8 @@
   </div>
   </li>
 
-  <li><a id="org2d1a2f4"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org2d1a2f4">
+  <li><a id="org56d1b7c"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org56d1b7c">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14716.html">dreamwidth post</a>.</i>
   </p>
@@ -2683,8 +2793,8 @@
   </div>
   </li>
 
-  <li><a id="orgb23aba1"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgb23aba1">
+  <li><a id="org57ed6aa"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org57ed6aa">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14562.html">dreamwidth post</a>.</i>
   </p>
@@ -2844,8 +2954,8 @@
   </ul>
   </li>
 
-  <li><a id="org6eed848"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org6eed848">
+  <li><a id="org0ed8ef6"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org0ed8ef6">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14146.html">dreamwidth post</a>.</i>
   </p>
@@ -2869,8 +2979,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgd5213a9"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgd5213a9">
+  <li><a id="org2943726"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org2943726">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -2925,8 +3035,8 @@
   </div>
   </li>
 
-  <li><a id="orga970223"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orga970223">
+  <li><a id="orgba5b27d"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgba5b27d">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13742.html">dreamwidth post</a>.</i>
   </p>
@@ -2950,8 +3060,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgda8ab4b"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgda8ab4b">
+  <li><a id="org224a188"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org224a188">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -3106,8 +3216,8 @@
   </div>
   </li>
 
-  <li><a id="orgff4a736"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgff4a736">
+  <li><a id="org61ce4f3"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org61ce4f3">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13462.html">dreamwidth post</a>.</i>
   </p>
@@ -3159,8 +3269,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org5104790"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org5104790">
+  <li><a id="orgbea3ba0"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgbea3ba0">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13241.html">dreamwidth post</a>.</i>
   </p>
@@ -3228,8 +3338,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org3897fce"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org3897fce">
+  <li><a id="orgf7b040f"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgf7b040f">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12951.html">dreamwidth post</a>.</i>
   </p>
@@ -3253,8 +3363,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org033a224"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org033a224">
+  <li><a id="org1b43893"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org1b43893">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -3381,8 +3491,8 @@
   </div>
   </li>
 
-  <li><a id="org692ca39"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org692ca39">
+  <li><a id="orgf8310f7"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgf8310f7">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12612.html">dreamwidth post</a>.</i>
   </p>
@@ -3450,8 +3560,8 @@
   </div>
   </li>
 
-  <li><a id="orgad39cfe"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgad39cfe">
+  <li><a id="org1e42d78"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org1e42d78">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12323.html">dreamwidth post</a>.</i>
   </p>
@@ -3475,8 +3585,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org98b9673"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org98b9673">
+  <li><a id="org883226b"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org883226b">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -3571,8 +3681,8 @@
   </div>
   </li>
 
-  <li><a id="org1322d6c"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org1322d6c">
+  <li><a id="org3d889ae"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org3d889ae">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12162.html">dreamwidth post</a>.</i>
   </p>
@@ -3624,8 +3734,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgd75a434"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgd75a434">
+  <li><a id="org2b6576b"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org2b6576b">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11815.html">dreamwidth post</a>.</i>
   </p>
@@ -3665,21 +3775,19 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org26cd9b9"></a>Mark of the Hammer<br />
-  <div class="outline-text-3" id="text-org26cd9b9">
+  <li><a id="mark_of_the_hammer"></a>Mark of the Hammer<br />
+  <div class="outline-text-3" id="text-mark_of_the_hammer">
   <blockquote>
-  <p>
-  By Thunor's (touch forehead)
-  Mighty (touch solar plexus)
-  Hallowing (touch left shoulder)
-  Hammer (touch right shoulder)
-  </p>
+  <p>By Thunor's <span style="font-style:normal">(touch forehead)</span><br>
+  Mighty <span style="font-style:normal">(touch solar plexus)</span><br>
+  Hallowing <span style="font-style:normal">(touch left shoulder)</span><br>
+  Hammer <span style="font-style:normal">(touch right shoulder)</span><br></p>
   </blockquote>
   </div>
   </li>
 
-  <li><a id="org567155d"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org567155d">
+  <li><a id="orge449567"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orge449567">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11677.html">dreamwidth post</a>.</i>
   </p>
@@ -3703,8 +3811,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org86548ae"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org86548ae">
+  <li><a id="org76e00c2"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org76e00c2">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -3844,16 +3952,16 @@
   </div>
   </li>
 
-  <li><a id="orgc7c2fa3"></a>Closing<br />
-  <div class="outline-text-3" id="text-orgc7c2fa3">
+  <li><a id="org407950b"></a>Closing<br />
+  <div class="outline-text-3" id="text-org407950b">
   <p>
   So, whoo, here we are. The next chapter is, as I said, mercifully shorter, and focuses on "The Maiden with the Mead," the subject of Kvilhaug's master's thesis, but apparently new work on the same topic here. So, expect lots more on feminine spiritual Beings and/or bits of the soul, magic drinks, and initiation. As always, I welcome any thoughts, recommendations, or corrections.
   </p>
   </div>
   </li>
 
-  <li><a id="org36119ae"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org36119ae">
+  <li><a id="orgd163a7f"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgd163a7f">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11306.html">dreamwidth post</a>.</i>
   </p>
@@ -3917,8 +4025,8 @@
   </div>
   </li>
 
-  <li><a id="org18c6300"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org18c6300">
+  <li><a id="org629d3ed"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org629d3ed">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11228.html">dreamwidth post</a>.</i>
   </p>
@@ -4105,16 +4213,16 @@
   </div>
   </li>
 
-  <li><a id="org9938f4e"></a>Closing<br />
-  <div class="outline-text-3" id="text-org9938f4e">
+  <li><a id="orgb64ec98"></a>Closing<br />
+  <div class="outline-text-3" id="text-orgb64ec98">
   <p>
   Whether you find these prayers helpful for your own spiritual work, as always, I welcome any and all feedback!
   </p>
   </div>
   </li>
 
-  <li><a id="org4def673"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org4def673">
+  <li><a id="orge6b6ca0"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orge6b6ca0">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10887.html">dreamwidth post</a>.</i>
   </p>
@@ -4379,8 +4487,8 @@
   </div>
   </li>
 
-  <li><a id="org5e31552"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org5e31552">
+  <li><a id="org1794111"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org1794111">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -4406,8 +4514,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orge5fbefa"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orge5fbefa">
+  <li><a id="org7393784"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org7393784">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a> - <b>You Are Here</b></li>
@@ -4493,8 +4601,8 @@
   </div>
   </li>
 
-  <li><a id="orgf1b2551"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-orgf1b2551">
+  <li><a id="org351235d"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-org351235d">
   <p>
   First, a handful of thoughts on the physical book. I have the 2020 edition,
   which is the one currently available, but it was first printed in 2012 as a
@@ -4695,16 +4803,16 @@
   </ul>
   </li>
 
-  <li><a id="org407950b"></a>Closing<br />
-  <div class="outline-text-3" id="text-org407950b">
+  <li><a id="org1dd3914"></a>Closing<br />
+  <div class="outline-text-3" id="text-org1dd3914">
   <p>
   Altogether, this book has a <i>lot</i> to recommend it, but it takes a certain amount of energy to grapple with in anything but the most casual way. I sincerely wish Kvilhaug had some kind of partner of the organizational, attention-to-detail variety who shared her passion for these myths. Then we could have things like a list of all of the major Gods, Goddesses, and steads with their names translated, to be used as a reference when reading. We could have chapters and sections that can be looked up as needed, rather than having to be sifted out of the entire 600-page web. We could have lists of the formulas she's identified with pointers to what myths you can find them in. Such glorious possibilities! Alas, for now, I'll have to settle for making my own sense of what she has to offer and sharing what I find with you.
   </p>
   </div>
   </li>
 
-  <li><a id="org8f4c02e"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org8f4c02e">
+  <li><a id="org110a8ac"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org110a8ac">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10405.html">dreamwidth post</a>.</i>
   </p>
@@ -4895,8 +5003,8 @@
   </div>
   </li>
 
-  <li><a id="org355ed63"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org355ed63">
+  <li><a id="org2f6176e"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org2f6176e">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10116.html">dreamwidth post</a>.</i>
   </p>
@@ -5158,8 +5266,8 @@
   </div>
   </li>
 
-  <li><a id="org2bee0a4"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org2bee0a4">
+  <li><a id="org3fb6b95"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org3fb6b95">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9809.html">dreamwidth post</a>.</i>
   </p>
@@ -5271,8 +5379,8 @@
   </div>
   </li>
 
-  <li><a id="orga9a0a28"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orga9a0a28">
+  <li><a id="org265f9d9"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org265f9d9">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9590.html">dreamwidth post</a>.</i>
   </p>
@@ -5508,8 +5616,8 @@
   </div>
   </li>
 
-  <li><a id="orgd0608d3"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgd0608d3">
+  <li><a id="org3e5d3ee"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org3e5d3ee">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9076.html">dreamwidth post</a>.</i>
   </p>
@@ -5675,8 +5783,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgae1de2c"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgae1de2c">
+  <li><a id="org649fb64"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org649fb64">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/8865.html">dreamwidth post</a>.</i>
   </p>
@@ -6545,8 +6653,8 @@
   </div>
   </li>
 
-  <li><a id="org351235d"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-org351235d">
+  <li><a id="org94d8785"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-org94d8785">
   <p>
   This is not usually something I would talk about when going over a book, but
   here I think it's warranted, both good and bad. First off, the good stuff:
@@ -6643,8 +6751,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org1a8cc69"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org1a8cc69">
+  <li><a id="org0b09324"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org0b09324">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -6745,8 +6853,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org0e361a1"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org0e361a1">
+  <li><a id="org93d6969"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org93d6969">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -6932,8 +7040,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org8faf70a"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org8faf70a">
+  <li><a id="orgefb06f5"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orgefb06f5">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -7176,8 +7284,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org755de48"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org755de48">
+  <li><a id="org3370950"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org3370950">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -7400,8 +7508,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org95341fe"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org95341fe">
+  <li><a id="orgc75036b"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orgc75036b">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a> &#x2013; You are Here</li>
@@ -7572,8 +7680,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org0b09324"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org0b09324">
+  <li><a id="org65d1331"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org65d1331">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a> &#x2013; You are Here</li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -8500,8 +8608,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org0611cc3"></a>Way 1<br />
-  <div class="outline-text-3" id="text-org0611cc3">
+  <li><a id="orgeda123a"></a>Way 1<br />
+  <div class="outline-text-3" id="text-orgeda123a">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -8520,8 +8628,8 @@
   </div>
   </li>
 
-  <li><a id="org58298b6"></a>Way 2<br />
-  <div class="outline-text-3" id="text-org58298b6">
+  <li><a id="org85b8452"></a>Way 2<br />
+  <div class="outline-text-3" id="text-org85b8452">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -8540,8 +8648,8 @@
   </div>
   </li>
 
-  <li><a id="orga16bf2c"></a>Way 3<br />
-  <div class="outline-text-3" id="text-orga16bf2c">
+  <li><a id="org926a9da"></a>Way 3<br />
+  <div class="outline-text-3" id="text-org926a9da">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -8921,8 +9029,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgeda123a"></a>Way 1<br />
-  <div class="outline-text-3" id="text-orgeda123a">
+  <li><a id="org4b8c6a8"></a>Way 1<br />
+  <div class="outline-text-3" id="text-org4b8c6a8">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -8940,8 +9048,8 @@
   </div>
   </li>
 
-  <li><a id="org85b8452"></a>Way 2<br />
-  <div class="outline-text-3" id="text-org85b8452">
+  <li><a id="org63d9ed6"></a>Way 2<br />
+  <div class="outline-text-3" id="text-org63d9ed6">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -8959,8 +9067,8 @@
   </div>
   </li>
 
-  <li><a id="org926a9da"></a>Way 3<br />
-  <div class="outline-text-3" id="text-org926a9da">
+  <li><a id="org673aa77"></a>Way 3<br />
+  <div class="outline-text-3" id="text-org673aa77">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -9453,8 +9561,8 @@
   </div>
   </li>
 
-  <li><a id="org59cb3be"></a>The Poetic Edda<br />
-  <div class="outline-text-4" id="text-org59cb3be">
+  <li><a id="orgdaa0d73"></a>The Poetic Edda<br />
+  <div class="outline-text-4" id="text-orgdaa0d73">
   <p>
   <b>By</b>: Many writers<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -10221,8 +10329,8 @@
   </div>
   </li>
 
-  <li><a id="org2f83f37"></a>Shamanism<br />
-  <div class="outline-text-5" id="text-org2f83f37">
+  <li><a id="org019006a"></a>Shamanism<br />
+  <div class="outline-text-5" id="text-org019006a">
   <p>
   <b>By</b>: Mircea Eliade<br />
   <b>Have I Read It?</b>: About halfway.<br />
@@ -10625,8 +10733,8 @@
   </div>
   </li>
 
-  <li><a id="org70783a3"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-org70783a3">
+  <li><a id="orgb698ed3"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-orgb698ed3">
   <p>
   <b>By</b>: Dr. Stephen Flowers, PhD.<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -10636,8 +10744,8 @@
   </li>
 
 
-  <li><a id="orgb698ed3"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-orgb698ed3">
+  <li><a id="org731a298"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-org731a298">
   <p>
   <b>By</b>: P.D. Brown and Michael Moynihan (eds)<br />
   <b>Have I Read It?</b>: Some<br />
@@ -10813,8 +10921,8 @@
   </ul>
   </li>
 
-  <li><a id="org019006a"></a>Shamanism<br />
-  <div class="outline-text-4" id="text-org019006a">
+  <li><a id="org02dd7a7"></a>Shamanism<br />
+  <div class="outline-text-4" id="text-org02dd7a7">
   <p>
   As I said above, "shamanism" is a word that gets used for many unalike things, but the ways of the folks who live about the North pole gave us the name, and I think it likely those ways left some mark on the ways of the Norse at least, and maybe the wider Germanish world. The books below are all by Raven Kaldera and/or Galina Krasskova, and they have a way of looking at things that is rather unlike other folks, so take with as much salt as seems right to you.
   </p>
@@ -11358,8 +11466,8 @@
   </ul>
   </li>
 
-  <li><a id="org82c8601"></a>Rules for Anglo-Saxon Long Lines<br />
-  <div class="outline-text-3" id="text-org82c8601">
+  <li><a id="anglo-saxon_long_lines"></a>Rules for Anglo-Saxon Long Lines<br />
+  <div class="outline-text-3" id="text-anglo-saxon_long_lines">
   <p>
   So far, this is the meter I have the most experience with, as it is fairly straightforward and bendsome, as well as coming from the same background as the Gods and Lore that I draw on the most. Almost the same as Fornyrdhislag, but with these changes:
   </p>
@@ -12570,8 +12678,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org7d45a6b"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org7d45a6b">
+  <li><a id="orgd54019e"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgd54019e">
   <p>
   The Story Grid by Shawn Coyne
   </p>
@@ -12608,8 +12716,8 @@
   </ul>
   </li>
 
-  <li><a id="org0831290"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org0831290">
+  <li><a id="org88296b3"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org88296b3">
   </div>
 
   <ul class="org-ul">
@@ -12662,8 +12770,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgd31e262"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgd31e262">
+  <li><a id="org5d488c7"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org5d488c7">
   </div>
 
   <ul class="org-ul">
@@ -12709,8 +12817,8 @@
   </ul>
   </li>
 
-  <li><a id="org645c0cb"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org645c0cb">
+  <li><a id="org087ae64"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org087ae64">
   </div>
 
   <ul class="org-ul">
@@ -12747,8 +12855,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orga6f5291"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orga6f5291">
+  <li><a id="org44022e7"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org44022e7">
   </div>
 
   <ul class="org-ul">
@@ -12794,8 +12902,8 @@
   </ul>
   </li>
 
-  <li><a id="org9311f05"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org9311f05">
+  <li><a id="org6c4e06a"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org6c4e06a">
   </div>
 
   <ul class="org-ul">
@@ -12840,8 +12948,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org9227728"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org9227728">
+  <li><a id="org35b1ff0"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org35b1ff0">
   </div>
 
   <ul class="org-ul">
@@ -12879,8 +12987,8 @@
   </ul>
   </li>
 
-  <li><a id="orgec4839e"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgec4839e">
+  <li><a id="org774ac55"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org774ac55">
   </div>
 
   <ul class="org-ul">
@@ -12917,8 +13025,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgcdaa06c"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgcdaa06c">
+  <li><a id="orgc6f6c64"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgc6f6c64">
   </div>
 
   <ul class="org-ul">
@@ -12964,8 +13072,8 @@
   </ul>
   </li>
 
-  <li><a id="orgb8e4d97"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgb8e4d97">
+  <li><a id="org465665b"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org465665b">
   </div>
 
   <ul class="org-ul">
@@ -13010,8 +13118,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgd54019e"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgd54019e">
+  <li><a id="orgc984fd1"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgc984fd1">
   </div>
 
   <ul class="org-ul">
@@ -13049,8 +13157,8 @@
   </ul>
   </li>
 
-  <li><a id="org88296b3"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org88296b3">
+  <li><a id="orgb652ec4"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgb652ec4">
   </div>
 
   <ul class="org-ul">
@@ -14279,8 +14387,8 @@
   </div>
   </li>
 
-  <li><a id="orgdaa0d73"></a>The Poetic Edda<br />
-  <div class="outline-text-3" id="text-orgdaa0d73">
+  <li><a id="orgfe45982"></a>The Poetic Edda<br />
+  <div class="outline-text-3" id="text-orgfe45982">
   <p>
   <b>By Unknown, but I like the Hollander and Crawford translations</b>
   </p>
