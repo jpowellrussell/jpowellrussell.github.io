@@ -14,8 +14,8 @@
   <link></link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Sun, 07 Jul 2024 23:15:16 -0500</pubDate>
-  <lastBuildDate>Sun, 07 Jul 2024 23:15:16 -0500</lastBuildDate>
+  <pubDate>Sun, 14 Jul 2024 13:42:08 -0500</pubDate>
+  <lastBuildDate>Sun, 14 Jul 2024 13:42:08 -0500</lastBuildDate>
   <generator>Emacs 29.0 Org-mode 9.7-pre</generator>
   <webMaster>jeff.powell.russell@gmail.com (Jeff Russell)</webMaster>
   <image>
@@ -25,148 +25,364 @@
   </image>
 
   <item>
-    <title>The Trouble with "Ideology"</title>
-    <link>./#the_trouble_with_ideology</link>
+    <title>Let's Talk about LGOPs</title>
+    <link>./#let_s_talk_about_lgops</link>
     <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
-    <guid isPermaLink="false">./#the_trouble_with_ideology</guid>
-    <pubDate>Wed, 03 Jul 2024 14:18:00 -0500</pubDate>
+    <guid isPermaLink="false">./#let_s_talk_about_lgops</guid>
+    <pubDate>Sun, 14 Jul 2024 13:37:00 -0500</pubDate>
     <category><![CDATA[rss]]></category>
     <description><![CDATA[<p>
-    <b>Date</b>: 2024-July-03
+    <b>Date</b>: 2024-July-14
+    <b>Permalink</b>: <a href="#let_s_talk_about_lgops">Link to this Post</a>
+    </p>
+
+    <blockquote>
+    <p>
+    American parachutists...devils in baggy pants...are less than 100 meters from my
+    outpost line. I can't sleep at night; they pop up from nowhere and we never know
+    when or how they will strike next. Seems like the black-hearted devils are
+    everywhere...
+    </p>
+    </blockquote>
+    <p>
+    Taken from the diary of a Wehrmacht officer killed at Anzio, and the source of
+    <a href="https://en.wikipedia.org/wiki/504th_Infantry_Regiment_(United_States)">my regiment's</a> nickname.
     </p>
 
     <p>
-    The other day, I was talking with an online friend about "ideology." It got
-    kicked off by another instance of a claim you see floating around a lot these
-    days: "ideology" is artificial, and that folks would be better off without it.
-    My friend pointed out that everybody's got an ideology, but it's usually
-    implicit. In sharing my thoughts on this, I realized that we might be dealing
-    with a definition game, albeit one that gets heated precisely because it
-    revolves around some pretty weighty issues. If I'm right about the problem, then
-    these fights about "ideology" are onto something important, but might be talking
-    in circles due to some unstated assumptions on all sides. So let's try to bring
-    those assumptions out and state them and see if that gets us anywhere.
+    (This post is going up a day after the assassination attempt on former president
+    Donald Trump, but is not in response to it. I've had the rough idea for a couple
+    months, and I spent the last couple weeks working it up. I just don't want
+    anyone going cross-eyed looking for some esoteric association here.)
     </p>
 
     <p>
-    I think I first ran into a developed form of the "ideology is bad" position in
-    talks given by (surprise) Jordan Peterson. His argument goes like this: man's
-    thinking is inescapably <a href="https://jpowellrussell.com/#jordan_peterson_s_framework_for_myth">religious</a>, but in the West, religious thinking fell
-    apart in the last few hundred years, and in the place of religion, a handful of
-    formal belief systems (ideologies) grew up and have taken its place in steering
-    what folks want and how they try to get it. The heart of Peterson's point, the
-    reason he thinks it's a problem, is that he contends these ideologies are
-    <i>defective</i> religions - though they draw on the same underlying religious impulse,
-    they fail to account for key pieces of the world that traditional religions do
-    address, and this distorted view drives warped outcomes. He conceptualize this
-    through his boiled-down Jungian framework: full-on religions recognize order,
-    chaos, and the interplay between them, and that each of these three elements has
-    a good side and a bad side. These good and bad sides, and their interactions,
-    are conveyed in myth, and sets of belief and behavior get built on top of these
-    myths to become customs, traditions, and commandments. As far as it goes, I
-    largely agree with this analysis, but notice something about it - it pretty
-    narrowly defines "ideology" as the kinds of post-enlightenment, usually non-, or
-    at least a-, religious, formal frameworks of thought, that have been adopted by
-    intellectuals, reformers, and revolutionaries in the West for the past few
-    hundred years.
+    So, as I've likely shared before, I used to be a paratrooper, specifically, an
+    airborne infantryman. For those of you less familiar with military terms, let me
+    break this string down for you. "Airborne" means carried by aircraft, which
+    these days only refers to paratroopers (guys who jump out of airplanes with
+    parachutes), but in WWII also included gliderborne troops (ride a glider to a
+    hopefully minimally bumpy landing, and then walk out of the back of it on the
+    ground). "Infantry" means "guy with a rifle who fights on foot." If you'll allow
+    me a brief digression, part of why I spell all this out is some lingering
+    chauvinism. You see, those in the infantry tend to look down on everyone else in
+    the armed forces as not being "the real thing." When talking about the far
+    larger body of men in uniform outside of the infantry, we tend to use a less
+    than polite term that gained currency in the Global War on Terror - POG
+    (pronounced "pogue," like the Irish-flavored punk band), which stands for
+    "People Other than Grunts." If I'm being honest with you, and myself, much of
+    this haughtiness is surely born of the recognition of how much more it sucks to
+    be one of the "poor bloody infantry," and the perverse pride that comes from
+    justifying that suffering. Airborne infantry get the extra luxury of looking
+    down on "legs" - folks who don't jump out of airplanes - and so we're a cocky
+    bunch. I explain all this so you can decide how much salt to keep on hand as I
+    talk about one of the main threads of the airborne mythos: the LGOP (Little
+    Group of Paratroopers, pronounced "ell-gop").
     </p>
 
     <p>
-    My friend's position, though, is that the word "ideology" very often, if not
-    most of the time, doesn't get used to mean these kinds of grand, thoroughly
-    worked-out -isms (you the know the type). Instead, it means any kind of
-    reasonably coherent set of beliefs and propositions about how the world works
-    and what you should do within it. If you want to do <i>anything</i> in the world, you
-    have to have goals, and to arrive at what goals to go after, you have to <a href="https://treeofwoe.substack.com/p/recommended-reading-part-iv-metaphysics">think
-    about what your values are</a>, how to rank-order them, how to resolve conflicts
-    between them, and so forth. Folks latch onto the various -isms that Peterson
-    attacks precisely because they are at a loss on how to resolve what they should
-    do and how to go about doing it. Working all of that out from scratch is <i>hard</i>
-    and might <a href="https://barsoom.substack.com/p/the-prophet-of-the-twentieth-century">drive you crazy</a>.
+    I didn't see it coming as I was growing up, but now that I look back, it seems
+    somewhat inevitable that I'd end up a paratrooper. <i>Starship Troopers</i> in junior
+    high, <i>Band of Brothers</i> in high school, and then a classical education that
+    emphasized excellence, exceptionalism, and physical bravery in service to your
+    land. It was something of a joke when I was at airborne school how <i>Band of
+    Brothers</i> was required viewing to get accepted. Anyway, I bring it up not only
+    because of the shaping influence it had on me, but also because it has a great
+    depiction of our topic for today, LGOPs (in episode 2, the D-Day one). Now, if,
+    like me, you have a fondness for military history, the allied airborne
+    operations on D-Day are interesting in-and-of themselves, but the reason I
+    wanted to write a whole post about one little piece of that sprawling,
+    fascinating mess, is that I think LGOPs have something to teach us about the
+    complex interplay of people, culture, mission, organization, and training that
+    can take advantage of <a href="#a_big_thought_looking_for_a_small_name">nearbyness</a> to thrive in a chaotic situation.
     </p>
 
     <p>
-    Let's pause for a tick here. In what we've talked about so far, we've been
-    taking for granted what is <i>missing</i>, but let's spell that out a bit more. As
-    we've touched on elsewhere on this blog, most men in most times have lived in
-    cultures where this kind of stuff was <i>not</i> up in the air, it was settled. This
-    isn't the <a href="https://www.ecosophia.net/blogs-and-essays/the-well-of-galabes/the-unicorn-the-phoenix-and-the-dragon/">first time</a> folks have dealt with their certainty about how the world
-    works falling apart around them, but in typical <a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_3_the_soul_image">Faustian</a> style, we seem to be
-    demolishing our old certainties with an exceptional amount of gusto. In more
-    settled times, most folks don't give much thought to what's true about the
-    world, why it works that way, and what that says about what is <a href="https://www.youtube.com/watch?v=OBGOQ7SsJrw">best in life</a> and
-    how you should go after it. You learn that stuff from your kith and kin, they
-    support you in living up to it the best you can, and everybody's more or less on
-    the same page about who's doing well, who's not, and where we all stand in
-    between. In such times and places, only the <a href="https://infogalactic.com/info/Socrates">real weirdos</a> stop and think about
-    this stuff and ask whether it ought to be any different, and they can get into
-    all kinds of exciting trouble with their neighbors. These weirdos are seen,
-    somewhat rightly, as rocking the very bedrock that everyone else is trying to
-    build their lives on, and so everyone else is like "can you kindly chill out and
-    stop screwing around with what lets us lead happy, meaningful lives?"
+    Let's define just what the heck an LGOP is before we dig into why they're
+    interesting. Unless you've watched a lot of WWII movies or shows that feature
+    airborne operations, chances are very good that what you picture when I say
+    "paratrooper" is a little off. In most movies where secret agents or commandos
+    parachute in somewhere, they leap out of a plane impossibly high up, go into a
+    spread eagle and free fall for minutes, and then open a parachute that they
+    steer precisely onto the roof of the installation they're breaking into, and
+    come to a running landing, ditching the parachute, and maybe shooting
+    immediately. Special Operations troops sometimes do stuff like this, but that's
+    not what "regular" paratroopers do. It looks more like <a href="https://www.youtube.com/watch?v=R-2puqqmycM">this</a>. You have a plane
+    stuffed full of as many dudes and their gear as can be crammed in, they line up
+    and jump out one after the other with only a second or two between, a static
+    line pulls each of their shoots open without them doing anything, so it opens in
+    about four seconds, they fall about as fast and hard as you would jumping off a
+    second story balcony, and then hit the ground more or less like a sack of
+    potatoes. If you're lucky, you hit like a sack of potatoes that rolls over a few
+    times to absorb the impact, and hopefully you were able to drop your ruck and
+    the leg bag with your rifle in it before hitting so that you are <i>slightly</i> less
+    likely to break your legs. You haul in your ruck and leg bag with the tether
+    attached to them, get your rifle operational, and then pack your shoot up and
+    start looking for the muster point. It's messy. The round parachutes have
+    minimal steering, and even though you're dropped low to both minimize how far
+    you drift and how long the enemy has to shoot at you, the chance that you land
+    <i>exactly</i> where the operation planned to put you are already pretty small. Throw
+    in the typical (huge) amount of <a href="#delegation_acknowledges_the_need_of_the_thing_amidst_friction">friction</a> that you can expect in any military
+    endeavor, and it's better than even chances that you land with only a vague idea
+    where you are and how it relates to where you're supposed to be to accomplish
+    your mission.
     </p>
 
     <p>
-    Fast forward to our unsettled times, and you have a lot more weirdos, in part
-    because we have more need of them. Those old certainties done been rocked
-    already, and calls to "just stick with what works" don't hit the same when you
-    can see with your own eyes that's it not working anymore. Yet, most folks are
-    still not intellectual weirdos, and they don't <i>want</i> to come up with their own
-    bespoke belief systems. Besides being a huge pain in the ass, thought-up,
-    rational systems of values, goals, and practices lack the strength and
-    flexibility of organically-evolved systems that have had ages to work out all
-    the kinks. They're <a href="https://jpowellrussell.com/#fragility_robustness_and_antifragility">fragile</a>. If you want to know where that fragility can lead,
-    see the 20th century. Peterson's got a point that these solutions don't work.
-    So, normal folks have an honestly-come-by skepticism of intellectual weirdos
-    trying to "solve the world." Put that together with the historical record of
-    horror that came out of putting these world-solving systems to the test, and
-    most folks have come up with a reasonable heuristic that the products of
-    explicit, intellectual exploration of things like fundamental values, what kinds
-    of goals arise from them, and how to live in the world to reach them are worthy
-    of deep suspicion at best, and outright hostility at worst. Since many of these
-    horror-generating takes have been labeled "ideologies," the folk holding this
-    heuristic have decided that "ideology," and anything that smells even a little
-    like it, should be avoided at all costs.
+    On D-Day, there was even more than the usual helping of friction, and things got
+    <i>real</i> messy. Paratroopers got scattered six ways from Sunday, behind enemy lines,
+    in the dark, in unfamiliar country. What ended up happening is that American
+    soldiers used various recognition calls (like little clickers that sounded like
+    crickets or challenge-response passcodes) to identify if the guy creeping around
+    in the underbrush nearby was friend or foe. The friend you found, though, might
+    not be from your squad, or platoon, company, or even battalion. But everybody
+    was there to wreck some Germans' night, so pretty quickly, ad hoc little squads
+    formed - Little Groups of Paratroopers, LGOPs. These LGOPs went out and did the
+    best they could to accomplish their mission and link up with other groups, and
+    by morning, most guys had found their way into some effective military
+    formation, even if it wasn't the one they technically belonged to.
     </p>
 
     <p>
-    Unluckily, there's that bit I mentioned a moment ago: the certainties are
-    already broken. The traditions that might have better answers <a href="#further_thoughts_on_religious_authenticity">are cut off from
-    us</a>. So we find ourselves in a conundrum: the reasonable default of "do what
-    your folk teaches you" isn't up to the job, but neither is <a href="https://luctalks.substack.com/p/my-idea-of-philosophy">any one thing out in
-    the wilderness of intellectual wankery</a>. If some kind of fairly-comprehensive
-    worldview is the <a href="https://luctalks.substack.com/p/pauls-journey-towards-communion-with">foundation that everything else is built on</a>, we're in the
-    position of laying new foundations, and it's going to take a long time to try
-    things out, see what works, and build up from there. The good news for
-    intellectual weirdos like me is that we have plenty of opportunity to put things
-    forward, explore what other people have suggested, and feel out what might work
-    going forward. But this takes a <a href="https://luctalks.substack.com/p/gnosis-puffeth-up">a lot of humility</a>, and it's a journey without an
-    end. We're going to screw up. We're going to put forward things that sound good
-    on paper but don't work in the messy world of real life. We'll spin castles made
-    of air that are lovely to look upon, but cannot bear the weight we try to put
-    upon them. Those failures will hurt, and they'll suck, but along the way,
-    hopefully we'll learn something. If we keep the humility we mentioned in mind,
-    hopefully we can avoid the horrors that came from earlier, cockier
-    experimentation. And those who come after us will keep what works, throw out
-    what doesn't, and with some luck and some work, build a framework that's more up
-    to the task. Maybe those who come long enough after us will someday be able to
-    go back to the old way of just doing what their folk do. Meanwhile, it's an
-    exciting, but rough, time to be alive and thinking and sharing our thoughts. The
-    work is long, but life is short.
+    This might be a bit of a tangent, but something that I didn't fully appreciate
+    before joining the Army is the full importance of units and organization. In
+    many ways, the ideal of the modern soldier is as a highly trained and
+    disciplined interchangeable piece, a cog in a machine that can be substituted in
+    or out for any other cog. That leads to thinking that it doesn't much matter
+    which squad, company, battalion, or whatever a soldier is put in. To some
+    extent, this is true, and the more standardized the training between two units,
+    the more true it is. In practice, though, what unit you belong to not only
+    matters a lot, it is the primary fact of your existence. Besides doing actual
+    training together, on off days, you spend all day smoking and joking with your
+    squad mates, and then after work you go drinking with the guys in your platoon.
+    You talk shit about the other platoons, and if you deign to talk about other
+    companies, it is with contempt. You learn which <i>specific</i> guys in your platoon
+    are fast, slow, aggressive, hesitant, good shots, hopelessly disorganized, or
+    whatever. You compensate where you need to and lean on strengths where you can.
+    You come to <i>rely</i> on the specific, individual humans you know and trust, even if
+    when you first met, you just "relied" on them in the sense of doing some
+    fairly-well-specified job. I bring all of this up to emphasize how <i>hard</i> it is to
+    try to get things done militarily with randos that you've never met and don't
+    know or trust, which makes the LGOPs all that more impressive and exceptional.
     </p>
 
     <p>
-    So, I'm going to keep spinning, and I hope you'll call me out when I try to make
-    my castles bear more than they can hold up.
+    So, ever since D-Day, every paratrooper is inculcated with stories about LGOPs
+    and what they accomplished, both to honor our illustrious past, but also as a
+    model to emulate. Since we know it's <i>hard</i> to work with strangers, we make it a
+    part of our self image and training that we <i>can</i> work with strangers. On routine
+    jumps, we'd get a little taste of this, even though the operational area was
+    usually smaller, the friction less, and communications better than they would be
+    in the real thing. You land out in DZ (drop zone) Normandy in the dark, get your
+    parachute turned in, and link up with whatever guys you can find as you make
+    your way to a muster point, where usually you get sorted out and sent to your
+    actual unit. In the meantime, though, you have to act operationally - move
+    quietly, pull security, engage with any opfor (opposing forces) that might be
+    out there.
+    </p>
+
+    <p>
+    Alright, so that's what LGOPs are. Let's rewind a bit to talk about their
+    prehistory, and how they came to hold an exalted place in American military
+    mythology. The first major airborne operation in history was the Axis invasion
+    of Crete in 1941. Though it featured amphibious elements and regular troops were
+    brought into airfields seized by the paratroopers, the initial push was almost
+    entirely airborne. As interesting as the <a href="https://en.wikipedia.org/wiki/Battle_of_Crete">battle itself</a> is, what I want to focus
+    on here is how the great powers responded to it. The Axis (mostly Germany)
+    looked back on this successful operation and said "holy crap, that was a mess,
+    way too many casualties, way too disorganized, maybe this airborne thing isn't
+    worth it after all!" and from that point forward, fallschirmjager (German
+    paratroopers) were deployed as regular, if especially feisty, light infantry.
+    The Allies, on the other hand, saw a major strategic island in the Mediterranean
+    fall in a way previously thought impossible and said "holy crap, maybe there's
+    more to this airborne thing than we thought!" The shape of the rest of the war
+    to come was profoundly changed.
+    </p>
+
+    <p>
+    Though the Allies were not privy to the all of the internal messiness of the
+    mostly-German side, they learned a few lessons from observing what had happened
+    to the carefully orchestrated German plan on contact with the enemy. They saw
+    that paratroopers might not end up where you expected, that communications would
+    be crappy in the early stages, and that you couldn't rely on traditional battle
+    lines and supply from the rear. As such, as the first airborne units were stood
+    up and trained by the British and Americans, they incorporated these learnings
+    and readied some contingencies. They made sure that paratroopers were given a
+    wider understanding of the terrain and commanders intent than was normal for
+    infantry at the time. They made sure that leaders down to a very low level had
+    more specific orders about what they were meant to accomplish with whatever guys
+    they could round up. And the need for explicit rally points to head for in order
+    to get better organized was recognized and briefed to all troops before D-Day.
+    Now, sure, eventually, the Allies would learn their own lessons about the
+    challenges of huge, entirely-airborne operations in <a href="https://infogalactic.com/info/Operation_Market_Garden">Market Garden</a>, but for the
+    supporting role given to them on D-Day, American and British paratroopers proved
+    to be <i>exactly</i> the right tool for the job.
+    </p>
+
+    <p>
+    What made it work? Well, for starters, they built on the already
+    well-established, time-tested model of military organization and delegation. As
+    we talked about <a href="#delegation_acknowledges_the_need_of_the_thing_amidst_friction">before</a>, good militaries have long recognized the worth of having
+    leaders down to even very small levels, and to empower them with broad authority
+    within whatever scope they're given. This meant that when paratroopers found
+    themselves huddling in a hedgerow outside of Carentan, there was no question of
+    "who's in charge?" It was whoever had the highest rank there, whether that be a
+    captain, lieutenant, sergeant, or even a private first class. Even if he's not
+    <i>your</i> sergeant, you still know to listen to him. This clarity and unity of
+    command is <i>extremely important</i> in combat.
+    </p>
+
+    <p>
+    As mentioned, these leaders also had some idea of what to do, even in the
+    absence of higher direction. Before they even got on the plane, they had been
+    briefed on what the overall purpose was, what targets were high value, and what
+    the priority was on targets of opportunity. Just as the clarity of "who's in
+    charge?" meant that individual soldiers in an LGOP could focus on executing
+    well, rather than on figuring out what to do, so the leaders of these groups
+    didn't have to agonize over whether they should sit still and wait for someone
+    higher-ranked to show up, patrol around looking for others, or engage with any
+    enemies they felt they could take. Pretty much all of them had orders that went
+    something like "make your way to X rendezvous point with whatever guys you can
+    police up on your way, engage any targets of opportunity you encounter, and
+    overall, your goal is to cut off reinforcements from reaching the beach."
+    Knowing <i>why</i> they were sneaking around hostile territory with guns and explosives
+    meant that these leaders could focus on <i>how</i> to solve whatever challenges came
+    their way.
+    </p>
+
+    <p>
+    Taking a still wider view, there's a certain paradoxical freedom that comes from
+    being dropped into a country full of your enemies: no matter what direction you
+    go, no matter what actions you take, if it's bad for the German military, you're
+    helping. See some random soldiers out on patrol? Ambush them. Find a cache of
+    weapons? Take them, or blow them up. Observe a camp that wasn't on your map
+    that's too big to take on? Note it, and report it when you link up with a bigger
+    unit. Find some private who's scared and confused by himself? "You're with me
+    now, son, let's go fuck up some krauts!" (apologies to my German readers, but I
+    wanted to capture the vibe). Complexity and nuance are the enemies of dealing
+    with chaotic situations full of friction. Simplicity is a great blessing, even
+    if it's the "gift" of knowing that anyone you meet with a gun who doesn't answer
+    in English can probably be shot.
+    </p>
+
+    <p>
+    Lastly, many commentators, including contemporary officers, have pointed out a
+    key cultural difference between Americans and Germans that may have made the
+    former especially effective as paratroopers (the Brits also had this to some
+    degree): rugged independence. We can argue about how much this is still the
+    case, but it's always been part of the American character to think for yourself,
+    do your own thing, make your own way. The "gift" of clear priorities that comes
+    from being surrounded by foes can just as readily be paralyzing as empowering if
+    you aren't ready to make up your own damn mind and do what seems best to you
+    with what you've got. German soldiers were <i>extremely</i> well-trained and motivated.
+    They had the same strength of structure given by a clear chain of command and
+    effective delegation, the same benefit of a clear intent (guard this ammo dump,
+    shoot anyone who tries to cross this bridge that doesn't properly answer the
+    challenge, and so forth), and the added strengths of operating in their real,
+    established units (each German soldier was generally being ordered by <i>his</i>
+    sergeant, with whom he had an existing relationship, and so on up the chain) and
+    being on the defense (which always has certain advantages - knowing the terrain,
+    being dug in, concentration of forces, and so forth). But German military
+    culture (and arguably, the wider culture as well at this point in their history)
+    prioritized obedience, deference to authority, and precise planning and
+    execution to a degree that ornery Americans find wholly alien. Now, I know, the
+    whole stereotype of Germans as robotic order-followers is <a href="https://luctalks.substack.com/p/the-german-soul">overblown and mostly
+    wrong</a>, and the kind of flexible, delegation-heavy, commander's intent-focused
+    tactics that I'm extolling here were <a href="https://infogalactic.com/info/Mission-type_tactics">invented</a> by the Germans at the tail end of
+    WWI. But when put to the test, apparently a dozen random Americans with guns who
+    have never met before dropped into the woods of Normandy at night had a better
+    time than a dozen Germans in the same situation in Crete. The Germans <i>managed</i> to
+    win from such makings, barely, but the Americans <i>thrived</i> in such fighting.
+    </p>
+
+    <p>
+    So, why did I want to get into all of this? I think there are some interesting
+    lessons to learn for any organization that wants to thrive in a chaotic, even
+    hostile, environment:
+    </p>
+    <ul class="org-ul">
+    <li>First, you need to know your organization's mission - why does it exist? What
+    is it trying to do? What's the overall goal, and what are the intermediate
+    steps to get there? How does this organization solve problems and move towards
+    its goals (very different answers for paratroopers than the staff of a
+    high-end restaurant!)? What is it <i>for</i>? Clarity here will carry through all of
+    the other pieces, but so will muddiness - if an organization doesn't know why
+    it exists, it will soon start trying to be and do whatever it can get some
+    control over, and that makes it harder to actually accomplish anything. A
+    strong leader with a clear purpose is one way to get this, another is having
+    an obvious enemy like the Wehrmacht, but anything that makes it crystal clear
+    what outcomes you're after and how to prioritize them will do the job (note
+    that corporate "mission statements" pretty much never live up to this).</li>
+    <li>Next, and perhaps even more importantly, is that you have to get the right
+    guys - the folks who want what the organization wants, who approach problems
+    the way best suited to the organization, and who think and act the way the
+    organization needs them to. To some degree, you can train this, but a lot of
+    it is likely selection. If you try to stand up an airborne regiment with a
+    bunch of pacifists, you're gonna have a bad time. So pick good people, and
+    then put them through their paces to make sure they're good and reinforce what
+    they're good at and minimize what they're bad at.</li>
+    <li>With a goal and the right people, you're most of the way there already, but as
+    we've seen, it's helpful to have a clear, but not overly rigid structure.
+    Small, organic teams like startups can get away with doing this by "feel" or
+    raw seniority, but really anything over a dozen folks or so likely needs more
+    explicit roles and hierarchy. The more you can count on this structure being
+    present as-is when needed, the less flexibility it needs, but even where you
+    might not anticipate it, you might need more than you think - what happens
+    when the manager of your quality assurance team goes on vacation or leaves for
+    a competitor? Much easier to deal with when someone else can easily step in to
+    take over.</li>
+    <li>Which brings us to the nitty gritty of training. With the right folks going
+    after the right goals, and a clear idea of who is in charge, you need to
+    practice handling things the way you want them handled. As mentioned above,
+    cross-training becomes more helpful the more chaos and friction you expect,
+    but one under-appreciated aspect of training is not just competence in
+    tangible tasks, like marksmanship or calling in a medevac, but practice in
+    <i>making decisions</i>. This becomes especially important when training bleeds over
+    into what HR types like to call "development" - how do you cultivate the kind
+    of leaders you want within an organization? If you want folks who are willing
+    to take risks and think for themselves, you have to a. let them, and b. not
+    <i>punish them</i> for doing so. You can tell your guys "take risks, think for
+    yourself" all you want, but if anyone who sticks his neck out gets his head
+    chopped off, you better believe nobody will again after that. The same
+    principle applies to handling chaos. You can't train in perfectly expected,
+    orderly ways and just say "okay, but when it gets messy, do the best you can."
+    Or rather, you can, but you won't like the outcomes. Going back to our main
+    example, even today, paratroopers get experience forming and acting in LGOPs
+    through the simple expedient of exposing them to the conditions that create
+    them in the wild (jumping out of airplanes in less than ideal conditions with
+    a mission to accomplish). Whatever kind of uncertainty you think your leaders
+    might need to handle, try to give them simulations of it, or even better, put
+    junior leaders in positions where they'll be exposed to real chaos, but with a
+    more limited scope of what they have to handle. Going again to the military,
+    the most fundamental SOP (standard operating procedure) that the infantry
+    learns is Battle Drill 1-Alpha. When bad guys start shooting at you, one fire
+    team (half a squad) lays down and shoots back while the other fire team goes
+    around and tries to get around to the side of the bad guys, hopefully
+    surprising them and wiping them out. Being the leader of the flanking fire
+    team gives you a tiny dose of uncertainty within a framework of order - how
+    far out should I move? How quickly? Where should I tell my guys to take cover?
+    When should I signal the other fire team to shift their fire away from the
+    position we're approaching? Dealing with all of these sources of friction
+    builds the muscle of dealing with the bigger kinds that a squad, platoon, or
+    company leader will need to.</li>
+    </ul>
+
+    <p>
+    To recap one more time, if you want an organization that can handle and even
+    thrive in chaos, give it a clear mission that is communicated all the way down,
+    fill it with the guys who can make it happen, provide a clear structure to
+    answer who is in charge, and then give them lots of chances to practice as
+    realistically as you can manage. Easy, right? So go find some problems to solve
+    and get to it!
     </p>
 
     <ul class="org-ul">
-    <li><a id="orgb068b6d"></a>Post Footer<br />
-    <div class="outline-text-3" id="text-orgb068b6d">
+    <li><a id="org2c1b208"></a>Post Footer<br />
+    <div class="outline-text-3" id="text-org2c1b208">
     <p>
     <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
     send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
-    thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/20584.html">dreamwidth post</a></i>.
+    thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/20928.html">dreamwidth post</a></i>.
     </p>
 
     <p>
@@ -178,6 +394,162 @@
     </li>
     </ul>
     ]]></description>
+</item>
+
+<item>
+  <title>The Trouble with "Ideology"</title>
+  <link>./#the_trouble_with_ideology</link>
+  <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
+  <guid isPermaLink="false">./#the_trouble_with_ideology</guid>
+  <pubDate>Wed, 03 Jul 2024 14:18:00 -0500</pubDate>
+  <category><![CDATA[rss]]></category>
+  <description><![CDATA[<p>
+  <b>Date</b>: 2024-July-03
+  </p>
+
+  <p>
+  The other day, I was talking with an online friend about "ideology." It got
+  kicked off by another instance of a claim you see floating around a lot these
+  days: "ideology" is artificial, and that folks would be better off without it.
+  My friend pointed out that everybody's got an ideology, but it's usually
+  implicit. In sharing my thoughts on this, I realized that we might be dealing
+  with a definition game, albeit one that gets heated precisely because it
+  revolves around some pretty weighty issues. If I'm right about the problem, then
+  these fights about "ideology" are onto something important, but might be talking
+  in circles due to some unstated assumptions on all sides. So let's try to bring
+  those assumptions out and state them and see if that gets us anywhere.
+  </p>
+
+  <p>
+  I think I first ran into a developed form of the "ideology is bad" position in
+  talks given by (surprise) Jordan Peterson. His argument goes like this: man's
+  thinking is inescapably <a href="https://jpowellrussell.com/#jordan_peterson_s_framework_for_myth">religious</a>, but in the West, religious thinking fell
+  apart in the last few hundred years, and in the place of religion, a handful of
+  formal belief systems (ideologies) grew up and have taken its place in steering
+  what folks want and how they try to get it. The heart of Peterson's point, the
+  reason he thinks it's a problem, is that he contends these ideologies are
+  <i>defective</i> religions - though they draw on the same underlying religious impulse,
+  they fail to account for key pieces of the world that traditional religions do
+  address, and this distorted view drives warped outcomes. He conceptualize this
+  through his boiled-down Jungian framework: full-on religions recognize order,
+  chaos, and the interplay between them, and that each of these three elements has
+  a good side and a bad side. These good and bad sides, and their interactions,
+  are conveyed in myth, and sets of belief and behavior get built on top of these
+  myths to become customs, traditions, and commandments. As far as it goes, I
+  largely agree with this analysis, but notice something about it - it pretty
+  narrowly defines "ideology" as the kinds of post-enlightenment, usually non-, or
+  at least a-, religious, formal frameworks of thought, that have been adopted by
+  intellectuals, reformers, and revolutionaries in the West for the past few
+  hundred years.
+  </p>
+
+  <p>
+  My friend's position, though, is that the word "ideology" very often, if not
+  most of the time, doesn't get used to mean these kinds of grand, thoroughly
+  worked-out -isms (you the know the type). Instead, it means any kind of
+  reasonably coherent set of beliefs and propositions about how the world works
+  and what you should do within it. If you want to do <i>anything</i> in the world, you
+  have to have goals, and to arrive at what goals to go after, you have to <a href="https://treeofwoe.substack.com/p/recommended-reading-part-iv-metaphysics">think
+  about what your values are</a>, how to rank-order them, how to resolve conflicts
+  between them, and so forth. Folks latch onto the various -isms that Peterson
+  attacks precisely because they are at a loss on how to resolve what they should
+  do and how to go about doing it. Working all of that out from scratch is <i>hard</i>
+  and might <a href="https://barsoom.substack.com/p/the-prophet-of-the-twentieth-century">drive you crazy</a>.
+  </p>
+
+  <p>
+  Let's pause for a tick here. In what we've talked about so far, we've been
+  taking for granted what is <i>missing</i>, but let's spell that out a bit more. As
+  we've touched on elsewhere on this blog, most men in most times have lived in
+  cultures where this kind of stuff was <i>not</i> up in the air, it was settled. This
+  isn't the <a href="https://www.ecosophia.net/blogs-and-essays/the-well-of-galabes/the-unicorn-the-phoenix-and-the-dragon/">first time</a> folks have dealt with their certainty about how the world
+  works falling apart around them, but in typical <a href="https://jpowellrussell.com/#understanding_spengler_s_decline_of_the_west_bit_3_the_soul_image">Faustian</a> style, we seem to be
+  demolishing our old certainties with an exceptional amount of gusto. In more
+  settled times, most folks don't give much thought to what's true about the
+  world, why it works that way, and what that says about what is <a href="https://www.youtube.com/watch?v=OBGOQ7SsJrw">best in life</a> and
+  how you should go after it. You learn that stuff from your kith and kin, they
+  support you in living up to it the best you can, and everybody's more or less on
+  the same page about who's doing well, who's not, and where we all stand in
+  between. In such times and places, only the <a href="https://infogalactic.com/info/Socrates">real weirdos</a> stop and think about
+  this stuff and ask whether it ought to be any different, and they can get into
+  all kinds of exciting trouble with their neighbors. These weirdos are seen,
+  somewhat rightly, as rocking the very bedrock that everyone else is trying to
+  build their lives on, and so everyone else is like "can you kindly chill out and
+  stop screwing around with what lets us lead happy, meaningful lives?"
+  </p>
+
+  <p>
+  Fast forward to our unsettled times, and you have a lot more weirdos, in part
+  because we have more need of them. Those old certainties done been rocked
+  already, and calls to "just stick with what works" don't hit the same when you
+  can see with your own eyes that's it not working anymore. Yet, most folks are
+  still not intellectual weirdos, and they don't <i>want</i> to come up with their own
+  bespoke belief systems. Besides being a huge pain in the ass, thought-up,
+  rational systems of values, goals, and practices lack the strength and
+  flexibility of organically-evolved systems that have had ages to work out all
+  the kinks. They're <a href="https://jpowellrussell.com/#fragility_robustness_and_antifragility">fragile</a>. If you want to know where that fragility can lead,
+  see the 20th century. Peterson's got a point that these solutions don't work.
+  So, normal folks have an honestly-come-by skepticism of intellectual weirdos
+  trying to "solve the world." Put that together with the historical record of
+  horror that came out of putting these world-solving systems to the test, and
+  most folks have come up with a reasonable heuristic that the products of
+  explicit, intellectual exploration of things like fundamental values, what kinds
+  of goals arise from them, and how to live in the world to reach them are worthy
+  of deep suspicion at best, and outright hostility at worst. Since many of these
+  horror-generating takes have been labeled "ideologies," the folk holding this
+  heuristic have decided that "ideology," and anything that smells even a little
+  like it, should be avoided at all costs.
+  </p>
+
+  <p>
+  Unluckily, there's that bit I mentioned a moment ago: the certainties are
+  already broken. The traditions that might have better answers <a href="#further_thoughts_on_religious_authenticity">are cut off from
+  us</a>. So we find ourselves in a conundrum: the reasonable default of "do what
+  your folk teaches you" isn't up to the job, but neither is <a href="https://luctalks.substack.com/p/my-idea-of-philosophy">any one thing out in
+  the wilderness of intellectual wankery</a>. If some kind of fairly-comprehensive
+  worldview is the <a href="https://luctalks.substack.com/p/pauls-journey-towards-communion-with">foundation that everything else is built on</a>, we're in the
+  position of laying new foundations, and it's going to take a long time to try
+  things out, see what works, and build up from there. The good news for
+  intellectual weirdos like me is that we have plenty of opportunity to put things
+  forward, explore what other people have suggested, and feel out what might work
+  going forward. But this takes a <a href="https://luctalks.substack.com/p/gnosis-puffeth-up">a lot of humility</a>, and it's a journey without an
+  end. We're going to screw up. We're going to put forward things that sound good
+  on paper but don't work in the messy world of real life. We'll spin castles made
+  of air that are lovely to look upon, but cannot bear the weight we try to put
+  upon them. Those failures will hurt, and they'll suck, but along the way,
+  hopefully we'll learn something. If we keep the humility we mentioned in mind,
+  hopefully we can avoid the horrors that came from earlier, cockier
+  experimentation. And those who come after us will keep what works, throw out
+  what doesn't, and with some luck and some work, build a framework that's more up
+  to the task. Maybe those who come long enough after us will someday be able to
+  go back to the old way of just doing what their folk do. Meanwhile, it's an
+  exciting, but rough, time to be alive and thinking and sharing our thoughts. The
+  work is long, but life is short.
+  </p>
+
+  <p>
+  So, I'm going to keep spinning, and I hope you'll call me out when I try to make
+  my castles bear more than they can hold up.
+  </p>
+
+  <ul class="org-ul">
+  <li><a id="orgd6bddb3"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgd6bddb3">
+  <p>
+  <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
+  send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
+  thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/20584.html">dreamwidth post</a></i>.
+  </p>
+
+  <p>
+  <b>Want to get new posts emailed to your inbox? <a href="mailto:jeff.powell.russell@gmail.com?subject=Add%20me%20to%20the%20Webstead%20mailing%20list">Sign up here</a>.</b>
+  </p>
+
+  <hr />
+  </div>
+  </li>
+  </ul>
+  ]]></description>
 </item>
 
 <item>
@@ -883,8 +1255,8 @@
   </div>
   </li>
 
-  <li><a id="orga05d64c"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orga05d64c">
+  <li><a id="org2347ab2"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org2347ab2">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -995,8 +1367,8 @@
   </div>
   </li>
 
-  <li><a id="org20b94cc"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org20b94cc">
+  <li><a id="org61b167b"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org61b167b">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/20195.html">dreamwidth post</a></i>.
   </p>
@@ -1309,8 +1681,8 @@
   </div>
   </li>
 
-  <li><a id="org004d2c5"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org004d2c5">
+  <li><a id="org22193dc"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org22193dc">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -1486,8 +1858,8 @@
   </div>
   </li>
 
-  <li><a id="orgeba2330"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgeba2330">
+  <li><a id="orgd1adf7b"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgd1adf7b">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/19593.html">dreamwidth post</a></i>.
   </p>
@@ -1539,8 +1911,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org97e4deb"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org97e4deb">
+  <li><a id="orgd00a9d3"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgd00a9d3">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/19302.html">dreamwidth post</a></i>.
   </p>
@@ -1586,8 +1958,8 @@
   </blockquote>
 
   <ul class="org-ul">
-  <li><a id="orgad34c2d"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgad34c2d">
+  <li><a id="orga5e0b45"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orga5e0b45">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/18997.html">dreamwidth post</a></i>.
   </p>
@@ -1683,8 +2055,8 @@
   </div>
   </li>
 
-  <li><a id="orgdc1ca2d"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgdc1ca2d">
+  <li><a id="orgcceac7d"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgcceac7d">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/18717.html">dreamwidth post</a></i>.
   </p>
@@ -1740,8 +2112,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org32c33a3"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org32c33a3">
+  <li><a id="org17f76f1"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org17f76f1">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/18657.html">dreamwidth post</a></i>.
   </p>
@@ -1864,8 +2236,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org8000e34"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org8000e34">
+  <li><a id="org63f21c2"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org63f21c2">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/17945.html">dreamwidth post</a></i>.
   </p>
@@ -2222,8 +2594,8 @@
   </div>
   </li>
 
-  <li><a id="orgb457c28"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgb457c28">
+  <li><a id="org2f1ebb8"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org2f1ebb8">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/17895.html">dreamwidth post</a></i>.
   </p>
@@ -2355,8 +2727,8 @@
   </div>
   </li>
 
-  <li><a id="org9a0866c"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org9a0866c">
+  <li><a id="orgfa788f7"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgfa788f7">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/17648.html">dreamwidth post</a></i>.
   </p>
@@ -2392,8 +2764,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgc98447a"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgc98447a">
+  <li><a id="org94df47c"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org94df47c">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a> - <b>You Are Here</b></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -2628,8 +3000,8 @@
   </div>
   </li>
 
-  <li><a id="org62f15ad"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org62f15ad">
+  <li><a id="org5132074"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org5132074">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16911.html">dreamwidth post</a></i>.
   </p>
@@ -2657,8 +3029,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgf998636"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgf998636">
+  <li><a id="org6e562da"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org6e562da">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -2787,8 +3159,8 @@
   </li>
 
 
-  <li><a id="org2d6a808"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org2d6a808">
+  <li><a id="org2d8f107"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org2d8f107">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16668.html">dreamwidth post</a></i>.
   </p>
@@ -2972,8 +3344,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org2e0bd18"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org2e0bd18">
+  <li><a id="orge7ad347"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orge7ad347">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16407.html">dreamwidth post</a></i>.
   </p>
@@ -3001,8 +3373,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org2c5865f"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org2c5865f">
+  <li><a id="org5c47edb"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org5c47edb">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -3073,8 +3445,8 @@
   </div>
   </li>
 
-  <li><a id="orgd524ab7"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgd524ab7">
+  <li><a id="orgf6a92af"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgf6a92af">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16274.html">dreamwidth post</a></i>.
   </p>
@@ -3142,8 +3514,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org22e80ae"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org22e80ae">
+  <li><a id="org5d8231f"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org5d8231f">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16049.html">dreamwidth post</a></i>.
   </p>
@@ -3227,8 +3599,8 @@
   </div>
   </li>
 
-  <li><a id="orgfb517b6"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgfb517b6">
+  <li><a id="org38acce5"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org38acce5">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15741.html">dreamwidth post</a></i>.
   </p>
@@ -3256,8 +3628,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org1bb2279"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org1bb2279">
+  <li><a id="org178d8ab"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org178d8ab">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -3312,8 +3684,8 @@
   </div>
   </li>
 
-  <li><a id="org6b22fa9"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org6b22fa9">
+  <li><a id="org3e114a4"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org3e114a4">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15378.html">dreamwidth post</a></i>.
   </p>
@@ -3341,8 +3713,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org56442a3"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org56442a3">
+  <li><a id="org4d4711f"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org4d4711f">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -3384,8 +3756,8 @@
   </div>
   </li>
 
-  <li><a id="orgb984542"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgb984542">
+  <li><a id="org8f8d8c9"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org8f8d8c9">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15288.html">dreamwidth post</a></i>.
   </p>
@@ -3413,8 +3785,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org6625b98"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org6625b98">
+  <li><a id="org33008c6"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org33008c6">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -3461,8 +3833,8 @@
   </div>
   </li>
 
-  <li><a id="orgbc78e28"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgbc78e28">
+  <li><a id="org8c9ef27"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org8c9ef27">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14905.html">dreamwidth post</a>.</i>
   </p>
@@ -3486,8 +3858,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgb45ae6c"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgb45ae6c">
+  <li><a id="org31cec46"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org31cec46">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -3590,8 +3962,8 @@
   </div>
   </li>
 
-  <li><a id="orgb50ad7e"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgb50ad7e">
+  <li><a id="orgf8945a9"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgf8945a9">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14716.html">dreamwidth post</a>.</i>
   </p>
@@ -3671,8 +4043,8 @@
   </div>
   </li>
 
-  <li><a id="orgac5cc90"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgac5cc90">
+  <li><a id="org292a399"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org292a399">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14562.html">dreamwidth post</a>.</i>
   </p>
@@ -3832,8 +4204,8 @@
   </ul>
   </li>
 
-  <li><a id="org2f6e249"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org2f6e249">
+  <li><a id="org1e1a2e9"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org1e1a2e9">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14146.html">dreamwidth post</a>.</i>
   </p>
@@ -3857,8 +4229,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org6be8845"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org6be8845">
+  <li><a id="org99083ff"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org99083ff">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -3913,8 +4285,8 @@
   </div>
   </li>
 
-  <li><a id="orgdc8e121"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgdc8e121">
+  <li><a id="org0eb7770"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org0eb7770">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13742.html">dreamwidth post</a>.</i>
   </p>
@@ -3938,8 +4310,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgd33afd4"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgd33afd4">
+  <li><a id="orgf58735f"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgf58735f">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -4094,8 +4466,8 @@
   </div>
   </li>
 
-  <li><a id="org0282334"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org0282334">
+  <li><a id="orgf62dfb1"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgf62dfb1">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13462.html">dreamwidth post</a>.</i>
   </p>
@@ -4147,8 +4519,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org4a7a09f"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org4a7a09f">
+  <li><a id="org8dc85a2"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org8dc85a2">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13241.html">dreamwidth post</a>.</i>
   </p>
@@ -4216,8 +4588,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgd747af0"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgd747af0">
+  <li><a id="orgf022d9b"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgf022d9b">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12951.html">dreamwidth post</a>.</i>
   </p>
@@ -4241,8 +4613,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org4e8ceb3"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org4e8ceb3">
+  <li><a id="org333a726"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org333a726">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -4369,8 +4741,8 @@
   </div>
   </li>
 
-  <li><a id="org803e8ad"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org803e8ad">
+  <li><a id="org3ac5652"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org3ac5652">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12612.html">dreamwidth post</a>.</i>
   </p>
@@ -4438,8 +4810,8 @@
   </div>
   </li>
 
-  <li><a id="orgdcfd11a"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgdcfd11a">
+  <li><a id="org68eb79a"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org68eb79a">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12323.html">dreamwidth post</a>.</i>
   </p>
@@ -4463,8 +4835,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orga0cb4f6"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orga0cb4f6">
+  <li><a id="orgd8433ce"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgd8433ce">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -4559,8 +4931,8 @@
   </div>
   </li>
 
-  <li><a id="org7332403"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7332403">
+  <li><a id="orgff547e3"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgff547e3">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12162.html">dreamwidth post</a>.</i>
   </p>
@@ -4612,8 +4984,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org1f99c5c"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org1f99c5c">
+  <li><a id="org2d34a85"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org2d34a85">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11815.html">dreamwidth post</a>.</i>
   </p>
@@ -4664,8 +5036,8 @@
   </div>
   </li>
 
-  <li><a id="org8260d2d"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org8260d2d">
+  <li><a id="orgeda42a5"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgeda42a5">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11677.html">dreamwidth post</a>.</i>
   </p>
@@ -4689,8 +5061,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orga473b5c"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orga473b5c">
+  <li><a id="orgba75acf"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgba75acf">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -4830,16 +5202,16 @@
   </div>
   </li>
 
-  <li><a id="org220b98d"></a>Closing<br />
-  <div class="outline-text-3" id="text-org220b98d">
+  <li><a id="org82ad791"></a>Closing<br />
+  <div class="outline-text-3" id="text-org82ad791">
   <p>
   So, whoo, here we are. The next chapter is, as I said, mercifully shorter, and focuses on "The Maiden with the Mead," the subject of Kvilhaug's master's thesis, but apparently new work on the same topic here. So, expect lots more on feminine spiritual Beings and/or bits of the soul, magic drinks, and initiation. As always, I welcome any thoughts, recommendations, or corrections.
   </p>
   </div>
   </li>
 
-  <li><a id="org7671c95"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7671c95">
+  <li><a id="org6e72ee0"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org6e72ee0">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11306.html">dreamwidth post</a>.</i>
   </p>
@@ -4903,8 +5275,8 @@
   </div>
   </li>
 
-  <li><a id="orgaec5a1d"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgaec5a1d">
+  <li><a id="org6f1d3e9"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org6f1d3e9">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11228.html">dreamwidth post</a>.</i>
   </p>
@@ -5091,16 +5463,16 @@
   </div>
   </li>
 
-  <li><a id="org710ead7"></a>Closing<br />
-  <div class="outline-text-3" id="text-org710ead7">
+  <li><a id="org6becb73"></a>Closing<br />
+  <div class="outline-text-3" id="text-org6becb73">
   <p>
   Whether you find these prayers helpful for your own spiritual work, as always, I welcome any and all feedback!
   </p>
   </div>
   </li>
 
-  <li><a id="org78487c2"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org78487c2">
+  <li><a id="orgc04459b"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgc04459b">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10887.html">dreamwidth post</a>.</i>
   </p>
@@ -5365,8 +5737,8 @@
   </div>
   </li>
 
-  <li><a id="org44862eb"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org44862eb">
+  <li><a id="org3cbd764"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org3cbd764">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -5392,8 +5764,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org94df47c"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org94df47c">
+  <li><a id="org1e3c1dd"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org1e3c1dd">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a> - <b>You Are Here</b></li>
@@ -5479,8 +5851,8 @@
   </div>
   </li>
 
-  <li><a id="org63e6acf"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-org63e6acf">
+  <li><a id="orgd79cc7b"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-orgd79cc7b">
   <p>
   First, a handful of thoughts on the physical book. I have the 2020 edition,
   which is the one currently available, but it was first printed in 2012 as a
@@ -5681,16 +6053,16 @@
   </ul>
   </li>
 
-  <li><a id="org82ad791"></a>Closing<br />
-  <div class="outline-text-3" id="text-org82ad791">
+  <li><a id="org154ead1"></a>Closing<br />
+  <div class="outline-text-3" id="text-org154ead1">
   <p>
   Altogether, this book has a <i>lot</i> to recommend it, but it takes a certain amount of energy to grapple with in anything but the most casual way. I sincerely wish Kvilhaug had some kind of partner of the organizational, attention-to-detail variety who shared her passion for these myths. Then we could have things like a list of all of the major Gods, Goddesses, and steads with their names translated, to be used as a reference when reading. We could have chapters and sections that can be looked up as needed, rather than having to be sifted out of the entire 600-page web. We could have lists of the formulas she's identified with pointers to what myths you can find them in. Such glorious possibilities! Alas, for now, I'll have to settle for making my own sense of what she has to offer and sharing what I find with you.
   </p>
   </div>
   </li>
 
-  <li><a id="org7228156"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7228156">
+  <li><a id="org2790b8b"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org2790b8b">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10405.html">dreamwidth post</a>.</i>
   </p>
@@ -5881,8 +6253,8 @@
   </div>
   </li>
 
-  <li><a id="org25c3a9c"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org25c3a9c">
+  <li><a id="org580f43c"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org580f43c">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10116.html">dreamwidth post</a>.</i>
   </p>
@@ -6144,8 +6516,8 @@
   </div>
   </li>
 
-  <li><a id="org4b632d4"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org4b632d4">
+  <li><a id="orgf3ce320"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgf3ce320">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9809.html">dreamwidth post</a>.</i>
   </p>
@@ -6257,8 +6629,8 @@
   </div>
   </li>
 
-  <li><a id="org472b7fe"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org472b7fe">
+  <li><a id="orgdd92525"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgdd92525">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9590.html">dreamwidth post</a>.</i>
   </p>
@@ -6494,8 +6866,8 @@
   </div>
   </li>
 
-  <li><a id="org97590c2"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org97590c2">
+  <li><a id="orgbcc436f"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgbcc436f">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9076.html">dreamwidth post</a>.</i>
   </p>
@@ -6661,8 +7033,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org2c1b208"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org2c1b208">
+  <li><a id="org6976442"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org6976442">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/8865.html">dreamwidth post</a>.</i>
   </p>
@@ -7531,8 +7903,8 @@
   </div>
   </li>
 
-  <li><a id="orgd79cc7b"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-orgd79cc7b">
+  <li><a id="org56b7be1"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-org56b7be1">
   <p>
   This is not usually something I would talk about when going over a book, but
   here I think it's warranted, both good and bad. First off, the good stuff:
@@ -7629,8 +8001,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgd943f75"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-orgd943f75">
+  <li><a id="orgdd96b54"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orgdd96b54">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -7731,8 +8103,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org7106cd1"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org7106cd1">
+  <li><a id="org6639b44"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org6639b44">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -7918,8 +8290,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org849d460"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org849d460">
+  <li><a id="org6954302"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org6954302">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -8162,8 +8534,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org6fb87bf"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org6fb87bf">
+  <li><a id="org39100c7"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org39100c7">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -8386,8 +8758,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org2c484b9"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org2c484b9">
+  <li><a id="orga34fc2d"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orga34fc2d">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a> &#x2013; You are Here</li>
@@ -8558,8 +8930,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgdd96b54"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-orgdd96b54">
+  <li><a id="org9c54540"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org9c54540">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a> &#x2013; You are Here</li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -9486,8 +9858,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org9cc79e7"></a>Way 1<br />
-  <div class="outline-text-3" id="text-org9cc79e7">
+  <li><a id="org5eda9db"></a>Way 1<br />
+  <div class="outline-text-3" id="text-org5eda9db">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -9506,8 +9878,8 @@
   </div>
   </li>
 
-  <li><a id="org40bf4de"></a>Way 2<br />
-  <div class="outline-text-3" id="text-org40bf4de">
+  <li><a id="orgc556b78"></a>Way 2<br />
+  <div class="outline-text-3" id="text-orgc556b78">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -9526,8 +9898,8 @@
   </div>
   </li>
 
-  <li><a id="org3ce5399"></a>Way 3<br />
-  <div class="outline-text-3" id="text-org3ce5399">
+  <li><a id="org37acd1d"></a>Way 3<br />
+  <div class="outline-text-3" id="text-org37acd1d">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -9907,8 +10279,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org5eda9db"></a>Way 1<br />
-  <div class="outline-text-3" id="text-org5eda9db">
+  <li><a id="orgd8d9879"></a>Way 1<br />
+  <div class="outline-text-3" id="text-orgd8d9879">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -9926,8 +10298,8 @@
   </div>
   </li>
 
-  <li><a id="orgc556b78"></a>Way 2<br />
-  <div class="outline-text-3" id="text-orgc556b78">
+  <li><a id="orgcdd6a88"></a>Way 2<br />
+  <div class="outline-text-3" id="text-orgcdd6a88">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -9945,8 +10317,8 @@
   </div>
   </li>
 
-  <li><a id="org37acd1d"></a>Way 3<br />
-  <div class="outline-text-3" id="text-org37acd1d">
+  <li><a id="org77a6de6"></a>Way 3<br />
+  <div class="outline-text-3" id="text-org77a6de6">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -10449,8 +10821,8 @@
   </div>
   </li>
 
-  <li><a id="org84726d6"></a>The Poetic Edda<br />
-  <div class="outline-text-4" id="text-org84726d6">
+  <li><a id="orgfe5afcb"></a>The Poetic Edda<br />
+  <div class="outline-text-4" id="text-orgfe5afcb">
   <p>
   <b>By</b>: Many writers<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -11231,8 +11603,8 @@
   </div>
   </li>
 
-  <li><a id="org6b1368e"></a>Shamanism<br />
-  <div class="outline-text-5" id="text-org6b1368e">
+  <li><a id="orgce5278e"></a>Shamanism<br />
+  <div class="outline-text-5" id="text-orgce5278e">
   <p>
   <b>By</b>: Mircea Eliade<br />
   <b>Have I Read It?</b>: About halfway.<br />
@@ -11643,8 +12015,8 @@
   </div>
   </li>
 
-  <li><a id="org25cb74a"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-org25cb74a">
+  <li><a id="orgf40cc99"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-orgf40cc99">
   <p>
   <b>By</b>: Dr. Stephen Flowers, PhD.<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -11654,8 +12026,8 @@
   </li>
 
 
-  <li><a id="orgf40cc99"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-orgf40cc99">
+  <li><a id="orgdc66a1d"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-orgdc66a1d">
   <p>
   <b>By</b>: P.D. Brown and Michael Moynihan (eds)<br />
   <b>Have I Read It?</b>: Some<br />
@@ -11851,8 +12223,8 @@
   </ul>
   </li>
 
-  <li><a id="orgce5278e"></a>Shamanism<br />
-  <div class="outline-text-4" id="text-orgce5278e">
+  <li><a id="orge27b80b"></a>Shamanism<br />
+  <div class="outline-text-4" id="text-orge27b80b">
   <p>
   As I said above, "shamanism" is a word that gets used for many unalike things, but the ways of the folks who live about the North pole gave us the name, and I think it likely those ways left some mark on the ways of the Norse at least, and maybe the wider Germanish world. The books below are all by Raven Kaldera and/or Galina Krasskova, and they have a way of looking at things that is rather unlike other folks, so take with as much salt as seems right to you.
   </p>
@@ -13608,8 +13980,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orge2efaed"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orge2efaed">
+  <li><a id="org023d519"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org023d519">
   <p>
   The Story Grid by Shawn Coyne
   </p>
@@ -13646,8 +14018,8 @@
   </ul>
   </li>
 
-  <li><a id="org241991d"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org241991d">
+  <li><a id="org61aa961"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org61aa961">
   </div>
 
   <ul class="org-ul">
@@ -13700,8 +14072,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgc4b1156"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgc4b1156">
+  <li><a id="orga242ca1"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orga242ca1">
   </div>
 
   <ul class="org-ul">
@@ -13747,8 +14119,8 @@
   </ul>
   </li>
 
-  <li><a id="orgce27196"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgce27196">
+  <li><a id="org7c39cbf"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org7c39cbf">
   </div>
 
   <ul class="org-ul">
@@ -13785,8 +14157,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgc73b54f"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgc73b54f">
+  <li><a id="orged61f07"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orged61f07">
   </div>
 
   <ul class="org-ul">
@@ -13832,8 +14204,8 @@
   </ul>
   </li>
 
-  <li><a id="org0264130"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org0264130">
+  <li><a id="org9193f09"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org9193f09">
   </div>
 
   <ul class="org-ul">
@@ -13878,8 +14250,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org9766b2d"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org9766b2d">
+  <li><a id="org8bdb8e4"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org8bdb8e4">
   </div>
 
   <ul class="org-ul">
@@ -13917,8 +14289,8 @@
   </ul>
   </li>
 
-  <li><a id="org3afe431"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org3afe431">
+  <li><a id="orgfb3953d"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgfb3953d">
   </div>
 
   <ul class="org-ul">
@@ -13955,8 +14327,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org7fc2c95"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org7fc2c95">
+  <li><a id="org5c9d28d"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org5c9d28d">
   </div>
 
   <ul class="org-ul">
@@ -14002,8 +14374,8 @@
   </ul>
   </li>
 
-  <li><a id="org907e34f"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org907e34f">
+  <li><a id="orgf00d515"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgf00d515">
   </div>
 
   <ul class="org-ul">
@@ -14048,8 +14420,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org023d519"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org023d519">
+  <li><a id="org5fa4750"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org5fa4750">
   </div>
 
   <ul class="org-ul">
@@ -14087,8 +14459,8 @@
   </ul>
   </li>
 
-  <li><a id="org61aa961"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org61aa961">
+  <li><a id="org0c374df"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org0c374df">
   </div>
 
   <ul class="org-ul">
@@ -15317,8 +15689,8 @@
   </div>
   </li>
 
-  <li><a id="orgfe5afcb"></a>The Poetic Edda<br />
-  <div class="outline-text-3" id="text-orgfe5afcb">
+  <li><a id="org966d8e9"></a>The Poetic Edda<br />
+  <div class="outline-text-3" id="text-org966d8e9">
   <p>
   <b>By Unknown, but I like the Hollander and Crawford translations</b>
   </p>
