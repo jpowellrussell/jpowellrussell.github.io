@@ -14,8 +14,8 @@
   <link></link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Sun, 28 Jul 2024 12:44:42 -0500</pubDate>
-  <lastBuildDate>Sun, 28 Jul 2024 12:44:42 -0500</lastBuildDate>
+  <pubDate>Sun, 04 Aug 2024 16:32:18 -0500</pubDate>
+  <lastBuildDate>Sun, 04 Aug 2024 16:32:18 -0500</lastBuildDate>
   <generator>Emacs 29.0 Org-mode 9.7-pre</generator>
   <webMaster>jeff.powell.russell@gmail.com (Jeff Russell)</webMaster>
   <image>
@@ -25,217 +25,483 @@
   </image>
 
   <item>
-    <title>[Book] In Search of Odhinn</title>
-    <link>./#book_in_search_of_odhinn</link>
+    <title>A (Beginner's) Manual of the Planes</title>
+    <link>./#a_beginner_s_manual_of_the_planes</link>
     <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
-    <guid isPermaLink="false">./#book_in_search_of_odhinn</guid>
-    <pubDate>Sun, 28 Jul 2024 12:31:00 -0500</pubDate>
+    <guid isPermaLink="false">./#a_beginner_s_manual_of_the_planes</guid>
+    <pubDate>Sun, 04 Aug 2024 16:26:00 -0500</pubDate>
     <category><![CDATA[rss]]></category>
     <description><![CDATA[<p>
-    <b>Date</b>: 2024-July-28<br />
+    <b>Date</b>: 2024-August-04<br />
     <b>Subscribe</b>: <a href="mailto:jeff.powell.russell@gmail.com?subject=Add%20me%20to%20the%20Webstead%20mailing%20list">Add me to the mailing list</a><br />
-    <b>Permalink</b>: <a href="#book_in_search_of_odhinn">Link to this Post</a>
+    <b>Permalink</b>: <a href="#a_beginner_s_manual_of_the_planes">Link to this Post</a>
     </p>
 
     <p>
-    I've now read two of the the three books of Shani Oates's "Odhinn Trilogy,"
-    skipping over the second for now to get to the third one, which has more to do
-    with what I'm working on: <i>In Search of Odhinn: From Pontic Steppe to Sutton Hoo</i>.
-    The very short version is that it shares many of both the strengths and flaws of
-    <a href="#thoughts_on_the_hanged_god">The Hanged God</a>: lots of research and links drawn, but unclear incomplete in the
-    argument it seeks to spell out. Taking a very contrarian approach, it argues
-    Odhinn is mainly a medieval literary creation, and that claims for His ancient
-    worship and near-universality among the Germanish folks is mistaken. This stance
-    might be a helpful corrective to what you'll find in most works, most of all
-    those written by and for today's worshipers, but overall, I didn't find it that
-    convincing. Let's dig in.
+    (The name of this post is a <a href="https://infogalactic.com/info/Manual_of_the_Planes">D&amp;D joke</a>, by the way. As much fun as the planes are
+    as imaginary worlds to have exciting adventures in, that's not what we'll be
+    talking about.)
     </p>
 
     <p>
-    First off, the book itself.
+    For awhile now, I've been meaning to lay out my current thinking on a concept
+    I've learned through <a href="https://bookshop.org/p/books/the-occult-philosophy-workbook-a-one-year-course-in-the-secret-wisdom-john-michael-greer/18532301?ean=9781801520119">occult philosophy</a> that has come to shape my way of
+    approaching the world rather a lot, but was wholly alien to me only a few years
+    ago. I'm talking about the planes of existence, and even if you don't truck with
+    all this woo-woo metaphysical nonsense, they're a concept I think you'll find
+    interesting and potentially helpful for making sense of the vagaries of human
+    experience.
     </p>
 
     <p>
-    Again, this is published by <a href="https://www.anathemapublishing.com/">Anathema Publishing</a>, and like all of their other
-    hardcovers I have, it's a nice book with sturdy binding, good-looking
-    type-setting, and lovely thick paper. Unluckily, some of the typographic
-    inconsistencies keep on, such as using the letter 'ð' (<a href="https://infogalactic.com/info/Eth">eth</a>) where a 'd' ought to
-    be, but it seemed less egregious this time - but maybe only since there were
-    fewer Old Norse words, and thus fewer chances to mix them up. Long story short,
-    if you like books that look and feel good, check out their catalog and see if
-    they have anything you might want to pick up.
+    So, what do we even mean by "planes"? First off, I don't mean the geometrical or
+    astronomical concept of a perfectly flat, two-dimensional expanse. Nor do I mean
+    alternate dimensions that you can bodily visit and <a href="https://oldschoolfrp.tumblr.com/image/184085512369">duke it out with demons</a>. And
+    mechanical flying devices are right out. Rather, think of phrases like "he
+    operates at a higher plane" or "on the plane of thought." According to the
+    teachings I work with, all of the planes are always and everywhere
+    simultaneously present. They are discrete, not continuous, but they meet and
+    influence each other at certain points of contact (such as the human body and
+    consciousness). Different experiential phenomena happen on different planes,
+    even if you experience them at the same time. Imagine yourself sitting on a
+    porch, enjoying a lovely day. Gravity holds you in your chair, you feel the wood
+    of the chair and the air of the wind against your skin, the warmth of the sun
+    keeps you from getting too chilly, and with all of this going on, you call to
+    mind another, similar day and the feelings it kindles within you. Right here in
+    this simple scene, we have gravitational force, matter, radiant energy, and
+    thought (whatever that is), and you're simultaneously experiencing all of them.
+    Our understanding is that these phenomenon are importantly distinct in their
+    actions and how we perceive them, even if there are certain ways they influence
+    each other.
     </p>
 
     <p>
-    As for what the book says, it's a <i>very</i> wide-ranging look into the evidence that
-    has been claimed for Odhinn/Woden/Wotan from very early times through to
-    post-Conversion Iceland and Scandinavia. Oates's main argument, which as far as
-    I can tell is building mainly on Philip Shaw's 2002 thesis "<a href="https://etheses.whiterose.ac.uk/393/1/uk_bl_ethos_270854.pdf">Uses of Wodan: The
-    Development of his Cult and Medieval Literary Responses to It</a>," is that the
-    conflation made by most scholars between Scandinavian Odhinn and
-    continental/English Wotan/Woden is mistaken, and that most claims for evidence
-    of this single God are better understood as references to a diverse set of
-    heroic, ancestral, and tribal figures rather than the head of a neat pantheon in
-    the Greco-Roman style. First off, let me say that I think the heart of the idea
-    is right: Heathen worship and belief were almost certainly <i>not</i> uniform, over
-    time or across lands and folks, and the fairly tidy account given by Snorri has
-    likely given us a simplified view of this messy past. Further, I think Oates's
-    is likely mostly right that modern scholars and reconstructionists alike have
-    underrated the role of local land spirits, tribal totems, specific ancestral
-    figures, and less-anthropomorphized divine powers. However, I feel like she
-    takes her argument against this prevailing wisdom overly far. She seems to
-    believe that an anthropomorphic, organized "pantheon" was <i>wholly</i> an invention of
-    the Greeks and Romans, later adopted by classically-educated Christians and
-    applied to poorly understood earlier Germanish beliefs, and so <i>any</i> take on those
-    beliefs with named, personalized Gods with mythic biographies is some kind of
-    outside imposition. Given the remarkable parallels in specific myths and Gods
-    between far-flung children of the Indo-European diaspora, I think the burden of
-    proof is folks who want to say "naw, they didn't really have 'Gods' as we think
-    of them," and I don't think Oates comes anywhere close to shouldering that
-    burden.
-    </p>
-
-    <p>
-    Okay, so with that overall rundown out of the way, let's drill down a bit more,
-    and in the spirit of charity, let's begin with what's good. As I said, Oates
-    goes over a <i>lot</i> of material - archaeological, literary, historical, and so
-    forth. She looks far and wide (maybe sometimes <i>too</i> far, but more on that in a
-    bit) for parallels and comparisons to zero in on what are clearly Germanish
-    themes and what might just be common to folks with similar lifestyles and stages
-    of civilizational development. For example, one of her critiques I found more
-    convincing than others is the over-readiness with which antiquarians,
-    archaeologists, and today's heathens have jumped on depictions of wolves or
-    birds of prey as traces of Odinic myths. Eagles, in particular, can be found as
-    representations of might, majesty, and kings all over the place - Assyrians,
-    Scythians, Romans (obviously), Germans (of course), and elsewhere. As such, just
-    because you find a carving of an eagle doesn't mean you found a representation
-    of Odin winning the mead of poetry, or Thjazi stealing Idun, or what have you.
-    It might just be an expression of glory and might. Likewise the equation with
-    wolves is likely made too readily (though, here, the well-attested affinity for
-    wolves among Indo-European folks going <i>way</i> back makes some inferences justified,
-    I think). Oates also carefully parses Runic or other written references to
-    names/words/figures that been equated with Odhinn/Woden, spelling out problems
-    with even reading the Runes/letters (common in the early archaeological finds of
-    Runes) as well as difficulties with what sound was represented by scribal
-    conventions across languages (for example, if a piece of Latin writing uses a
-    'v,' it might mean any of the sounds we today write with 'w,' 'v,' or 'u').
-    These and other challenges are often glossed over by scholars who adopt a modern
-    anglicization, such as "Odin," and then blithely refer to "references to Odin,"
-    whether talking about a Runic inscription to Uthin, a Latin passage about Godan,
-    or even more ambiguous evidence. She's also keen to point out where sources
-    we're relying on were written <i>way</i> after the fact, or had an axe to grind, or
-    otherwise should not be taken at face value without thinking, and what other
-    historical and cultural context we ought to take into account when looking at
-    these things. Altogether, for me, the biggest strength of the book is the wide
-    range of evidence looked at and the skepticism she introduces for all of it,
-    which as I said, is a helpful corrective to the romantic urge to find
-    far-ranging correspondences and long-lasting continuity.
-    </p>
-
-    <p>
-    On the other hand, as I also said, this book has some of the same weaknesses as
-    Oates's other book I've talked about here - namely, it is poorly organized and
-    hard to follow. There's less nonsensical word-salad where I go "what the hell
-    are you even saying?" but I did still find myself spending much of my time going
-    "where are you going with this? What do you even mean?" Further, she blithely
-    asserts things as proven when it doesn't seem like she's engaged with them much
-    at all. She also selectively applies arguments and methods of analysis that
-    support the point she wants to make. In one part of the book, she'll confidently
-    state that we can't take pictorial representations that predate written
-    references to Odhinn by tens or hundreds of years as if they refer to the same
-    figure or myths, and then later she'll talk about the obvious continuity between
-    a pictorial representation and some later written reference to another God or
-    myth, sometimes over even longer spans of time, like from the Nordic Bronze Age
-    through to the medieval period. Also, as I said above, one of, if not <i>the</i>, key
-    pillar of her argument is a separate etymology for Odhinn and Wodan, which is
-    <i>not</i> the standard accepted by most scholars. Though she acknowledges a common
-    proto-Germanic root for both of these, she argues there was enough of a
-    difference in development between them to show they must refer to different
-    figures. Even still, not even in the appendix <i>about this etymology</i> does she
-    convincingly show why they should be treated as different enough that the two
-    names <i>must</i> refer to substantially different figures. All taken together, it's
-    maddening. I'm going to have to give Shaw's thesis a read and see if he makes a
-    more coherent, step-by-step argument, because if it's right, it's very
-    significant, but after more than 400 pages, I never felt like she made a good
-    case that it <i>is</i> right - she just said it was and went from there, without even
-    saying explicitly "go read this for a more detailed argument".
-    </p>
-
-    <p>
-    All of this, good and bad, would be much easier to incorporate into my own
-    understanding if I had a clearer idea what she was even trying to do with this
-    book. Unluckily, it's precisely here that her tendency to big-word-filled
-    mumbo-jumbo, so admirably suppressed compared to <i>The Hanged God</i>, comes out the
-    most strongly. For all that I complained about <a href="#book_the_seed_of_yggdrasill_overall_rundown">Maria Kvilhaug's interpretation
-    of the myths</a>, she was at least very consistent about that interpretation and
-    why she thought it had worth - I can triangulate just as readily from a known
-    point I disagree with as one I agree with, but I can't do that if I can't even
-    figure out what claim a writer is staking out. To try to do so, I've had to
-    resort to some speculation based on what I know about her work and background.
-    Oates belongs to the <a href="https://clantubalcain.com/">Clan of Tubal Cain</a>, which from what I've read seems to be
-    strain of non-Gardnerian Witchcraft. She frequently refers to "god-forms" in a
-    way that makes me think she mostly assumes that the Gods worshiped and shown in
-    myth are more-or-less human-created containers for a less-understandable divine
-    power. My current understanding is that this stance has some truth to it, but is
-    mistaken in assigning too much agency to humans and not enough to the Gods.
-    Sometime soon, I'd like to talk through this thorny question in more detail, but
-    to do it justice, I'm going to have to lay some groundwork from the occult
-    philosophy I've been studying, which will have to wait for another post or two.
-    To put it shortly, at least for now, I believe that the Gods truly are
-    individual, personalities with Their own independent being, but that our
-    experience of Them is mediated by forms that are shaped by humans. One
-    overly-simplified metaphor might be to imagine a movie. The screenwriter and
-    director come up with a role and how it should be depicted, but some actors will
-    be better suited to that role than others, and some will be wholly unsuitable
-    (you don't want Winona Rider as your wise-cracking burly commando, but if you
-    can't get Arnold Schwarzenegger, Sylvester Stallone might work just fine). The
-    myths and images that really resonate and last are those that are "written for"
-    particular "actors," where casting the wrong one would be obviously wrong - to
-    put it concretely, some folks likely tried to tell stories about Thor that
-    didn't fit with what He is "really like," and those have been forgotten, but
-    those that still land are somehow suited to His divine nature. Even this
-    metaphor, though, gives more agency to the human side of things than I think is
-    right, but it at least gets in the ballpark of what I'm trying to say. Oates's
-    belief seems to be closer to the idea of a novelist - he can write whatever
-    character speaks to him, and as long as that character reflects important
-    aspects of the human experience, he'll "work" in the narrative. Under this
-    metaphor, myth-makers can shape tales as they like, and as long as they're not
-    wholly out-of-joint with divine reality, folks will respond to these myths and
-    be able to craft rituals around them. From the conclusion to the book, it seems
-    that Oates believes that acknowledging Odhinn as the creation of
-    classically-educated medieval writers/antiquarians frees us up to better make
-    use of this "Character" in religious and magical work, which I think puts too
-    much in our own hands, and not enough on the "other side."
-    </p>
-
-    <p>
-    So, as usual, we'll close by trying to answer the asking we usually do: should
-    you read this book? I'd say it might be interesting and helpful to anyone who
-    has a deep interest in Odhinn/Woden, as I have, but you're going to have to put
-    in a lot of work to get much out of it unless you're already closer to Oates's
-    position. It's certainly not a "one-stop shop" on the history of this/these
-    God(s) - for that, I might instead recommend Kris Kershaw's <i>The One-Eyed God</i>, or
-    if it turns out to be as good as I expect, Stephen Pollington's latest, <i>Woden</i>.
-    For a maybe overly-crude analogy, the usefulness of this book strikes me as
-    similar to what a Christian might get out of reading a work of heresy - say,
-    you're a Catholic and you read what you can making the case for <a href="https://infogalactic.com/info/Arianism">Arianism</a>. Not
-    that I think Oates's book is <i>heresy</i>, which is both more pejorative than I mean
-    and implies an attachment to dogma that isn't a part of my current religious
-    views. Rather, it's that I think few practicing Heathens will find this book
-    wholly in accordance with their beliefs or practices, but might find the
-    perspective offered in its disagreements helps solidify and clarify them. So, if
-    you want to give yourself a bit of work in fitting a dissonant view into your
-    understanding of Odhinn, this will give you plenty to chew on. Otherwise, your
-    time might be better spent elsewhere.
+    That's much closer to what an occultist is getting at when he's talking about
+    the planes than what your buddy has in mind when he's going to run a <a href="https://infogalactic.com/info/Planescape">Planescape</a>
+    campaign. I mentioned above that I think this concept can be useful even if you
+    don't buy it as a <i>literal</i> explanation of how the world is put together
+    metaphysically (at least most of it). One of the most useful habits of thought
+    I've picked up from these kinds of studies has been the way that Dion Fortune
+    explains the point of her masterwork <a href="https://bookshop.org/p/books/a-commentary-on-the-cosmic-doctrine-understanding-dion-fortune-s-masterpiece-of-spiritual-creation-and-evolution-john-michael-greer/18731814?ean=9781801520102">The Cosmic Doctrine</a> - these ideas are to
+    "train the mind, not inform it." In other words, if you approach the world and
+    your experiences with this model, you just might find certain things make sense
+    to you and you can solve problems ways that you might find hard or impossible to
+    do otherwise. So, if you find the fires of skepticism rising in your breast as
+    you read this, try to consider what I'm saying as "merely" "a potentially
+    fruitful metaphor. The very nature of what we're discussing precludes slam-dunk,
+    independently-verifiable experimental proof, so who am I to say "this is the way
+    things really are," much less to try to convince you that you should think so?
+    So, with all that out of the way, let's take a short tour through the planes and
+    what we know about them, with a few thoughts on why they make for a helpful
+    model.
     </p>
 
     <ul class="org-ul">
-    <li><a id="org7f015d1"></a>Post Footer<br />
-    <div class="outline-text-3" id="text-org7f015d1">
+    <li><a id="org07c7bed"></a>The Material Plane<br />
+    <div class="outline-text-3" id="text-org07c7bed">
+    <p>
+    We'll begin with the plane most obvious to us with the least controversial
+    existence - the material. This is the realm of experience that includes matter
+    and energy, the one that materialists claim is all there is. The scientific
+    method is our species's great triumph in interrogating and understanding this
+    plane, and we have learned much by assuming that things <i>ought</i> to be explainable
+    on this plane, and setting about clever ways to work those explanations out. See
+    all of 19th and 20th century physics for a hint at how far exploration of only
+    this plane can take us. I don't think I need to say much here, as most of us
+    have a pretty good grip on what the material world is like and how our
+    experience is shaped by it. Our senses give us certain information about the
+    world around us, certain forces and laws that can be observed and measured
+    influence us, and what we can accomplish is limited by certain constraints.
+    Straightforward enough.
+    </p>
+
+    <p>
+    <b>Some practical tips for the Material Plane</b>: If you want to explore this plane,
+    the first and most important thing is to <i>pay attention</i> (this will be a running
+    theme). Spend some time observing very closely what your senses are telling you.
+    Get curious about things you usually take for granted. If you want to go deep,
+    science is your greatest tool, with some helpful assists from philosophy, art,
+    and history. For your material body, do all the stuff you already know you
+    should be doing to take care of your health: eat a good mix of real foods, get a
+    decent amount of moderate exercise, sleep enough, and so forth.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="orga3b2e66"></a>The Etheric Plane<br />
+    <div class="outline-text-3" id="text-orga3b2e66">
+    <p>
+    As we leave the familiar material plane, we run into one of the bits of planar
+    lore that you might find confusing if you decide to do some reading of your own,
+    which is the seemingly fundamental concept of "how many planes even are there?
+    and what are they?" At first glance, it looks like a big, ugly jumble with
+    little to no agreement amongst occultists of various stripes and times, which
+    might lead you think it's all mularkey. Careful attention suggests an alternate
+    explanation, though: different thinkers and explorers have drawn the borders at
+    different places, some lumping together fields of experience, others parsing
+    them more precisely. But when you actually dig in to what is described, you find
+    a great deal of agreement, albeit with different categorization, which isn't so
+    surprising when you consider we're talking about fields of experience that are
+    not so amenable to experimental and shareable verification as material
+    experience. The model of seven planes that I currently work with comes from <a href="https://ecosophia.net">John
+    Michael Greer</a>, and is drawn largely from late 19th and early 20th century
+    occultism, which is itself a distant descendant and rebirth of Renaissance
+    occultism, which was a descendant of traditions reaching back to ancient Greece
+    and Egypt ("Hermeticism" is the usual word for this throughline, as Hellenistic
+    (and maybe earlier) explorers of the esoteric traced the tradition back to the
+    Greek God Hermes, syncretized with the Egyptian Thoth). The seven-fold division
+    is something you'll find all over the place in occult literature, and it most
+    likely derives from the seven classical "planets" (luminary bodies visible to
+    the naked eye that move through the sky in different relative positions, rather
+    than keeping fixed positions like the stars - the Sun, the Moon, Mercury, Venus,
+    Mars, Jupiter, and Saturn). This puts this system farther toward the "fine
+    distinctions" end of things, as opposed, say, to some Revival Druidry teachings
+    I'm also working with that settle on three planes, clustering these seven into
+    broader categories (Physical for one, Etheric + Astral + Mental for two, and
+    Spiritual, Causal, and Divine for the last).
+    </p>
+
+    <p>
+    Anyhow, as for the Etheric itself, this is the plane of the "life force" that is
+    commonly experienced and understood <a href="https://www.ecosophia.net/the-neckless-ones-a-historical-puzzle/">by just about every culture ever except for
+    the modern industrial world</a>. Think of Obi-Wan talking about the Force, and
+    you're not too far off. One clear, if fairly harsh, way to understand what the
+    etheric plane is about is to find yourself looking at a fresh corpse, especially
+    one of a pet or loved one. If you've ever had this unfortunate experience, it'll
+    have been obvious that this collection of matter is <i>not</i> the person or animal
+    that was there a few hours ago. A materialist might say that this sense comes
+    from picking up on subtle physical cues like the lack of breath or
+    subconsciously-noticeable movement, but the occult explanation is in some ways
+    more straightforward: something that was there before is now gone - the etheric
+    body that gives life to dull matter. Another common way we experience the
+    etheric plane is when we go to a place and get a sense of its "vibes" - are
+    there some places where you just feel good, and you don't really know why? Or
+    where you feel unsettled and want to leave straightaway? A large part of that is
+    likely what's going on there etherically. More personally, any time you feel
+    alert, alive, and full of energy, your etheric "body" is likely doing well, and
+    any time you feel drained, sluggish, or unhealthy, it's likely not.
+    </p>
+
+    <p>
+    I mentioned that this plane is one of the first where you get into disagreements
+    about how many planes there are and where their borders are, because some folks
+    consider the etheric the least-obvious part of the material plane, others the
+    "most physical" part of the astral plane, and still others call it a plane of
+    its own (as this system does). The different categorizations stem from the fact
+    that the etheric plane interacts pretty strongly with both the material and
+    astral planes. Ever gone for a run or done a hard lift and walked away feeling
+    strong and alive and on top of the world? You just charged up your etheric body.
+    On the other hand, if you've done one of those and come away drained and
+    exhausted, you maybe pushed your etheric body too hard. Alternatively, ever
+    found yourself stirred and driven by an inspiring story or uplifting song (maybe
+    before or during that run or lift)? Here, the astral has woken up the etheric
+    body. The point is, if you pay close attention, you'll start noticing that this
+    feeling of energy is correlated, but not 100%, with what is going on in your
+    body or your thoughts and emotions.
+    </p>
+
+    <p>
+    One rather dramatic illustration of this struck me a few years ago. I teach at a
+    university, and in the spring of 2020, we had to go from teaching in person to
+    teaching via Zoom. From one week to the next, I went from giving a lecture to a
+    room full of students to giving the exact same lecture to a computer screen.
+    Before that, I had never understood what folks meant when they talked about
+    getting "energy" from a crowd while public speaking, but this made it very
+    clear. After a lecture in person, I'm usually a bit tired, but I feel good,
+    satisfied. After giving a Zoom lecture, I felt completely drained and foggy,
+    like I needed a nap. Another, slightly spicier case - have you ever found
+    yourself surprised to feel attracted to or aroused by someone? When I was in
+    college, there was a girl in one of my classes, and every time I was around her,
+    I was distractingly turned on, but if I thought about her when she wasn't
+    around, I was like "she's cute and seems nice," but that was all. Looking back,
+    I suspect that something about our etheric bodies was compatible, but less so
+    astrally, in which case my imagination would have been more inflamed (of course,
+    it might also have been something physical, like pheremones, but either way, the
+    difference was very striking).
+    </p>
+
+    <p>
+    <b>Some practical tips for the Etheric Plane</b>: Most of what you do to explore the
+    material world can help in exploring the etheric plane as well, but you'll have
+    to pay attention to some different things. For me, I most strongly feel what I
+    believe to be etheric influence as a tingly feeling of "energy," mostly in my
+    chest and belly, but sometimes in my arms or the back of my neck. From what I
+    hear, something like this is fairly common, but other folks experience it
+    different ways - some see colors or flows of energy, some just get an intuitive
+    sense of things, others feel some physical movements as easier or harder, so
+    there's a lot of variation. Pay attention to how you feel at different places
+    and see if being around certain people perks you up or drains you. As for taking
+    care of your etheric body, all of the physical stuff will help, but add to that
+    regular doses of clean, fresh air and sunlight. Intentional breathing exercises,
+    like pranayama or Wim Hof breathing, can help to cultivate etheric energy and
+    the health of your etheric body. Cold water can also be helpful, though you
+    don't have to go full polar bear - even a washcloth of cold water rubbed all
+    over your body can have a remarkably invigorating effect. Sex is another place
+    you can learn things: when are you turned on? When are you <i>not</i> turned on even if
+    your mind says you "should" be? How do you feel after having sex? What about
+    after getting yourself off? All of these can be useful clues about how these
+    experiences are not <i>only</i> mediated by raw physicality or mental images and
+    emotions.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org60ce7f8"></a>The Astral Plane<br />
+    <div class="outline-text-3" id="text-org60ce7f8">
+    <p>
+    This is the plane that almost every model of the planes includes as its own
+    thing, in large part since it is where most occult work takes place. The Astral
+    Plane is the plane of concrete thoughts and emotions - images, sounds, words,
+    and all of the feelings that go along with them. Whenever you daydream, whenever
+    you read a novel and imagine what is going on, whenever you craft an argument in
+    your head before saying it out loud, you are operating mostly on the Astral.
+    Maybe our purest experience of the Astral Plane is when we dream. That being
+    said, <i>most</i> of what consider "thinking" happens on the Astral (more on the
+    exceptions when we get to the Mental Plane). The Astral has a funny relationship
+    to time and space - it has <i>some</i> kind of association, which you'll notice if you
+    have a favorite place to read or study, or if you've ever felt certain thoughts
+    or feelings stirred by a place where something important happened, but it can
+    also clearly ignore typical spatial limits, as when you find yourself thinking
+    the thoughts of an Athenian from more than 2,000 years ago by reading his works,
+    or the way that in a dream you can be in a room that is simultaneously your
+    childhood bedroom and a library.
+    </p>
+
+    <p>
+    If you give any credence to the more woo-woo way of taking this model, this is
+    where things start to get really interesting. The Astral Plane provides the
+    causal mechanism for most phenomena we call "psychic" or "magical." If you are a
+    materialist, there are some ways to assume that these effects might be possible
+    with some kind of physical intermediation, even if its non-obvious. For example,
+    if I vividly imagine an emotion I want you to feel and focus all of my mental
+    effort on "putting it on you," and you end up feeling that emotion, the occult
+    explanation would be that I've influenced you via the Astral Plane. A
+    materialist would likely look for some means of physically transmitting that
+    intention - words spoken between us, subtle body language cues, pheremones, or
+    something of the kind. Whatever your beliefs, I ask you for a moment to consider
+    what I think is one of the most interesting (and sometimes alarming)
+    implications of the occult model. In the occult understanding, most thinking is
+    more akin to an act of perception than production - you are accessing things
+    that are "out there" in the astral. In some sense, as you direct your thinking,
+    it is less that you are "making" your thoughts as you are steering from one to
+    the next, an act of exploration rather than of creation. Now, my current
+    understanding is that this isn't 100% the case - there is <i>some</i> amount of
+    creation involved, but it gets fuzzy and hard to tell what is creation and what
+    perception. As far as I know, most occultists don't believe that every thought,
+    imagination, or feeling that will ever be conceived is pre-existing and just
+    waiting for us to find it. But most thinking, especially the kind that involves
+    concrete imagination of sights, sounds, smells, and so forth, is built out of
+    our stock of experience. I have a much easier time imagining a newly-made-up
+    tree for having seen a lot of trees in my life - something of all of those trees
+    is in the new one. If I had lived my whole life in a desert or out on the
+    steppe, I might not be able to conjure an image of a tree at all! Likewise, none
+    of us is an island, and we grow up surrounded by the stories, images, and other
+    accoutrements of our culture. We likewise draw on these when we imagine things.
+    Another example is that if you've ever collaborated with someone on a creative
+    project, you've also no doubt had the experience of describing things to each
+    other, each of you adding on to what the other puts out there, and ending up
+    with something that neither of you could have made on your own.
+    </p>
+
+    <p>
+    The point is, the occult view is that the products of these imaginings are now
+    "out there" in the astral - the more thought, effort, and emotion you put into
+    coming up with it, the more sturdy the new image. If you repeatedly come back to
+    the same imagining and each time invest it with as much vividness as you can,
+    over time, it might start surprising you with some amount of independence -
+    think of the way authors of fiction talk about a character "taking on a life of
+    his own" or letting him know that "I wouldn't do that." So far so good, but the
+    really freaky implication of the occult model is that these constructs are <i>not</i>
+    "just in your head." "In your head" is not a real place, it's just the part of
+    the Astral where you have the greatest perception and control. But <i>everything</i>
+    you put into the astral is now out in the realm of experience shared by all
+    conscious beings. If your thinking is at least as much "finding" as it is
+    "making," that means so is everyone else's, and if something you
+    made/found/shaped is out there, then others can find it too. And more freaky
+    still, "your" thoughts might not always be as <a href="https://www.thepsmiths.com/p/review-demons-by-fyodor-dostoevsky">wholly your own as you like to
+    think</a>. The more time you spend with the thoughts of others, the more they
+    become your thoughts. The more time, effort, and energy you put into certain
+    kinds of thoughts, the more your astral life will happen in the kind of
+    neighborhoods where those thoughts are at home. In other words, spend all your
+    time thinking hateful thoughts and around hateful folks, and you will find it
+    harder to have any other kinds of thoughts or feelings. <i>And so will the folks
+    around you</i>. Scary stuff.
+    </p>
+
+    <p>
+    <b>Some Practical Tips for the Astral Plane</b>: To explore the Astral, find various
+    "creative" ways to use your mind. Daydream. Draw. Write fiction. Fantasize. Make
+    music. As you do, pay attention to what feels like hard work and what just
+    "comes to you." Pay attention also to what kind of stuff you spend your time
+    with - what shows do you watch? What social media do you read? What music do you
+    listen to? Do you find yourself having more or fewer of certain kinds of
+    thoughts when you spend more time with certain kinds of media? Or people?
+    <a href="https://ecosophia.dreamwidth.org/tag/discursive+meditation">Discursive meditation</a> and <a href="https://ecosophia.dreamwidth.org/tag/sphere+of+protection">basic ritual</a> are also great ways develop your astral
+    awareness, if you want to jump in with both feet. As for keeping your astral
+    body healthy, here, "you are what you think." Try to pay attention to how you
+    think, what you think about, and especially what you vividly visualize or
+    fantasize about. Is that what you want your thoughts to feel like? If not, find
+    some ways to start avoiding the kind of thoughts you want to indulge in less.
+    For example, I tend to get pissed at other drivers for doing things that
+    inconvenience me or that I don't understand. In the grand scheme of things,
+    that's kind of a stupid thing to get mad about. So when I catch myself feeling
+    that way, I try to remind myself that this person is not necessarily an idiot or
+    an asshole, but rather they just did something that I wish they didn't, and it's
+    me reacting that is causing the anger. A word of caution here: I don't think
+    you'll have a very good time trying to overly-constrict your thinking, for
+    example by trying to think nothing but happy thoughts at all times, squashing
+    forcibly any anger, grief, or other "bad" emotions. Those feelings, or at least
+    the tendencies toward them, are just as much a part of you as the "good" ones,
+    and a certain amount of exploration and acceptance is helpful. That's one reason
+    meditation and ritual are so helpful - they help you develop a better sense for
+    when you are in the grip of some feeling and it is steering you, rather than
+    when you are feeling it or trying to understand it.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="orge1ba345"></a>The Mental Plane<br />
+    <div class="outline-text-3" id="text-orge1ba345">
+    <p>
+    Things get a bit tough with the mental plane, as we have only very limited
+    direct access to it. All through this post, I've been mentioning "bodies" on
+    each of the planes, so I suppose I ought to talk a bit about that. In the
+    teachings I work with, we exist on more than one plane, and the part of our
+    existence on each plane can be referred to as a "body." On the material plane
+    this is, you guessed it, our literal, physical body, the thing even the
+    staunchest materialist acknowledges as existing (well, unless you run into some
+    real weirdos like the <a href="https://infogalactic.com/info/Brain_in_a_vat">brain-in-a-jar</a> folks that helped inspire <i>The Matrix</i>). On
+    the other planes, these "bodies" are a little different, and they don't map
+    exactly one-to-one with our physical body, though there are important points of
+    overlap. Chakras, meridians, and other systems of energy centers are various
+    attempts to map these subtle bodies out, but then so are auras. Being the
+    closest to the material, your etheric body is the most like it and most closely
+    linked to it - it fills and interpenetrates everywhere your body is and extends
+    a few inches beyond it, though it's capable of interacting with things beyond
+    that range. Your astral body, what is often called your aura, extends up to a
+    few feet vaguely in the shape of an elongated sphere or egg, though the area
+    around your head tends to be especially active and visible to folks with that
+    gift either naturally or through hard work. The reason I bring this up now is
+    because it's at the mental plane that things get a bit weird. Again, according
+    to the system I work with, we don't really have a mental <i>body</i> yet. Instead, we
+    have a far less-developed presence called a "sheath." We're able to experience
+    the mental plane, but not as directly or with as much control as on the other
+    planes. So, any description of it is necessarily tentative and vague.
+    </p>
+
+    <p>
+    With these caveats in mind (heh), the mental plane is the realm of meaning,
+    pattern, and value. When you've been pounding your mind against a thorny math or
+    philosophy problem and it suddenly "clicks," you've perceived something about
+    the problem on the mental plane. When you infer a unity between disparate
+    examples, you are getting at least a taste of the mental plane. As I said above,
+    much of what we tend to consider "thinking" doesn't happen on this plane,
+    despite its name, as most thinking is more concerned with the concrete: objects,
+    forces, emotions, and so forth. In and of themselves, words are astral
+    phenomenon, as they are concrete representations (in sound, text, or the mind's
+    ear/eye) of the things they refer to, but our ability to use words for more than
+    immediately referring to objects of sense experience comes from some link to the
+    mental plane, and certainly words can be a vehicle for the kind of insights that
+    come from there, but the essence of the mental plane is fundamentally ineffable.
+    If you've ever learned another language, try to think about when a particular
+    collection of sounds, or certain arbitrary changes to those sounds for
+    grammatical purposes, started to <i>mean</i> something. It's the itch you get when you
+    notice a translator has rendered <i>arete</i> as "excellence" and thereby lost some of
+    its nuance, or when someone says "octopuses" instead of "octopodes" (<i>mostly</i>
+    joking here). It's the feeling of "getting" something rather than merely
+    repeating the arguments for it you've heard from elsewhere.
+    </p>
+
+    <p>
+    <b>Some Practical Tips for the Mental Plane</b>: As I said, we have far less capacity
+    for direct experience of the mental plane than those discussed so far.
+    Developing further is ahead of us, when each of us reaches a point of no longer
+    needing material incarnation (oh yeah, the teachings I work with also assume
+    reincarnation as a given, with eventual incarnation into non-physical forms). In
+    the meantime, we can get some intimations of the mental plane through the kind
+    of work that grapples with meaning and value, especially of the abstract,
+    hard-to-concretize kind. Studying math or philosophy can do it, but the very
+    best practice is discursive meditation on a variety of subjects symbolic,
+    philosophical, and spiritual.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="orga87f1a0"></a>The Spiritual, Causal, and Divine Planes<br />
+    <div class="outline-text-3" id="text-orga87f1a0">
+    <p>
+    Remember how I said the mental plane is where things get vague? Well, beyond
+    that, things get downright <i>obscure</i>. Above the mental plane, we do not even have
+    a <i>sheath</i>, and so we have no direct experience of these planes in the ordinary
+    course of things. Instead, only the divine spark that accumulates the means to
+    experience and understand each of the planes - the soul - touches these planes,
+    and due to the lack of a body or sheath, only in a very vague, you might even
+    say "sleeping" way. From this comes your consciousness - the part of you that
+    <i>notices</i> when you notice something, for which one set of physical, etheric,
+    astral, and mental stimuli differs from another. But as that implies, it mostly
+    only does so through the mediation of the planes where we have some capacity for
+    experience and control. Tastes of these planes might come through particular
+    religious or mystical experiences, with the help of non-physical beings (in
+    plain English: Gods and spirits). Thanks to this, our knowledge of these planes
+    is theoretical and based on what is shared by folks who have had these kinds of
+    experiences, or inferred from the kinds of meanings and values grasped in our
+    tentative contact with the mental plane (which is, of course, reflecting
+    something of these planes, just as every other plane is in its own way).
+    Teachings of oneness, of impersonal and universal love, and of transcendence of
+    all kinds come from these experiences, and these notions of transcendent unity
+    underlie the system taught here. At the very top is the source of all rules,
+    causality, and goodness (this system derives largely from the Platonic, which
+    likely drew on teachings from Pythagoras and he claimed to get most of his stuff
+    from Egypt, so this may sound familiar if you've encountered those).
+    </p>
+
+    <p>
+    <b>Some Practical Tips for the Spiritual Plane</b>: Here we mostly leave the realm of
+    DIY experimentation and get into the realm of religion. If you want to gain
+    experience of the Spiritual, Causal, and Divine Planes, you'll very likely need
+    some higher help. Regular prayer and worship of some kind are the traditional
+    approaches here, but the good news is that it seems like just about every
+    religion ever practiced by mankind will work (you'll just have different
+    experiences and learn different things along the way). If you are especially
+    drawn to this kind of exploration, those paths usually called "mystic" most
+    directly try to approach this realm of experience. In the West, that mostly
+    means some of the weirder ends of Christianity, but some work has been done to
+    cast light on non-Christian approaches, and in the Mid- and Far East, there are
+    many traditions of mysticism appropriate to their religions. Admittedly, at this
+    point, we've likely left behind where this model can be thought of as a helpful,
+    materialist-friendly metaphor, as this level and above posits things pretty much
+    wholly outside of material experience, but even if that is where you started,
+    perhaps your explorations of the other planes will give you some cause to
+    consider the value of religion.
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org71eb6a5"></a>Wrapping Up<br />
+    <div class="outline-text-3" id="text-org71eb6a5">
+    <p>
+    So, there you have a very quick and very incomplete survey of the planes of
+    being. I've set them out here as much to solidify and test my own understanding
+    as to teach, but I hope you'll find this helpful nonetheless. As I said, I have
+    found this a useful lens for understanding my experience, most of all what has
+    come from spiritual practice, so hopefully you might as well. I also think that
+    having a post to refer back to will come in handy for some things I want to
+    share down the line, like "are Zeus and Jupiter the same God, or what? What
+    about Dyeus Phater of the Proto-Indo-Europeans?" Of course I'm happy to answer
+    any questions, but I'm still very much learning, so I can't claim any authority
+    and I encourage you to do your own research. If you have any knowledge or
+    experience that contradicts any of this, I'd love to hear about it. Otherwise,
+    happy exploring!
+    </p>
+    </div>
+    </li>
+
+    <li><a id="org52e8668"></a>Post Footer<br />
+    <div class="outline-text-3" id="text-org52e8668">
     <p>
     <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
     send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
-    thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/21363.html">dreamwidth post</a></i>.
+    thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/21587.html">dreamwidth post</a></i>.
     </p>
 
     <p>
@@ -247,6 +513,231 @@
     </li>
     </ul>
     ]]></description>
+</item>
+
+<item>
+  <title>[Book] The Search for Odhinn</title>
+  <link>./#book_in_search_of_odhinn</link>
+  <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
+  <guid isPermaLink="false">./#book_in_search_of_odhinn</guid>
+  <pubDate>Sun, 28 Jul 2024 12:31:00 -0500</pubDate>
+  <category><![CDATA[rss]]></category>
+  <description><![CDATA[<p>
+  <b>Date</b>: 2024-July-28<br />
+  <b>Subscribe</b>: <a href="mailto:jeff.powell.russell@gmail.com?subject=Add%20me%20to%20the%20Webstead%20mailing%20list">Add me to the mailing list</a><br />
+  <b>Permalink</b>: <a href="#book_in_search_of_odhinn">Link to this Post</a>
+  </p>
+
+  <p>
+  I've now read two of the the three books of Shani Oates's "Odhinn Trilogy,"
+  skipping over the second for now to get to the third one, which has more to do
+  with what I'm working on: <i>The Search for Odhinn: From Pontic Steppe to Sutton Hoo</i>.
+  The very short version is that it shares many of both the strengths and flaws of
+  <a href="#thoughts_on_the_hanged_god">The Hanged God</a>: lots of research and links drawn, but unclear incomplete in the
+  argument it seeks to spell out. Taking a very contrarian approach, it argues
+  Odhinn is mainly a medieval literary creation, and that claims for His ancient
+  worship and near-universality among the Germanish folks is mistaken. This stance
+  might be a helpful corrective to what you'll find in most works, most of all
+  those written by and for today's worshipers, but overall, I didn't find it that
+  convincing. Let's dig in.
+  </p>
+
+  <p>
+  First off, the book itself.
+  </p>
+
+  <p>
+  Again, this is published by <a href="https://www.anathemapublishing.com/">Anathema Publishing</a>, and like all of their other
+  hardcovers I have, it's a nice book with sturdy binding, good-looking
+  type-setting, and lovely thick paper. Unluckily, some of the typographic
+  inconsistencies keep on, such as using the letter 'ð' (<a href="https://infogalactic.com/info/Eth">eth</a>) where a 'd' ought to
+  be, but it seemed less egregious this time - but maybe only since there were
+  fewer Old Norse words, and thus fewer chances to mix them up. Long story short,
+  if you like books that look and feel good, check out their catalog and see if
+  they have anything you might want to pick up.
+  </p>
+
+  <p>
+  As for what the book says, it's a <i>very</i> wide-ranging look into the evidence that
+  has been claimed for Odhinn/Woden/Wotan from very early times through to
+  post-Conversion Iceland and Scandinavia. Oates's main argument, which as far as
+  I can tell is building mainly on Philip Shaw's 2002 thesis "<a href="https://etheses.whiterose.ac.uk/393/1/uk_bl_ethos_270854.pdf">Uses of Wodan: The
+  Development of his Cult and Medieval Literary Responses to It</a>," is that the
+  conflation made by most scholars between Scandinavian Odhinn and
+  continental/English Wotan/Woden is mistaken, and that most claims for evidence
+  of this single God are better understood as references to a diverse set of
+  heroic, ancestral, and tribal figures rather than the head of a neat pantheon in
+  the Greco-Roman style. First off, let me say that I think the heart of the idea
+  is right: Heathen worship and belief were almost certainly <i>not</i> uniform, over
+  time or across lands and folks, and the fairly tidy account given by Snorri has
+  likely given us a simplified view of this messy past. Further, I think Oates's
+  is likely mostly right that modern scholars and reconstructionists alike have
+  underrated the role of local land spirits, tribal totems, specific ancestral
+  figures, and less-anthropomorphized divine powers. However, I feel like she
+  takes her argument against this prevailing wisdom overly far. She seems to
+  believe that an anthropomorphic, organized "pantheon" was <i>wholly</i> an invention of
+  the Greeks and Romans, later adopted by classically-educated Christians and
+  applied to poorly understood earlier Germanish beliefs, and so <i>any</i> take on those
+  beliefs with named, personalized Gods with mythic biographies is some kind of
+  outside imposition. Given the remarkable parallels in specific myths and Gods
+  between far-flung children of the Indo-European diaspora, I think the burden of
+  proof is folks who want to say "naw, they didn't really have 'Gods' as we think
+  of them," and I don't think Oates comes anywhere close to shouldering that
+  burden.
+  </p>
+
+  <p>
+  Okay, so with that overall rundown out of the way, let's drill down a bit more,
+  and in the spirit of charity, let's begin with what's good. As I said, Oates
+  goes over a <i>lot</i> of material - archaeological, literary, historical, and so
+  forth. She looks far and wide (maybe sometimes <i>too</i> far, but more on that in a
+  bit) for parallels and comparisons to zero in on what are clearly Germanish
+  themes and what might just be common to folks with similar lifestyles and stages
+  of civilizational development. For example, one of her critiques I found more
+  convincing than others is the over-readiness with which antiquarians,
+  archaeologists, and today's heathens have jumped on depictions of wolves or
+  birds of prey as traces of Odinic myths. Eagles, in particular, can be found as
+  representations of might, majesty, and kings all over the place - Assyrians,
+  Scythians, Romans (obviously), Germans (of course), and elsewhere. As such, just
+  because you find a carving of an eagle doesn't mean you found a representation
+  of Odin winning the mead of poetry, or Thjazi stealing Idun, or what have you.
+  It might just be an expression of glory and might. Likewise the equation with
+  wolves is likely made too readily (though, here, the well-attested affinity for
+  wolves among Indo-European folks going <i>way</i> back makes some inferences justified,
+  I think). Oates also carefully parses Runic or other written references to
+  names/words/figures that been equated with Odhinn/Woden, spelling out problems
+  with even reading the Runes/letters (common in the early archaeological finds of
+  Runes) as well as difficulties with what sound was represented by scribal
+  conventions across languages (for example, if a piece of Latin writing uses a
+  'v,' it might mean any of the sounds we today write with 'w,' 'v,' or 'u').
+  These and other challenges are often glossed over by scholars who adopt a modern
+  anglicization, such as "Odin," and then blithely refer to "references to Odin,"
+  whether talking about a Runic inscription to Uthin, a Latin passage about Godan,
+  or even more ambiguous evidence. She's also keen to point out where sources
+  we're relying on were written <i>way</i> after the fact, or had an axe to grind, or
+  otherwise should not be taken at face value without thinking, and what other
+  historical and cultural context we ought to take into account when looking at
+  these things. Altogether, for me, the biggest strength of the book is the wide
+  range of evidence looked at and the skepticism she introduces for all of it,
+  which as I said, is a helpful corrective to the romantic urge to find
+  far-ranging correspondences and long-lasting continuity.
+  </p>
+
+  <p>
+  On the other hand, as I also said, this book has some of the same weaknesses as
+  Oates's other book I've talked about here - namely, it is poorly organized and
+  hard to follow. There's less nonsensical word-salad where I go "what the hell
+  are you even saying?" but I did still find myself spending much of my time going
+  "where are you going with this? What do you even mean?" Further, she blithely
+  asserts things as proven when it doesn't seem like she's engaged with them much
+  at all. She also selectively applies arguments and methods of analysis that
+  support the point she wants to make. In one part of the book, she'll confidently
+  state that we can't take pictorial representations that predate written
+  references to Odhinn by tens or hundreds of years as if they refer to the same
+  figure or myths, and then later she'll talk about the obvious continuity between
+  a pictorial representation and some later written reference to another God or
+  myth, sometimes over even longer spans of time, like from the Nordic Bronze Age
+  through to the medieval period. Also, as I said above, one of, if not <i>the</i>, key
+  pillar of her argument is a separate etymology for Odhinn and Wodan, which is
+  <i>not</i> the standard accepted by most scholars. Though she acknowledges a common
+  proto-Germanic root for both of these, she argues there was enough of a
+  difference in development between them to show they must refer to different
+  figures. Even still, not even in the appendix <i>about this etymology</i> does she
+  convincingly show why they should be treated as different enough that the two
+  names <i>must</i> refer to substantially different figures. All taken together, it's
+  maddening. I'm going to have to give Shaw's thesis a read and see if he makes a
+  more coherent, step-by-step argument, because if it's right, it's very
+  significant, but after more than 400 pages, I never felt like she made a good
+  case that it <i>is</i> right - she just said it was and went from there, without even
+  saying explicitly "go read this for a more detailed argument".
+  </p>
+
+  <p>
+  All of this, good and bad, would be much easier to incorporate into my own
+  understanding if I had a clearer idea what she was even trying to do with this
+  book. Unluckily, it's precisely here that her tendency to big-word-filled
+  mumbo-jumbo, so admirably suppressed compared to <i>The Hanged God</i>, comes out the
+  most strongly. For all that I complained about <a href="#book_the_seed_of_yggdrasill_overall_rundown">Maria Kvilhaug's interpretation
+  of the myths</a>, she was at least very consistent about that interpretation and
+  why she thought it had worth - I can triangulate just as readily from a known
+  point I disagree with as one I agree with, but I can't do that if I can't even
+  figure out what claim a writer is staking out. To try to do so, I've had to
+  resort to some speculation based on what I know about her work and background.
+  Oates belongs to the <a href="https://clantubalcain.com/">Clan of Tubal Cain</a>, which from what I've read seems to be
+  strain of non-Gardnerian Witchcraft. She frequently refers to "god-forms" in a
+  way that makes me think she mostly assumes that the Gods worshiped and shown in
+  myth are more-or-less human-created containers for a less-understandable divine
+  power. My current understanding is that this stance has some truth to it, but is
+  mistaken in assigning too much agency to humans and not enough to the Gods.
+  Sometime soon, I'd like to talk through this thorny question in more detail, but
+  to do it justice, I'm going to have to lay some groundwork from the occult
+  philosophy I've been studying, which will have to wait for another post or two.
+  To put it shortly, at least for now, I believe that the Gods truly are
+  individual, personalities with Their own independent being, but that our
+  experience of Them is mediated by forms that are shaped by humans. One
+  overly-simplified metaphor might be to imagine a movie. The screenwriter and
+  director come up with a role and how it should be depicted, but some actors will
+  be better suited to that role than others, and some will be wholly unsuitable
+  (you don't want Winona Rider as your wise-cracking burly commando, but if you
+  can't get Arnold Schwarzenegger, Sylvester Stallone might work just fine). The
+  myths and images that really resonate and last are those that are "written for"
+  particular "actors," where casting the wrong one would be obviously wrong - to
+  put it concretely, some folks likely tried to tell stories about Thor that
+  didn't fit with what He is "really like," and those have been forgotten, but
+  those that still land are somehow suited to His divine nature. Even this
+  metaphor, though, gives more agency to the human side of things than I think is
+  right, but it at least gets in the ballpark of what I'm trying to say. Oates's
+  belief seems to be closer to the idea of a novelist - he can write whatever
+  character speaks to him, and as long as that character reflects important
+  aspects of the human experience, he'll "work" in the narrative. Under this
+  metaphor, myth-makers can shape tales as they like, and as long as they're not
+  wholly out-of-joint with divine reality, folks will respond to these myths and
+  be able to craft rituals around them. From the conclusion to the book, it seems
+  that Oates believes that acknowledging Odhinn as the creation of
+  classically-educated medieval writers/antiquarians frees us up to better make
+  use of this "Character" in religious and magical work, which I think puts too
+  much in our own hands, and not enough on the "other side."
+  </p>
+
+  <p>
+  So, as usual, we'll close by trying to answer the asking we usually do: should
+  you read this book? I'd say it might be interesting and helpful to anyone who
+  has a deep interest in Odhinn/Woden, as I have, but you're going to have to put
+  in a lot of work to get much out of it unless you're already closer to Oates's
+  position. It's certainly not a "one-stop shop" on the history of this/these
+  God(s) - for that, I might instead recommend Kris Kershaw's <i>The One-Eyed God</i>, or
+  if it turns out to be as good as I expect, Stephen Pollington's latest, <i>Woden</i>.
+  For a maybe overly-crude analogy, the usefulness of this book strikes me as
+  similar to what a Christian might get out of reading a work of heresy - say,
+  you're a Catholic and you read what you can making the case for <a href="https://infogalactic.com/info/Arianism">Arianism</a>. Not
+  that I think Oates's book is <i>heresy</i>, which is both more pejorative than I mean
+  and implies an attachment to dogma that isn't a part of my current religious
+  views. Rather, it's that I think few practicing Heathens will find this book
+  wholly in accordance with their beliefs or practices, but might find the
+  perspective offered in its disagreements helps solidify and clarify them. So, if
+  you want to give yourself a bit of work in fitting a dissonant view into your
+  understanding of Odhinn, this will give you plenty to chew on. Otherwise, your
+  time might be better spent elsewhere.
+  </p>
+
+  <ul class="org-ul">
+  <li><a id="orgd9a0852"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgd9a0852">
+  <p>
+  <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
+  send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
+  thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/21363.html">dreamwidth post</a></i>.
+  </p>
+
+  <p>
+  <b>Want to get new posts emailed to your inbox? <a href="mailto:jeff.powell.russell@gmail.com?subject=Add%20me%20to%20the%20Webstead%20mailing%20list">Sign up here</a>.</b>
+  </p>
+
+  <hr />
+  </div>
+  </li>
+  </ul>
+  ]]></description>
 </item>
 
 <item>
@@ -476,8 +967,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgb31fa69"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgb31fa69">
+  <li><a id="org7989e62"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org7989e62">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -848,8 +1339,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orga95d17e"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orga95d17e">
+  <li><a id="org86456f7"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org86456f7">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -1004,8 +1495,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgcee6b1d"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgcee6b1d">
+  <li><a id="orga9b2964"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orga9b2964">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -1726,8 +2217,8 @@
   </div>
   </li>
 
-  <li><a id="orgef0a1cf"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgef0a1cf">
+  <li><a id="orgc06076d"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgc06076d">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -1838,8 +2329,8 @@
   </div>
   </li>
 
-  <li><a id="org1979e99"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org1979e99">
+  <li><a id="org018af30"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org018af30">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/20195.html">dreamwidth post</a></i>.
   </p>
@@ -2152,8 +2643,8 @@
   </div>
   </li>
 
-  <li><a id="org81c1590"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org81c1590">
+  <li><a id="org653d97f"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org653d97f">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -2329,8 +2820,8 @@
   </div>
   </li>
 
-  <li><a id="orgf96099e"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgf96099e">
+  <li><a id="org50f06f3"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org50f06f3">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/19593.html">dreamwidth post</a></i>.
   </p>
@@ -2382,8 +2873,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org7eace18"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7eace18">
+  <li><a id="org824d1a3"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org824d1a3">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/19302.html">dreamwidth post</a></i>.
   </p>
@@ -2429,8 +2920,8 @@
   </blockquote>
 
   <ul class="org-ul">
-  <li><a id="org57126b1"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org57126b1">
+  <li><a id="orgc306329"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgc306329">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/18997.html">dreamwidth post</a></i>.
   </p>
@@ -2526,8 +3017,8 @@
   </div>
   </li>
 
-  <li><a id="org3127b09"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org3127b09">
+  <li><a id="orga540f63"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orga540f63">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/18717.html">dreamwidth post</a></i>.
   </p>
@@ -2583,8 +3074,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org48a9ea3"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org48a9ea3">
+  <li><a id="org9fa9a04"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org9fa9a04">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/18657.html">dreamwidth post</a></i>.
   </p>
@@ -2707,8 +3198,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgbee3374"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgbee3374">
+  <li><a id="orge6723ba"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orge6723ba">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/17945.html">dreamwidth post</a></i>.
   </p>
@@ -3065,8 +3556,8 @@
   </div>
   </li>
 
-  <li><a id="org99e00bf"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org99e00bf">
+  <li><a id="org0941b65"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org0941b65">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/17895.html">dreamwidth post</a></i>.
   </p>
@@ -3198,8 +3689,8 @@
   </div>
   </li>
 
-  <li><a id="orgd8c9e6f"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgd8c9e6f">
+  <li><a id="orgb4b732f"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgb4b732f">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/17648.html">dreamwidth post</a></i>.
   </p>
@@ -3235,8 +3726,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org8fa44d2"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org8fa44d2">
+  <li><a id="orge0afbcb"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orge0afbcb">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a> - <b>You Are Here</b></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -3471,8 +3962,8 @@
   </div>
   </li>
 
-  <li><a id="orged88873"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orged88873">
+  <li><a id="orged4fa3f"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orged4fa3f">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16911.html">dreamwidth post</a></i>.
   </p>
@@ -3500,8 +3991,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org9b8f7c8"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org9b8f7c8">
+  <li><a id="orgedef77e"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgedef77e">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -3630,8 +4121,8 @@
   </li>
 
 
-  <li><a id="org0076b72"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org0076b72">
+  <li><a id="org6cdff4a"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org6cdff4a">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16668.html">dreamwidth post</a></i>.
   </p>
@@ -3815,8 +4306,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org1d76a93"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org1d76a93">
+  <li><a id="orgeb02b87"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgeb02b87">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16407.html">dreamwidth post</a></i>.
   </p>
@@ -3844,8 +4335,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org02e01de"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org02e01de">
+  <li><a id="orge64ed7a"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orge64ed7a">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -3916,8 +4407,8 @@
   </div>
   </li>
 
-  <li><a id="org08bd555"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org08bd555">
+  <li><a id="orgb3216fd"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgb3216fd">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16274.html">dreamwidth post</a></i>.
   </p>
@@ -3985,8 +4476,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgd731faa"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgd731faa">
+  <li><a id="orgdfea2bf"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgdfea2bf">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16049.html">dreamwidth post</a></i>.
   </p>
@@ -4070,8 +4561,8 @@
   </div>
   </li>
 
-  <li><a id="org825f10d"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org825f10d">
+  <li><a id="orgddf06ec"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgddf06ec">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15741.html">dreamwidth post</a></i>.
   </p>
@@ -4099,8 +4590,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orga37989c"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orga37989c">
+  <li><a id="org0617b45"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org0617b45">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -4155,8 +4646,8 @@
   </div>
   </li>
 
-  <li><a id="org5c1b10c"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org5c1b10c">
+  <li><a id="org8b887e4"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org8b887e4">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15378.html">dreamwidth post</a></i>.
   </p>
@@ -4184,8 +4675,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org7770f6d"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org7770f6d">
+  <li><a id="orgd803c4c"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgd803c4c">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -4227,8 +4718,8 @@
   </div>
   </li>
 
-  <li><a id="org3152544"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org3152544">
+  <li><a id="org87c2d77"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org87c2d77">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15288.html">dreamwidth post</a></i>.
   </p>
@@ -4256,8 +4747,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org30347a8"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org30347a8">
+  <li><a id="org627d743"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org627d743">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -4304,8 +4795,8 @@
   </div>
   </li>
 
-  <li><a id="org81db5a5"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org81db5a5">
+  <li><a id="org8d9f517"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org8d9f517">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14905.html">dreamwidth post</a>.</i>
   </p>
@@ -4329,8 +4820,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgf022bad"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgf022bad">
+  <li><a id="orgab1095d"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgab1095d">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -4433,8 +4924,8 @@
   </div>
   </li>
 
-  <li><a id="org3b98c7f"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org3b98c7f">
+  <li><a id="org8d71f3d"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org8d71f3d">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14716.html">dreamwidth post</a>.</i>
   </p>
@@ -4514,8 +5005,8 @@
   </div>
   </li>
 
-  <li><a id="org9108113"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org9108113">
+  <li><a id="org9a24574"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org9a24574">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14562.html">dreamwidth post</a>.</i>
   </p>
@@ -4675,8 +5166,8 @@
   </ul>
   </li>
 
-  <li><a id="orge826051"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orge826051">
+  <li><a id="org4b3dd4c"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org4b3dd4c">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14146.html">dreamwidth post</a>.</i>
   </p>
@@ -4700,8 +5191,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgc5da916"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgc5da916">
+  <li><a id="org6cfe543"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org6cfe543">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -4756,8 +5247,8 @@
   </div>
   </li>
 
-  <li><a id="org7641607"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7641607">
+  <li><a id="orgd951006"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgd951006">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13742.html">dreamwidth post</a>.</i>
   </p>
@@ -4781,8 +5272,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgd25d54a"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgd25d54a">
+  <li><a id="orgdbb792a"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgdbb792a">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -4937,8 +5428,8 @@
   </div>
   </li>
 
-  <li><a id="orgcaa1efa"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgcaa1efa">
+  <li><a id="orgb18104a"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgb18104a">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13462.html">dreamwidth post</a>.</i>
   </p>
@@ -4990,8 +5481,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org677d714"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org677d714">
+  <li><a id="orgde024d8"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgde024d8">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13241.html">dreamwidth post</a>.</i>
   </p>
@@ -5059,8 +5550,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org6c4d83e"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org6c4d83e">
+  <li><a id="org737efb7"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org737efb7">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12951.html">dreamwidth post</a>.</i>
   </p>
@@ -5084,8 +5575,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org2986e3d"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org2986e3d">
+  <li><a id="org89ddc00"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org89ddc00">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -5212,8 +5703,8 @@
   </div>
   </li>
 
-  <li><a id="org705c762"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org705c762">
+  <li><a id="org8f76a69"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org8f76a69">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12612.html">dreamwidth post</a>.</i>
   </p>
@@ -5281,8 +5772,8 @@
   </div>
   </li>
 
-  <li><a id="org4d5c315"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org4d5c315">
+  <li><a id="org9eacf87"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org9eacf87">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12323.html">dreamwidth post</a>.</i>
   </p>
@@ -5306,8 +5797,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org958ee15"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org958ee15">
+  <li><a id="org97c7aab"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org97c7aab">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -5402,8 +5893,8 @@
   </div>
   </li>
 
-  <li><a id="org2df897a"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org2df897a">
+  <li><a id="org65805d0"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org65805d0">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12162.html">dreamwidth post</a>.</i>
   </p>
@@ -5455,8 +5946,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org56c54f6"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org56c54f6">
+  <li><a id="org42c9264"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org42c9264">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11815.html">dreamwidth post</a>.</i>
   </p>
@@ -5507,8 +5998,8 @@
   </div>
   </li>
 
-  <li><a id="org352fd04"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org352fd04">
+  <li><a id="org3d4e3aa"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org3d4e3aa">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11677.html">dreamwidth post</a>.</i>
   </p>
@@ -5532,8 +6023,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgeabc410"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgeabc410">
+  <li><a id="org9dedda1"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org9dedda1">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -5673,16 +6164,16 @@
   </div>
   </li>
 
-  <li><a id="orgc0c6ad6"></a>Closing<br />
-  <div class="outline-text-3" id="text-orgc0c6ad6">
+  <li><a id="org29cc9c9"></a>Closing<br />
+  <div class="outline-text-3" id="text-org29cc9c9">
   <p>
   So, whoo, here we are. The next chapter is, as I said, mercifully shorter, and focuses on "The Maiden with the Mead," the subject of Kvilhaug's master's thesis, but apparently new work on the same topic here. So, expect lots more on feminine spiritual Beings and/or bits of the soul, magic drinks, and initiation. As always, I welcome any thoughts, recommendations, or corrections.
   </p>
   </div>
   </li>
 
-  <li><a id="org7df892b"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7df892b">
+  <li><a id="org93f135d"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org93f135d">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11306.html">dreamwidth post</a>.</i>
   </p>
@@ -5746,8 +6237,8 @@
   </div>
   </li>
 
-  <li><a id="org7b19013"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7b19013">
+  <li><a id="orgfec7937"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgfec7937">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11228.html">dreamwidth post</a>.</i>
   </p>
@@ -5934,16 +6425,16 @@
   </div>
   </li>
 
-  <li><a id="orgc666f66"></a>Closing<br />
-  <div class="outline-text-3" id="text-orgc666f66">
+  <li><a id="org5ec4673"></a>Closing<br />
+  <div class="outline-text-3" id="text-org5ec4673">
   <p>
   Whether you find these prayers helpful for your own spiritual work, as always, I welcome any and all feedback!
   </p>
   </div>
   </li>
 
-  <li><a id="org52bb6d6"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org52bb6d6">
+  <li><a id="orgca38465"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgca38465">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10887.html">dreamwidth post</a>.</i>
   </p>
@@ -6208,8 +6699,8 @@
   </div>
   </li>
 
-  <li><a id="org1a11945"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org1a11945">
+  <li><a id="orgff9cae4"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgff9cae4">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -6235,8 +6726,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgabed636"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgabed636">
+  <li><a id="org3786b1b"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org3786b1b">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a> - <b>You Are Here</b></li>
@@ -6322,8 +6813,8 @@
   </div>
   </li>
 
-  <li><a id="org6baad6d"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-org6baad6d">
+  <li><a id="org1998090"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-org1998090">
   <p>
   First, a handful of thoughts on the physical book. I have the 2020 edition,
   which is the one currently available, but it was first printed in 2012 as a
@@ -6524,16 +7015,16 @@
   </ul>
   </li>
 
-  <li><a id="org45048cd"></a>Closing<br />
-  <div class="outline-text-3" id="text-org45048cd">
+  <li><a id="org9beaaa4"></a>Closing<br />
+  <div class="outline-text-3" id="text-org9beaaa4">
   <p>
   Altogether, this book has a <i>lot</i> to recommend it, but it takes a certain amount of energy to grapple with in anything but the most casual way. I sincerely wish Kvilhaug had some kind of partner of the organizational, attention-to-detail variety who shared her passion for these myths. Then we could have things like a list of all of the major Gods, Goddesses, and steads with their names translated, to be used as a reference when reading. We could have chapters and sections that can be looked up as needed, rather than having to be sifted out of the entire 600-page web. We could have lists of the formulas she's identified with pointers to what myths you can find them in. Such glorious possibilities! Alas, for now, I'll have to settle for making my own sense of what she has to offer and sharing what I find with you.
   </p>
   </div>
   </li>
 
-  <li><a id="orgb896bf3"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgb896bf3">
+  <li><a id="org20919fa"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org20919fa">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10405.html">dreamwidth post</a>.</i>
   </p>
@@ -6724,8 +7215,8 @@
   </div>
   </li>
 
-  <li><a id="org8750d73"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org8750d73">
+  <li><a id="org5ab82d7"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org5ab82d7">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10116.html">dreamwidth post</a>.</i>
   </p>
@@ -6987,8 +7478,8 @@
   </div>
   </li>
 
-  <li><a id="orgc5d0624"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgc5d0624">
+  <li><a id="org62d2ef2"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org62d2ef2">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9809.html">dreamwidth post</a>.</i>
   </p>
@@ -7100,8 +7591,8 @@
   </div>
   </li>
 
-  <li><a id="org097fd97"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org097fd97">
+  <li><a id="orgad8909a"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgad8909a">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9590.html">dreamwidth post</a>.</i>
   </p>
@@ -7337,8 +7828,8 @@
   </div>
   </li>
 
-  <li><a id="org7dbdb90"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7dbdb90">
+  <li><a id="orgd99b50a"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgd99b50a">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9076.html">dreamwidth post</a>.</i>
   </p>
@@ -7504,8 +7995,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org24753e0"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org24753e0">
+  <li><a id="orgfcb8cb2"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgfcb8cb2">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/8865.html">dreamwidth post</a>.</i>
   </p>
@@ -8374,8 +8865,8 @@
   </div>
   </li>
 
-  <li><a id="orga7a6356"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-orga7a6356">
+  <li><a id="org4b9a1b0"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-org4b9a1b0">
   <p>
   This is not usually something I would talk about when going over a book, but
   here I think it's warranted, both good and bad. First off, the good stuff:
@@ -8472,8 +8963,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org0bb5af0"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org0bb5af0">
+  <li><a id="org64b11a4"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org64b11a4">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -8574,8 +9065,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org62ce519"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org62ce519">
+  <li><a id="orgb695af9"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orgb695af9">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -8726,8 +9217,8 @@
   </div>
   </li>
 
-  <li><a id="org71eb6a5"></a>Wrapping Up<br />
-  <div class="outline-text-3" id="text-org71eb6a5">
+  <li><a id="org15a0296"></a>Wrapping Up<br />
+  <div class="outline-text-3" id="text-org15a0296">
   <p>
   As I said at the top, right now, I'm thinking one more post on some of the
   grabby thoughts from the books that didn't <i>quite</i> have enough meat on the bone
@@ -8761,8 +9252,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org3c9dc5a"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org3c9dc5a">
+  <li><a id="orgabfd38a"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orgabfd38a">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -9005,8 +9496,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org85ac724"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org85ac724">
+  <li><a id="org7c04cf4"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org7c04cf4">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -9229,8 +9720,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org0ce38e0"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org0ce38e0">
+  <li><a id="org89dc07e"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org89dc07e">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a> &#x2013; You are Here</li>
@@ -9401,8 +9892,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org3c02fd0"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org3c02fd0">
+  <li><a id="orge5c3247"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orge5c3247">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a> &#x2013; You are Here</li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -10329,8 +10820,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgb204443"></a>Way 1<br />
-  <div class="outline-text-3" id="text-orgb204443">
+  <li><a id="org3c37a5a"></a>Way 1<br />
+  <div class="outline-text-3" id="text-org3c37a5a">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -10349,8 +10840,8 @@
   </div>
   </li>
 
-  <li><a id="orgf1430ac"></a>Way 2<br />
-  <div class="outline-text-3" id="text-orgf1430ac">
+  <li><a id="org22a7dde"></a>Way 2<br />
+  <div class="outline-text-3" id="text-org22a7dde">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -10369,8 +10860,8 @@
   </div>
   </li>
 
-  <li><a id="org535d8f0"></a>Way 3<br />
-  <div class="outline-text-3" id="text-org535d8f0">
+  <li><a id="org142aa26"></a>Way 3<br />
+  <div class="outline-text-3" id="text-org142aa26">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -10750,8 +11241,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org6b3d3ea"></a>Way 1<br />
-  <div class="outline-text-3" id="text-org6b3d3ea">
+  <li><a id="org28547a2"></a>Way 1<br />
+  <div class="outline-text-3" id="text-org28547a2">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -10769,8 +11260,8 @@
   </div>
   </li>
 
-  <li><a id="orgebe8fd1"></a>Way 2<br />
-  <div class="outline-text-3" id="text-orgebe8fd1">
+  <li><a id="org02ed2ad"></a>Way 2<br />
+  <div class="outline-text-3" id="text-org02ed2ad">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -10788,8 +11279,8 @@
   </div>
   </li>
 
-  <li><a id="orgc2fb1c0"></a>Way 3<br />
-  <div class="outline-text-3" id="text-orgc2fb1c0">
+  <li><a id="orgfc986a4"></a>Way 3<br />
+  <div class="outline-text-3" id="text-orgfc986a4">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -11292,8 +11783,8 @@
   </div>
   </li>
 
-  <li><a id="org211f0a9"></a>The Poetic Edda<br />
-  <div class="outline-text-4" id="text-org211f0a9">
+  <li><a id="orge94ee86"></a>The Poetic Edda<br />
+  <div class="outline-text-4" id="text-orge94ee86">
   <p>
   <b>By</b>: Many writers<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -12074,8 +12565,8 @@
   </div>
   </li>
 
-  <li><a id="orge3e8d22"></a>Shamanism<br />
-  <div class="outline-text-5" id="text-orge3e8d22">
+  <li><a id="orgb5d28d1"></a>Shamanism<br />
+  <div class="outline-text-5" id="text-orgb5d28d1">
   <p>
   <b>By</b>: Mircea Eliade<br />
   <b>Have I Read It?</b>: About halfway.<br />
@@ -12486,8 +12977,8 @@
   </div>
   </li>
 
-  <li><a id="org208ee40"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-org208ee40">
+  <li><a id="org8504ae3"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-org8504ae3">
   <p>
   <b>By</b>: Dr. Stephen Flowers, PhD.<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -12497,8 +12988,8 @@
   </li>
 
 
-  <li><a id="org66101a1"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-org66101a1">
+  <li><a id="orgfc37c26"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-orgfc37c26">
   <p>
   <b>By</b>: P.D. Brown and Michael Moynihan (eds)<br />
   <b>Have I Read It?</b>: Some<br />
@@ -12682,8 +13173,8 @@
   </div>
   </li>
 
-  <li><a id="orgcba7040"></a>In Search of Odhinn<br />
-  <div class="outline-text-5" id="text-orgcba7040">
+  <li><a id="orgce4aed3"></a>The Search for Odhinn<br />
+  <div class="outline-text-5" id="text-orgce4aed3">
   <p>
   <b>By</b>: Shani Oates<br />
   <b>Have I Read It?</b>: Some<br />
@@ -12694,8 +13185,8 @@
   </ul>
   </li>
 
-  <li><a id="orgc3d05c5"></a>Shamanism<br />
-  <div class="outline-text-4" id="text-orgc3d05c5">
+  <li><a id="orgc690418"></a>Shamanism<br />
+  <div class="outline-text-4" id="text-orgc690418">
   <p>
   As I said above, "shamanism" is a word that gets used for many unalike things, but the ways of the folks who live about the North pole gave us the name, and I think it likely those ways left some mark on the ways of the Norse at least, and maybe the wider Germanish world. The books below are all by Raven Kaldera and/or Galina Krasskova, and they have a way of looking at things that is rather unlike other folks, so take with as much salt as seems right to you.
   </p>
@@ -14451,8 +14942,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgc496ea0"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgc496ea0">
+  <li><a id="org9a8315b"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org9a8315b">
   <p>
   The Story Grid by Shawn Coyne
   </p>
@@ -14489,8 +14980,8 @@
   </ul>
   </li>
 
-  <li><a id="orgf90452c"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgf90452c">
+  <li><a id="orgbb2d7e0"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgbb2d7e0">
   </div>
 
   <ul class="org-ul">
@@ -14543,8 +15034,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orga74d878"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orga74d878">
+  <li><a id="org149c08c"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org149c08c">
   </div>
 
   <ul class="org-ul">
@@ -14590,8 +15081,8 @@
   </ul>
   </li>
 
-  <li><a id="org6656af5"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org6656af5">
+  <li><a id="org56359ec"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org56359ec">
   </div>
 
   <ul class="org-ul">
@@ -14628,8 +15119,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgda83cc4"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgda83cc4">
+  <li><a id="org3b0e0e4"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org3b0e0e4">
   </div>
 
   <ul class="org-ul">
@@ -14675,8 +15166,8 @@
   </ul>
   </li>
 
-  <li><a id="orgf8cf39d"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgf8cf39d">
+  <li><a id="org9c96d7c"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org9c96d7c">
   </div>
 
   <ul class="org-ul">
@@ -14721,8 +15212,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org2a185d2"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org2a185d2">
+  <li><a id="org46720b1"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org46720b1">
   </div>
 
   <ul class="org-ul">
@@ -14760,8 +15251,8 @@
   </ul>
   </li>
 
-  <li><a id="orgb313e18"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgb313e18">
+  <li><a id="org2d0132e"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org2d0132e">
   </div>
 
   <ul class="org-ul">
@@ -14798,8 +15289,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org6a72ca2"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org6a72ca2">
+  <li><a id="org7c35fc0"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org7c35fc0">
   </div>
 
   <ul class="org-ul">
@@ -14845,8 +15336,8 @@
   </ul>
   </li>
 
-  <li><a id="org86f87f5"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org86f87f5">
+  <li><a id="org32b4d98"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org32b4d98">
   </div>
 
   <ul class="org-ul">
@@ -14891,8 +15382,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org0efb903"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org0efb903">
+  <li><a id="orgbb6b59f"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgbb6b59f">
   </div>
 
   <ul class="org-ul">
@@ -14930,8 +15421,8 @@
   </ul>
   </li>
 
-  <li><a id="org704e192"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org704e192">
+  <li><a id="org5215817"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org5215817">
   </div>
 
   <ul class="org-ul">
@@ -16160,8 +16651,8 @@
   </div>
   </li>
 
-  <li><a id="orgbc3710d"></a>The Poetic Edda<br />
-  <div class="outline-text-3" id="text-orgbc3710d">
+  <li><a id="orga4c045f"></a>The Poetic Edda<br />
+  <div class="outline-text-3" id="text-orga4c045f">
   <p>
   <b>By Unknown, but I like the Hollander and Crawford translations</b>
   </p>
