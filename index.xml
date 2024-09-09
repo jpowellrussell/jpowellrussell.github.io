@@ -14,8 +14,8 @@
   <link></link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Thu, 22 Aug 2024 15:40:51 -0500</pubDate>
-  <lastBuildDate>Thu, 22 Aug 2024 15:40:51 -0500</lastBuildDate>
+  <pubDate>Sun, 08 Sep 2024 22:54:52 -0500</pubDate>
+  <lastBuildDate>Sun, 08 Sep 2024 22:54:52 -0500</lastBuildDate>
   <generator>Emacs 29.0 Org-mode 9.7-pre</generator>
   <webMaster>jeff.powell.russell@gmail.com (Jeff Russell)</webMaster>
   <image>
@@ -25,612 +25,105 @@
   </image>
 
   <item>
-    <title>What Are the Gods and How Do We Come to Know Them?</title>
-    <link>./#what_are_the_gods_and_how_do_we_come_to_know_them</link>
+    <title>[Book] Thoughts on The Idea of the Holy</title>
+    <link>./#book_thoughts_on_the_idea_of_the_holy</link>
     <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
-    <guid isPermaLink="false">./#what_are_the_gods_and_how_do_we_come_to_know_them</guid>
-    <pubDate>Thu, 22 Aug 2024 15:28:00 -0500</pubDate>
+    <guid isPermaLink="false">./#book_thoughts_on_the_idea_of_the_holy</guid>
+    <pubDate>Sun, 08 Sep 2024 22:51:00 -0500</pubDate>
     <category><![CDATA[rss]]></category>
     <description><![CDATA[<p>
-    <b>Date</b>: 2024-August-22<br />
+    <b>Date</b>: 2024-September-08<br />
     <b>Subscribe</b>: <a href="mailto:jeff.powell.russell@gmail.com?subject=Add%20me%20to%20the%20Webstead%20mailing%20list">Add me to the mailing list</a><br />
-    <b>Permalink</b>: <a href="#what_are_the_gods_and_how_do_we_come_to_know_them">Link to this Post</a>
+    <b>Permalink</b>: <a href="#book_thoughts_on_the_idea_of_the_holy">Link to this Post</a>
     </p>
 
     <p>
-    So, one of the reasons I wanted to write <a href="#a_beginner_s_manual_of_the_planes">A (Beginner's) Manual of the Planes</a> is
-    that I needed to have a clear framework of my current conception of the Planes
-    of Being to talk about something else that I'm working through: just what are
-    the Gods and how do we understand our experience of Them? In thinking this
-    through, I've realized that this question touches on a lot of very fundamental
-    questions of thought, the world, and our experience of it. Even more so than
-    that last post, where I was sharing an existing framework that I have found
-    helpful but am still learning, this post shares a work in progress. I'm still
-    <a href="#how_i_came_to_believe_what_i_do">pretty new</a> to this whole "taking religion seriously" thing, and I've found that
-    just accepting the answers of existing traditions doesn't quite work for me
-    (quite possibly a problem with me), so I'm left in the position of an explorer
-    in mostly uncharted territory. I suspect I'm not the only one who finds myself
-    washed up on a strange shore, looking into the jungle before me and wondering
-    how to find a way through, so hopefully sharing some of my attempts to blaze a
-    trail can be helpful.
+    At this point, I can't remember what put <i>The Idea of the Holy</i> by Rudolf Otto on my "to read" list, but I'm glad I got to it. It's a pretty quick read, it's a building block for a lot of later work (I get the impression Eliade especially draws on its thoughts), and it's actually very readable, whether due to the original German prose or the expertise of the translator (John W. Harvey, who worked closely with Otto to put together the English version), I can't say. Otto, like <a href="#understanding_spengler_s_decline_of_the_west_bit_1">Spengler</a>, seems to have been one of those products of turn-of-the-20th-century Germany who showed much of the best of the <a href="https://luctalks.substack.com/p/the-german-soul">German soul</a> - widely read, analytical, but with a sense for and appreciation of the subjective and qualitative. As I'll go over in a bit more detail at the end, I'd say this book is well worth reading if you're interested in understanding what religion is and how it works, maybe slightly less so if you're laser-focused on practice, but with a few helpful insights there nonetheless.
     </p>
 
     <ul class="org-ul">
-    <li><a id="org12f0b38"></a>The Challenge of Definition<br />
-    <div class="outline-text-3" id="text-org12f0b38">
+    <li><a id="orgeb7d7a3"></a>The Mysterium Tremendum, Numen, and Numinous<br />
+    <div class="outline-text-3" id="text-orgeb7d7a3">
     <p>
-    Our first hurdle is that without embracing a complete, coherent system of
-    thought and belief, we don't have a ready definition of what a "God" even is.
-    Hell, even my language there points to a fundamental problem - is there <i>a</i> God,
-    or are there <i>lots</i> of Gods? Not an insignificant question in the history of
-    religious inquiry. For now, I tend to like something very much like John Michael
-    Greer's definition from <i>A World Full of Gods</i>: a "God" is a being that is
-    worshiped by humans. I might add the further qualifier that those worshipers
-    report having religious experiences of that being, as a way to distinguish
-    between real and pro forma worship (an example to clarify what I mean: if every
-    single Roman citizen required to give worship to the Emperor thought "I'm just
-    lighting this incense and pouring this wine to avoid problems with the
-    authorities," should we consider that emperor a God?). The sharp-eyed among you
-    might have noticed some fuzziness already in my use of the term "religious
-    experiences" - just what the heck are those, anyway? William James, Rudolf Otto,
-    Mircea Eliade, and others have given us some idea here, but we're necessarily
-    dealing with something a bit fuzzy, since we're getting into subjective
-    experience and self-reporting. The waters are further muddied by the fact that a
-    single man might report a religious experience at one point in his life, and
-    then later on look back and say "naw, I don't think it really was after all" -
-    picture a hippy regretful of all of the acid trips that seemed so freighted with
-    meaning at the time. Still, it is very nearly a human universal that folks
-    experience <i>something</i> that inspires behavior we recognize as worship, and go on
-    to do just that. All that being said, as a jumping off point, let's take a look
-    at some of the ways folks have tried to define Gods and worship to see what kind
-    of insights these might offer.
+    The beating heart of this book, and the reason that it has remained central to the field of religious studies for over a century is Otto's identification and naming of the concept of the <i>Mysterium Tremendum</i>, and that which engenders that experience as the <i>Numen</i>, which can be described as "numinous." If you've read anything in the field, it might surprise you to learn that these terms are so relatively new. I know it did me. On the other hand, if these terms are new to you, let me break them down. Otto contends that religion is not <i>merely</i> about logically-arguable propositions or developed theology, but instead an essential component is direct experience of something other, something <i>weird</i> - the <i>Mysterium Tremendum</i> or "Tremendous Mystery." Something that folks can feel very deeply, but not fully understand or describe. He goes on to say that whatever it is that produces this response is the <i>numen</i>, a Latin word that meant something like the power and/or mind of a divine being, the special something that a God has that lesser beings lack. The adjectival form of this word is "numinous." So, to put all of this together: when a man encounters the numen, that encounter is numinous, and the feeling he experiences is the <i>Mysterium Tremendum</i>. Are we good on these terms? Good, because they'll be coming up a lot throughout this review and in later posts.
+    </p>
+
+    <p>
+    Otto touches on a few interesting things in discussing this facet of religious experience. For one, he points out that some English words better convey it than his native German (which is especially interesting to encounter in an English translation) - take the word "awfulness." As you may or may not have reflected on, the original meaning of "awful" is "full of awe," though, of course, these days we use it to mean "very bad." How did we get there? Well, imagine sitting on a surfboard looking up at a monster wave looming over you, or standing at the top of a sheer cliff with nothing between you and a few seconds of regret before a hard landing but whistling wind. Such immensity inspires awe, but it is also <i>dangerous</i>, which we usually see as a bad thing. Over time, the danger came to be emphasized over the awe, and so now awful just means "pretty bad." Otto's point is that this original mixed response to something utterly beyond us pretty well captures what a raw, untaught response to the numen feels like - a sense of something <i>big</i> and thus worthy of respect, but also wariness. Many other instances he cites as less refined experiences of the numinous have an element of fear - the creepiness of a ghost story, the thrill of overlooking a canyon, that kind of thing.
+    </p>
+
+    <p>
+    Another of Otto's points I found especially interesting is how he distinguishes this religious experience from the merely subjective. He talks about how the experience of the numinous is felt as an encounter with something obviously separate, and obviously <i>there</i> - something objective, not merely subjective. This jives with my own experiences so far. A religious experience doesn't feel like "just" a feeling, it feels like an encounter with something else, which produces certain feelings. This is one of those things where Otto's sensitivity to the kinds of things empirical materialist rationalism tends to ignore shines through, I think to his credit.
     </p>
     </div>
     </li>
 
-    <li><a id="org9097ab5"></a>It's All Hokum and Fairy Tales<br />
-    <div class="outline-text-3" id="text-org9097ab5">
+    <li><a id="org0527109"></a>The Rational and the Non-Rational<br />
+    <div class="outline-text-3" id="text-org0527109">
     <p>
-    Starting with the most grounded, and dismissive, take, there are and have been
-    plenty of folks who flat out don't believe in Gods at all. For a time, I counted
-    myself among them. Many of these folks have never had a religious experience of
-    their own, and those who have dismiss it as some kind of misfiring or error of
-    the equipment we have to make sense of the material world. One typical argument
-    goes something like "humans are predisposed both to seek causes behind things
-    and to interact socially with other humans. These predispositions combine to see
-    anthropomorphized beings behind what we cannot otherwise explain. As our ability
-    to explain the world has expanded, the room for invisible hands steering those
-    things has shrunk, and it's purely superstition and inertia based on these
-    inherent predispositions that keeps some folks insisting that there is any such
-    thing." The chief benefit of this explanation is that it doesn't rely on
-    anything out of our experience that we can't compare with the experiences of
-    others, and it's explainable through our currently accepted tools or
-    understanding the world. Neurology, psychology, anthropology, even history and
-    politics, can all perfectly well inform our understanding of religion under this
-    model. Any discussion can be grounded in ways readily explainable to just about
-    anyone with a functioning nervous system and normal sensory experience. Many
-    folks are (or claim to be) wholly satisfied with this explanation, and it's
-    certainly in keeping with the zeitgeist. You won't get kicked out of any parties
-    or passed over for promotion for holding to this way of seeing the "Gods." The
-    only problem is that while it might <i>explain</i> the craving for religion and
-    experience of the Gods, it doesn't do anything to satisfy that craving, and
-    leaves you in the unenviable position of trying to recreate a basis for meaning
-    and value without any recourse to the transcendent, a project that's had its
-    challenges at least since Nietzsche laid out the problem.
+    Speaking of Otto taking seriously those things that rationalism tends to miss, a central thread running through the book is the importance of <i>both</i> the rational and the non-rational in developed religions. He has a lovely metaphor for this: the rational is the warp of religion, and the non-rational the weft, woven together into a full tapestry, but each incomplete and unstable without the other. He's careful to distinguish between the <i>ir</i>-rational and the <i>non</i>-rational: whatever is irrational goes against reason and is undone by it, but some things are not properly subject to reason (love being the canonical example, of course), and these are simply non-rational. Not against reason, but merely inadequately understood by it. In the realm of religion, the heart of this non-rational field of experience is the encounter with the numinous.
+    </p>
+
+    <p>
+    The numen is something experienced as somehow "supra-mundane": Otto uses the word "supernatural" to convey that it is qualitatively different from meeting something awe-inspiring, but wholly understandable in material terms (like a majestic mountain or an apex predator), but I prefer to avoid that term about spiritual things, because I don't believe that Gods, spirits, magic, and all the rest are "beyond" "nature." Rather, they are parts of nature far beyond our mundane experience, in part because they partake of <a href="https://jpowellrussell.com/#a_beginner_s_manual_of_the_planes">other planes of being</a> than the more familiar material. Because these decidedly non-ordinary experiences are outside of what our senses and reason can confidently handle, we have trouble explaining them, giving them an "ineffable" quality. In this way, such experiences are somewhat akin to subjective judgments like sublimity or beauty, but are still distinctly something else. One set of metaphors you encounter over and over again in attempted descriptions of the numinous is a quality of "void" or "emptiness." Otto had what I considered a very worthwhile insight here, which I think came from the sensitivity to qualitative factors over slavish devotion to the rational that I've been praising throughout. When you consider the <i>objective</i> quality of the numinous mentioned above, then it's obviously nonsensical to consider the "void" to mean actual, literal "nothing." Instead, it's an attempt to describe the utter lack of the familiar, a loss of presence or significance of all of the mundane perceptions and concerns that usually so occupy us. I rather liked this, as it helps me put a lot of spiritual writings I've always found somewhat off-putting, like much of Buddhist and Taoist teachings, in a wholly different light, whereas before I'd always picked up a sense of nihilism from my potentially naive reading of terms like "void."
+    </p>
+
+    <p>
+    One of the reasons Otto insisted on cooking up a new terminology, and that everyone since has found it useful, is that words like "sacred" and "holy" (despite the name of the book) have become less helpful due to acquiring connotations that cloud the perception of the core idea. Specifically, these words have come to have moral weight in addition to describing the sense of the "other" and "mighty" that the numinous imparts. Otto tries to deal with the complexity of this, and has some good insights, but this was one area where I felt his own religious beliefs intruded on clear-eyed analysis (more on this in a moment). Basically, he highlights the fact that many, maybe even most, experiences of the numinous include a sense of <i>at least</i> desirability, if not outright goodness. Something about an encounter with the numinous makes folks (at least, some folks) want more of it, to the point that some end up devoting their whole lives to it (monks, mystics, and the like). Coming at it the other way, the <i>immensity</i> of the numinous can also often instill feelings of smallness, inadequacy, or even unworthiness. Often, the nearest experience that folks who have encounters like this can compare to is that of being unclean in the midst of something pure. The reason I think Otto's religious beliefs overly-color his discussion of this point is that, as a Christian, he believes that all experiences of the numinous are experiences of the font of all goodness, or maybe even of Goodness itself, and that the feelings of unworthiness or uncleanness are appropriate due to mankind's fallen nature. Not all religions share these doctrinal positions, and looking at some others can make sense of them in other ways.
+    </p>
+
+    <p>
+    For one, the fact that some numinous experiences are attractive and others are quite the opposite might instead be explained by encountering the numen of different beings, some beneficent, others not. For another, feelings of unworthiness or uncleanness before such beings might not be due to some intrinsic flaw, but rather due to a condition or exposure to some unclean "substance," what was known to the ancient Greeks as <i>miasma</i>. If you're not familiar, the Greeks believed that certain activities, or being around certain things, left you spiritually "dirty," not due to moral judgment, but rather in the same way that if you trudge down a muddy road, you're going to be dirty, however good or necessary your reason for walking that road. Miasma came/comes from things like handling dead bodies, having sex, or contact with blood. If you're at all familiar with occult philosophy, you might notice that many (all?) of the things said to leave you with miasma expose you to etheric energy, often in some kind of unhealthy manifestation. Dead bodies have the lingering scraps of the etheric body of the once living being for a time, sex is one of the more intense exchanges of etheric energy available to living beings, and blood is powerfully infused with etheric energy as the material vehicle of the life force within a body, but once it is outside of a body, it's not part of a healthy, functioning system anymore. You find similar thoughts on ritual purity amongst many religions, ancient and modern (see especially Shinto), and maybe that's not only an unsophisticated kind of health science, but instead a genuine insight into spiritual dynamics. This an area I haven't studied as much as I'd like, and I'm not (yet) sensitive enough to make especially precise observations of my own. All of which is to say, I think this is a potentially fruitful area for research.
     </p>
     </div>
     </li>
 
-    <li><a id="org5113448"></a>The Deep Mind is Mysterious and It's Not Empty<br />
-    <div class="outline-text-3" id="text-org5113448">
+    <li><a id="org9343ef1"></a>Personal Spiritual Experience against Doctrine<br />
+    <div class="outline-text-3" id="text-org9343ef1">
     <p>
-    Some folks seek a way to sate this craving without abandoning the seemingly
-    solid basis of material epistemology, leading them to <a href="http://www.catb.org/~esr/writings/dancing.html">engage in religious
-    experience while believing it is "all in your head"</a>. Again, I have a certain
-    amount of sympathy here, because <a href="#building_a_mystery">I've been in this boat as well</a>. These folks use
-    depth psychology, usually of a Jungian flavor, to both explain what's going on
-    and as a guide on what to do. The argument here goes something like "sure, our
-    propensities to religious experience are materially grounded, but that doesn't
-    make them mistaken. Religion is a toolkit of means for engaging with the
-    non-rational parts of our self, including the titanic forces buried way down
-    deep in our mind that are shared among folks. Since they're common to all
-    humans, they're bigger than any one of us." Under this model, any given God is a
-    pattern of thoughts, feelings, and experiences important and general enough that
-    just about anyone can tap into them, especially with the right cultural
-    "programming," through the use of symbol and ritual. "Jupiter" may not be a
-    literal guy who lives in the sky and turns into various animals to impregnate
-    human women, but is instead a particular collection of patterns of thought and
-    meaning constellated around the "wise (and/or horny) king" archetype, and His
-    various myths should be seen as symbolic tales meant to give us some
-    understanding of <a href="#jordan_peterson_s_framework_for_myth">those patterns</a> through non-obvious means. Rituals in honor of
-    this figure can help you to tap into the parts of your mind that might manifest
-    as a beneficent, generous king, and thus bring the benefits of that way of being
-    into your life. Say a weekly prayer to Jupiter on Thursdays (<i>Dies Jovis</i> - the
-    Day of Jove/Jupiter), and you will find it easier to act like a mighty, generous
-    king, and more of the benefits such a person might expect will come into your
-    life. You might even experience this figure as "separate" from yourself, to the
-    point of having mental images or conversations with Him, and He might through
-    these give you guidance. That's just the user interface for the subconscious,
-    taking advantage of those predispositions toward human social interaction we
-    mentioned above. I think there's a lot of truth here, and a lot to recommend
-    this method of understanding. We <i>do</i> have an outsized amount of our mind devoted
-    to understanding and modeling other people. We <i>do</i> have patterns of behavior,
-    thought, and feeling buried way down deep that can be called up through
-    non-obvious means, and many of the benefits of calling them up likely do
-    manifest as changes in your own understanding and ways of being (easy example:
-    you start acting more generously, using Jupiter as a model, and more people like
-    and respect you). The trouble is, if you're much like me, you can try this
-    approach and find yourself <a href="#you_may_not_be_able_to_make_pascals_wager">unable to get past</a> the knowledge that you're <i>faking
-    it</i>. Talking to yourself. Playing pretend. <a href="#further_thoughts_on_religious_authenticity">LARPing</a>. If you have that experience,
-    as I did, while still craving religious satisfaction, you might go looking
-    elsewhere.
+    All of the above ties into another thread running through this book, the necessity of personal spiritual experience to a rich and full religious life. Doctrine alone won't get you there. If you've read <a href="#how_i_came_to_believe_what_i_do">anything else I've written on religion</a>, you'll know that I'm big on gnosis. As a quick recap, gnosis is the kind of knowledge gained by personal experience that can't be conveyed conceptually. "Faith-knowledge," as Otto aptly calls spiritual gnosis, is simply not the same as "sense-knowledge," and so the same kinds of empirical observation that are so useful to building scientific knowledge just don't do the job for building religious knowledge. John Michael Greer gave a great example of gnosis in a <a href="https://www.ecosophia.net/the-nibelungs-ring-5-the-early-philosophy/#comment-122368">response to a comment on a recent post</a> - imagine someone shows you a spread of photographs and asks you to pick out the picture of your mother. How do you know which one is the right one? Even if you are a master physiognomist, describing every detail of bone structure, collagen distribution, and subtle variation in pigmentation, that's not <i>how</i> you recognize her. You <i>just know</i>. That's gnosis. As such, <a href="https://www.youtube.com/watch?v=qedAzTA8nY8">no one can tell you what the \[numinous\] is, you have to see it for yourself</a>.
+    </p>
+
+    <p>
+    Historically, the dedicated way of "seeing" the numinous for yourself has been mysticism. For some reason, Otto is kind of down on mysticism as somehow too excessive. I suspect this is mostly his Lutheran tastes coming through (again more on that in a tick), but he seems to see mysticism as paying too much attention to the weft of the non-rational, and not enough to the warp of the rational in religion. Almost certainly, some mystics go too far, or at least it sure looks that way from the outside, and given men's ability to overdo things in every other human endeavor, it sure seems likely that it happens here too. Anyway, I think he's a bit <i>too</i> dismissive, even if the point that we should take the reports of mystics with some amount of salt seems reasonable to me.
+    </p>
+
+    <p>
+    For the faculty of noticing and experiencing the numinous, Otto uses the term "divination" (which, as student of occult practice, is somewhat confusing to me - where are the cards or lots or flights of birds?). He compares this faculty to aesthetic taste (again, with the caveat that it's not <i>exactly</i> the same, but instead merely of a similar kind). Some folks are naturally better suited to picking up on this stuff than others, but without cultivation, they will get only the grossest and vaguest of impressions. Those who put in the time and effort can make finer distinctions and come to prefer the better sorts of manifestations of the numinous. Here's another place where I largely agree with Otto, but feel like his preferences tilt him a bit off of true. Yes, training and experience lead to making worthwhile distinctions between various experiences and manifestations of the numinous, but he's a bit more dismissive of those experiences that don't accord with Christian doctrine than I think is helpful.
     </p>
     </div>
     </li>
 
-    <li><a id="orge8d99f7"></a>The Gods Are a Shared Creation<br />
-    <div class="outline-text-3" id="text-orge8d99f7">
+    <li><a id="orgad43b4a"></a>A Bit of Christian Self-Satisfaction<br />
+    <div class="outline-text-3" id="text-orgad43b4a">
     <p>
-    One step beyond "it's all archetypes and subconscious patterns in your own mind"
-    is the idea that the Gods are somehow <i>emergent</i> phenomena. Depending on just how
-    materialist you roll, this can have a lot of overlap with the prior way of
-    understanding Gods and religion. The wholly material explanation is that these
-    Gods are not made up by any one person, but the understanding of Them and Their
-    manifestations ground out in the material world in individual brains and the
-    communication between them - myths, practices, and the beliefs they shape. These
-    shared understandings undergo a <a href="https://barsoom.substack.com/p/the-reenchantment-of-the-world">mimetic evolution</a> of sorts, where the stuff that
-    resonates or "works" gets spread, while that that doesn't gets forgotten. This
-    is pretty close to what Jordan Peterson was saying back when I last was paying
-    much attention. A lot of rationalists and post-rationalists have become <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">enamored</a>
-    of the formerly occult-only concept of the "egregore," a manifestation of
-    collective action and incentives that seems to have a life of its own, but (if
-    you're a rationalist, rather than an occultist) can be explained at the
-    individual level - the way a flock of birds can be made up of individual birds
-    each making relatively simple decisions ("turn right when the bird to my left
-    gets too close" and the like) and end up moving as if one big organism. If
-    you're willing to leave materialism behind a bit, you can come closer to the
-    occult understanding of egregores and believe that collective belief, thought,
-    and action can create <i>something</i> on the Astral Plane, and that something can
-    start to act somewhat independently. So, an occult, but non-theistic,
-    understanding of Gods would say that they are co-creations of large groups of
-    folks, with independent existence, but only so long and to the extent that they
-    are reinforced by belief and action by humans. I'm not totally sure, but this
-    seems to be what Shani Oates is getting at with "God-forms" in <a href="#thoughts_on_the_hanged_god">her</a> <a href="#book_in_search_of_odhinn">books</a>. The
-    key difference between this model and the previous is the idea that you can't
-    just "make it up yourself." Under the archetypes and depth psychology model,
-    theoretically you should be able to have full and satisfying religious
-    experiences with any sufficiently crafted symbol or ritual. Under this model,
-    only those models that have some "life" to them, whether a seeming life borne of
-    socio-cultural reinforcement, or a more substantial artificial life in the shape
-    of an astral construct charged with the emotional energy of many folks, will
-    respond when you try to perform rituals or worship. Joining a currently active
-    church or coven or whatever ought to get you better results than trying to
-    worship Osiris with a translation of <i>The Book of the Dead</i> open in your hands,
-    much less performing a ritual you made up in honor of Batman or Zardoz or one of
-    Tolkien's Valar. Once again, I think there's <i>something</i> here that's right, but I
-    take issue with it as the <i>whole</i> explanation. Keep that in mind for my proposed
-    model later on.
+    So, as I've mentioned a few times now, Otto was a Christian, and apparently earnest in his belief. On the plus side, he takes religion seriously in a way that "outside" observers like anthropologists or historians of religion often don't, but on the minus, his particular beliefs lead him to dismiss explanations for what he discusses that fall outside of what he accepts as orthodoxy. A Christian acquaintance pointed out that earnestly believing Christians <i>have</i> to take such an attitude, but that's kind of my whole point. Most polytheists can better accept ambiguity and uncertainty on some of these points, because their beliefs don't require the same kind of certainty in which experiences are correct, and which mistaken. Otto also demonstrates some of the cultural chauvinism you'd expect from an educated European of the early 20th century, pooh-poohing "primitive" religions and practices, calling out things like animism, ancestor worship, and magic as more-or-less mistaken responses to or interpretations of the spiritual Truth. Overall, though, this defect is much more mild than amongst some of his contemporaries, and he's remarkably fair-minded in recognizing pieces of beauty or truth in traditions he believes to be ultimately mistaken on fundamental questions. One example that shows both side of this coin is his discussion of "redemption:" on the one hand, he recognizes and commends teachings on redemption in religions other than Christianity, but on the other, he asserts that religions that lack this orientation don't qualify as "truly great." If you don't believe that men are fundamentally broken and in need of saving, you might feel otherwise.
     </p>
     </div>
     </li>
 
-    <li><a id="org046c3f1"></a>The Gods are Many<br />
-    <div class="outline-text-3" id="text-org046c3f1">
+    <li><a id="org668163f"></a>Not As Much How-To as I Might Have Wanted<br />
+    <div class="outline-text-3" id="text-org668163f">
     <p>
-    Here, we come to the belief that has held for most folks in most times - there
-    are many Gods, of many kinds and ways, and some of us may worship some of Them
-    more than others, depending on where we're from, what we do, and what
-    experiences we have. That grove over there? It has its own holy presence. This
-    stone? Another. The great sea? Still another. Law? Again, another. Kingship? Yet
-    another still. Gods for every thing, way of being, and institution in the world,
-    and maybe more beyond that. This belief has much to recommend it. Folks have all
-    kinds of religious experiences in all kinds of steads under all kinds of
-    circumstances - why wouldn't each of those have its own God behind it, unless
-    there's some reason to think it was the same One? Also, as I said above, this
-    seems to be the default interpretation of folks everywhere, which some would say
-    is an argument from popularity, but over thousands of years and across the whole
-    earth, they just might be on to something. Polytheism is inherently bendsome and
-    open-ended: there might be a handful of Gods or millions of Them, maybe
-    depending on what you call a "God" rather than a spirit, angel, or other
-    incorporeal being (and to call back to our definition, on whether or not anyone
-    gives that being worship). Further, how you count the Gods might be influenced
-    by the lack of certainty we've been going through on whether these beings exist,
-    if different experiences were of the same or different beings and how to tell,
-    or whether Their numbers might change over time (we have tales of Gods having
-    children, are They still?). Spoiler alert, this is the position I've come to
-    find most likely and upon which I base my practice (more on that below). The
-    chief troubles with this belief are that it's <i>complicated</i> and that many
-    religious experiences, especially of the more "mystical" variety (as in, those
-    experienced by mystics), speak to some kind of unity between beings that can be
-    hard to reconcile with many Gods without some philosophical hoop-jumping.
+    As much as I liked this book, for my own idiosyncratic purposes, it lacked some things I'd have liked to see. Specifically, okay, experiencing the numinous is an important part of authentic, living religion, so how do I <i>do</i> that? This book was written more for the understanding and documentation of religion than for its <i>practice</i>, which is ultimately what I'm after. That being said, there are a few thrusts in this direction. For one, the insight that both second and third person prayers are valuable - the one fostering a personal connection with the divine, the other acknowledging that numinous beings aren't just some guys. He also devotes an appendix to the value of silent worship, helpfully delineating the different flavors - sacramental silence, which is what happens when you fall silent before something immense, waiting silence, which is where you shut up and pay attention to what the divine might be trying to convey, and the silence of communion, which is where you fall silent because you are focused on coming together with the divine. He gives examples of each, and I think this bit will come in handy for coming up with approaches to prayer and ritual.
     </p>
     </div>
     </li>
 
-    <li><a id="orgb9e4528"></a>There Are Two, and Only Two Gods<br />
-    <div class="outline-text-3" id="text-orgb9e4528">
+    <li><a id="orgb8fc70b"></a>Worth Reading to Better Understand the Field<br />
+    <div class="outline-text-3" id="text-orgb8fc70b">
     <p>
-    One belief that might be included in "the Gods are many," but feels worth
-    calling out on its own due to its historical importance, is the that there are
-    exactly two Gods. This comes in two main flavors that I know of: there is a good
-    God and a bad God, or there is a male God and a female Goddess. The former is
-    usually called "dualism" and is what was/is believed by Zoroastrians and the
-    latter is best known these days as what Wiccans and their offshoots believe. In
-    both, there is the belief that there is some kind of duality or polarity that is
-    <i>so</i> fundamental that it goes right to the very bottom of all that is - Good is
-    purely good and absolute in itself, but so is Evil. Or else the polarity between
-    "masculine" and "feminine" is a deeply intrinsic facet of being, again,
-    fundamental and not to be mingled. This belief neatly sidesteps some of the
-    traditional troubles with monotheism (more on this below), like "why is there
-    evil in the world?" or "how did we get all of this variety we experience out of
-    the source(s) of all things?" It also appeals to a deeply and widely felt
-    intuition of the importance of opposite and (usually) balanced forces that might
-    be static on their own, but are alive and moving when put together. There's a
-    certain logical appeal to it, though once you get to "there's definitely two
-    forces/beings from which all things spring," the obvious next question is "but
-    from whence do these spring?" Which brings us to the elephant in the room when
-    it comes to theological discussions in today's world: monotheism.
+    As I said up top, overall, I think this book is well worth reading for those interested in the study of religion, especially if your interest extends to the study of religion as a field (as opposed to just wanting to study religion yourself to deepen your practice). If you're more interested in the brass tacks of practice, you might find even this quick and well-written read less helpful. Otto spells out that the encounter with something vast, mighty, and uncanny is core to a living religion that doesn't want to become dry and sterile, and gives some helpful terminology to help our rational minds and discourse grapple with this fundamentally non-rational experience. So, it strikes me that perhaps some of the value of this book is beyond the terminology, arguments, examples, and other accoutrements of rational inquiry, and instead lies in immersing yourself for a time in the thoughts and feelings of someone else who has had that encounter and tried to come back and tell the rest of us something about it. Like all other such explorers of those mysterious lands, his reports may fail to convey what it's like to truly be there, but unlike most, he brought back one heck of a map.
     </p>
     </div>
     </li>
 
-    <li><a id="org8e533cc"></a>There Is But One God<br />
-    <div class="outline-text-3" id="text-org8e533cc">
-    <p>
-    Lastly, we come to the position most familiar to the religions of today's
-    Western world: there is only one God (definitely with a capital 'G,' though you
-    may have noticed that I extend this courtesy to the many Gods I believe there to
-    be). Under this belief, all of the experience of "the holy," however unalike
-    they may seem, wherever they may happen, and whatever may be going on when they
-    happen, are actually of the same God. Weeping, shivering acknowledgment of your
-    smallness in the face of the universe? God. Singing, shaking, electric ecstasy?
-    God. Sublime brotherhood with all of mankind, or even all living things? God.
-    This belief appeals to the kind of logic that a belief in two Gods stops just
-    short of: if there is something divine, however multifarious our experience of
-    it, mustn't it all come from somewhere? And mustn't that somewhere be a single
-    thing, ultimately? Monotheists say this must be so, and if it is, that one
-    "thing" or somewhere must be a sole God - perfect, undivided, and whole. For all
-    of the exploration of this line of thinking, including its pitfalls and how they
-    might be addressed, I direct you to the entire tradition of Western theology, at
-    least since Judaism, but some would say beginning with Plato and the Greeks. Of
-    course, there are some problems here. Why <i>is</i> there evil in the world? Even if
-    ultimately all of the divine flows from one source, is it right to call this
-    source "God?" Is it a "person" or "being" or something more impersonal, like a
-    force? What do we make of very different religious experiences across time and
-    space? Many of the traditional attacks on theism are, in fact, attacks on
-    monotheism, highlighting the logical flaws in the attempts to address these
-    pitfalls that have come about over the years.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="orgc177640"></a>Where Does That Leave Us?<br />
-    <div class="outline-text-3" id="text-orgc177640">
-    <p>
-    So, each of these positions has things to recommend it, and problems it has
-    trouble addressing. Strict materialism may seem to accord with what we've been
-    able to learn from science, but it leaves many feeling a keen lack deep enough
-    that it seems willfully perverse to assume the lack is <i>right</i> and and a way of
-    being that makes life better and more meaningful in every way is an unfortunate
-    <i>error</i>, a bug in the programming. Conceptions of the Gods as creations of mankind
-    allow for the great variety of religious experience and the felt power of what
-    we take to be Gods, but stumble over the seeming agency and insight of these
-    supposed empty shells. A belief in many Gods easily handles why religious
-    experiences are so different, but struggles with the most fundamental questions
-    of where it all comes from and the feeling of unity and connectedness found in
-    many religious experiences. Two Gods answers where the apparent opposites in
-    life come from, but why only two? And lastly, a single God answers for the
-    universality of religious beliefs and the commonalities between them, but if
-    there is truly but one God, why do we get up to so many <i>different</i> weird things
-    when we worship and seem to experience Him, and why is the world so messy and so
-    often hurtful?
-    </p>
-
-    <p>
-    Another wrinkle in evaluating these beliefs is that these positions differ in
-    how much weight they put on orthdoxy, the correctness of beliefs. They form a
-    bit of a horseshoe - materialism says that opinions ought to converge due to the
-    provably correct observations of constant natural laws, and monotheism says that
-    opinions should converge because they all ultimately come from the same source.
-    In both cases, differing opinions must necessarily be <i>wrong</i> in some important
-    way - either by being mistaken or by willfully choosing the wrong thing
-    (consider a Christian that believes Muslims are simply missing some important
-    details about their belief in a single God versus those who think they have been
-    duped by the devil, or a materialist who thinks religionists are simply
-    superstitious fools versus one who thinks it's an intentional scam to keep
-    others down or pick their pockets). Religions that believe in two Gods have a
-    very similar tendency, but perhaps with more room for variation in valid beliefs
-    and practices - Wiccans are fine with folks worshiping either Diana or Freyja,
-    they just think both are different masks for the same ultimate Goddess. On the
-    other hand, those who believe that the Gods are manifestations of the
-    unconscious, co-creations of groups of folks, or that there really are lots of
-    Gods, tend to accept variability in beliefs as a matter of course - <i>your</i> local
-    God is obviously different from mine, so why wouldn't He have different
-    characteristics, expectations, and forms of worship? This wrinkle matters less
-    for the actual truth of these beliefs and more for our ability to investigate
-    that question - if you start from a premise of what <i>must</i> be right, you'll have a
-    hard time acknowledging contradictory evidence. Coming at it the other way,
-    strict orthodoxy makes your beliefs more <i>fragile</i> to arguments about why they are
-    wrong. If you believe that God is all-knowing, all-powerful, and all-good,
-    questions like free will and the problem of evil become very thorny. On the
-    other hand, if you remove even one of these famous premises, it's harder to
-    craft a logical argument about why such a God can't be real.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org14cd9d9"></a>My Own Experiences and Reading<br />
-    <div class="outline-text-3" id="text-org14cd9d9">
-    <p>
-    In my own explorations of this topic, I've hit most of these stops. As I've
-    <a href="#how_i_came_to_believe_what_i_do">talked about in more detail before</a>, I grew up as a fairly indifferent Christian,
-    read <i>Mere Christianity</i> in college, which led me to take that a bit more
-    seriously for a while, and then slowly drifted into indifferent agnosticism and
-    on into harder-edged materialist atheism. While an atheist, I took a shot at
-    pursuing "spiritual" practice on the model that it was an effective way of
-    interacting with the subconscious and the forces to be found there, but I didn't
-    find it particularly satisfying and ended up dropping it. The single book that
-    has had the biggest impact on my current thinking about these things was John
-    Michael Greer's <i>A World Full of Gods</i>, mentioned above. This book led me to take
-    seriously the idea that there might be lots of Gods, and it might be worth
-    trying to get in touch with some of them to find out for myself, and so I began
-    a daily spiritual practice calling upon the Germanish Gods as an experiment.
-    Sure enough, within a few weeks, I had had a <a href="#then_i_saw_her_face_now_im_a_believer">full blown religious experience</a>,
-    and I decided the experiment had been successful. Since then, I've continued to
-    have experiences that seem to be interactions with more than one genuinely
-    distinct non-corporeal being that is somehow "greater" than me, and so I call
-    them "Gods," and accept that They truly are multiple in an important way, even
-    if there might be some kind of unifying "divinity" behind them (and/or
-    everything else - the occult teachings I'm currently working with are mostly
-    Platonic in character).
-    </p>
-
-    <p>
-    Among the arguments that got me to give this experiment a try were those that
-    pointed out that most arguments against Theism are really arguments against
-    <i>mono</i>-theism, and even more specifically, against Christianity (such as most
-    traditional "Problem of Evil" arguments mentioned above), and that polytheism
-    has been the reported experience of almost every human culture ever. "Everyone
-    believes there are lots of Gods because there really are" is just as reasonable
-    a starting place as "everyone believes there are lots of Gods because we're all
-    delusional in the same ways due to the same faulty wiring," <i>unless</i> you insist
-    that material evidence is more valid than any other kind, which is itself a
-    presupposition that can't be argued logically. In the end, though, I found logic
-    and argument only got me so far. I can construct a perfectly logical explanation
-    of how my own religious experiences have been "nothing but" my imagination,
-    happening entirely within my head, the result of certain firings of neurons.
-    These explanations, though, don't account particularly well for the qualitative
-    side of these experiences. Through them I have found a sense of meaning,
-    satisfaction, and <i>goodness</i> that I have found nowhere else that seems profound
-    enough to be worth taking seriously. I've decided that even if I'm wrong, what I
-    get out of believing these things to be true seems well worth it (and I think
-    there's good enough reason to think I'm right to not assume I'm deluding myself,
-    but I won't hold it against you, dear reader, if you disagree).
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org6c56ef1"></a>Incorporating the Model of the Planes<br />
-    <div class="outline-text-3" id="text-org6c56ef1">
-    <p>
-    One of the reasons I wanted to <a href="#a_beginner_s_manual_of_the_planes">lay out the classic occult model of the planes</a>
-    before writing this post is that I think it gives us a terminology to discuss
-    what is or might be going on that is lacking when we stick to the tools of more
-    mundane exploration we've been using so far. I've talked a lot about
-    "experiences" and been vague about what that includes. If you dig into reading
-    about religious experiences, you'll hear descriptions of sights, sounds,
-    feelings, and more. Sometimes it's hard to tell if these folks are describing
-    <i>literally</i> seeing/hearing something, as if it were material and right there, or
-    if it appeared "in the mind's eye." The Planes of Being give us a helpful way of
-    discussing this. For my part, most of my religious experiences have been
-    primarily Astral in nature - they have happened "in my imagination" with much
-    the same quality as what happens when I daydream or fantasize or engage deeply
-    with a book. That being said, they don't feel <i>just</i> like those things, as my
-    earlier experimentations with "depth psychology religion" did. Some of the more
-    striking have included feelings of liveliness, energy, and tingling that I
-    assume were mainly Etheric in nature, and the prevailing sense of <i>meaning</i> that
-    makes them feel more significant than fantasizing about when I'm a rich and
-    famous writer (hah) seems likely to be a hint of the Mental or higher planes.
-    The sense of <i>otherness</i> worthy of respect seems likely to be an echo of the
-    Spiritual or higher planes. I suspect all of these are significant, but given
-    its prominence, it's the Astral part of things I want to dig into the most.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org1a3f716"></a>Putting It All Together - A Rough, Early Model of How to Conceptualize the Gods<br />
-    <div class="outline-text-3" id="text-org1a3f716">
-    <p>
-    As I said, <i>most</i> of what has gone on during the experiences I believe to have
-    been of Gods has been astral in nature - images that come to mind, feelings,
-    unprompted thoughts, and so forth. I am still learning to discern the fuzzy
-    difference between things that I "make up" and things that I "perceive"
-    astrally, but there is a difference in how it feels. Think about a time you've
-    tried to imagine something specific, vividly - maybe you're trying to draw a
-    picture and want to see it in your mind's eye before you draw it, or perhaps
-    you've tried to recreate a piece of music you heard but can't quite call to
-    mind. For me, at least, there's a clear feeling of effort, and the image or
-    sound or other sensation I am trying to reproduce will often be fuzzier than I
-    want it to be. On the other hand, now try to think of a time where you've been
-    struck by something forcibly - maybe a horrible image that popped into your mind
-    and wouldn't go away, or a song that's stuck in your head, or an emotion you
-    just can't shake. That's more what astral "perception" tends to feel like to me
-    (though in the case of the Gods, far more pleasant than any of those examples).
-    What's really striking is that sometimes I can feel it pass from one over into
-    the other - I begin by working to picture something, and then it "shifts" or
-    "takes on a life of its own" and the feeling of productive effort goes away.
-    </p>
-
-    <p>
-    Our model of the planes gives us a handy way to understand this. The astral
-    plane is a mode of experience shared by all conscious beings. Apparently, part
-    of that mode of experience, is to "come up" with things - new images, sounds,
-    nuances of feeling. Also apparently, part of that mode of experience is to "run
-    into things" - images, sounds, and so forth that just "pop into your head." So,
-    it seems that whatever the astral is "made of" (imperfect analogy, since it's
-    not material), we can both shape it and perceive shapes within it (again,
-    imperfect analogy, as I'm using "shape" for all modes of "sensory" stimulus -
-    sight, sound, feeling, emotion, and so forth). So, when we feel things are
-    effortful, we are exerting some kind of shaping influence on the astral, and
-    when they just come to us, we are encountering something that has been shaped
-    already by someone or something else. Sometimes these efforts can be shared -
-    like all of these examples I've been prompting you with. I've given you a
-    general idea, and to the degree you've played along, you've shaped or recalled
-    something in line with that idea.
-    </p>
-
-    <p>
-    I believe that this co-creation of astral phenomena is one key to understanding
-    what's going on with most experiences of Gods - co-creation both between
-    multiple humans, as well as between humans and the Gods. If I just say the name
-    "Thor," an image might come to mind, but depending on your own associations and
-    proclivities, it could be wildly variable - maybe it's a Romantic painting,
-    maybe it's your own imagining, or maybe it's Chris Hemsworth. On the other hand,
-    if I do something more to specify what I mean, I can guide you closer to what I
-    have in mind. In one sense, art is the ultimate "guiding" of this sort - I
-    literally <i>show</i> you what I had in my mind, so we can both see (almost) the same
-    thing. On the other hand, even there, it's not all one-way. If I paint a
-    beautiful depiction of a lithe, beardless young man, perfect in all of its
-    technical execution, and an exact match to what I pictured in my head before
-    putting brush to canvas, and then tell you "this is Thor," you're going to be
-    like "no, it's not." For a variety of reasons (more on some of those in a tick),
-    "Thor" <i>means</i> something, and it is <i>not</i> "lithe, beardless young man." Maybe more
-    interestingly are those depictions that are in more of a gray area. I might see
-    a painting of Thor and while it gets the essentials right (burly,
-    prime-of-his-life, beard, red hair, hammer, and so forth), and I might even <i>like</i>
-    the picture, sometimes it's just not "right" to me (here's <a href="https://ih1.redbubble.net/image.5199116893.0907/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg">one</a>, for example).
-    Here, the artist has clearly conveyed his vision, and there's a lot we'd agree
-    on, but it just doesn't <i>quite</i> feel right to me as "really" representing Thor,
-    the God who receives worship, rather than a mere fictional character. I wouldn't
-    get upset with anyone picturing this when trying to picture Thor, but I'm not
-    going to be doing so. But maybe some element of it <i>does</i> work for me - like those
-    cool bracers, which I assume are the artist's take on His iron gloves, with
-    which He catches red-hot <i>Mjolnir</i> after felling a troll somewhere. The pattern on
-    them is subtly reminiscent of a face, which is a common motif in Germanic art.
-    So, maybe if I decide to take a crack at drawing or painting Thor, I'll
-    incorporate something like that.
-    </p>
-
-    <p>
-    My current model is that this back-and-forth exchange of astral material (even
-    if instantiated in material form, like a painting or a carving, or the words on
-    a page) builds up shared (or at least partially shared) astral forms that can be
-    "perceived" rather than "made up" (though obviously this is fuzzy). So far, so
-    good, right? Well, here's where things start getting weird. Remember how I said
-    that I thought the "Gods are a Co-Creation of Mankind" line of thought was
-    somewhat right? I think that the <i>astral forms</i> of the Gods are a co-creation of
-    mankind (mostly), and that most of the time, that's as close as we get to
-    experiencing Them directly. The Gods, though, you'll remember from our
-    discussion of the planes, aren't mainly astral beings - Their true existence is
-    on higher planes that we can't access directly except perhaps in very special
-    circumstances, with Their help. Instead, They reach down to the "common ground"
-    we share on the Astral Plane. Through our art, stories, songs, and so forth, we
-    come up with particular, perceivable, <i>understandable</i> shapes to represent the
-    Gods, and in our interactions with Them, They temporarily inhabit and bring to
-    life those shapes. Lest you think I'm straying too close to "it's all made up
-    and arbitrary," though, I would point out that the Gods are Their own beings,
-    with Their own agency - almost certainly far more agency than we have. So, it's
-    not like we as a species just make things up and then call down whatever we want
-    into those things. Instead, I believe that the Gods get a say too. Sometimes
-    this might be startling and direct - I've read stories of folks who suddenly had
-    a vision (astrally) of a figure, and when they've gone and done some research,
-    that figure very clearly corresponds to the traditional depictions of a God that
-    this person had never seen or heard of before. Other times, I think it works by
-    reinforcement - no matter how many times I try to call upon Thor with an astral
-    image of a lithe, beardless young man, He's not going to show up. I'll just be
-    talking to myself and daydreaming. When I get the astral form more "right,"
-    maybe my results are better, and tweaks along the way work more consistently.
-    Repeat this process among many folks over many years, and you get standardized
-    iconography, epithets, and ritual.
-    </p>
-
-    <p>
-    One advantage of this model is that it gives a solution to the question of what
-    to make of changes to worship and belief over long stretches of time, to the
-    point where they no longer seem to be "the same" (though, admittedly, not one
-    that is as satisfyingly definite as I might like). Here's an example of what I
-    mean: the Greeks, Romans, Germans, Aryans, and maybe more (evidence is scantier
-    for the Slavs and Celts) had myths about a burly heroic God who was famous for
-    killing monsters with his magical blunt instrument. Indo-Europeanists take this
-    as pretty solid evidence that the speakers of Proto-Indo-European worshiped a
-    God with these characteristics, and their daughter cultures carried on myths and
-    worship of this figure, but those myths and worship changed and diverged over
-    time. To the Greeks and Romans, this became Herakles/Hercules, the son of the
-    Thunderer. For the Aryans and the Germans, this figure is the Thunderer, but
-    among the Aryans, He is the king of the Gods, and among the Germans, the king's
-    son. Are these different Gods? The same God worshiped in different ways with
-    different tales told about Him? If the former, how do you explain the continuity
-    and similarities? If the latter, how do you explain the divergence and
-    differences? Here's where my attempt at an answer comes in, and why it's not as
-    satisfying as I might like: it gives us an excellent answer as to why images,
-    stories, and modes of worship might change while still maintaining that when a
-    worshiper makes a call, Somebody's home. What's not so satisfying is that it
-    doesn't give a very definitive answer as to whether it's the <i>same</i> Somebody that
-    answers the call. This model is equally satisfied with an answer where a single
-    divine being is willing to respond to very different prayers and worship over
-    time and across space, so long as those prayers and worship are close enough to
-    His nature to be fitting, as it is with the answer that over time, astral forms
-    change enough that Someone Else comes to make use of a form that evolved from an
-    earlier form that served another God. As I said, it leaves some open questions,
-    but it at least reconciles historical, comparative, religious, and occult
-    philosophical lines of evidence. I tend to use passage of time and changes to
-    culture as a rough proxy for how likely two astral forms are to be inhabited by
-    the same God - I think it quite likely that whether someone calls on Woden or
-    Odhinn, he's getting a response from the spiritual being inhabiting the astral
-    form, but it's less likely that someone calling on Thor and Indra (or Zeus, or
-    Perun) is calling on the same God, but I can't really say for sure.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org22d0bae"></a>Where to Go From Here?<br />
-    <div class="outline-text-3" id="text-org22d0bae">
-    <p>
-    Ultimately, this whole discussion isn't really needed at all. I think that when
-    it comes to religion, what you <i>do</i> and come to know through experience (<i>gnosis</i>)
-    holds far more weight than a set of propositions you think are true (<i>episteme</i>).
-    You can get very satisfying spiritual results without giving any of these ideas
-    another moment's thought ever again. So, why'd we just spend so much time on it?
-    Well, for one, I find this stuff interesting, and I thought you might too. For
-    another, I believe that rational inquiry is one of the gifts given us by the
-    Gods, and stretching it to the very bounds of what it can handle is a way of
-    both developing our own powers as well as honoring what has been given. Lastly,
-    I believe that thinking through some of the difficulties of religious
-    experience, both our own difficulties and those raised by others, can help make
-    it easier to accept and heed those experiences and what we get from them.
-    Shortly after my "conversion experience," I wrote a letter to a good friend of
-    mine who happens to be both a Christian and rather knowledgeable about myth,
-    ancient history, and esotericism of various sorts. In it, I shared that it felt
-    a bit embarrassing to admit to others than I earnestly, truthfully pray and make
-    drink offerings to the Gods of the Anglo-Saxons. Looking back, I recognize that
-    some of that embarrassment came from the discomfort most of us in today's world
-    feel for anything sincere and not cloaked in multiple layers of protective
-    irony, but my friend had a very insightful reply for which I am still thankful.
-    He pointed out that the idea that polytheism was somehow "silly" or "primitive"
-    or "unsophisticated" was, in fact, a relic of Christian missionaries and
-    polemicists, who saw the austere simplicity of a single God as more serious and
-    logically satisfying, and hammered on that as a selling point for their beliefs.
-    Ever since they won, in the West, at least, that attitude has remained, and is
-    likely still lurking somewhere if it hasn't been addressed. So, consider this
-    piece an attempt at coming at that head on, so that I (and again, perhaps you)
-    might feel just a touch more justified in acknowledging my (your) own religious
-    experiences.
-    </p>
-
-    <p>
-    As groping, hazy, and confusing as they might sometimes be - they're at least
-    not "irrational," and there is, after all, some comfort there for those of us
-    who value reason.
-    </p>
-    </div>
-    </li>
-
-    <li><a id="org6199010"></a>Post Footer<br />
-    <div class="outline-text-3" id="text-org6199010">
+    <li><a id="org94b5f6e"></a>Post Footer<br />
+    <div class="outline-text-3" id="text-org94b5f6e">
     <p>
     <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
     send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
-    thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/22158.html">dreamwidth post</a></i>.
+    thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/22756.html">dreamwidth post</a></i>.
     </p>
 
     <p>
@@ -642,6 +135,785 @@
     </li>
     </ul>
     ]]></description>
+</item>
+
+<item>
+  <title>Eirik Westcoat and the American Futharch</title>
+  <link>./#eirik_westcoat_and_the_american_futharch</link>
+  <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
+  <guid isPermaLink="false">./#eirik_westcoat_and_the_american_futharch</guid>
+  <pubDate>Wed, 28 Aug 2024 15:24:00 -0500</pubDate>
+  <category><![CDATA[rss]]></category>
+  <description><![CDATA[<p>
+  <b>Date</b>: 2024-August-28<br />
+  <b>Subscribe</b>: <a href="mailto:jeff.powell.russell@gmail.com?subject=Add%20me%20to%20the%20Webstead%20mailing%20list">Add me to the mailing list</a><br />
+  <b>Permalink</b>: <a href="#eirik_westcoat_and_the_american_futharch">Link to this Post</a>
+  </p>
+
+  <p>
+  Last week, I listened to Eirik Westcoat's <a href="https://open.spotify.com/episode/7KZKt3GLmhkGlfEiR9QKrZ">interview on the Plant Cunning podcast</a>
+  and found it very interesting. He was mainly letting folks know about his new
+  <a href="https://americanfutharch.com/">American Futharch</a> (said "foo-tharch," with the final ch prounced the American
+  way, as in "charcoal"), which is interesting in and of itself, but it was while
+  explaining what he was after in crafting it that he dropped a huge bomb about
+  the nature of the Rune sets we have (the Elder Futhark, Younger Futhark, and
+  Anglo-Frisian Futhorc).
+  </p>
+
+  <p>
+  First off, he marks that these ways of writing were very well-fitted to the
+  tongues they were meant to write: in the Elder Futhark most of all, there is one
+  stave for each sound, and all of the sounds of the tongue have a stave. The
+  tongue spoken when this way of writing was set down was *Proto-Germanic (the
+  shared root from which all Germanish tongues sprung before they split off from
+  each other). The speakers of this tongue said, and heard the unalikeness, of the
+  'i' in <i>Isa</i> ("Ice") and the 'e' in <i>Ehwaz</i> ("Horse"), and so had two staves for
+  these sounds (as well as whatever sound <i>Eihwaz</i> ("Yew") represented, we have a
+  hard time pinning that one down). Over time, as the speakers of Germanish
+  tongues started using the Roman alphabet, they instead took on workarounds, some
+  more stretched than others, such as writing the first sound of "thorn" with 'th'
+  instead of it's own letter ('þ,' "thorn"). Take some West Germanish speakers
+  (the Anglo-Saxons), smash them together with the speakers of Latin heavily
+  shaped by Frankish (the Normans), throw in some classical learning, and you get
+  the great big mess of spelling conventions we have these days (but at least
+  we're not as bad off as Irish Gaelic). Westcoat wanted a set of Runestaves
+  fitted to the sounds today's American English speakers use, where there is one
+  stave for each sound, and his Futharch is what he came up with.
+  </p>
+
+  <p>
+  Now, that's all cool and helpful enough, but along the way, he touched on
+  something <i>very</i> interesting to me. First, let's back up a bit. There's very good
+  evidence that these Proto-Germans got the idea of writing with one mark for one
+  sound, what we would today call an "alphabet," from some Mediterranean folk,
+  though there's a few theories there (proto-Goths bumping into Greeks around the
+  Black Sea, proto-West-Germanic speakers bumping into the Etruscans in the Alps,
+  many kinds of proto-Germans bumping into the Romans all along the edge of the
+  empire, and so forth. I lean toward the Romans as the most likely wellspring).
+  One thing that is harder to say, though, is why the sets of Runestaves <i>don't</i>
+  copy the <i>order</i> of whatever writing system they got the idea from: the Romans
+  copied the order from the Greeks (with changes, obviously), who copied it from
+  the Phoenicians (again, with changes), who copied it (most likely) from the
+  simplified shapes of Egyptian writing that sprung up somewhere in the
+  Sinai/northern Egypt to make things easier than using old-school hieroglyphics.
+  That's where the name "alphabet" comes from, the first two letters: alpha/aleph
+  and beta/bet, what we now call 'a' ("eh") and 'b' ("bee"). The proto-Germans did
+  <i>not</i> do this, which is why we have "Futharks" - the first six letters were for
+  'f,' 'u,' 'th,' 'a,' 'r,' and 'k,' even after big changes (like the Younger
+  Futhark going down to 16 letters instead of 24, or the Anglo-Saxons changing the
+  sound of <i>Ansuz</i> ('a') to <i>Oss</i> ('o')). Why this weird order?
+  </p>
+
+  <p>
+  Westcoat is in a unique position to propose his take, which once I had heard it
+  struck me as <i>so obvious</i>, that I was both shocked I had never heard it before,
+  and felt like it must be right. You see, Westcoat's specialty is <i>poetry</i>. I've
+  brought him up here <a href="#rules_of_germanish_meter">before</a> for laying out how to write poems in the style of the
+  Old Norse and Anglo-Saxons in today's English. The heart of this way of making
+  poetry is alliteration - certain stressed syllables have to alliterate with each
+  other, while making sure others <i>do not</i>. Since we find this pattern with slight
+  changes in all of the Germanish tongues, we can feel pretty sure that the
+  speakers of Proto-Germanic made poems following rules something like this (and
+  there are a few tantalizing hints that such ways of crafting poetry might go
+  back to the speakers of Proto-Indo-European, but alas, I have not yet read Cal
+  Watkins' <i>To Kill a Dragon</i> to feel grounded enough in Proto-Indo-European poetics
+  to speak much to this). Westcoat points out something strikingly obvious once
+  you hear it, but that I had never run into yet: if you're going to have a
+  tradition of poetry, you have to <i>teach</i> it to new poets, and to teach something,
+  you have to have a way to <i>talk about it</i>. Alliteration is fairly easy to point
+  out in a literate society (look at the name! It is the repetition of <i>letters</i>,
+  though what is truly happening is the repetition of <i>sounds</i>). This brings us to
+  another shared feature among the folks who had sets of Runestaves: the Rune
+  Poems. The Old Norse, Old Icelanders, and Anglo-Saxons all had poems about the
+  Runestaves, where the name of each stave is said, and then some things about
+  that name. They share enough features that it's a safe bet they come from a
+  shared wellspring, a hypothesized (but undocumented) Proto-Germanic Rune Poem.
+  Folks have put forward all kinds of things these poems might have been "for,"
+  some saying esoteric knowledge and meditation, others a simple mnemonic, and
+  many other rationales besides. Westcoat agrees that they were a mnemonic, but
+  proposes originally it was <i>not</i> a mnemonic for a writing system, but instead a
+  pre-literate mnemonic for a <i>system of poetic alliteration</i>. Something like "the
+  word here starts with Thorn, so does that one, so you have a poem. This word
+  over here <i>can't</i> start with Thorn, or you'll get it wrong." In other words, the
+  Rune <i>poems</i> came first, and the Rune <i>staves</i> came later.
+  </p>
+
+  <p>
+  This is <i>brilliant</i>. We know this folk must have had a coherent set of rules for
+  poetry before they had writing. We have clearly cognate poems that follow the
+  weird order of the writing systems, an order we couldn't figure out the reason
+  for. So, why not propose that the writing system was ordered to follow the
+  poems, instead of the other way around? An added bonus is that this explanation
+  is also wholly consistent with the Rune poems as sets of esoteric knowledge,
+  learning the Runes as the purview of some kind of elite, and the intimate link
+  between Runes, poetry, magic, and knowledge that we find in the myths. A group
+  of folks <i>already</i> used to talking about specific sounds, linking them to
+  structured production of meaningful words, and who is the most likely to
+  interact with powerful foreign cultures, would <i>of course</i> be the most likely to
+  see writing and immediately grasp it's potential value, while still having good,
+  solid reasons not to just adopt the foreign tool outright, but instead adapt it
+  to the existing body of knowledge of which they were masters.
+  </p>
+
+  <p>
+  So, that's the big insight that rocked me pretty hard. As for the actual
+  American Futharch itself, it looks pretty cool and Westcoat has followed the
+  long tradition of Runesters and written an <a href="https://americanfutharch.com/aerp/">American English Rune Poem</a> to convey
+  all of their sounds in a way suitable to esoteric contemplation, meditation, and
+  magic. As our Proto-Germanic forebearers, we now have a way of writing the
+  sounds we actually say with one mark for one sound - no "second class sounds"
+  that have to have two letters smashed together (like 'sh' or 'th'), no more
+  letters that make different sounds in different contexts (like the 't's in
+  "repetition"), which makes it easier to write the kind of alliterative verse
+  they wrote, including for prayers or magic. I haven't dug deeply into his AERP
+  much yet, but it strikes me as well-fitted to its ends, and I was struck
+  (favorably) by its playfulness - I laughed out loud at some of the stanzas.
+  </p>
+
+  <p>
+  Anyhow, I have too much on my magical/religious/occult studies plate right now
+  to dive into this system just yet, but I'm very much looking forward to doing so
+  down the line. If it sounds like something you might want to dig into, check out
+  Westcoat's <a href="https://americanfutharch.com/">stead</a>, where you can sign up for classes in the system and crafting
+  poetry with it.
+  </p>
+
+  <ul class="org-ul">
+  <li><a id="org8bb02a5"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org8bb02a5">
+  <p>
+  <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/22288.html">dreamwidth post</a></i>.
+  </p>
+
+  <p>
+  <b>Want to get new posts emailed to your inbox? <a href="mailto:jeff.powell.russell@gmail.com?subject=Add%20me%20to%20the%20Webstead%20mailing%20list">Sign up here</a>.</b>
+  </p>
+
+  <hr />
+  </div>
+  </li>
+  </ul>
+  ]]></description>
+</item>
+
+<item>
+  <title>What Are the Gods and How Do We Come to Know Them?</title>
+  <link>./#what_are_the_gods_and_how_do_we_come_to_know_them</link>
+  <author>jeff.powell.russell@gmail.com (Jeff Russell)</author>
+  <guid isPermaLink="false">./#what_are_the_gods_and_how_do_we_come_to_know_them</guid>
+  <pubDate>Thu, 22 Aug 2024 15:28:00 -0500</pubDate>
+  <category><![CDATA[rss]]></category>
+  <description><![CDATA[<p>
+  <b>Date</b>: 2024-August-22<br />
+  <b>Subscribe</b>: <a href="mailto:jeff.powell.russell@gmail.com?subject=Add%20me%20to%20the%20Webstead%20mailing%20list">Add me to the mailing list</a><br />
+  <b>Permalink</b>: <a href="#what_are_the_gods_and_how_do_we_come_to_know_them">Link to this Post</a>
+  </p>
+
+  <p>
+  So, one of the reasons I wanted to write <a href="#a_beginner_s_manual_of_the_planes">A (Beginner's) Manual of the Planes</a> is
+  that I needed to have a clear framework of my current conception of the Planes
+  of Being to talk about something else that I'm working through: just what are
+  the Gods and how do we understand our experience of Them? In thinking this
+  through, I've realized that this question touches on a lot of very fundamental
+  questions of thought, the world, and our experience of it. Even more so than
+  that last post, where I was sharing an existing framework that I have found
+  helpful but am still learning, this post shares a work in progress. I'm still
+  <a href="#how_i_came_to_believe_what_i_do">pretty new</a> to this whole "taking religion seriously" thing, and I've found that
+  just accepting the answers of existing traditions doesn't quite work for me
+  (quite possibly a problem with me), so I'm left in the position of an explorer
+  in mostly uncharted territory. I suspect I'm not the only one who finds myself
+  washed up on a strange shore, looking into the jungle before me and wondering
+  how to find a way through, so hopefully sharing some of my attempts to blaze a
+  trail can be helpful.
+  </p>
+
+  <ul class="org-ul">
+  <li><a id="org12f0b38"></a>The Challenge of Definition<br />
+  <div class="outline-text-3" id="text-org12f0b38">
+  <p>
+  Our first hurdle is that without embracing a complete, coherent system of
+  thought and belief, we don't have a ready definition of what a "God" even is.
+  Hell, even my language there points to a fundamental problem - is there <i>a</i> God,
+  or are there <i>lots</i> of Gods? Not an insignificant question in the history of
+  religious inquiry. For now, I tend to like something very much like John Michael
+  Greer's definition from <i>A World Full of Gods</i>: a "God" is a being that is
+  worshiped by humans. I might add the further qualifier that those worshipers
+  report having religious experiences of that being, as a way to distinguish
+  between real and pro forma worship (an example to clarify what I mean: if every
+  single Roman citizen required to give worship to the Emperor thought "I'm just
+  lighting this incense and pouring this wine to avoid problems with the
+  authorities," should we consider that emperor a God?). The sharp-eyed among you
+  might have noticed some fuzziness already in my use of the term "religious
+  experiences" - just what the heck are those, anyway? William James, Rudolf Otto,
+  Mircea Eliade, and others have given us some idea here, but we're necessarily
+  dealing with something a bit fuzzy, since we're getting into subjective
+  experience and self-reporting. The waters are further muddied by the fact that a
+  single man might report a religious experience at one point in his life, and
+  then later on look back and say "naw, I don't think it really was after all" -
+  picture a hippy regretful of all of the acid trips that seemed so freighted with
+  meaning at the time. Still, it is very nearly a human universal that folks
+  experience <i>something</i> that inspires behavior we recognize as worship, and go on
+  to do just that. All that being said, as a jumping off point, let's take a look
+  at some of the ways folks have tried to define Gods and worship to see what kind
+  of insights these might offer.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org9097ab5"></a>It's All Hokum and Fairy Tales<br />
+  <div class="outline-text-3" id="text-org9097ab5">
+  <p>
+  Starting with the most grounded, and dismissive, take, there are and have been
+  plenty of folks who flat out don't believe in Gods at all. For a time, I counted
+  myself among them. Many of these folks have never had a religious experience of
+  their own, and those who have dismiss it as some kind of misfiring or error of
+  the equipment we have to make sense of the material world. One typical argument
+  goes something like "humans are predisposed both to seek causes behind things
+  and to interact socially with other humans. These predispositions combine to see
+  anthropomorphized beings behind what we cannot otherwise explain. As our ability
+  to explain the world has expanded, the room for invisible hands steering those
+  things has shrunk, and it's purely superstition and inertia based on these
+  inherent predispositions that keeps some folks insisting that there is any such
+  thing." The chief benefit of this explanation is that it doesn't rely on
+  anything out of our experience that we can't compare with the experiences of
+  others, and it's explainable through our currently accepted tools or
+  understanding the world. Neurology, psychology, anthropology, even history and
+  politics, can all perfectly well inform our understanding of religion under this
+  model. Any discussion can be grounded in ways readily explainable to just about
+  anyone with a functioning nervous system and normal sensory experience. Many
+  folks are (or claim to be) wholly satisfied with this explanation, and it's
+  certainly in keeping with the zeitgeist. You won't get kicked out of any parties
+  or passed over for promotion for holding to this way of seeing the "Gods." The
+  only problem is that while it might <i>explain</i> the craving for religion and
+  experience of the Gods, it doesn't do anything to satisfy that craving, and
+  leaves you in the unenviable position of trying to recreate a basis for meaning
+  and value without any recourse to the transcendent, a project that's had its
+  challenges at least since Nietzsche laid out the problem.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org5113448"></a>The Deep Mind is Mysterious and It's Not Empty<br />
+  <div class="outline-text-3" id="text-org5113448">
+  <p>
+  Some folks seek a way to sate this craving without abandoning the seemingly
+  solid basis of material epistemology, leading them to <a href="http://www.catb.org/~esr/writings/dancing.html">engage in religious
+  experience while believing it is "all in your head"</a>. Again, I have a certain
+  amount of sympathy here, because <a href="#building_a_mystery">I've been in this boat as well</a>. These folks use
+  depth psychology, usually of a Jungian flavor, to both explain what's going on
+  and as a guide on what to do. The argument here goes something like "sure, our
+  propensities to religious experience are materially grounded, but that doesn't
+  make them mistaken. Religion is a toolkit of means for engaging with the
+  non-rational parts of our self, including the titanic forces buried way down
+  deep in our mind that are shared among folks. Since they're common to all
+  humans, they're bigger than any one of us." Under this model, any given God is a
+  pattern of thoughts, feelings, and experiences important and general enough that
+  just about anyone can tap into them, especially with the right cultural
+  "programming," through the use of symbol and ritual. "Jupiter" may not be a
+  literal guy who lives in the sky and turns into various animals to impregnate
+  human women, but is instead a particular collection of patterns of thought and
+  meaning constellated around the "wise (and/or horny) king" archetype, and His
+  various myths should be seen as symbolic tales meant to give us some
+  understanding of <a href="#jordan_peterson_s_framework_for_myth">those patterns</a> through non-obvious means. Rituals in honor of
+  this figure can help you to tap into the parts of your mind that might manifest
+  as a beneficent, generous king, and thus bring the benefits of that way of being
+  into your life. Say a weekly prayer to Jupiter on Thursdays (<i>Dies Jovis</i> - the
+  Day of Jove/Jupiter), and you will find it easier to act like a mighty, generous
+  king, and more of the benefits such a person might expect will come into your
+  life. You might even experience this figure as "separate" from yourself, to the
+  point of having mental images or conversations with Him, and He might through
+  these give you guidance. That's just the user interface for the subconscious,
+  taking advantage of those predispositions toward human social interaction we
+  mentioned above. I think there's a lot of truth here, and a lot to recommend
+  this method of understanding. We <i>do</i> have an outsized amount of our mind devoted
+  to understanding and modeling other people. We <i>do</i> have patterns of behavior,
+  thought, and feeling buried way down deep that can be called up through
+  non-obvious means, and many of the benefits of calling them up likely do
+  manifest as changes in your own understanding and ways of being (easy example:
+  you start acting more generously, using Jupiter as a model, and more people like
+  and respect you). The trouble is, if you're much like me, you can try this
+  approach and find yourself <a href="#you_may_not_be_able_to_make_pascals_wager">unable to get past</a> the knowledge that you're <i>faking
+  it</i>. Talking to yourself. Playing pretend. <a href="#further_thoughts_on_religious_authenticity">LARPing</a>. If you have that experience,
+  as I did, while still craving religious satisfaction, you might go looking
+  elsewhere.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="orge8d99f7"></a>The Gods Are a Shared Creation<br />
+  <div class="outline-text-3" id="text-orge8d99f7">
+  <p>
+  One step beyond "it's all archetypes and subconscious patterns in your own mind"
+  is the idea that the Gods are somehow <i>emergent</i> phenomena. Depending on just how
+  materialist you roll, this can have a lot of overlap with the prior way of
+  understanding Gods and religion. The wholly material explanation is that these
+  Gods are not made up by any one person, but the understanding of Them and Their
+  manifestations ground out in the material world in individual brains and the
+  communication between them - myths, practices, and the beliefs they shape. These
+  shared understandings undergo a <a href="https://barsoom.substack.com/p/the-reenchantment-of-the-world">mimetic evolution</a> of sorts, where the stuff that
+  resonates or "works" gets spread, while that that doesn't gets forgotten. This
+  is pretty close to what Jordan Peterson was saying back when I last was paying
+  much attention. A lot of rationalists and post-rationalists have become <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">enamored</a>
+  of the formerly occult-only concept of the "egregore," a manifestation of
+  collective action and incentives that seems to have a life of its own, but (if
+  you're a rationalist, rather than an occultist) can be explained at the
+  individual level - the way a flock of birds can be made up of individual birds
+  each making relatively simple decisions ("turn right when the bird to my left
+  gets too close" and the like) and end up moving as if one big organism. If
+  you're willing to leave materialism behind a bit, you can come closer to the
+  occult understanding of egregores and believe that collective belief, thought,
+  and action can create <i>something</i> on the Astral Plane, and that something can
+  start to act somewhat independently. So, an occult, but non-theistic,
+  understanding of Gods would say that they are co-creations of large groups of
+  folks, with independent existence, but only so long and to the extent that they
+  are reinforced by belief and action by humans. I'm not totally sure, but this
+  seems to be what Shani Oates is getting at with "God-forms" in <a href="#thoughts_on_the_hanged_god">her</a> <a href="#book_in_search_of_odhinn">books</a>. The
+  key difference between this model and the previous is the idea that you can't
+  just "make it up yourself." Under the archetypes and depth psychology model,
+  theoretically you should be able to have full and satisfying religious
+  experiences with any sufficiently crafted symbol or ritual. Under this model,
+  only those models that have some "life" to them, whether a seeming life borne of
+  socio-cultural reinforcement, or a more substantial artificial life in the shape
+  of an astral construct charged with the emotional energy of many folks, will
+  respond when you try to perform rituals or worship. Joining a currently active
+  church or coven or whatever ought to get you better results than trying to
+  worship Osiris with a translation of <i>The Book of the Dead</i> open in your hands,
+  much less performing a ritual you made up in honor of Batman or Zardoz or one of
+  Tolkien's Valar. Once again, I think there's <i>something</i> here that's right, but I
+  take issue with it as the <i>whole</i> explanation. Keep that in mind for my proposed
+  model later on.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org046c3f1"></a>The Gods are Many<br />
+  <div class="outline-text-3" id="text-org046c3f1">
+  <p>
+  Here, we come to the belief that has held for most folks in most times - there
+  are many Gods, of many kinds and ways, and some of us may worship some of Them
+  more than others, depending on where we're from, what we do, and what
+  experiences we have. That grove over there? It has its own holy presence. This
+  stone? Another. The great sea? Still another. Law? Again, another. Kingship? Yet
+  another still. Gods for every thing, way of being, and institution in the world,
+  and maybe more beyond that. This belief has much to recommend it. Folks have all
+  kinds of religious experiences in all kinds of steads under all kinds of
+  circumstances - why wouldn't each of those have its own God behind it, unless
+  there's some reason to think it was the same One? Also, as I said above, this
+  seems to be the default interpretation of folks everywhere, which some would say
+  is an argument from popularity, but over thousands of years and across the whole
+  earth, they just might be on to something. Polytheism is inherently bendsome and
+  open-ended: there might be a handful of Gods or millions of Them, maybe
+  depending on what you call a "God" rather than a spirit, angel, or other
+  incorporeal being (and to call back to our definition, on whether or not anyone
+  gives that being worship). Further, how you count the Gods might be influenced
+  by the lack of certainty we've been going through on whether these beings exist,
+  if different experiences were of the same or different beings and how to tell,
+  or whether Their numbers might change over time (we have tales of Gods having
+  children, are They still?). Spoiler alert, this is the position I've come to
+  find most likely and upon which I base my practice (more on that below). The
+  chief troubles with this belief are that it's <i>complicated</i> and that many
+  religious experiences, especially of the more "mystical" variety (as in, those
+  experienced by mystics), speak to some kind of unity between beings that can be
+  hard to reconcile with many Gods without some philosophical hoop-jumping.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="orgb9e4528"></a>There Are Two, and Only Two Gods<br />
+  <div class="outline-text-3" id="text-orgb9e4528">
+  <p>
+  One belief that might be included in "the Gods are many," but feels worth
+  calling out on its own due to its historical importance, is the that there are
+  exactly two Gods. This comes in two main flavors that I know of: there is a good
+  God and a bad God, or there is a male God and a female Goddess. The former is
+  usually called "dualism" and is what was/is believed by Zoroastrians and the
+  latter is best known these days as what Wiccans and their offshoots believe. In
+  both, there is the belief that there is some kind of duality or polarity that is
+  <i>so</i> fundamental that it goes right to the very bottom of all that is - Good is
+  purely good and absolute in itself, but so is Evil. Or else the polarity between
+  "masculine" and "feminine" is a deeply intrinsic facet of being, again,
+  fundamental and not to be mingled. This belief neatly sidesteps some of the
+  traditional troubles with monotheism (more on this below), like "why is there
+  evil in the world?" or "how did we get all of this variety we experience out of
+  the source(s) of all things?" It also appeals to a deeply and widely felt
+  intuition of the importance of opposite and (usually) balanced forces that might
+  be static on their own, but are alive and moving when put together. There's a
+  certain logical appeal to it, though once you get to "there's definitely two
+  forces/beings from which all things spring," the obvious next question is "but
+  from whence do these spring?" Which brings us to the elephant in the room when
+  it comes to theological discussions in today's world: monotheism.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org8e533cc"></a>There Is But One God<br />
+  <div class="outline-text-3" id="text-org8e533cc">
+  <p>
+  Lastly, we come to the position most familiar to the religions of today's
+  Western world: there is only one God (definitely with a capital 'G,' though you
+  may have noticed that I extend this courtesy to the many Gods I believe there to
+  be). Under this belief, all of the experience of "the holy," however unalike
+  they may seem, wherever they may happen, and whatever may be going on when they
+  happen, are actually of the same God. Weeping, shivering acknowledgment of your
+  smallness in the face of the universe? God. Singing, shaking, electric ecstasy?
+  God. Sublime brotherhood with all of mankind, or even all living things? God.
+  This belief appeals to the kind of logic that a belief in two Gods stops just
+  short of: if there is something divine, however multifarious our experience of
+  it, mustn't it all come from somewhere? And mustn't that somewhere be a single
+  thing, ultimately? Monotheists say this must be so, and if it is, that one
+  "thing" or somewhere must be a sole God - perfect, undivided, and whole. For all
+  of the exploration of this line of thinking, including its pitfalls and how they
+  might be addressed, I direct you to the entire tradition of Western theology, at
+  least since Judaism, but some would say beginning with Plato and the Greeks. Of
+  course, there are some problems here. Why <i>is</i> there evil in the world? Even if
+  ultimately all of the divine flows from one source, is it right to call this
+  source "God?" Is it a "person" or "being" or something more impersonal, like a
+  force? What do we make of very different religious experiences across time and
+  space? Many of the traditional attacks on theism are, in fact, attacks on
+  monotheism, highlighting the logical flaws in the attempts to address these
+  pitfalls that have come about over the years.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="orgc177640"></a>Where Does That Leave Us?<br />
+  <div class="outline-text-3" id="text-orgc177640">
+  <p>
+  So, each of these positions has things to recommend it, and problems it has
+  trouble addressing. Strict materialism may seem to accord with what we've been
+  able to learn from science, but it leaves many feeling a keen lack deep enough
+  that it seems willfully perverse to assume the lack is <i>right</i> and and a way of
+  being that makes life better and more meaningful in every way is an unfortunate
+  <i>error</i>, a bug in the programming. Conceptions of the Gods as creations of mankind
+  allow for the great variety of religious experience and the felt power of what
+  we take to be Gods, but stumble over the seeming agency and insight of these
+  supposed empty shells. A belief in many Gods easily handles why religious
+  experiences are so different, but struggles with the most fundamental questions
+  of where it all comes from and the feeling of unity and connectedness found in
+  many religious experiences. Two Gods answers where the apparent opposites in
+  life come from, but why only two? And lastly, a single God answers for the
+  universality of religious beliefs and the commonalities between them, but if
+  there is truly but one God, why do we get up to so many <i>different</i> weird things
+  when we worship and seem to experience Him, and why is the world so messy and so
+  often hurtful?
+  </p>
+
+  <p>
+  Another wrinkle in evaluating these beliefs is that these positions differ in
+  how much weight they put on orthdoxy, the correctness of beliefs. They form a
+  bit of a horseshoe - materialism says that opinions ought to converge due to the
+  provably correct observations of constant natural laws, and monotheism says that
+  opinions should converge because they all ultimately come from the same source.
+  In both cases, differing opinions must necessarily be <i>wrong</i> in some important
+  way - either by being mistaken or by willfully choosing the wrong thing
+  (consider a Christian that believes Muslims are simply missing some important
+  details about their belief in a single God versus those who think they have been
+  duped by the devil, or a materialist who thinks religionists are simply
+  superstitious fools versus one who thinks it's an intentional scam to keep
+  others down or pick their pockets). Religions that believe in two Gods have a
+  very similar tendency, but perhaps with more room for variation in valid beliefs
+  and practices - Wiccans are fine with folks worshiping either Diana or Freyja,
+  they just think both are different masks for the same ultimate Goddess. On the
+  other hand, those who believe that the Gods are manifestations of the
+  unconscious, co-creations of groups of folks, or that there really are lots of
+  Gods, tend to accept variability in beliefs as a matter of course - <i>your</i> local
+  God is obviously different from mine, so why wouldn't He have different
+  characteristics, expectations, and forms of worship? This wrinkle matters less
+  for the actual truth of these beliefs and more for our ability to investigate
+  that question - if you start from a premise of what <i>must</i> be right, you'll have a
+  hard time acknowledging contradictory evidence. Coming at it the other way,
+  strict orthodoxy makes your beliefs more <i>fragile</i> to arguments about why they are
+  wrong. If you believe that God is all-knowing, all-powerful, and all-good,
+  questions like free will and the problem of evil become very thorny. On the
+  other hand, if you remove even one of these famous premises, it's harder to
+  craft a logical argument about why such a God can't be real.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org14cd9d9"></a>My Own Experiences and Reading<br />
+  <div class="outline-text-3" id="text-org14cd9d9">
+  <p>
+  In my own explorations of this topic, I've hit most of these stops. As I've
+  <a href="#how_i_came_to_believe_what_i_do">talked about in more detail before</a>, I grew up as a fairly indifferent Christian,
+  read <i>Mere Christianity</i> in college, which led me to take that a bit more
+  seriously for a while, and then slowly drifted into indifferent agnosticism and
+  on into harder-edged materialist atheism. While an atheist, I took a shot at
+  pursuing "spiritual" practice on the model that it was an effective way of
+  interacting with the subconscious and the forces to be found there, but I didn't
+  find it particularly satisfying and ended up dropping it. The single book that
+  has had the biggest impact on my current thinking about these things was John
+  Michael Greer's <i>A World Full of Gods</i>, mentioned above. This book led me to take
+  seriously the idea that there might be lots of Gods, and it might be worth
+  trying to get in touch with some of them to find out for myself, and so I began
+  a daily spiritual practice calling upon the Germanish Gods as an experiment.
+  Sure enough, within a few weeks, I had had a <a href="#then_i_saw_her_face_now_im_a_believer">full blown religious experience</a>,
+  and I decided the experiment had been successful. Since then, I've continued to
+  have experiences that seem to be interactions with more than one genuinely
+  distinct non-corporeal being that is somehow "greater" than me, and so I call
+  them "Gods," and accept that They truly are multiple in an important way, even
+  if there might be some kind of unifying "divinity" behind them (and/or
+  everything else - the occult teachings I'm currently working with are mostly
+  Platonic in character).
+  </p>
+
+  <p>
+  Among the arguments that got me to give this experiment a try were those that
+  pointed out that most arguments against Theism are really arguments against
+  <i>mono</i>-theism, and even more specifically, against Christianity (such as most
+  traditional "Problem of Evil" arguments mentioned above), and that polytheism
+  has been the reported experience of almost every human culture ever. "Everyone
+  believes there are lots of Gods because there really are" is just as reasonable
+  a starting place as "everyone believes there are lots of Gods because we're all
+  delusional in the same ways due to the same faulty wiring," <i>unless</i> you insist
+  that material evidence is more valid than any other kind, which is itself a
+  presupposition that can't be argued logically. In the end, though, I found logic
+  and argument only got me so far. I can construct a perfectly logical explanation
+  of how my own religious experiences have been "nothing but" my imagination,
+  happening entirely within my head, the result of certain firings of neurons.
+  These explanations, though, don't account particularly well for the qualitative
+  side of these experiences. Through them I have found a sense of meaning,
+  satisfaction, and <i>goodness</i> that I have found nowhere else that seems profound
+  enough to be worth taking seriously. I've decided that even if I'm wrong, what I
+  get out of believing these things to be true seems well worth it (and I think
+  there's good enough reason to think I'm right to not assume I'm deluding myself,
+  but I won't hold it against you, dear reader, if you disagree).
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org6c56ef1"></a>Incorporating the Model of the Planes<br />
+  <div class="outline-text-3" id="text-org6c56ef1">
+  <p>
+  One of the reasons I wanted to <a href="#a_beginner_s_manual_of_the_planes">lay out the classic occult model of the planes</a>
+  before writing this post is that I think it gives us a terminology to discuss
+  what is or might be going on that is lacking when we stick to the tools of more
+  mundane exploration we've been using so far. I've talked a lot about
+  "experiences" and been vague about what that includes. If you dig into reading
+  about religious experiences, you'll hear descriptions of sights, sounds,
+  feelings, and more. Sometimes it's hard to tell if these folks are describing
+  <i>literally</i> seeing/hearing something, as if it were material and right there, or
+  if it appeared "in the mind's eye." The Planes of Being give us a helpful way of
+  discussing this. For my part, most of my religious experiences have been
+  primarily Astral in nature - they have happened "in my imagination" with much
+  the same quality as what happens when I daydream or fantasize or engage deeply
+  with a book. That being said, they don't feel <i>just</i> like those things, as my
+  earlier experimentations with "depth psychology religion" did. Some of the more
+  striking have included feelings of liveliness, energy, and tingling that I
+  assume were mainly Etheric in nature, and the prevailing sense of <i>meaning</i> that
+  makes them feel more significant than fantasizing about when I'm a rich and
+  famous writer (hah) seems likely to be a hint of the Mental or higher planes.
+  The sense of <i>otherness</i> worthy of respect seems likely to be an echo of the
+  Spiritual or higher planes. I suspect all of these are significant, but given
+  its prominence, it's the Astral part of things I want to dig into the most.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org1a3f716"></a>Putting It All Together - A Rough, Early Model of How to Conceptualize the Gods<br />
+  <div class="outline-text-3" id="text-org1a3f716">
+  <p>
+  As I said, <i>most</i> of what has gone on during the experiences I believe to have
+  been of Gods has been astral in nature - images that come to mind, feelings,
+  unprompted thoughts, and so forth. I am still learning to discern the fuzzy
+  difference between things that I "make up" and things that I "perceive"
+  astrally, but there is a difference in how it feels. Think about a time you've
+  tried to imagine something specific, vividly - maybe you're trying to draw a
+  picture and want to see it in your mind's eye before you draw it, or perhaps
+  you've tried to recreate a piece of music you heard but can't quite call to
+  mind. For me, at least, there's a clear feeling of effort, and the image or
+  sound or other sensation I am trying to reproduce will often be fuzzier than I
+  want it to be. On the other hand, now try to think of a time where you've been
+  struck by something forcibly - maybe a horrible image that popped into your mind
+  and wouldn't go away, or a song that's stuck in your head, or an emotion you
+  just can't shake. That's more what astral "perception" tends to feel like to me
+  (though in the case of the Gods, far more pleasant than any of those examples).
+  What's really striking is that sometimes I can feel it pass from one over into
+  the other - I begin by working to picture something, and then it "shifts" or
+  "takes on a life of its own" and the feeling of productive effort goes away.
+  </p>
+
+  <p>
+  Our model of the planes gives us a handy way to understand this. The astral
+  plane is a mode of experience shared by all conscious beings. Apparently, part
+  of that mode of experience, is to "come up" with things - new images, sounds,
+  nuances of feeling. Also apparently, part of that mode of experience is to "run
+  into things" - images, sounds, and so forth that just "pop into your head." So,
+  it seems that whatever the astral is "made of" (imperfect analogy, since it's
+  not material), we can both shape it and perceive shapes within it (again,
+  imperfect analogy, as I'm using "shape" for all modes of "sensory" stimulus -
+  sight, sound, feeling, emotion, and so forth). So, when we feel things are
+  effortful, we are exerting some kind of shaping influence on the astral, and
+  when they just come to us, we are encountering something that has been shaped
+  already by someone or something else. Sometimes these efforts can be shared -
+  like all of these examples I've been prompting you with. I've given you a
+  general idea, and to the degree you've played along, you've shaped or recalled
+  something in line with that idea.
+  </p>
+
+  <p>
+  I believe that this co-creation of astral phenomena is one key to understanding
+  what's going on with most experiences of Gods - co-creation both between
+  multiple humans, as well as between humans and the Gods. If I just say the name
+  "Thor," an image might come to mind, but depending on your own associations and
+  proclivities, it could be wildly variable - maybe it's a Romantic painting,
+  maybe it's your own imagining, or maybe it's Chris Hemsworth. On the other hand,
+  if I do something more to specify what I mean, I can guide you closer to what I
+  have in mind. In one sense, art is the ultimate "guiding" of this sort - I
+  literally <i>show</i> you what I had in my mind, so we can both see (almost) the same
+  thing. On the other hand, even there, it's not all one-way. If I paint a
+  beautiful depiction of a lithe, beardless young man, perfect in all of its
+  technical execution, and an exact match to what I pictured in my head before
+  putting brush to canvas, and then tell you "this is Thor," you're going to be
+  like "no, it's not." For a variety of reasons (more on some of those in a tick),
+  "Thor" <i>means</i> something, and it is <i>not</i> "lithe, beardless young man." Maybe more
+  interestingly are those depictions that are in more of a gray area. I might see
+  a painting of Thor and while it gets the essentials right (burly,
+  prime-of-his-life, beard, red hair, hammer, and so forth), and I might even <i>like</i>
+  the picture, sometimes it's just not "right" to me (here's <a href="https://ih1.redbubble.net/image.5199116893.0907/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg">one</a>, for example).
+  Here, the artist has clearly conveyed his vision, and there's a lot we'd agree
+  on, but it just doesn't <i>quite</i> feel right to me as "really" representing Thor,
+  the God who receives worship, rather than a mere fictional character. I wouldn't
+  get upset with anyone picturing this when trying to picture Thor, but I'm not
+  going to be doing so. But maybe some element of it <i>does</i> work for me - like those
+  cool bracers, which I assume are the artist's take on His iron gloves, with
+  which He catches red-hot <i>Mjolnir</i> after felling a troll somewhere. The pattern on
+  them is subtly reminiscent of a face, which is a common motif in Germanic art.
+  So, maybe if I decide to take a crack at drawing or painting Thor, I'll
+  incorporate something like that.
+  </p>
+
+  <p>
+  My current model is that this back-and-forth exchange of astral material (even
+  if instantiated in material form, like a painting or a carving, or the words on
+  a page) builds up shared (or at least partially shared) astral forms that can be
+  "perceived" rather than "made up" (though obviously this is fuzzy). So far, so
+  good, right? Well, here's where things start getting weird. Remember how I said
+  that I thought the "Gods are a Co-Creation of Mankind" line of thought was
+  somewhat right? I think that the <i>astral forms</i> of the Gods are a co-creation of
+  mankind (mostly), and that most of the time, that's as close as we get to
+  experiencing Them directly. The Gods, though, you'll remember from our
+  discussion of the planes, aren't mainly astral beings - Their true existence is
+  on higher planes that we can't access directly except perhaps in very special
+  circumstances, with Their help. Instead, They reach down to the "common ground"
+  we share on the Astral Plane. Through our art, stories, songs, and so forth, we
+  come up with particular, perceivable, <i>understandable</i> shapes to represent the
+  Gods, and in our interactions with Them, They temporarily inhabit and bring to
+  life those shapes. Lest you think I'm straying too close to "it's all made up
+  and arbitrary," though, I would point out that the Gods are Their own beings,
+  with Their own agency - almost certainly far more agency than we have. So, it's
+  not like we as a species just make things up and then call down whatever we want
+  into those things. Instead, I believe that the Gods get a say too. Sometimes
+  this might be startling and direct - I've read stories of folks who suddenly had
+  a vision (astrally) of a figure, and when they've gone and done some research,
+  that figure very clearly corresponds to the traditional depictions of a God that
+  this person had never seen or heard of before. Other times, I think it works by
+  reinforcement - no matter how many times I try to call upon Thor with an astral
+  image of a lithe, beardless young man, He's not going to show up. I'll just be
+  talking to myself and daydreaming. When I get the astral form more "right,"
+  maybe my results are better, and tweaks along the way work more consistently.
+  Repeat this process among many folks over many years, and you get standardized
+  iconography, epithets, and ritual.
+  </p>
+
+  <p>
+  One advantage of this model is that it gives a solution to the question of what
+  to make of changes to worship and belief over long stretches of time, to the
+  point where they no longer seem to be "the same" (though, admittedly, not one
+  that is as satisfyingly definite as I might like). Here's an example of what I
+  mean: the Greeks, Romans, Germans, Aryans, and maybe more (evidence is scantier
+  for the Slavs and Celts) had myths about a burly heroic God who was famous for
+  killing monsters with his magical blunt instrument. Indo-Europeanists take this
+  as pretty solid evidence that the speakers of Proto-Indo-European worshiped a
+  God with these characteristics, and their daughter cultures carried on myths and
+  worship of this figure, but those myths and worship changed and diverged over
+  time. To the Greeks and Romans, this became Herakles/Hercules, the son of the
+  Thunderer. For the Aryans and the Germans, this figure is the Thunderer, but
+  among the Aryans, He is the king of the Gods, and among the Germans, the king's
+  son. Are these different Gods? The same God worshiped in different ways with
+  different tales told about Him? If the former, how do you explain the continuity
+  and similarities? If the latter, how do you explain the divergence and
+  differences? Here's where my attempt at an answer comes in, and why it's not as
+  satisfying as I might like: it gives us an excellent answer as to why images,
+  stories, and modes of worship might change while still maintaining that when a
+  worshiper makes a call, Somebody's home. What's not so satisfying is that it
+  doesn't give a very definitive answer as to whether it's the <i>same</i> Somebody that
+  answers the call. This model is equally satisfied with an answer where a single
+  divine being is willing to respond to very different prayers and worship over
+  time and across space, so long as those prayers and worship are close enough to
+  His nature to be fitting, as it is with the answer that over time, astral forms
+  change enough that Someone Else comes to make use of a form that evolved from an
+  earlier form that served another God. As I said, it leaves some open questions,
+  but it at least reconciles historical, comparative, religious, and occult
+  philosophical lines of evidence. I tend to use passage of time and changes to
+  culture as a rough proxy for how likely two astral forms are to be inhabited by
+  the same God - I think it quite likely that whether someone calls on Woden or
+  Odhinn, he's getting a response from the spiritual being inhabiting the astral
+  form, but it's less likely that someone calling on Thor and Indra (or Zeus, or
+  Perun) is calling on the same God, but I can't really say for sure.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org22d0bae"></a>Where to Go From Here?<br />
+  <div class="outline-text-3" id="text-org22d0bae">
+  <p>
+  Ultimately, this whole discussion isn't really needed at all. I think that when
+  it comes to religion, what you <i>do</i> and come to know through experience (<i>gnosis</i>)
+  holds far more weight than a set of propositions you think are true (<i>episteme</i>).
+  You can get very satisfying spiritual results without giving any of these ideas
+  another moment's thought ever again. So, why'd we just spend so much time on it?
+  Well, for one, I find this stuff interesting, and I thought you might too. For
+  another, I believe that rational inquiry is one of the gifts given us by the
+  Gods, and stretching it to the very bounds of what it can handle is a way of
+  both developing our own powers as well as honoring what has been given. Lastly,
+  I believe that thinking through some of the difficulties of religious
+  experience, both our own difficulties and those raised by others, can help make
+  it easier to accept and heed those experiences and what we get from them.
+  Shortly after my "conversion experience," I wrote a letter to a good friend of
+  mine who happens to be both a Christian and rather knowledgeable about myth,
+  ancient history, and esotericism of various sorts. In it, I shared that it felt
+  a bit embarrassing to admit to others than I earnestly, truthfully pray and make
+  drink offerings to the Gods of the Anglo-Saxons. Looking back, I recognize that
+  some of that embarrassment came from the discomfort most of us in today's world
+  feel for anything sincere and not cloaked in multiple layers of protective
+  irony, but my friend had a very insightful reply for which I am still thankful.
+  He pointed out that the idea that polytheism was somehow "silly" or "primitive"
+  or "unsophisticated" was, in fact, a relic of Christian missionaries and
+  polemicists, who saw the austere simplicity of a single God as more serious and
+  logically satisfying, and hammered on that as a selling point for their beliefs.
+  Ever since they won, in the West, at least, that attitude has remained, and is
+  likely still lurking somewhere if it hasn't been addressed. So, consider this
+  piece an attempt at coming at that head on, so that I (and again, perhaps you)
+  might feel just a touch more justified in acknowledging my (your) own religious
+  experiences.
+  </p>
+
+  <p>
+  As groping, hazy, and confusing as they might sometimes be - they're at least
+  not "irrational," and there is, after all, some comfort there for those of us
+  who value reason.
+  </p>
+  </div>
+  </li>
+
+  <li><a id="org7b6bf44"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org7b6bf44">
+  <p>
+  <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
+  send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
+  thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/22158.html">dreamwidth post</a></i>.
+  </p>
+
+  <p>
+  <b>Want to get new posts emailed to your inbox? <a href="mailto:jeff.powell.russell@gmail.com?subject=Add%20me%20to%20the%20Webstead%20mailing%20list">Sign up here</a>.</b>
+  </p>
+
+  <hr />
+  </div>
+  </li>
+  </ul>
+  ]]></description>
 </item>
 
 <item>
@@ -755,8 +1027,8 @@
   </div>
   </li>
 
-  <li><a id="orge173fbc"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orge173fbc">
+  <li><a id="org877b1ed"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org877b1ed">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -1227,8 +1499,8 @@
   </div>
   </li>
 
-  <li><a id="org0ceb6ca"></a>Wrapping Up<br />
-  <div class="outline-text-3" id="text-org0ceb6ca">
+  <li><a id="org6a7533a"></a>Wrapping Up<br />
+  <div class="outline-text-3" id="text-org6a7533a">
   <p>
   So, there you have a very quick and very incomplete survey of the planes of
   being. I've set them out here as much to solidify and test my own understanding
@@ -1246,8 +1518,8 @@
   </div>
   </li>
 
-  <li><a id="orge5f75a6"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orge5f75a6">
+  <li><a id="orgad6da8f"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgad6da8f">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -1471,8 +1743,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org0cf5e58"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org0cf5e58">
+  <li><a id="org78b7901"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org78b7901">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -1717,8 +1989,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org7bfcc75"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7bfcc75">
+  <li><a id="org67d4bec"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org67d4bec">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -2089,8 +2361,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgee62c61"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgee62c61">
+  <li><a id="org7ea4c59"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org7ea4c59">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -2245,8 +2517,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org14411e7"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org14411e7">
+  <li><a id="orgdd20719"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgdd20719">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -2967,8 +3239,8 @@
   </div>
   </li>
 
-  <li><a id="orgf05e54f"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgf05e54f">
+  <li><a id="orgdefa48e"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgdefa48e">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -3079,8 +3351,8 @@
   </div>
   </li>
 
-  <li><a id="org5a9a5ee"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org5a9a5ee">
+  <li><a id="orgc79a345"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgc79a345">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/20195.html">dreamwidth post</a></i>.
   </p>
@@ -3393,8 +3665,8 @@
   </div>
   </li>
 
-  <li><a id="org32b2171"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org32b2171">
+  <li><a id="org8f00441"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org8f00441">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -3570,8 +3842,8 @@
   </div>
   </li>
 
-  <li><a id="org81ad32b"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org81ad32b">
+  <li><a id="org1938e0d"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org1938e0d">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/19593.html">dreamwidth post</a></i>.
   </p>
@@ -3623,8 +3895,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgb68e2b9"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgb68e2b9">
+  <li><a id="orga9b7550"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orga9b7550">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/19302.html">dreamwidth post</a></i>.
   </p>
@@ -3670,8 +3942,8 @@
   </blockquote>
 
   <ul class="org-ul">
-  <li><a id="org7519f30"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7519f30">
+  <li><a id="orgb809c51"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgb809c51">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/18997.html">dreamwidth post</a></i>.
   </p>
@@ -3767,8 +4039,8 @@
   </div>
   </li>
 
-  <li><a id="orgb239e08"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgb239e08">
+  <li><a id="orgfaa532f"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgfaa532f">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/18717.html">dreamwidth post</a></i>.
   </p>
@@ -3824,8 +4096,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org933a362"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org933a362">
+  <li><a id="orgf333f36"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgf333f36">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/18657.html">dreamwidth post</a></i>.
   </p>
@@ -3948,8 +4220,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgdb3b443"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgdb3b443">
+  <li><a id="org3004315"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org3004315">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/17945.html">dreamwidth post</a></i>.
   </p>
@@ -4306,8 +4578,8 @@
   </div>
   </li>
 
-  <li><a id="org9624e37"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org9624e37">
+  <li><a id="orgfcc9fcf"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgfcc9fcf">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/17895.html">dreamwidth post</a></i>.
   </p>
@@ -4439,8 +4711,8 @@
   </div>
   </li>
 
-  <li><a id="orgdfb6730"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgdfb6730">
+  <li><a id="org473e6bf"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org473e6bf">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/17648.html">dreamwidth post</a></i>.
   </p>
@@ -4476,8 +4748,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org8ba93f3"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org8ba93f3">
+  <li><a id="org70f346f"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org70f346f">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a> - <b>You Are Here</b></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -4712,8 +4984,8 @@
   </div>
   </li>
 
-  <li><a id="org64e2b79"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org64e2b79">
+  <li><a id="org5e3125b"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org5e3125b">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16911.html">dreamwidth post</a></i>.
   </p>
@@ -4741,8 +5013,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgcf5bf05"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgcf5bf05">
+  <li><a id="org0d31c1a"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org0d31c1a">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -4871,8 +5143,8 @@
   </li>
 
 
-  <li><a id="orga45c08c"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orga45c08c">
+  <li><a id="org995e88e"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org995e88e">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16668.html">dreamwidth post</a></i>.
   </p>
@@ -5056,8 +5328,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org7938601"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7938601">
+  <li><a id="orgab5b7c3"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgab5b7c3">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16407.html">dreamwidth post</a></i>.
   </p>
@@ -5085,8 +5357,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org6f9144b"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org6f9144b">
+  <li><a id="org267daf6"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org267daf6">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -5157,8 +5429,8 @@
   </div>
   </li>
 
-  <li><a id="org8d48703"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org8d48703">
+  <li><a id="org211db41"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org211db41">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16274.html">dreamwidth post</a></i>.
   </p>
@@ -5226,8 +5498,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org2244ef6"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org2244ef6">
+  <li><a id="org7f13c3c"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org7f13c3c">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/16049.html">dreamwidth post</a></i>.
   </p>
@@ -5311,8 +5583,8 @@
   </div>
   </li>
 
-  <li><a id="org444962d"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org444962d">
+  <li><a id="orgfc73b74"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgfc73b74">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15741.html">dreamwidth post</a></i>.
   </p>
@@ -5340,8 +5612,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org060449b"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org060449b">
+  <li><a id="org40354d3"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org40354d3">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -5396,8 +5668,8 @@
   </div>
   </li>
 
-  <li><a id="org23e3e46"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org23e3e46">
+  <li><a id="org6a01ed1"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org6a01ed1">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15378.html">dreamwidth post</a></i>.
   </p>
@@ -5425,8 +5697,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org3b9a788"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org3b9a788">
+  <li><a id="orgd16a579"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgd16a579">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_2_creation_cosmos_and_the_ruling_powers">The Seed of Yggdrasill 2 - Creation, Cosmos, and the Ruling Powers</a></li>
@@ -5468,8 +5740,8 @@
   </div>
   </li>
 
-  <li><a id="org72d07c0"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org72d07c0">
+  <li><a id="org688387c"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org688387c">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/15288.html">dreamwidth post</a></i>.
   </p>
@@ -5497,8 +5769,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org25cbe60"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org25cbe60">
+  <li><a id="orgd369b6d"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgd369b6d">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -5545,8 +5817,8 @@
   </div>
   </li>
 
-  <li><a id="org4f97668"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org4f97668">
+  <li><a id="org5866688"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org5866688">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14905.html">dreamwidth post</a>.</i>
   </p>
@@ -5570,8 +5842,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgc1df0f0"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgc1df0f0">
+  <li><a id="org4eb2741"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org4eb2741">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -5674,8 +5946,8 @@
   </div>
   </li>
 
-  <li><a id="orged9e85d"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orged9e85d">
+  <li><a id="orgd337f38"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgd337f38">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14716.html">dreamwidth post</a>.</i>
   </p>
@@ -5755,8 +6027,8 @@
   </div>
   </li>
 
-  <li><a id="orgdf6c603"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgdf6c603">
+  <li><a id="org538ed4a"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org538ed4a">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14562.html">dreamwidth post</a>.</i>
   </p>
@@ -5916,8 +6188,8 @@
   </ul>
   </li>
 
-  <li><a id="org7024275"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7024275">
+  <li><a id="orga8493c1"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orga8493c1">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/14146.html">dreamwidth post</a>.</i>
   </p>
@@ -5941,8 +6213,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org60e3e4d"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org60e3e4d">
+  <li><a id="org7c9732b"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org7c9732b">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -5997,8 +6269,8 @@
   </div>
   </li>
 
-  <li><a id="org3f4525c"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org3f4525c">
+  <li><a id="orgbe0e922"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgbe0e922">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13742.html">dreamwidth post</a>.</i>
   </p>
@@ -6022,8 +6294,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org96aeae9"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org96aeae9">
+  <li><a id="orge0b1bf2"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orge0b1bf2">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -6178,8 +6450,8 @@
   </div>
   </li>
 
-  <li><a id="orgd10baf1"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgd10baf1">
+  <li><a id="orgd65044a"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgd65044a">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13462.html">dreamwidth post</a>.</i>
   </p>
@@ -6231,8 +6503,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org476697b"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org476697b">
+  <li><a id="orgb3ec9e7"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgb3ec9e7">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/13241.html">dreamwidth post</a>.</i>
   </p>
@@ -6300,8 +6572,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgcdb42e4"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgcdb42e4">
+  <li><a id="org7da9341"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org7da9341">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12951.html">dreamwidth post</a>.</i>
   </p>
@@ -6325,8 +6597,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org6a1c092"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org6a1c092">
+  <li><a id="org8a9fd42"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org8a9fd42">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -6453,8 +6725,8 @@
   </div>
   </li>
 
-  <li><a id="orge6bd8f9"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orge6bd8f9">
+  <li><a id="orgfb6bcae"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgfb6bcae">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12612.html">dreamwidth post</a>.</i>
   </p>
@@ -6522,8 +6794,8 @@
   </div>
   </li>
 
-  <li><a id="org3827829"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org3827829">
+  <li><a id="org3257e87"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org3257e87">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12323.html">dreamwidth post</a>.</i>
   </p>
@@ -6547,8 +6819,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgf61a14c"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-orgf61a14c">
+  <li><a id="orgc97a204"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgc97a204">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -6643,8 +6915,8 @@
   </div>
   </li>
 
-  <li><a id="org8c0b1b8"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org8c0b1b8">
+  <li><a id="org98edf47"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org98edf47">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/12162.html">dreamwidth post</a>.</i>
   </p>
@@ -6696,8 +6968,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orge045987"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orge045987">
+  <li><a id="org9d7aa8b"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org9d7aa8b">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11815.html">dreamwidth post</a>.</i>
   </p>
@@ -6748,8 +7020,8 @@
   </div>
   </li>
 
-  <li><a id="orgb1f2c6b"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgb1f2c6b">
+  <li><a id="orgaaa03ab"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgaaa03ab">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11677.html">dreamwidth post</a>.</i>
   </p>
@@ -6773,8 +7045,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org601aba1"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org601aba1">
+  <li><a id="orgd92339e"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-orgd92339e">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a></li>
@@ -6914,16 +7186,16 @@
   </div>
   </li>
 
-  <li><a id="orga9dba9f"></a>Closing<br />
-  <div class="outline-text-3" id="text-orga9dba9f">
+  <li><a id="org147eba2"></a>Closing<br />
+  <div class="outline-text-3" id="text-org147eba2">
   <p>
   So, whoo, here we are. The next chapter is, as I said, mercifully shorter, and focuses on "The Maiden with the Mead," the subject of Kvilhaug's master's thesis, but apparently new work on the same topic here. So, expect lots more on feminine spiritual Beings and/or bits of the soul, magic drinks, and initiation. As always, I welcome any thoughts, recommendations, or corrections.
   </p>
   </div>
   </li>
 
-  <li><a id="org8223557"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org8223557">
+  <li><a id="org428f034"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org428f034">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11306.html">dreamwidth post</a>.</i>
   </p>
@@ -6987,8 +7259,8 @@
   </div>
   </li>
 
-  <li><a id="org9f2e9a7"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org9f2e9a7">
+  <li><a id="orgf6332d1"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgf6332d1">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/11228.html">dreamwidth post</a>.</i>
   </p>
@@ -7175,16 +7447,16 @@
   </div>
   </li>
 
-  <li><a id="org9acaf5b"></a>Closing<br />
-  <div class="outline-text-3" id="text-org9acaf5b">
+  <li><a id="org1eba3f7"></a>Closing<br />
+  <div class="outline-text-3" id="text-org1eba3f7">
   <p>
   Whether you find these prayers helpful for your own spiritual work, as always, I welcome any and all feedback!
   </p>
   </div>
   </li>
 
-  <li><a id="org7fb4767"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org7fb4767">
+  <li><a id="orgc880070"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgc880070">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10887.html">dreamwidth post</a>.</i>
   </p>
@@ -7449,8 +7721,8 @@
   </div>
   </li>
 
-  <li><a id="orgcced93e"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgcced93e">
+  <li><a id="org0ecb4d5"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org0ecb4d5">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to
   send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your
@@ -7476,8 +7748,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org70f346f"></a>Posts about Seed of Yggdrasill<br />
-  <div class="outline-text-3" id="text-org70f346f">
+  <li><a id="org9cabcc2"></a>Posts about Seed of Yggdrasill<br />
+  <div class="outline-text-3" id="text-org9cabcc2">
   <ul class="org-ul">
   <li><a href="#book_the_seed_of_yggdrasill_overall_rundown">The Seed of Yggdrasill - Overall Rundown</a></li>
   <li><a href="#book_the_seed_of_yggdrasill_1_introduction_and_the_books_of_old">The Seed of Yggdrasill 1 - Introduction and the Books of Old</a> - <b>You Are Here</b></li>
@@ -7563,8 +7835,8 @@
   </div>
   </li>
 
-  <li><a id="org6e607b0"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-org6e607b0">
+  <li><a id="org60c1b9f"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-org60c1b9f">
   <p>
   First, a handful of thoughts on the physical book. I have the 2020 edition,
   which is the one currently available, but it was first printed in 2012 as a
@@ -7765,16 +8037,16 @@
   </ul>
   </li>
 
-  <li><a id="org147eba2"></a>Closing<br />
-  <div class="outline-text-3" id="text-org147eba2">
+  <li><a id="org7350f92"></a>Closing<br />
+  <div class="outline-text-3" id="text-org7350f92">
   <p>
   Altogether, this book has a <i>lot</i> to recommend it, but it takes a certain amount of energy to grapple with in anything but the most casual way. I sincerely wish Kvilhaug had some kind of partner of the organizational, attention-to-detail variety who shared her passion for these myths. Then we could have things like a list of all of the major Gods, Goddesses, and steads with their names translated, to be used as a reference when reading. We could have chapters and sections that can be looked up as needed, rather than having to be sifted out of the entire 600-page web. We could have lists of the formulas she's identified with pointers to what myths you can find them in. Such glorious possibilities! Alas, for now, I'll have to settle for making my own sense of what she has to offer and sharing what I find with you.
   </p>
   </div>
   </li>
 
-  <li><a id="org51a5b2b"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org51a5b2b">
+  <li><a id="org6797045"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org6797045">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10405.html">dreamwidth post</a>.</i>
   </p>
@@ -7965,8 +8237,8 @@
   </div>
   </li>
 
-  <li><a id="orge55a2eb"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orge55a2eb">
+  <li><a id="orgbb4b8be"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgbb4b8be">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/10116.html">dreamwidth post</a>.</i>
   </p>
@@ -8228,8 +8500,8 @@
   </div>
   </li>
 
-  <li><a id="org8317ada"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org8317ada">
+  <li><a id="org157901a"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org157901a">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9809.html">dreamwidth post</a>.</i>
   </p>
@@ -8341,8 +8613,8 @@
   </div>
   </li>
 
-  <li><a id="orgb9a3c95"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-orgb9a3c95">
+  <li><a id="orge7eb144"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orge7eb144">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9590.html">dreamwidth post</a>.</i>
   </p>
@@ -8578,8 +8850,8 @@
   </div>
   </li>
 
-  <li><a id="org30f5d09"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org30f5d09">
+  <li><a id="org76f4eb8"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-org76f4eb8">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/9076.html">dreamwidth post</a>.</i>
   </p>
@@ -8745,8 +9017,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org94b5f6e"></a>Post Footer<br />
-  <div class="outline-text-3" id="text-org94b5f6e">
+  <li><a id="orgd4fb29a"></a>Post Footer<br />
+  <div class="outline-text-3" id="text-orgd4fb29a">
   <p>
   <i>Did this post spark any thoughts? Have anything to ask or share? Feel free to send me an email at jeff DOT powell DOT russell AT gmail.com, and I'll add your thoughts below. You can also comment on the <a href="https://jprussell.dreamwidth.org/8865.html">dreamwidth post</a>.</i>
   </p>
@@ -9615,8 +9887,8 @@
   </div>
   </li>
 
-  <li><a id="org60c1b9f"></a>The Book Itself<br />
-  <div class="outline-text-3" id="text-org60c1b9f">
+  <li><a id="org336e495"></a>The Book Itself<br />
+  <div class="outline-text-3" id="text-org336e495">
   <p>
   This is not usually something I would talk about when going over a book, but
   here I think it's warranted, both good and bad. First off, the good stuff:
@@ -9713,8 +9985,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org45a84d9"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org45a84d9">
+  <li><a id="org3b43274"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org3b43274">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -9815,8 +10087,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org0a1be5a"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org0a1be5a">
+  <li><a id="org55882e2"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org55882e2">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -9967,8 +10239,8 @@
   </div>
   </li>
 
-  <li><a id="org6a7533a"></a>Wrapping Up<br />
-  <div class="outline-text-3" id="text-org6a7533a">
+  <li><a id="org7e6a787"></a>Wrapping Up<br />
+  <div class="outline-text-3" id="text-org7e6a787">
   <p>
   As I said at the top, right now, I'm thinking one more post on some of the
   grabby thoughts from the books that didn't <i>quite</i> have enough meat on the bone
@@ -10002,8 +10274,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org9077741"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org9077741">
+  <li><a id="org186bd3f"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org186bd3f">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -10246,8 +10518,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgb68963b"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-orgb68963b">
+  <li><a id="orgfc01731"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orgfc01731">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -10470,8 +10742,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orgc171412"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-orgc171412">
+  <li><a id="org8c0f3c8"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-org8c0f3c8">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a></li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a> &#x2013; You are Here</li>
@@ -10642,8 +10914,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org3b43274"></a>Posts on Spengler's <i>Decline of the West</i><br />
-  <div class="outline-text-3" id="text-org3b43274">
+  <li><a id="orga50f6b1"></a>Posts on Spengler's <i>Decline of the West</i><br />
+  <div class="outline-text-3" id="text-orga50f6b1">
   <ul class="org-ul">
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_1">Understanding Spengler's Decline of the West, Bit 1: Morphology</a> &#x2013; You are Here</li>
   <li><a href="#understanding_spengler_s_decline_of_the_west_bit_2_culture_as_organism">Understanding Spengler's Decline of the West, Bit 2: Culture as Organism</a></li>
@@ -11570,8 +11842,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="org4ec3b8a"></a>Way 1<br />
-  <div class="outline-text-3" id="text-org4ec3b8a">
+  <li><a id="orge9abeb9"></a>Way 1<br />
+  <div class="outline-text-3" id="text-orge9abeb9">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -11590,8 +11862,8 @@
   </div>
   </li>
 
-  <li><a id="orgd426b54"></a>Way 2<br />
-  <div class="outline-text-3" id="text-orgd426b54">
+  <li><a id="orgf7b3715"></a>Way 2<br />
+  <div class="outline-text-3" id="text-orgf7b3715">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -11610,8 +11882,8 @@
   </div>
   </li>
 
-  <li><a id="org5087437"></a>Way 3<br />
-  <div class="outline-text-3" id="text-org5087437">
+  <li><a id="org7a558a5"></a>Way 3<br />
+  <div class="outline-text-3" id="text-org7a558a5">
   <blockquote>
   <p>
   Hail Idun,<br />
@@ -11991,8 +12263,8 @@
   </p>
 
   <ul class="org-ul">
-  <li><a id="orge9abeb9"></a>Way 1<br />
-  <div class="outline-text-3" id="text-orge9abeb9">
+  <li><a id="org6930c6f"></a>Way 1<br />
+  <div class="outline-text-3" id="text-org6930c6f">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -12010,8 +12282,8 @@
   </div>
   </li>
 
-  <li><a id="orgf7b3715"></a>Way 2<br />
-  <div class="outline-text-3" id="text-orgf7b3715">
+  <li><a id="org0bc464c"></a>Way 2<br />
+  <div class="outline-text-3" id="text-org0bc464c">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -12029,8 +12301,8 @@
   </div>
   </li>
 
-  <li><a id="org7a558a5"></a>Way 3<br />
-  <div class="outline-text-3" id="text-org7a558a5">
+  <li><a id="org81f97be"></a>Way 3<br />
+  <div class="outline-text-3" id="text-org81f97be">
   <blockquote>
   <p>
   Hail Idun,<br>
@@ -12533,8 +12805,8 @@
   </div>
   </li>
 
-  <li><a id="orge136d16"></a>The Poetic Edda<br />
-  <div class="outline-text-4" id="text-orge136d16">
+  <li><a id="org9d8d744"></a>The Poetic Edda<br />
+  <div class="outline-text-4" id="text-org9d8d744">
   <p>
   <b>By</b>: Many writers<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -13315,8 +13587,8 @@
   </div>
   </li>
 
-  <li><a id="orgdd57d80"></a>Shamanism<br />
-  <div class="outline-text-5" id="text-orgdd57d80">
+  <li><a id="org51f86c3"></a>Shamanism<br />
+  <div class="outline-text-5" id="text-org51f86c3">
   <p>
   <b>By</b>: Mircea Eliade<br />
   <b>Have I Read It?</b>: About halfway.<br />
@@ -13727,8 +13999,8 @@
   </div>
   </li>
 
-  <li><a id="org46eb988"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-org46eb988">
+  <li><a id="org79482b9"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-org79482b9">
   <p>
   <b>By</b>: Dr. Stephen Flowers, PhD.<br />
   <b>Have I Read It?</b>: Yes<br />
@@ -13738,8 +14010,8 @@
   </li>
 
 
-  <li><a id="org79482b9"></a>The Rune Poems<br />
-  <div class="outline-text-5" id="text-org79482b9">
+  <li><a id="orgff38948"></a>The Rune Poems<br />
+  <div class="outline-text-5" id="text-orgff38948">
   <p>
   <b>By</b>: P.D. Brown and Michael Moynihan (eds)<br />
   <b>Have I Read It?</b>: Some<br />
@@ -13935,8 +14207,8 @@
   </ul>
   </li>
 
-  <li><a id="org51f86c3"></a>Shamanism<br />
-  <div class="outline-text-4" id="text-org51f86c3">
+  <li><a id="orgdf889b1"></a>Shamanism<br />
+  <div class="outline-text-4" id="text-orgdf889b1">
   <p>
   As I said above, "shamanism" is a word that gets used for many unalike things, but the ways of the folks who live about the North pole gave us the name, and I think it likely those ways left some mark on the ways of the Norse at least, and maybe the wider Germanish world. The books below are all by Raven Kaldera and/or Galina Krasskova, and they have a way of looking at things that is rather unlike other folks, so take with as much salt as seems right to you.
   </p>
@@ -15692,8 +15964,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org33960ff"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org33960ff">
+  <li><a id="org5153c19"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org5153c19">
   <p>
   The Story Grid by Shawn Coyne
   </p>
@@ -15730,8 +16002,8 @@
   </ul>
   </li>
 
-  <li><a id="orgb8b4467"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgb8b4467">
+  <li><a id="org22f1d60"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org22f1d60">
   </div>
 
   <ul class="org-ul">
@@ -15784,8 +16056,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="orgb40a503"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-orgb40a503">
+  <li><a id="org07ba824"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org07ba824">
   </div>
 
   <ul class="org-ul">
@@ -15831,8 +16103,8 @@
   </ul>
   </li>
 
-  <li><a id="orgdf8cef0"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgdf8cef0">
+  <li><a id="orge6b0da7"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orge6b0da7">
   </div>
 
   <ul class="org-ul">
@@ -15869,8 +16141,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org07f28fe"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org07f28fe">
+  <li><a id="org9198704"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org9198704">
   </div>
 
   <ul class="org-ul">
@@ -15916,8 +16188,8 @@
   </ul>
   </li>
 
-  <li><a id="org6ce6e97"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org6ce6e97">
+  <li><a id="orgcb8af0b"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgcb8af0b">
   </div>
 
   <ul class="org-ul">
@@ -15962,8 +16234,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org07cdc6d"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org07cdc6d">
+  <li><a id="orgad21f3c"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orgad21f3c">
   </div>
 
   <ul class="org-ul">
@@ -16001,8 +16273,8 @@
   </ul>
   </li>
 
-  <li><a id="orga6ca074"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orga6ca074">
+  <li><a id="orgab5428f"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgab5428f">
   </div>
 
   <ul class="org-ul">
@@ -16039,8 +16311,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org2edbc74"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org2edbc74">
+  <li><a id="org2d2b3a6"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-org2d2b3a6">
   </div>
 
   <ul class="org-ul">
@@ -16086,8 +16358,8 @@
   </ul>
   </li>
 
-  <li><a id="orgfb88a53"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-orgfb88a53">
+  <li><a id="orgb0bde5e"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-orgb0bde5e">
   </div>
 
   <ul class="org-ul">
@@ -16132,8 +16404,8 @@
   </div>
 
   <ul class="org-ul">
-  <li><a id="org5153c19"></a>How to Do It Yourself<br />
-  <div class="outline-text-4" id="text-org5153c19">
+  <li><a id="orge5b1b07"></a>How to Do It Yourself<br />
+  <div class="outline-text-4" id="text-orge5b1b07">
   </div>
 
   <ul class="org-ul">
@@ -16171,8 +16443,8 @@
   </ul>
   </li>
 
-  <li><a id="org22f1d60"></a>See Others Do It Well<br />
-  <div class="outline-text-4" id="text-org22f1d60">
+  <li><a id="org06a919c"></a>See Others Do It Well<br />
+  <div class="outline-text-4" id="text-org06a919c">
   </div>
 
   <ul class="org-ul">
@@ -17401,8 +17673,8 @@
   </div>
   </li>
 
-  <li><a id="org9d8d744"></a>The Poetic Edda<br />
-  <div class="outline-text-3" id="text-org9d8d744">
+  <li><a id="orga668c08"></a>The Poetic Edda<br />
+  <div class="outline-text-3" id="text-orga668c08">
   <p>
   <b>By Unknown, but I like the Hollander and Crawford translations</b>
   </p>
